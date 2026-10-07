@@ -21,7 +21,6 @@ from datetime import datetime, timedelta, timezone
 import feedparser
 import requests
 from dateutil import parser as dateparser
-from deep_translator import GoogleTranslator
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 log = logging.getLogger(__name__)
@@ -35,7 +34,7 @@ OUTPUT_DIR = "docs"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "spain_news.json")
 MAX_PER_CATEGORY = 20
 MAX_AGE_DAYS = 7
-MAX_ENTRIES_PER_FEED = 40
+MAX_ENTRIES_PER_FEED = 30
 CATEGORIES = ["Diplomacy", "Military", "Energy", "Economy", "Local Events"]
 HEADERS = {
     "User-Agent": (
@@ -45,9 +44,10 @@ HEADERS = {
     "Accept": "application/rss+xml, application/xml, text/xml, */*",
 }
 
-# national=True  -> domestic/national section; uncategorized stories default to Local Events.
+# national=True  -> domestic/national section; uncategorized stories that name Spain default to Local Events.
 # national=False -> general feed; only kept if it matches a category keyword.
-# All stories must mention Spain or at least not be clearly about another country.
+# strict=True   -> regional feed; story must explicitly mention Spain.
+# All other stories must mention Spain or at least not be clearly about another country.
 FEEDS = [
     {"source": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada", "national": True},
     {"source": "El País", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada", "national": True},
@@ -92,7 +92,16 @@ FOREIGN_TERMS = [
     "german", "berlin", "france", "french", "paris", "britain", "british",
     "london", "venezuela", "brazil", "argentina", "mexico", "canada",
     "australia", "pakistan", "syria", "lebanon", "turkey", "egypt",
-    "saudi", "qatar", "taiwan",
+    "saudi", "qatar", "taiwan", "spain", "spanish", "madrid", "italy",
+    "italian", "rome", "poland", "polish", "warsaw", "thailand", "thai",
+    "bangkok", "uae", "emirates", "dubai", "abu dhabi", "chile", "peru",
+    "colombia", "cuba", "greece", "greek", "hungary", "hungarian", "orban",
+    "austria", "switzerland", "netherlands", "dutch", "belgium", "sweden",
+    "norway", "finland", "denmark", "portugal", "nigeria", "south africa",
+    "kenya", "sudan", "yemen", "iraq", "jordan", "kuwait", "bahrain",
+    "oman", "morocco", "algeria", "tunisia", "libya", "cambodia", "myanmar",
+    "vietnam", "malaysia", "indonesia", "philippines", "singapore",
+    "south korea", "seoul", "tokyo", "new york", "afghanistan",
 ]
 FOREIGN_TERMS = [t for t in FOREIGN_TERMS if t not in COUNTRY_TERMS]
 
@@ -105,7 +114,9 @@ EXCLUDE_TERMS = [
     "striker", "coach", "match", "derby", "horoscope", "zodiac", "recipe",
     "celebrity", "actor", "actress", "singer", "concert", "film", "movie",
     "tv series", "netflix", "fashion", "lottery", "lotto", "gossip",
-    "influencer", "reality show", "big brother",
+    "influencer", "reality show", "big brother", "uefa", "fifa", "nba",
+        "atp", "wta", "messi", "sinner", "alcaraz", "nadal", "ronaldo",
+        "real madrid", "fc barcelona", "juventus", "transfer window",
 ]
 
 CATEGORY_KEYWORDS = {
@@ -116,10 +127,10 @@ CATEGORY_KEYWORDS = {
         "multilateral", "summit", "united nations", "un general assembly",
         "security council", "european union", "eu", "european commission",
         "brussels", "asean", "gcc", "arab league", "g7", "g20", "sanctions",
-        "state visit", "official visit", "talks with", "agreement with",
+        "state visit", "official visit", "visits", "talks with", "agreement with",
         "memorandum", "mou", "relations with", "ties with", "cooperation with",
-        "president of", "prime minister of", "met with", "meets",
-        "visa", "migration pact", "mediation", "ceasefire", "peace",
+        "visa", "migration pact", "mediation", "ceasefire", "peace talks",
+        "peace plan", "foreign leaders", "state visit",
         "albares", "latin america", "gibraltar", "morocco",
     ],
     "Military": [
@@ -129,9 +140,9 @@ CATEGORY_KEYWORDS = {
         "drone", "drones", "fighter jet", "f-35", "tank", "tanks",
         "submarine", "warship", "frigate", "nato", "military exercise",
         "drill", "border clash", "artillery", "ammunition", "conscription",
-        "general staff", "commander", "airspace", "air defense",
-        "air defence", "military base", "arms", "war", "attack", "terror",
-        "terrorist", "insurgent", "security forces", "coast guard",
+        "general staff", "airspace", "air defense",
+        "air defence", "military base", "arms deal", "war", "warfare",
+        "terrorism", "terrorist", "insurgent", "security forces", "coast guard",
         "robles", "rota", "navantia", "indra",
     ],
     "Energy": [
@@ -157,6 +168,8 @@ CATEGORY_KEYWORDS = {
         "consumer", "prices", "cost of living", "housing market", "real estate",
         "property", "tourism", "tourists", "startup", "merger", "acquisition",
         "ipo", "profit", "revenue", "credit rating", "imf", "world bank",
+        "ecofin", "excise", "spread", "yields", "stock market", "markets",
+        "euro", "dollar", "gold", "exchange rate", "currency",
         "ibex", "cuerpo", "montero", "ine", "santander", "bbva", "telefónica",
     ],
     "Local Events": [
@@ -209,23 +222,74 @@ def looks_english(text):
     return ascii_letters / len(letters) > 0.97 and False
 
 
-_translator = GoogleTranslator(source="auto", target="en")
+TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
+MAX_CHUNK_CHARS = 1800  # characters of source text per request
+stats = {"requests": 0, "fallbacks": 0, "failures": 0}
 
 
-def translate(text):
-    """Translate to English. Returns the original text if translation fails."""
-    text = (text or "").strip()
-    if not text or looks_english(text):
-        return text
-    for attempt in range(3):
+def _translate_call(text):
+    """One request to Google Translate's free web endpoint (no key), with backoff."""
+    for attempt in range(4):
         try:
-            result = _translator.translate(text[:4500])
-            if result:
-                return result.strip()
+            stats["requests"] += 1
+            resp = requests.post(
+                TRANSLATE_URL,
+                params={"client": "gtx", "sl": "auto", "tl": "en", "dt": "t"},
+                data={"q": text},
+                headers=HEADERS,
+                timeout=30,
+            )
+            if resp.status_code == 200:
+                data = resp.json()
+                return "".join(seg[0] for seg in data[0] if seg and seg[0])
+            log.warning("Translation HTTP %s, retrying", resp.status_code)
         except Exception as exc:
-            log.warning("Translation attempt %d failed: %s", attempt + 1, exc)
-            time.sleep(1.5 * (attempt + 1))
-    return text
+            log.warning("Translation error, retrying: %s", str(exc)[:80])
+        time.sleep(5 * (attempt + 1))
+    stats["failures"] += 1
+    return None
+
+
+def _translate_chunk(lines):
+    """Translate a list of single-line strings in one request (newline-joined).
+    Splits into smaller chunks if the line count comes back different."""
+    if not lines:
+        return []
+    if stats["failures"] >= 5:
+        return lines  # translation service unreachable; keep originals
+    result = _translate_call("\n".join(lines))
+    if result is None:
+        return lines
+    out = [l.strip() for l in result.split("\n")]
+    if len(out) == len(lines):
+        return out
+    if len(lines) == 1:
+        return [result.strip()]
+    stats["fallbacks"] += 1
+    mid = len(lines) // 2
+    return _translate_chunk(lines[:mid]) + _translate_chunk(lines[mid:])
+
+
+def translate_all(texts):
+    """Translate many strings to English using as few requests as possible."""
+    results = list(texts)
+    todo = [(i, t) for i, t in enumerate(texts) if t and not looks_english(t)]
+    chunk, size = [], 0
+    for item in todo + [None]:
+        cost = len(item[1]) + 1 if item else 0
+        if item is None or size + cost > MAX_CHUNK_CHARS:
+            if chunk:
+                translated = _translate_chunk([t for _, t in chunk])
+                for (i, _), tr in zip(chunk, translated):
+                    results[i] = tr or results[i]
+                time.sleep(1)
+            chunk, size = [], 0
+        if item is not None:
+            chunk.append((item[0], item[1][:1400]))
+            size += cost
+    log.info("Translated %d snippets in %d requests (%d chunk splits, %d failed)",
+             len(todo), stats["requests"], stats["fallbacks"], stats["failures"])
+    return results
 
 
 def parse_date(entry):
@@ -246,15 +310,21 @@ def parse_date(entry):
     return None
 
 
+# On a tie, the more specific category wins.
+TIE_BREAK = ["Energy", "Military", "Economy", "Diplomacy", "Local Events"]
+
+
 def classify(text):
     scores = {cat: count_terms(text, kws) for cat, kws in CATEGORY_KEYWORDS.items()}
-    best = max(CATEGORIES, key=lambda c: scores[c])
+    best = max(TIE_BREAK, key=lambda c: scores[c])
     return best if scores[best] > 0 else None
 
 
-def is_about_country(text, national):
+def is_about_country(text, feed):
     if has_term(text, COUNTRY_TERMS):
         return True
+    if feed.get("strict"):
+        return False  # regional/pan-national feed: must name the country
     return not has_term(text, FOREIGN_TERMS)
 
 
@@ -267,57 +337,74 @@ def norm_title(title):
 # ---------------------------------------------------------------------------
 
 def fetch_feed(feed, known_urls, cutoff):
-    source, url, national = feed["source"], feed["url"], feed.get("national", False)
+    """Fetch one feed and return raw (untranslated) recent entries."""
+    source, url = feed["source"], feed["url"]
     try:
         resp = requests.get(url, headers=HEADERS, timeout=25)
         resp.raise_for_status()
         parsed = feedparser.parse(resp.content)
     except Exception as exc:
-        log.warning("FEED FAILED  %-28s %s (%s)", source, url, exc)
+        log.warning("FEED FAILED  %-28s %s (%s)", source, url, str(exc)[:60])
         return []
-
     if not parsed.entries:
         log.warning("FEED EMPTY   %-28s %s", source, url)
         return []
 
-    stories = []
+    raw = []
+    now = datetime.now(timezone.utc)
     for entry in parsed.entries[:MAX_ENTRIES_PER_FEED]:
         link = (entry.get("link") or "").strip()
         if not link or link in known_urls:
             continue
         pub = parse_date(entry)
-        if pub is None or pub < cutoff or pub > datetime.now(timezone.utc) + timedelta(hours=6):
+        if pub is None or pub < cutoff or pub > now + timedelta(hours=6):
             continue
-        title_raw = strip_html(entry.get("title", ""))
-        if not title_raw:
+        title = strip_html(entry.get("title", ""))
+        if not title:
             continue
-        desc_raw = strip_html(entry.get("summary", ""))[:300]
+        known_urls.add(link)
+        raw.append({
+            "feed": feed,
+            "url": link,
+            "pub": pub,
+            "title_raw": title,
+            "desc_raw": strip_html(entry.get("summary", ""))[:160],
+        })
+    log.info("FEED OK      %-28s %3d entries, %3d new & recent  %s",
+             source, len(parsed.entries), len(raw), url)
+    return raw
 
-        title = translate(title_raw)
-        desc = translate(desc_raw) if desc_raw else ""
+
+def build_stories(raw):
+    """Translate raw entries, then filter and categorize them."""
+    texts = []
+    for r in raw:
+        texts.append(r["title_raw"])
+        texts.append(r["desc_raw"])
+    translated = translate_all(texts)
+
+    stories = []
+    for idx, r in enumerate(raw):
+        title, desc = translated[2 * idx], translated[2 * idx + 1]
         text = (title + " " + desc).lower()
-
         if has_term(text, EXCLUDE_TERMS):
             continue
-        if not is_about_country(text, national):
+        if not is_about_country(text, r["feed"]):
             continue
         category = classify(text)
         if category is None:
-            if not national:
+            # Uncategorized domestic stories count as Local Events only if they
+            # clearly name the country, a city/region, or a national figure.
+            if not (r["feed"].get("national") and has_term(text, COUNTRY_TERMS)):
                 continue
             category = "Local Events"
-
         stories.append({
             "title": title,
-            "source": source,
-            "url": link,
-            "published_date": pub.isoformat(),
+            "source": r["feed"]["source"],
+            "url": r["url"],
+            "published_date": r["pub"].isoformat(),
             "category": category,
         })
-        known_urls.add(link)
-
-    log.info("FEED OK      %-28s %3d entries, %3d kept  %s",
-             source, len(parsed.entries), len(stories), url)
     return stories
 
 
@@ -383,10 +470,12 @@ def main():
     known_urls = {s.get("url") for s in existing if s.get("url")}
     log.info("Loaded %d existing stories", len(existing))
 
-    fresh = []
+    raw = []
     for feed in FEEDS:
-        fresh.extend(fetch_feed(feed, known_urls, cutoff))
+        raw.extend(fetch_feed(feed, known_urls, cutoff))
         time.sleep(0.5)
+    log.info("Collected %d new entries; translating ...", len(raw))
+    fresh = build_stories(raw)
     log.info("Found %d new relevant stories", len(fresh))
 
     grouped = merge(existing, fresh, cutoff)
