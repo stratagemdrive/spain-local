@@ -117,6 +117,10 @@ EXCLUDE_TERMS = [
     "influencer", "reality show", "big brother", "uefa", "fifa", "nba",
         "atp", "wta", "messi", "sinner", "alcaraz", "nadal", "ronaldo",
         "real madrid", "fc barcelona", "juventus", "transfer window",
+        "medal", "medalist", "para games", "asian games", "athlete", "athletes",
+        "championship", "tournament", "world record", "racing", "marathon",
+        "planet", "galaxy", "astronomers", "solar system", "nobel prize",
+        "recipe", "skincare", "dating",
 ]
 
 CATEGORY_KEYWORDS = {
@@ -314,8 +318,12 @@ def parse_date(entry):
 TIE_BREAK = ["Energy", "Military", "Economy", "Diplomacy", "Local Events"]
 
 
-def classify(text):
-    scores = {cat: count_terms(text, kws) for cat, kws in CATEGORY_KEYWORDS.items()}
+def classify(title, desc):
+    # Title matches count double: headlines are more reliable than summaries.
+    scores = {
+        cat: 2 * count_terms(title, kws) + count_terms(desc, kws)
+        for cat, kws in CATEGORY_KEYWORDS.items()
+    }
     best = max(TIE_BREAK, key=lambda c: scores[c])
     return best if scores[best] > 0 else None
 
@@ -391,7 +399,9 @@ def build_stories(raw):
             continue
         if not is_about_country(text, r["feed"]):
             continue
-        category = classify(text)
+        if len(title) < 10:
+            continue
+        category = classify(title.lower(), desc.lower())
         if category is None:
             # Uncategorized domestic stories count as Local Events only if they
             # clearly name the country, a city/region, or a national figure.
