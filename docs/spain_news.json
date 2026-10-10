@@ -1,8 +1,43 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-10T01:59:33.404635+00:00",
+  "last_updated": "2026-10-10T16:01:47.413226+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Ireland proposes cutting the EU budget by 8% for 2028-2034",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/10/10/6aca1706468aeb752e8b4597.html",
+      "published_date": "2026-10-10T14:08:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The lawyer Miriam González announces her candidacy for the Congress for Democracy 21, which will only present lists in Madrid and Barcelona",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/abogada-miriam-gonzalez-anuncia-candidatura-congreso-democracia-21-presentara-listas-madrid-barcelona_1_13577548.html",
+      "published_date": "2026-10-10T13:30:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The EU grants Spain a loan of 1,000 million to expand its defensive capabilities",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/companias/2026-10-10/la-ue-concede-a-espana-un-prestamo-de-1000-millones-para-ampliar-sus-capacidades-defensivas.html",
+      "published_date": "2026-10-10T12:43:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Seat is negotiating with Volkswagen to produce the electric Audi Q4 in Barcelona starting in 2032",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/companias/2026-10-10/seat-negocia-con-volkswagen-producir-el-audi-q4-electrico-en-barcelona-a-partir-de-2032.html",
+      "published_date": "2026-10-10T03:15:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain's role in the plundering of Western Sahara and the race for fishmeal",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/internacional/papel-espana-saqueo-sahara-occidental-carrera-harina-pescado_1_13572146.html",
+      "published_date": "2026-10-09T20:40:17+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Mohamed VI warns that he will not accept “pressure, threats or blackmail” from Spain on the eve of Felipe VI's trip",
       "source": "El País",
@@ -25,17 +60,17 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Brussels chooses two more Spanish projects in the strategic ones for the supply of rare minerals to the EU",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/bruselas-elige-dos-proyectos-espanoles-estrategicos-suministro-20261009122214-nt.html",
+      "published_date": "2026-10-09T15:38:33+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Spain confronts Brussels and Flixbus over bus cabotage while 70% of concessions remain expired",
       "source": "ABC",
       "url": "https://www.abc.es/economia/espana-enfrenta-bruselas-flixbus-cabotaje-autobuses-concesiones-20261008133811-nt.html",
       "published_date": "2026-10-09T11:38:11+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brussels chooses two more Spanish projects in the strategic ones for the supply of rare minerals to the EU",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/bruselas-elige-dos-proyectos-espanoles-mas-en-los-estrategicos-para-el-suministro-de-minerales-raros-de-la-ue/",
-      "published_date": "2026-10-09T10:04:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -109,39 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The King defends that when a Member State \"is attacked or threatened, so is the EU as a whole\"",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-rey-defiende-cuando-estado-miembro-atacado-amenazado-tambien-ue-conjunto-20261007180923.html",
-      "published_date": "2026-10-07T16:09:23+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ceasefire in the Cortes to unanimously approve a proposal on thalidomide",
+      "title": "The Community assures that there are activists linked to terrorism in the Sol camp",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261007/11653339/alto-fuego-corts-aprobar-forma-unanime-propuesta-sobre-talidomida.html",
-      "published_date": "2026-10-07T11:30:13+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.lavanguardia.com/politica/20261010/11656043/comunidad-asegura-hay-activistas-vinculados-terrorismo-acampada-sol.html",
+      "published_date": "2026-10-10T15:14:33+00:00",
+      "category": "Military"
     },
     {
-      "title": "The Ibero-American Summit is preparing to receive Delcy Rodríguez in Madrid",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/07/6ac535ca21efa0db268b456e.html",
-      "published_date": "2026-10-07T08:07:36+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sergio Díaz-Granados, president of CAF: “Europe lacks audacity in Latin America”",
+      "title": "The fall of the elusive Andrey Victorovich, the craftsman of the 'Frankenstein weapons'",
       "source": "El País",
-      "url": "https://elpais.com/internacional/2026-10-07/sergio-diaz-granados-presidente-de-caf-a-europa-le-falta-audacia-en-america-latina.html",
-      "published_date": "2026-10-07T03:30:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dana Erlich, de facto ambassador of Israel: \"The wound of October 7 is still present and active in Israeli society\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/dana-erlich-embajadora-facto-israel-herida-7-octubre-todavia-esta-presente-activa-sociedad-israeli_7044738_0.html",
-      "published_date": "2026-10-07T03:00:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://elpais.com/espana/2026-10-10/la-caida-del-esquivo-andrey-victorovich-el-artesano-de-las-armas-frankenstein.html",
+      "published_date": "2026-10-10T03:30:01+00:00",
+      "category": "Military"
     },
     {
       "title": "From anxiety to certainty: go to the Council of State as life insurance for large investments in Defense?",
@@ -155,6 +169,13 @@
       "source": "La Vanguardia",
       "url": "https://www.lavanguardia.com/dinero/20261010/11650376/tokenomics-hilo-mas-delgado-ia.html",
       "published_date": "2026-10-10T00:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The bank declares war on savings against neobanks",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/ahorro/2026/10/10/6ac91c0b468aeb74518b4585.html",
+      "published_date": "2026-10-09T22:58:01+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "David Sánchez appeals his sentence for “violation of rights” and lack of evidence",
+      "title": "Europe has to reduce its gas demand by 7% due to the lowest reserves since 2011",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261008/11654037/david-sanchez-recurre-sentencia-vulneracion-derechos-falta-pruebas.html",
-      "published_date": "2026-10-08T08:54:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eritrean troops enter the Ethiopian region of Tigray and raise fears of open war",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-10-07/tropas-eritreas-se-adentran-en-la-region-etiope-de-tigray-y-elevan-el-temor-a-una-guerra-abierta.html",
-      "published_date": "2026-10-07T20:22:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "An outbreak of scabies forces around twenty students to leave the General Military Academy",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/aragon/2026/10/07/6ac67cacfdddff390c8b45a5.html",
-      "published_date": "2026-10-07T17:28:48+00:00",
-      "category": "Military"
+      "url": "https://www.lavanguardia.com/economia/20261010/11655529/europa-reducir-demanda-gas-7-reservas-mas-bajas-2011.html",
+      "published_date": "2026-10-10T04:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Spanish talent to respond to the boom in electricity demand",
@@ -417,11 +424,123 @@
       "category": "Energy"
     },
     {
-      "title": "The Balearic Islands are close to 30,000 electricity self-consumptions after growing 12.9% this year",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/baleares-roza-los-30-000-autoconsumos-electricos-tras-crecer-un-12-9-este-ano/",
-      "published_date": "2026-10-09T09:12:00+00:00",
-      "category": "Energy"
+      "title": "Going for the money of the rich: a business of 10,000 million in commissions that no bank wants to miss",
+      "source": "El País",
+      "url": "https://elpais.com/economia/negocios/2026-10-10/a-tortas-por-el-dinero-de-los-ricos-un-negocio-de-10000-millones-en-comisiones-que-ningun-banco-se-quiere-perder.html",
+      "published_date": "2026-10-10T15:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "60% of Spanish companies with artificial intelligence are still in the testing phase",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/noticia-60-empresas-espanolas-inteligencia-artificial-sigue-fase-pruebas-20261010174407.html",
+      "published_date": "2026-10-10T15:44:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Trainline ensures that its business saves between 40 and 50 million euros per year for train travelers in Spain",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/trainline-asegura-negocio-ahorra-millones-euros-ano-20261010161513-nt.html",
+      "published_date": "2026-10-10T14:15:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "María Jesús Montero sets the strategy to win the elections: \"The tragedy of Maricarmen has to become a social force\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/maria-jesus-montero-marca-estrategia-ganar-elecciones-20261010145633-nts.html",
+      "published_date": "2026-10-10T14:01:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ireland cuts future EU budget by 8% but maintains cohesion",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261010/11655966/irlanda-recorta-8-futuro-presupuesto-ue-mantiene-cohesion.html",
+      "published_date": "2026-10-10T13:20:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Miriam González (Democracia21) proposes lowering housing taxes for those under 35 years of age",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca2b86468aeb11508b45a4.html",
+      "published_date": "2026-10-10T12:38:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Podemos accuses the system of \"killing\" with evictions: \"Politics has to be on the side of people, not businesses\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/acusa-sistema-matar-desahucios-politica-ponerse-lado-personas-no-negocios_1_13577494.html",
+      "published_date": "2026-10-10T12:37:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Irene Montero attacks the PSOE and asks to fill Congress with \"Robin Hoods\" who take money from the rich for \"working people\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/irene-montero-arremete-contra-psoe-pide-llenar-congreso-robin-hood-que-cojan-dinero-ricos-para-gente-trabajadora_7047439_0.html",
+      "published_date": "2026-10-10T12:03:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Podemos accuses the system of \"killing\" with evictions and precariousness and calls to \"follow the money trail\"",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-podemos-acusa-sistema-matar-desahucios-precariedad-llama-seguir-rastro-dinero-20261010133243.html",
+      "published_date": "2026-10-10T11:32:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Irish presidency moves closer to the frugal and moves away from Spain by proposing a cut in the next EU budget of more than 140 billion",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/10/6aca056ce4d4d85f2e8b459a.html",
+      "published_date": "2026-10-10T09:40:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The presidency of the Council of the EU puts on the table an 8% cut in the next European budget",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/noticia-presidencia-consejo-ue-pone-mesa-recorte-proximo-presupuesto-europeo-20261010112557.html",
+      "published_date": "2026-10-10T09:25:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Patxi López regrets that Junts has casted itself in the 'no' at the end of the legislature: \"It is something to study\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/patxi-lopez-lamenta-que-junts-se-haya-enrocado-no-final-legislatura-es-una-cosa-para-estudiar_7047405_0.html",
+      "published_date": "2026-10-10T09:11:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The frugal are winning: the Irish proposal to negotiate the European budget is based on an 8% cut",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/frugales-ganando-propuesta-irlandesa-negociar-presupuesto-europeo-parte-recorte-8_1_13577038.html",
+      "published_date": "2026-10-10T09:06:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "MAP | The richest and poorest neighborhoods in Spain: check the rent of your street",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-mapa-barrios-mas-ricos-pobres-espana-consulta-renta-calle-20261010085950.html",
+      "published_date": "2026-10-10T06:59:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Culmia will invest 455 million in promotions in Catalonia",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261010/11655534/culmia-invertira-455-millones-promociones-catalunya.html",
+      "published_date": "2026-10-10T04:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Investment in defense has a fleeting impact on the economy and less than other types of public spending",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-10/la-inversion-en-defensa-tiene-un-impacto-fugaz-en-la-economia-y-menor-que-otro-tipo-de-gasto-publico.html",
+      "published_date": "2026-10-10T03:45:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Leaving the sanatorium",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-10/salir-del-sanatorio.html",
+      "published_date": "2026-10-10T03:40:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "What keeps Spaniards up at night? Being able to pay the apartment, achieve an eight-hour job or face an unforeseen event",
@@ -445,262 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Josh Payne, the Australian miner who conquered the AI giants",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/10/6abd608e468aebfe268b459d.html",
-      "published_date": "2026-10-09T22:58:49+00:00",
-      "category": "Economy"
+      "title": "A mother reports to the Mossos the mistreatment of her autistic son at a school in Mollerussa",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/madre-denuncia-ante-mossos-maltrato-hijo-autista-20261010173659-nt.html",
+      "published_date": "2026-10-10T15:37:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Russell Bedford hires EY partner to lead due diligence",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/2026/10/10/6ac91f14468aeb981a8b4589.html",
-      "published_date": "2026-10-09T22:58:42+00:00",
-      "category": "Economy"
+      "title": "The historic '80s Train' will travel from Madrid to Campo de Criptana on October 18",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/historico-tren-viajara-madrid-campo-criptana-octubre-20261010173250-nt.html",
+      "published_date": "2026-10-10T15:32:50+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The market values the magnificent seven at 29.55 billion",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/10/10/6ac95fb4468aeb57208b45a7.html",
-      "published_date": "2026-10-09T22:58:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mortgages increasingly expensive at the rate of the Euribor",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/10/6ac94a97468aebd21c8b4578.html",
-      "published_date": "2026-10-09T22:58:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The values most exposed to electoral advance",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inversion/2026/10/10/6ac91fb0468aebf62b8b45a1.html",
-      "published_date": "2026-10-09T22:57:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The tourism sector loses almost one in every 10 hours of work due to absenteeism in the summer",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/10/6ac8eecce85ece40788b45a3.html",
-      "published_date": "2026-10-09T22:03:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The black week in Spain of the unknown market of people working to feed the AI that moves billions around the world",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/10/6ac8f73fe85ecee9028b45ae.html",
-      "published_date": "2026-10-09T22:02:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "UN Women estimates female representation among CEOs at 5.8%: \"The business structure has been designed by men and for men\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/10/6ac3ab88e85ece3f128b4580.html",
-      "published_date": "2026-10-09T22:02:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Grenergy rises 5.41% on the stock market after closing a financing of 457 million dollars",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/grenergy-sube-en-bolsa-un-5-41-tras-cerrar-una-financiacion-de-457-millones-de-dolares/",
-      "published_date": "2026-10-09T22:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The deficit in housing construction in Spain is growing: 120,000 are started per year but only 80,000 are completed",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/09/6ac91392e85ecee8178b457b.html",
-      "published_date": "2026-10-09T20:40:52+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Hundreds of people mobilize in Barcelona to “end the real estate business”",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261009/11655540/centenares-personas-movilizan-barcelona-acabar-negocio-inmobiliario.html",
-      "published_date": "2026-10-09T18:57:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "José Elías, businessman: \"It is logical that young people avoid rural environments, we offer jobs anchored in the past\"",
+      "title": "The PNV rejects being included in any bloc after 29N, but warns Feijóo that with Vox, \"he won't even inherit\"",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/jose-elias-empresario-es-logico-que-los-jovenes-eviten-entorno-rural-ofrecemos-puestos-trabajo-anclados-pasado_7041551_0.html",
-      "published_date": "2026-10-09T18:18:34+00:00",
-      "category": "Economy"
+      "url": "https://www.20minutos.es/nacional/pnv-rechaza-que-se-le-incluya-ningun-bloque-tras-29n-pero-avisa-feijoo-que-con-vox-ni-heredar_7047483_0.html",
+      "published_date": "2026-10-10T15:31:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "SpaceX drags Telefónica and the rest of the telecos into the stock market",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/10/09/6ac896fe468aebe1418b4599.html",
-      "published_date": "2026-10-09T16:24:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Ibex 35 manages to maintain 19,000 points, but lost 0.27% in the week",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-logra-mantener-19000-puntos-cede-027-semana-20261009180822.html",
-      "published_date": "2026-10-09T16:08:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Competition asks the Government to relax the regulation of data centers due to the risk of investment flight",
+      "title": "From portraits of Franco to a photo dedicated by Juan Carlos I: 689 objects from Meirás up for auction",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/competencia-pide-gobierno-suavice-regulacion-centros-datos-20261009163147-nt.html",
-      "published_date": "2026-10-09T15:40:49+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/galicia/retratos-franco-foto-dedicada-juan-carlos-subasta-20261010171100-nt.html",
+      "published_date": "2026-10-10T15:30:41+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Ibex recovers 19,000 points and reduces the weekly drop to 0.3%",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/09/6ac8811f468aeb820b8b4594.html",
-      "published_date": "2026-10-09T15:40:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Ministry of Defense sells the old Carraclaca barracks (Lorca) to an investment fund for two million euros: \"They are the vultures\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/murcia/2026/10/09/6ac8d655e9cf4ac6398b45c9.html",
-      "published_date": "2026-10-09T15:25:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Supreme Court buries the Sánchez-Morant decree",
+      "title": "Acute: \"There are 50 days left for Spain to remove the mafia from the Government of Spain\"",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/juan-ramon-rallo-supremo-entierra-decreto-sanchezmorant-20261009024635-nt.html",
-      "published_date": "2026-10-10T00:46:35+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/agudo-quedan-dias-espana-saque-mafia-gobierno-20261010171957-nt.html",
+      "published_date": "2026-10-10T15:19:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Chamber of Accounts concludes that the PSOE counselor who advised Begoña Gómez did incompatible work",
+      "title": "Three young people arrested involved in a mass fight with knives in Ponferrada",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/camara-cuentas-concluye-consejero-psoe-asesoro-begona-20261010013030-nts.html",
-      "published_date": "2026-10-09T23:30:31+00:00",
+      "url": "https://www.abc.es/espana/castilla-leon/detenidos-tres-jovenes-implicados-pelea-multitudinaria-armas-20261010112254-nt.html",
+      "published_date": "2026-10-10T15:16:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The spies' threats to Judge Biedma: \"It is going to be painful, very painful for many of you\"",
+      "title": "Rafael Amargo and his partner, arrested for attacking an intruder in their home and biting a police officer",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/amenazas-espias-juez-biedma-abocados-situacion-dramatica-20261009012944-nt.html",
-      "published_date": "2026-10-09T23:30:07+00:00",
+      "url": "https://www.abc.es/espana/madrid/rafael-amargo-pareja-detenidos-agredir-intruso-casa-20261010141924-nt.html",
+      "published_date": "2026-10-10T15:13:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A new letter from the hard core of ETA prisoners criticizes Otegi's \"reformist\" path",
+      "title": "Ayuso demands that the Government withdraw the camp due to suspicion of \"pro-Palestinian terrorists\"",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/pais-vasco/nueva-carta-nucleo-duro-presos-eta-critica-20261011012908-nt.html",
-      "published_date": "2026-10-09T23:29:08+00:00",
+      "url": "https://www.abc.es/espana/madrid/ayuso-exige-gobierno-retire-acampada-ante-sospecha-20261010165828-nt.html",
+      "published_date": "2026-10-10T15:12:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sánchez pressures his partners on the left not to appear in the medium-sized provinces",
+      "title": "Llorca: «With Feijóo we are going to have a president who prioritizes the Valencian Community»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-presiona-izquierda-presente-provincias-medianas-20261010012841-nt.html",
-      "published_date": "2026-10-09T23:29:04+00:00",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/llorca-feijoo-vamos-tener-presidente-priorice-comunitat-20261010170849-nt.html",
+      "published_date": "2026-10-10T15:08:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Otegi achieves the goal it set in 2021 by supporting Sánchez: there are only thirty ETA members left \"without setting foot on the street\"",
+      "title": "Valladolid honors its Local Police, \"guarantor of coexistence and security\"",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/solo-etarras-pisado-calle-siguen-carcel-20261009012852-nt.html",
-      "published_date": "2026-10-09T23:28:53+00:00",
+      "url": "https://www.abc.es/espana/castilla-leon/valladolid-honra-policia-local-garante-convivencia-seguridad-20261010150202-nt.html",
+      "published_date": "2026-10-10T15:02:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Government airs the pardon of the former attorney general as an electoral asset: \"Mobilize our own\"",
+      "title": "Dr. Cariñanos, on the murder of surgeon Alexander Aslani: \"When commissioning someone's death stops seeming unthinkable, the problem is no longer a case\"",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/gobierno-airea-indulto-exfiscal-general-activo-electoral-20261010012550-nt.html",
-      "published_date": "2026-10-09T23:26:23+00:00",
+      "url": "https://www.abc.es/espana/andalucia/malaga/doctor-carinanos-sobre-asesinato-cirujano-alexander-aslani-20261010170232-nts.html",
+      "published_date": "2026-10-10T15:02:32+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Government punishes owners while recognizing that rental profitability has fallen 25% since 2018",
+      "title": "Rafael Amargo arrested for attacking a police officer after a fight with a person who broke into his house",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/cultura/detenidos-rafael-amargo-agredir-policia-pelea-persona-entro-casa_1_13577602.html",
+      "published_date": "2026-10-10T14:57:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pedro Sánchez claims to be \"a dog without a master\" in Dos Hermanas and incites fear of the \"wolves\" of the right",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/gobierno-castiga-propietarios-reconoce-rentabilidad-alquiler-cae-20261010012539-nt.html",
-      "published_date": "2026-10-09T23:25:39+00:00",
+      "url": "https://www.abc.es/espana/andalucia/pedro-sanchez-reivindica-dos-hermanas-perro-amo-20261010141756-nts.html",
+      "published_date": "2026-10-10T14:49:36+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Police warn of the \"hot autumn\" of the campers: \"Social conflict will grow in the campaign\"",
+      "title": "Feijóo commits to being “the president that Spain is waiting for”: “We are going to win and govern”",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/acampados-radicalizan-impulsan-otono-antirrepresivo-ante-inaccion-20261009012519-nt.html",
-      "published_date": "2026-10-09T23:25:20+00:00",
+      "url": "https://www.abc.es/espana/feijoo-compromete-presidente-espana-esperando-vamos-ganar-20261010135221-nt.html",
+      "published_date": "2026-10-10T14:48:32+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Marta Sánchez: «If people ask me to sing my Spanish anthem, I will sing it»",
+      "title": "Lawyer Miriam González launches the Democracia21 party for 29N and proposes lowering taxes on housing for those under 35 years of age",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/abogada-miriam-gonzalez-lanza-partido-democracia21-cara-29n-propone-bajar-impuestos-vivienda-menores-35-anos_7047450_0.html",
+      "published_date": "2026-10-10T14:27:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "IOM advises Boluda Maritime Terminals on the winning bid for the new multipurpose terminal at the port of Barcelona",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/marta-sanchez-gente-pide-cante-himno-espana-20261009012157-nt.html",
-      "published_date": "2026-10-09T23:21:58+00:00",
+      "url": "https://www.abc.es/economia/oim-asesora-boluda-maritime-terminals-oferta-ganadora-20261010160426-nt.html",
+      "published_date": "2026-10-10T14:04:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ayuso goes ahead and announces housing tax reductions: they will mean savings of up to 9,000 euros",
+      "title": "ERC affirms that \"it will raise the price\" to reinstate Pedro Sánchez",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/erc-afirma-que-subira-precio-para-volver-investir-pedro-sanchez_7047461_0.html",
+      "published_date": "2026-10-10T13:23:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cáritas Toledo warns of the increase in social exclusion: \"People have to choose between paying for housing or eating\"",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/ayuso-adelanta-anuncia-rebajas-impuestos-vivienda-supondran-20261010100000-nt.html",
-      "published_date": "2026-10-09T23:04:25+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/caritas-alerta-aumento-exclusion-social-toledo-personas-20261010144409-nt.html",
+      "published_date": "2026-10-10T12:47:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The electric car accelerates in Spain: these are the best sellers",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/motor/2026/10/10/6ac8f2bf468aebf7158b45a1.html",
-      "published_date": "2026-10-09T22:58:50+00:00",
+      "title": "Sánchez promises to \"reinforce\" the housing decree and accuses PP and Vox of launching hoaxes about voting by mail: \"They are afraid of losing\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-promete-reforzar-decreto-vivienda-acusa-pp-vox-lanzar-bulos-voto-correo-miedo-perder_7047444_0.html",
+      "published_date": "2026-10-10T12:34:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Four Seasons, Ritz, Banyan and SLS go after five-star apartments",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado/2026/10/10/6ac7da84468aebd97d8b4578.html",
-      "published_date": "2026-10-09T22:58:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The 'internal war' in the PNV in Vizcaya gives wings to EH Bildu: \"They are going to be the most disputed elections in history\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/pais-vasco/2026/10/10/6ac92929e9cf4a8c1f8b4584.html",
-      "published_date": "2026-10-09T22:02:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Junqueras values that Romeva, his cellmate, is a candidate, if Rufián leaves",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/10/6ac9129ce9cf4a351f8b4571.html",
-      "published_date": "2026-10-09T22:02:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Phoenix obtains an exploitation concession in the Argentine Vaca Muerta formation",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/phoenix-logra-una-concesion-de-explotacion-en-la-formacion-argentina-vaca-muerta/",
-      "published_date": "2026-10-09T22:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The judge unifies in Vox the representation of the popular accusation in the case of the Adamuz accident",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/juez-unifica-vox-representacion-acusacion-popular-accidente-20261009232550-nts.html",
-      "published_date": "2026-10-09T21:25:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "T-Systems celebrates its 25th anniversary with an event in Barcelona",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/tsystems-celebra-aniversario-evento-barcelona-20261009231111-nt.html",
-      "published_date": "2026-10-09T21:11:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A hotel with a lot of history in the Gothic Quarter",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/hotel-historia-barrio-gotico-20261009225819-nt.html",
-      "published_date": "2026-10-09T20:59:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "They investigate the director of Quirón Prevention in the case against González Amador for alleged corruption",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/investigan-director-quiron-prevencion-causa-gonzalez-amador-20261009224339-nt.html",
-      "published_date": "2026-10-09T20:43:40+00:00",
+      "title": "González Durántez presents his candidacy for the 29-N elections with Democracia 21",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261010/11655973/gonzalez-durantez-presenta-candidatura-elecciones-29-n-democracia-21.html",
+      "published_date": "2026-10-10T12:21:51+00:00",
       "category": "Local Events"
     }
   ]
