@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-11T01:25:05.117090+00:00",
+  "last_updated": "2026-10-11T16:32:46.495284+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Robles, en su mensaje a los militares desplegados en el extranjero: «Ceuta y Melilla son españolísimas»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/robles-mantiene-videollamada-militares-desplegados-misiones-internacionales-20261011154905-nt.html",
+      "published_date": "2026-10-11T16:05:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Robles reivindica Ceuta como \"españolísima\" y alaba a los militares destacados allí",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/robles-reivindica-ceuta-como-espanolisima-alaba-los-militares-destacados-alli_7047655_0.html",
+      "published_date": "2026-10-11T15:14:34+00:00",
+      "category": "Military"
+    },
+    {
       "title": "The parricide next door: drugs, extreme sex and serious psychiatric problems",
       "source": "ABC",
       "url": "https://www.abc.es/espana/madrid/parricida-habitacion-lado-drogas-sexo-extremo-graves-20261006020510-nt.html",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Indra and its consortium partners trust that the first 8x8 will be operational this year",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/indra-socios-consorcio-confian-primeros-8x8-operativos-20261005021014-nt.html",
-      "published_date": "2026-10-09T00:10:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Madrid will deploy more than 1,300 troops for Hispanidad and the Pilar festivities",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/madrid-desplegara-1300-efectivos-hispanidad-fiestas-pilar-20261008172310-nt.html",
-      "published_date": "2026-10-08T23:56:16+00:00",
-      "category": "Military"
-    },
-    {
       "title": "«Energy regulation must be removed from political cycles»",
       "source": "ABC",
       "url": "https://www.abc.es/economia/espana-atractiva-venga-inversion-mundial-mercado-energetico-20261011020458-nt.html",
@@ -326,6 +326,13 @@
       "category": "Energy"
     },
     {
+      "title": "La perovskita alcanza una eficiencia récord del 23,5% en un submódulo solar de gran tamaño",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-perovskita-alcanza-una-eficiencia-record-del-23-5-en-un-submodulo-solar-de-gran-tamano/",
+      "published_date": "2026-10-09T22:01:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Clean energy bottleneck in ASEAN shifts from raising capital to creating bankable projects",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/el-cuello-de-botella-de-la-energia-limpia-en-la-asean-pasa-de-captar-capital-a-crear-proyectos-financiables/",
@@ -361,6 +368,13 @@
       "category": "Energy"
     },
     {
+      "title": "La rusa Gazprom crea reservas récord de gas en sus depósitos subterráneos de cara al invierno",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-rusa-gazprom-crea-reservas-record-de-gas-en-sus-depositos-subterraneos-de-cara-al-invierno/",
+      "published_date": "2026-10-09T15:23:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Catalonia asks the Government to approve Red Eléctrica's planning before 29N",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/cataluna-pide-al-gobierno-aprobar-la-planificacion-de-red-electrica-antes-del-29n/",
@@ -372,6 +386,13 @@
       "source": "ABC",
       "url": "https://www.abc.es/economia/productores-aceite-oliva-exigen-gobierno-active-mecanismo-20261009132250-nt.html",
       "published_date": "2026-10-09T14:34:37+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "EEUU lidera las importaciones españolas de gas en septiembre, primer mes sin gas ruso",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/eeuu-lidera-las-importaciones-espanolas-de-gas-en-septiembre-primer-mes-sin-gas-ruso/",
+      "published_date": "2026-10-09T13:27:00+00:00",
       "category": "Energy"
     },
     {
@@ -389,6 +410,13 @@
       "category": "Energy"
     },
     {
+      "title": "Zelenski advierte de daños en la red eléctrica y Rusia lanza nuevos ataques a la energía",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/zelenski-advierte-de-danos-en-la-red-electrica-y-rusia-lanza-nuevos-ataques-a-la-energia/",
+      "published_date": "2026-10-09T12:56:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Sánchez's green government leaves the electrical networks on high alert and recovers nuclear energy",
       "source": "ABC",
       "url": "https://www.abc.es/economia/gobierno-verde-sanchez-recupera-energia-nuclear-deja-20261009021129-nt.html",
@@ -396,32 +424,18 @@
       "category": "Energy"
     },
     {
-      "title": "The Xunta de Galicia authorizes Inditex to build a wind farm in the outer port of La Coruña",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-xunta-de-galicia-autoriza-a-inditex-a-construir-un-parque-eolico-en-el-puerto-exterior-de-la-coruna/",
-      "published_date": "2026-10-09T11:30:00+00:00",
-      "category": "Energy"
+      "title": "Volkswagen exhibe el éxito de sus cuatro eléctricos fabricados en España y aplaza al menos un año la decisión sobre la segunda plataforma en Martorell",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/volkswagen-exhibe-exito-cuatro-electricos-fabricados-espana-20261011175816-nt.html",
+      "published_date": "2026-10-11T15:58:17+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Spain transfers the increase in gas to electricity more quickly and increases its electricity inflation more",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/espana-traslada-mas-rapido-el-alza-del-gas-a-la-luz-y-eleva-mas-su-inflacion-electrica/",
-      "published_date": "2026-10-09T11:21:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Endesa begins works for a new underground medium voltage line in Gran Canaria",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/endesa-inicia-las-obras-para-una-nueva-linea-subterranea-de-media-tension-en-gran-canaria/",
-      "published_date": "2026-10-09T10:54:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Inditex will build a self-consumption wind farm for 21.7 million euros in the port of A Coruña",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/09/6ac8c0cafdddffee5f8b45b4.html",
-      "published_date": "2026-10-09T10:39:25+00:00",
-      "category": "Energy"
+      "title": "La versión de Zapatero sobre las joyas cae en saco roto",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656068/version-zapatero-sobre-joyas-cae-saco-roto.html",
+      "published_date": "2026-10-11T04:00:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Vampire expenses 2026: How to identify and stop payments that empty your account",
@@ -550,157 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "María Jesús Montero sets the strategy to win the elections: \"The tragedy of Maricarmen has to become a social force\"",
+      "title": "Pedro Sánchez promete en el feudo socialista del Bierzo otros cuatro años de «progreso social»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/maria-jesus-montero-marca-estrategia-ganar-elecciones-20261010145633-nts.html",
-      "published_date": "2026-10-10T14:01:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ireland cuts future EU budget by 8% but maintains cohesion",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261010/11655966/irlanda-recorta-8-futuro-presupuesto-ue-mantiene-cohesion.html",
-      "published_date": "2026-10-10T13:20:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The faces of the independence of the United States show their faces in Vista Alegre",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/rostros-independencia-estados-unidos-dan-cara-vista-20261010013805-nt.html",
-      "published_date": "2026-10-11T00:35:46+00:00",
+      "url": "https://www.abc.es/espana/castilla-leon/pedro-sanchez-promete-cuatro-anos-progreso-justicia-20261011144734-nt.html",
+      "published_date": "2026-10-11T16:14:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "This is how the housing market is headed towards its perfect storm",
+      "title": "Besteiro confirma que no será candidato al Congreso y defiende al PSOE como «voto útil»",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/mercado-vivienda-encamina-tormenta-perfecta-20261011020903-nt.html",
-      "published_date": "2026-10-11T00:23:23+00:00",
+      "url": "https://www.abc.es/espana/galicia/besteiro-confirma-candidato-congreso-defiende-psoe-voto-20261011170815-nt.html",
+      "published_date": "2026-10-11T16:11:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Same scenery to shield Sánchez from whistles in the October 12 parade",
+      "title": "Cendón compara a Pedro Sánchez con Tom Cruise: «La leyenda continúa, porque vas a volver a ganar las elecciones»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/escenografia-blindar-sanchez-pitidos-desfile-octubre-20261011020854-nt.html",
-      "published_date": "2026-10-11T00:20:18+00:00",
+      "url": "https://www.abc.es/espana/castilla-leon/cendon-compara-pedro-sanchez-tom-cruise-leyenda-20261011140945-nt.html",
+      "published_date": "2026-10-11T16:09:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Six out of ten Spaniards consider housing as their main concern",
+      "title": "Sánchez pide al Supremo que devuelva el voto a los nacionalizados por la 'ley de nietos'",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/seis-diez-espanoles-situa-vivienda-principal-preocupacion-20261011021324-nt.html",
-      "published_date": "2026-10-11T00:13:46+00:00",
+      "url": "https://www.abc.es/espana/sanchez-pide-supremo-devuelva-voto-nacionalizados-via-20261011132838-nt.html",
+      "published_date": "2026-10-11T16:02:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Almost 70% of Spaniards ask to stop nationalizations via 'grandchildren law'",
+      "title": "«Rojos, no, España»: pintadas en una escultura en memoria de 14 fusilados del franquismo",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/espanoles-pide-frenar-nacionalizaciones-via-ley-nietos-20261011021312-nt.html",
-      "published_date": "2026-10-11T00:13:35+00:00",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/rojos-espana-pintadas-escultura-memoria-fusilados-franquismo-20261011150028-nt.html",
+      "published_date": "2026-10-11T15:49:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two thirds of the country would apply the state of emergency in Ceuta after the invasion",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/dos-tercios-pais-aplicarian-estado-excepcion-ceuta-20261011021213-nt.html",
-      "published_date": "2026-10-11T00:13:05+00:00",
+      "title": "La decisión de Rufián sacude a la izquierda: opción de pacto inédito ERC-Podemos y nuevo giro en Frente Amplio",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-decision-rufian-sacude-izquierda-opcion-pacto-inedito-erc-podemos-nuevo-giro-frente-amplio-20261011174549.html",
+      "published_date": "2026-10-11T15:45:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "60% of society believes that Puigdemont should not be amnestied or return to Spain",
+      "title": "Podemos y ERC, «muy cerca» de un pacto en Cataluña al margen del Frente Amplio",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/sociedad-opina-puigdemont-deberia-amnistiado-volver-espana-20261011021206-nt.html",
-      "published_date": "2026-10-11T00:12:44+00:00",
+      "url": "https://www.abc.es/espana/madrid-propone-emilio-delgado-delante-monica-garcia-20261011140034-nt.html",
+      "published_date": "2026-10-11T15:35:37+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Government discharges a good part of compliance with the Maricarmen decree to the autonomous communities",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/gobierno-descarga-comunidades-autonomas-buena-parte-cumplimiento-20261011021225-nt.html",
-      "published_date": "2026-10-11T00:12:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Santiago Abascal: «The Spaniards must fear the worst. \"They are going to be very complicated and dirty elections.\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/santiago-abascal-espanoles-deben-temerse-peor-van-20261011021159-nt.html",
-      "published_date": "2026-10-11T00:12:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The teachers who have helped 10,000 students study better: \"When a politician understands that you have to memorize, education will improve\"",
+      "title": "Cientos de pasajeros varados por Plus Ultra en la ruta Madrid-Buenos Aires: \"Posible estafa premeditada\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/11/6ac9352bfdddffe6038b458e.html",
-      "published_date": "2026-10-11T00:06:24+00:00",
+      "url": "https://www.elmundo.es/economia/2026/10/11/6acba69221efa0c0698b4579.html",
+      "published_date": "2026-10-11T15:15:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Live the rutting for a day in 'its capital' Monfragüe",
+      "title": "El PP de Cuenca respalda a Feijóo en el inicio de la precampaña electoral: «Es una etapa ilusionante»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/extremadura/vivir-dia-berrea-capital-monfrague-20261009020338-nt.html",
-      "published_date": "2026-10-11T00:03:38+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-cuenca-respalda-feijoo-precampana-electoral-inicio-20261011165316-nt.html",
+      "published_date": "2026-10-11T14:55:29+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Immortality is served at the bar",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/inmortalidad-sirve-barra-20261010020151-nt.html",
-      "published_date": "2026-10-11T00:01:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A kaleidoscope called Cayetana returns to Liria",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/caleidoscopio-llamado-cayetana-regresa-liria-20261007013741-nt.html",
-      "published_date": "2026-10-10T23:37:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PSOE provides buses to fill Pedro Sánchez's first rally in his historic fiefdom of Dos Hermanas",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/psoe-necesita-poner-autobuses-llenar-primer-mitin-20261011012428-nts.html",
-      "published_date": "2026-10-10T23:24:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The microscopic revolution of versatile nanocellulose begins to become visible",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/microscopica-revolucion-versatil-nanocelulosa-comienza-hacerse-visible-20261011012237-nt.html",
-      "published_date": "2026-10-10T23:22:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez's critics are on alert regarding his \"red\" campaign: \"He seeks to stay in Ferraz with a decent result\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/11/6aca5993e4d4d8704b8b456f.html",
-      "published_date": "2026-10-10T22:09:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who killed fixed income?",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/11/6ac675e6e85ecec0768b458f.html",
-      "published_date": "2026-10-10T22:07:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Legislate in stoppage time and against Congress",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/legislar-tiempo-descuento-congreso-20261011000200-nt.html",
-      "published_date": "2026-10-10T22:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Aemps activates a health alert and withdraws a well-known supplement similar to Viagra",
+      "title": "ERC y Podem ultiman un acuerdo para concurrir juntos en Cataluña a las generales",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/aemps-activa-alerta-sanitaria-retira-conocido-suplemento-similar-viagra_7047540_0.html",
-      "published_date": "2026-10-10T21:20:04+00:00",
+      "url": "https://www.20minutos.es/nacional/erc-podem-ultiman-un-acuerdo-para-concurrir-juntos-cataluna-las-generales_7047645_0.html",
+      "published_date": "2026-10-11T14:25:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "general strike",
+      "title": "Qué está abierto en Valencia durante el festivo del 12 de octubre",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/abierto-valencia-festivo-octubre-20261011160838-nt.html",
+      "published_date": "2026-10-11T14:08:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Quién es Miriam González, candidata de Democracia21 a las elecciones del 29N: abogada y mujer del político Nick Clegg",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/quien-es-miriam-gonzalez-candidata-democracia21-las-elecciones-29n-abogada-mujer-politico-nick-clegg_7047623_0.html",
+      "published_date": "2026-10-11T13:54:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Illa proclama a Jordi Hereu candidato del PSC a las elecciones generales y declara la guerra a Junts",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/lla-proclama-jordi-hereu-candidato-psc-elecciones-20261011120838-nt.html",
+      "published_date": "2026-10-11T13:10:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ester Muñoz plantea una «reconstrucción nacional» de la mano del PP frente al PSOE de «las cloacas y las joyas»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/ester-munoz-plantea-reconstruccion-nacional-mano-pp-20261011145542-nt.html",
+      "published_date": "2026-10-11T12:57:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Denuncian que una empresa de Lucena paga a siete nuevos empleados mientras adeuda las nóminas de sus trabajadores",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/denuncian-empresa-lucena-paga-siete-nuevos-empleados-20261011145618-nts.html",
+      "published_date": "2026-10-11T12:56:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rufián encabezará la candidatura de ERC por Barcelona para las elecciones del 29N",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/rufian-encabezara-candidatura-erc-elecciones-29n-20261011121241-nt.html",
+      "published_date": "2026-10-11T12:48:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez pide al Supremo frenar el \"intento de atropello\" de PP y Vox contra la ley de nietos",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/11/6acb7fce468aebd21c8b45a2.html",
+      "published_date": "2026-10-11T12:35:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Más Madrid invita a Podemos a unirse a la lista por Madrid liderada por Emilio Delgado",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/mas-madrid-invita-podemos-unirse-lista-por-madrid-liderada-por-emilio-delgado_7047630_0.html",
+      "published_date": "2026-10-11T12:23:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez pide al Supremo que \"frene el intento de atropello de Feijóo y Abascal\" contra la ley de nietos: \"¿Es constitucional?\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-pide-supremo-frene-intento-atropello-feijoo-abascal-garantice-voto-nietos-exilio_7047620_0.html",
+      "published_date": "2026-10-11T12:06:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Más Madrid propone a Emilio Delgado como cabeza de lista del Frente Amplio por Madrid",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261010/11656147/huelga-general.html",
-      "published_date": "2026-10-10T21:11:32+00:00",
+      "url": "https://www.lavanguardia.com/politica/20261011/11656543/mas-madrid-propone-emilio-delgado-cabeza-lista-frente-amplio-madrid.html",
+      "published_date": "2026-10-11T11:57:48+00:00",
       "category": "Local Events"
     }
   ]
