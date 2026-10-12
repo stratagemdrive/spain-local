@@ -1,8 +1,15 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-12T01:55:11.509686+00:00",
+  "last_updated": "2026-10-12T20:08:31.771643+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Burnham viajará a Bruselas para “abrir una discusión sobre la relación a largo plazo” del Reino Unido y la UE",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-10-12/burnham-viajara-a-bruselas-para-abrir-una-discusion-sobre-la-relacion-a-largo-plazo-del-reino-unido-y-la-ue.html",
+      "published_date": "2026-10-12T17:11:12+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Feijóo grows as a future president for 60% of Spaniards and Abascal already ties with Sánchez and Díaz",
       "source": "El Mundo",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Brussels adds two more projects in Spain to promote strategic raw materials in the EU",
+      "title": "El sexto destructor lanzamisiles de EE UU llegará este jueves a la base naval de Rota",
       "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-09/bruselas-anade-dos-proyectos-mas-en-espana-para-impulsar-las-materias-primas-estrategicas-en-la-ue.html",
-      "published_date": "2026-10-09T09:04:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://elpais.com/espana/2026-10-12/el-sexto-destructor-lanzamisiles-de-ee-uu-llegara-este-jueves-a-la-base-naval-de-rota.html",
+      "published_date": "2026-10-12T03:30:01+00:00",
+      "category": "Military"
     },
     {
       "title": "All the keys to the 12-O parade: 34 fighters, the controversial 8x8 Dragon and no military units from Ceuta",
@@ -277,11 +284,32 @@
       "category": "Military"
     },
     {
-      "title": "The fall of the elusive Andrey Victorovich, the craftsman of the 'Frankenstein weapons'",
-      "source": "El País",
-      "url": "https://elpais.com/espana/2026-10-10/la-caida-del-esquivo-andrey-victorovich-el-artesano-de-las-armas-frankenstein.html",
-      "published_date": "2026-10-10T03:30:01+00:00",
-      "category": "Military"
+      "title": "Iberdrola, distinguida con dos premios internacionales por su Informe Integrado Online 2026",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/iberdrola-distinguida-con-dos-premios-internacionales-por-su-informe-integrado-online-2026/",
+      "published_date": "2026-10-12T08:38:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "El 'rey de los piratas' de la luz, a juicio por por defraudar 61 millones a Endesa, Naturgy y Repsol",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-rey-de-los-piratas-de-la-luz-a-juicio-por-por-defraudar-61-millones-a-endesa-naturgy-y-repsol/",
+      "published_date": "2026-10-12T08:21:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Los márgenes de refino vuelven a sorprender al alza en el tercer trimestre",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/los-margenes-de-refino-vuelven-a-sorprender-al-alza-en-el-tercer-trimestre/",
+      "published_date": "2026-10-12T06:18:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Illa aprieta a Moncloa para salvar la red eléctrica y la gigafactoría // Oliu: de Caixa a caja y sigo porque me toca",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261012/11656688/illa-aprieta-moncloa-salvar-red-electrica-gigafactoria-oliu-caixa-caja-sigo-me-toca.html",
+      "published_date": "2026-10-12T04:00:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Santiago Gómez, president of the renewable employers' association: \"The next Government needs high vision, playing politics with energy only makes the bill more expensive\"",
@@ -323,6 +351,13 @@
       "source": "Expansión",
       "url": "https://www.expansion.com/economia/2026/10/11/6acb6fd2468aeb591e8b45a8.html",
       "published_date": "2026-10-11T21:43:37+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "\"Esta es mi casa y no me voy\": la lucha del guardián de una subestación eléctrica de Huelva que vive por 18 céntimos al mes",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/huelva/casa-no-lucha-guardian-subestacion-electrica-huelva-vive-18-centimos-mes_1_13573869.html",
+      "published_date": "2026-10-11T19:11:00+00:00",
       "category": "Energy"
     },
     {
@@ -389,39 +424,74 @@
       "category": "Energy"
     },
     {
-      "title": "Clean energy bottleneck in ASEAN shifts from raising capital to creating bankable projects",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-cuello-de-botella-de-la-energia-limpia-en-la-asean-pasa-de-captar-capital-a-crear-proyectos-financiables/",
-      "published_date": "2026-10-09T22:01:00+00:00",
-      "category": "Energy"
+      "title": "El Frente Amplio responde al órdago de Podemos y Rufián: confirma a Colau como candidata y llama a Montero a sumarse",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frente-amplio-responde-ordago-rufian-confirma-colau-candidata-llama-montero-sumarse_1_13580395.html",
+      "published_date": "2026-10-12T17:56:36+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Leonardo DiCaprio, the 'angel' investor who has turned his fame into capital for clean energy",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/leonardo-dicaprio-el-inversor-angel-que-ha-convertido-su-fama-en-capital-para-la-energia-limpia/",
-      "published_date": "2026-10-09T22:01:00+00:00",
-      "category": "Energy"
+      "title": "ERC y Podemos acuerdan su alianza electoral del 29-N para \"frenar a la extrema derecha\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/12/6accb0cae4d4d88f608b4577.html",
+      "published_date": "2026-10-12T17:13:57+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Brent rises 0.42%, to $104.72, pending the Middle East",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-brent-sube-un-0-42-hasta-104-72-dolares-pendiente-de-oriente-medio/",
-      "published_date": "2026-10-09T22:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Spanish olive oil, the unexpected great beneficiary of the EU-China pact",
+      "title": "El Ibex firma su mayor subida desde julio animado por los bancos",
       "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/distribucion/2026/10/09/6ac927fce5fdea376a8b458c.html",
-      "published_date": "2026-10-09T17:47:50+00:00",
-      "category": "Energy"
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/12/6acc7280468aeb995a8b459f.html",
+      "published_date": "2026-10-12T16:34:15+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iberdrola already has more than 46,000 MW of renewables",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/iberdrola-posee-ya-mas-de-46-000-mw-de-renovables/",
-      "published_date": "2026-10-09T16:32:00+00:00",
-      "category": "Energy"
+      "title": "Los inversores españoles suben su apuesta en Nvidia hasta los 4.500 millones en plena euforia de la IA",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/companias/2026-10-12/los-inversores-espanoles-suben-su-apuesta-en-nvidia-hasta-los-4500-millones-en-plena-euforia-de-la-ia.html",
+      "published_date": "2026-10-12T16:32:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Illa viaja a Bruselas para participar en el Comité de las Regiones y reunirse con Cósta y Ribera",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11657135/illa-viaja-bruselas-participar-comite-regiones-reunirse-costa-ribera.html",
+      "published_date": "2026-10-12T12:39:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Michael Woodford y Robert E. Hall ganan el Nobel de Economía por sus propuestas para suavizar crisis y burbujas",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-12/premio-nobel-de-economia-2026-en-directo-para.html",
+      "published_date": "2026-10-12T12:03:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "España busca su lugar en la revolución industrial de los semiconductores",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/espana-busca-lugar-revolucion-industrial-semiconductores-20261012131241-nt.html",
+      "published_date": "2026-10-12T11:12:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rufián y Montero harán “equipo” en la campaña de las elecciones y ERC incorporará a Podemos en las listas",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/confirma-erc-les-incorporara-listas-rufian-hara-campana-montero_1_13579498.html",
+      "published_date": "2026-10-12T10:13:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El Ibex 35 repunta un 0,7% en la media sesión y rebasa los 19.150 puntos, con el crudo en 105 dólares",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-repunta-07-media-sesion-rebasa-19150-puntos-crudo-105-dolares-20261012121205.html",
+      "published_date": "2026-10-12T10:12:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Carlos Cuerpo: “Buscamos que el ahorro de los españoles tenga alternativas a la inversión en vivienda”",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-12/carlos-cuerpo-buscamos-que-el-ahorro-de-los-espanoles-tenga-alternativas-a-la-inversion-en-vivienda.html",
+      "published_date": "2026-10-12T03:30:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "The best student in Europe pays for it in the supermarket",
@@ -494,213 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "The Ibex champion that rises 420% from 2022 and will continue its rally in the medium term",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inversion/2026/10/11/6ac62275e5fdea9f228b45a6.html",
-      "published_date": "2026-10-11T21:44:45+00:00",
-      "category": "Economy"
+      "title": "Un muerto en un accidente de tráfico en la CO-6301, a la altura de Puente Genil",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/muerto-accidente-trafico-co6301-altura-puente-genil-20261012212617-nts.html",
+      "published_date": "2026-10-12T19:26:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Volkswagen will apply the Spanish industrial model throughout Europe to compete with China",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/motor/2026/10/11/6acb8ccb468aeb61778b4580.html",
-      "published_date": "2026-10-11T21:43:40+00:00",
-      "category": "Economy"
+      "title": "Retrasos de hasta dos horas en los trenes de Alta Velocidad a Andalucía por el incendio de Zaragoza",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/retrasos-dos-horas-trenes-alta-velocidad-andalucia-20261012200950-nts.html",
+      "published_date": "2026-10-12T19:17:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "BBVA squeezes profitability in investment banking",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/11/6a9eaeea468aebfc458b4581.html",
-      "published_date": "2026-10-11T21:43:38+00:00",
-      "category": "Economy"
+      "title": "Más de 4.000 afectados tras interrumpirse la circulación de Alta Velocidad entre Barcelona y Madrid por el incendio de un tren en Zaragoza",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/aragon/interrumpida-circulacion-alta-velocidad-barcelona-madrid-incendio-20261012181516-nt.html",
+      "published_date": "2026-10-12T19:04:37+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Companies put limits on AI due to the explosion of spending",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/tecnologia/2026/10/11/empresas-ponen-topes-ia-explosion-gasto.html",
-      "published_date": "2026-10-11T21:03:44+00:00",
-      "category": "Economy"
+      "title": "Desfile Fuerzas Armadas por el Día de la Fiesta Nacional, en directo: última hora de los actos por el Día de la Hispanidad hoy, 12 de octubre",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/desfile-fuerzas-armadas-dia-fiesta-nacional-directo-20261012094412-di.html",
+      "published_date": "2026-10-12T19:02:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Travel 220 kilometers a day to go to work in a record summer due to the housing crisis: \"They ask you 800 euros for a room, I prefer to carry a survival kit in the car\"",
+      "title": "Los \"momentos complejos\" marcan a Sánchez en un 12-O entre insultos y en un ambiente de fin de ciclo",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/11/6aa7f42bfdddff5c178b4579.html",
-      "published_date": "2026-10-11T20:39:35+00:00",
-      "category": "Economy"
+      "url": "https://www.elmundo.es/espana/2026/10/12/6acd1d1721efa0354d8b4589.html",
+      "published_date": "2026-10-12T18:56:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Xacobea Academy adds John Rutherford and Manuel Valín for the next Holy Year",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/academia-xacobea-suma-john-rutherford-manuel-valin-20261011213000-nt.html",
-      "published_date": "2026-10-11T19:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Volkswagen exhibe el éxito de sus cuatro eléctricos fabricados en España y aplaza al menos un año la decisión sobre la segunda plataforma en Martorell",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/volkswagen-exhibe-exito-cuatro-electricos-fabricados-espana-20261011175816-nt.html",
-      "published_date": "2026-10-11T15:58:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The managers doubt France's room for maneuver in the face of the debt surge and already see risks in their banking",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-gestoras-dudan-margen-maniobra-francia-repunte-deuda-ya-atisban-riesgos-banca-20261011120551.html",
-      "published_date": "2026-10-11T10:05:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "With the sun in our faces: the festive long weekend fills Valencian accommodations on the coast and inland",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261011/11656472/sol-cara-puente-festivo-llena-alojamientos-valencianos-costa-interior.html",
-      "published_date": "2026-10-11T09:34:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The new labor elite: manager salaries for experts without equipment",
+      "title": "Frente Amplio designa a Ada Colau como candidata en las elecciones",
       "source": "Expansión",
-      "url": "https://www.expansion.com/expansion-empleo/profesiones/2026/10/11/6ac931d1e5fdeada6d8b4583.html",
-      "published_date": "2026-10-11T07:45:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "\"If the police corner me, things will end badly\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/neutralizar-pistolero-atrincherado-salvarle-vida-deja-dos-20261012022400-nt.html",
-      "published_date": "2026-10-12T00:24:01+00:00",
+      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/12/6acd290ae5fdeafd1e8b4593.html",
+      "published_date": "2026-10-12T18:40:21+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Government admits \"negative effects on the rental offer\" of its decree but not \"appreciable\", because it could have been more interventionist",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/12/6acb6caefc6c830e5c8b4573.html",
-      "published_date": "2026-10-12T00:15:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Government creates another 500 positions for judges and 200 for prosecutors in the middle of the 29-N pre-campaign",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/12/6acb808de9cf4aa30e8b4583.html",
-      "published_date": "2026-10-12T00:10:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The lament of the 1-O riot police with the return of Puigdemont: \"They leave with a bang after humiliating Spain\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/lamento-antidisturbios-regreso-puigdemont-policias-jubilados-culpa-20261009014534-nt.html",
-      "published_date": "2026-10-11T23:57:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez tries to avoid the collapse of the PSOE due to corruption but it does not get among judges and prosecutors",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/carmen-lucastorres-sanchez-intenta-evitar-implosion-psoe-corrupcion-cuela-20261012014955-nt.html",
-      "published_date": "2026-10-11T23:53:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six out of ten Spaniards believe that PP and Vox will govern in coalition after the elections",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/seis-diez-espanoles-creen-pp-vox-gobernaran-20261012015019-nt.html",
-      "published_date": "2026-10-11T23:50:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electoral advance",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/jose-ramon-iturriaga-adelanto-electoral-20261011014617-nt.html",
-      "published_date": "2026-10-11T23:46:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Squatting on behalf of the taxpayer in Barcelona: \"One day we are all going to do it like this\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/okupacion-cuenta-contribuyente-barcelona-dia-vamos-20261012014607-nt.html",
-      "published_date": "2026-10-11T23:46:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez needs Catalonia to vote in a Spanish way to contain the deterioration of the PSC",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/sanchez-necesita-cataluna-vote-clave-espanola-contener-20261012014559-nt.html",
-      "published_date": "2026-10-11T23:45:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catalonia wants to vote for the right",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/sergi-doria-cataluna-quiere-votar-derechas-20261012014547-nt.html",
-      "published_date": "2026-10-11T23:45:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The arrival of Mexican and Albanian cartels triggers violence between drug traffickers",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/llegada-carteles-mexicanos-albaneses-aumenta-violencia-narcos-20260923014300-nt.html",
-      "published_date": "2026-10-11T23:43:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Screens, the new drug of young people: \"I didn't think I was addicted, but I spent 18 hours hooked\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/pantallas-nueva-droga-jovenes-creia-adicto-pasaba-20261007012936-nt.html",
-      "published_date": "2026-10-11T23:29:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The educational law that the PP kept in the drawer six years ago: an MIR and three Baccalaureate courses",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/12/6acbb839fdddffeb618b4581.html",
-      "published_date": "2026-10-11T22:12:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The microscopic revolution of versatile nanocellulose begins to become visible",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/microscopica-revolucion-versatil-nanocelulosa-comienza-hacerse-visible-20261011012237-nt.html",
-      "published_date": "2026-10-11T22:08:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The high season of sustainability is installed in Spanish hotel design",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/temporada-alta-sostenibilidad-instala-diseno-hotelero-espanol-20261012000300-nt.html",
-      "published_date": "2026-10-11T22:03:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health seeks an urgent vaccine against the voracious virus of cyberattacks",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/sanidad-busca-vacuna-urgente-voraz-virus-ciberataques-20261012000200-nt.html",
-      "published_date": "2026-10-11T22:02:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IESE, ESCP and IE, in the 'top 15' of best MBAs for executives",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/2026/10/11/6ac7dd48e5fdea6f078b4592.html",
-      "published_date": "2026-10-11T21:45:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health withdraws five supplements for erectile dysfunction in just one week",
+      "title": "Miles de viajeros afectados tras suspenderse el AVE Madrid-Barcelona por el incendio de un tren: \"Se está perfilando una alternativa\"",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanidad-retira-solo-una-semana-cinco-complementos-para-disfuncion-erectil_7047705_0.html",
-      "published_date": "2026-10-11T20:45:55+00:00",
+      "url": "https://www.20minutos.es/nacional/miles-viajeros-afectados-tras-suspenderse-ave-madrid-barcelona-por-incendio-un-tren-se-esta-perfilando-una-alternativa_7047865_0.html",
+      "published_date": "2026-10-12T18:30:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The left remains KO after the advance: PSOE and Sumar repeat at minimum levels while Vox achieves a record at the expense of the PP",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/11/6acba028e85ece77088b4580.html",
-      "published_date": "2026-10-11T20:40:58+00:00",
+      "title": "Un pulso de optimismo electoral entre los partidos marca los corrillos del 12-O",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11657271/pulso-optimismo-electoral-partidos-marcan-corrillos-12.html",
+      "published_date": "2026-10-12T18:21:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Abascal begins the pre-campaign of the “last chance” in Estepona: “It is time to stop enduring injustice”",
+      "title": "Sánchez admite que buques marroquíes entraron en aguas de Ceuta mientras miles de inmigrantes cruzaban la frontera",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/abascal-comienzo-precampana-ultima-oportunidad-estepona-momento-20261011195837-nt.html",
-      "published_date": "2026-10-11T19:32:16+00:00",
+      "url": "https://www.abc.es/espana/sanchez-admite-buques-marroquies-entraron-aguas-ceuta-20261012201515-nt.html",
+      "published_date": "2026-10-12T18:18:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Frente Amplio propone a Ada Colau como candidata a la presidencia y deja abierta la integración de Podemos",
+      "source": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-frente-amplio-propone-a-ada-colau-como-candidata-a-la-presidencia-y-deja-abierta-la-integracion-de-podemos.html",
+      "published_date": "2026-10-12T18:15:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frente Amplio confirma a Ada Colau como candidata el 29N y llama a Podemos a sumarse tras su acuerdo con Rufián",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-ada-colau-como-cabeza-lista-las-elecciones-29n_7047873_0.html",
+      "published_date": "2026-10-12T18:10:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El 29-N acapara los corrillos en el Palacio Real: duelo de optimismo entre Sánchez y Feijóo",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/29n-acapara-corrillos-palacio-real-duelo-optimismo-20261012163120-nt.html",
+      "published_date": "2026-10-12T18:09:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Santiago Abascal celebra en Ceuta junto a Bardella el 12 de Octubre",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11657266/santiago-abascal-celebra-ceuta-bardella-12-octubre.html",
+      "published_date": "2026-10-12T18:07:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frente Amplio propone a Colau como candidata al 29N y llama a Podemos a incorporarse pese a su pacto con ERC",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-partidos-frente-amplio-proponen-ada-colau-candidata-29n-20261012200309.html",
+      "published_date": "2026-10-12T18:03:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La izquierda alternativa elige a Colau ante el abismo de la fragmentación",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261012/11657267/frente-amplio-oficializa-apuesta-colau-emplaza-entrar-coalicion.html",
+      "published_date": "2026-10-12T18:02:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La 'burbuja antipitidos' del desfile del 12-O no libra a Sánchez de una lluvia de abucheos e insultos",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/burbuja-antipitidos-desfile-libra-sanchez-lluvia-abucheos-20261012130146-nt.html",
+      "published_date": "2026-10-12T17:51:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El PSOE de Ávila muestra su división a dos días de cerrar las listas electorales",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/psoe-avila-muestra-division-dos-dias-cerrar-20261012193718-nt.html",
+      "published_date": "2026-10-12T17:38:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Podemos y ERC oficializan su alianza para el 29-N y harán campaña juntos",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/podemos-erc-oficializan-alianza-29n-haran-campana-20261012122428-nt.html",
+      "published_date": "2026-10-12T17:36:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Retenciones en las principales entradas a Madrid y tráfico denso en otras comunidades en la vuelta del puente del 12-O",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/retenciones-las-principales-entradas-madrid-vuelta-puente-12_7047855_0.html",
+      "published_date": "2026-10-12T16:29:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interrumpida la Alta Velocidad entre Barcelona y Madrid por el incendio de un tren en Ricla",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/transporte/2026/10/12/6acd0232468aebf72f8b458d.html",
+      "published_date": "2026-10-12T15:52:22+00:00",
       "category": "Local Events"
     }
   ]
