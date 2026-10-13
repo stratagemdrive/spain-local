@@ -1,8 +1,71 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-13T03:20:50.108797+00:00",
+  "last_updated": "2026-10-13T17:52:53.586406+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Don Felipe's entire speech in Ceuta",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/casa-real/discurso-integro-don-felipe-ceuta-20261013194325-nt.html",
+      "published_date": "2026-10-13T17:43:52+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Kings visit Ceuta after the invasion of immigrants, live: last minute of the official visit today",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/reyes-visitan-ceuta-tras-invasion-inmigrantes-directo-20261013113135-di.html",
+      "published_date": "2026-10-13T17:43:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Felipe VI ends the visit to Ceuta with a warning to Morocco: \"In the face of any risk, our obligation is to defend an inalienable part of Spain\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace6368e4d4d800488b4596.html",
+      "published_date": "2026-10-13T17:41:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mañueco will apply 'national priority' to public aid despite warnings from the European Commission",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-y-leon/politica/manueco-aplicara-prioridad-nacional-10-anos-ayudas-pese-advertencias-comision-europea_1_13582327.html",
+      "published_date": "2026-10-13T13:19:40+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Von der Leyen insists on migratory cooperation with Morocco and support for Spain for \"rapid\" returns from Ceuta",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-von-der-leyen-insiste-cooperacion-migratoria-marruecos-apoyo-espana-retornos-rapidos-ceuta-20261013135112.html",
+      "published_date": "2026-10-13T11:51:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Catalan democratic memory law gives one year to remove the Franco monument from Tortosa",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657684/ley-memoria-democratica-catalana-da-ano-retirar-monumento-franquista-tortosa.html",
+      "published_date": "2026-10-13T10:28:53+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The European Commission warns that \"national priority\" in public aid violates community law",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/politica/comision-europea-advierte-prioridad-nacional-ayudas-publicas-vulnera-derecho-comunitario_1_13581253.html",
+      "published_date": "2026-10-13T09:38:19+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Podemos vindicates its pact with ERC but avoids clarifying its fit in the Broad Front of Sumar",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657624/montero-reivindica-pacto-erc-evita-aclarar-encaje-frente-amplio.html",
+      "published_date": "2026-10-13T08:43:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prudence in Morocco before the first visit of a king of Spain to Ceuta and Melilla in two decades",
+      "source": "El País",
+      "url": "https://elpais.com/espana/2026-10-13/prudencia-en-marruecos-ante-la-primera-visita-de-un-rey-de-espana-a-ceuta-y-melilla-en-dos-decadas.html",
+      "published_date": "2026-10-13T03:30:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Burnham viajará a Bruselas para “abrir una discusión sobre la relación a largo plazo” del Reino Unido y la UE",
       "source": "El País",
@@ -81,67 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Seat is negotiating with Volkswagen to produce the electric Audi Q4 in Barcelona starting in 2032",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/companias/2026-10-10/seat-negocia-con-volkswagen-producir-el-audi-q4-electrico-en-barcelona-a-partir-de-2032.html",
-      "published_date": "2026-10-10T03:15:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain's role in the plundering of Western Sahara and the race for fishmeal",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/internacional/papel-espana-saqueo-sahara-occidental-carrera-harina-pescado_1_13572146.html",
-      "published_date": "2026-10-09T20:40:17+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mohamed VI warns that he will not accept “pressure, threats or blackmail” from Spain on the eve of Felipe VI's trip",
-      "source": "El País",
-      "url": "https://elpais.com/espana/2026-10-09/mohamed-vi-advierte-de-que-la-cooperacion-con-espana-no-debe-verse-sometida-a-presion-amenaza-ni-chantaje.html",
-      "published_date": "2026-10-09T19:14:21+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mohamed VI rejects that cooperation with Spain is subject to \"any pressure, threat or blackmail\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/internacional/mohamed-vi-rechaza-cooperacion-espana-vea-sometida-presion-amenaza-chantaje_1_13576569.html",
-      "published_date": "2026-10-09T17:29:39+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mohamed VI charges against the \"instrumentalization\" of Ceuta and warns that there is no room for \"blackmail\" in the relationship",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-mohamed-vi-carga-contra-instrumentalizacion-ceuta-advierte-no-caben-chantajes-relacion-20261009192330.html",
-      "published_date": "2026-10-09T17:23:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain confronts Brussels and Flixbus over bus cabotage while 70% of concessions remain expired",
+      "title": "Unrest in Moncloa with Robles for leaking the altercation of the Moroccan Navy",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/espana-enfrenta-bruselas-flixbus-cabotaje-autobuses-concesiones-20261008133811-nt.html",
-      "published_date": "2026-10-09T11:38:11+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.abc.es/espana/malestar-moncloa-robles-filtrar-altercado-armada-marroqui-20261014194247-nt.html",
+      "published_date": "2026-10-13T17:43:01+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brussels chooses two more Spanish projects in the strategic ones for the supply of rare minerals to the EU",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/bruselas-elige-dos-proyectos-espanoles-mas-en-los-estrategicos-para-el-suministro-de-minerales-raros-de-la-ue/",
-      "published_date": "2026-10-09T10:04:00+00:00",
-      "category": "Diplomacy"
+      "title": "The PSOE agrees to remove the paintings of Francoist presidents from Congress, after years of requests",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace698efc6c8393708b459f.html",
+      "published_date": "2026-10-13T17:28:07+00:00",
+      "category": "Military"
     },
     {
-      "title": "The EU chooses two other Spanish projects in its strategy to extract critical raw materials",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261009/11654999/ue-elige-otros-dos-proyectos-espanoles-estrategia-extraer-materias-primas-criticas.html",
-      "published_date": "2026-10-09T09:37:27+00:00",
-      "category": "Diplomacy"
+      "title": "War at the top of the PNV between the Ortuzar clan and Aitor Esteban with the 'excuse' of control in Vizcaya",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/pais-vasco/2026/10/13/6accce7ae85eceb3788b4580.html",
+      "published_date": "2026-10-13T09:27:46+00:00",
+      "category": "Military"
     },
     {
-      "title": "Brussels promotes two new critical mining projects in Ciudad Real and Galicia",
+      "title": "Feijóo assures that Sánchez should have deployed the Army in Ceuta and accuses him of \"lying\" about the Moroccan ships that entered Spanish waters",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6acdd627e9cf4a3f058b4586.html",
+      "published_date": "2026-10-13T09:24:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Much front and not very wide",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/opinion/zona-critica/frente-amplio_129_13579874.html",
+      "published_date": "2026-10-12T20:35:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The rise of Defense forces offices to redesign operations",
       "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/industria/2026/10/09/6ac8b319468aebe74a8b458f.html",
-      "published_date": "2026-10-09T09:26:36+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.expansion.com/juridico/actualidad-tendencias/2026/10/12/auge-defensa-obliga-despachos-redisenar-operaciones.html",
+      "published_date": "2026-10-12T19:27:37+00:00",
+      "category": "Military"
     },
     {
       "title": "El sexto destructor lanzamisiles de EE UU llegará este jueves a la base naval de Rota",
@@ -242,52 +284,129 @@
       "category": "Military"
     },
     {
-      "title": "The conclusions about the special report for Franco: he knew of the ease of neutralizing the military if they did not adhere to the coup",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/sociedad/conclusiones-informe-especial-franco-sabia-facilidad-neutralizar-militares-si-no-adherian-golpe_1_13573669.html",
-      "published_date": "2026-10-10T20:10:44+00:00",
-      "category": "Military"
+      "title": "The European Commissioner for Energy affirms that \"things are going in the right direction, but not fast enough\" in the transformation of the energy system",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-comisario-energia-europeo-afirma-que-las-cosas-van-en-direccion-adecuada-pero-no-suficientemente-rapido-en-la-transformacion-del-sistema-energetico/",
+      "published_date": "2026-10-13T15:37:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The genetic study of the last 125 agotes in Navarra, \"the cursed town\", ends the \"mystery\" of its origin",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/navarra/estudio-genetico-ultimos-125-agotes-navarra-pueblo-maldito-acaba-misterio-origen_1_13568422.html",
-      "published_date": "2026-10-10T19:46:18+00:00",
-      "category": "Military"
+      "title": "The EC predicts that the energy crisis will stop the creation of 440,000 jobs in the EU in 2026",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-ce-preve-que-la-crisis-energetica-frene-la-creacion-de-440-000-empleos-en-la-ue-en-2026/",
+      "published_date": "2026-10-13T14:55:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The King visits the ARMMO space at INDUDEF 2026 and learns about its autonomous drone interceptor",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-rey-visita-espacio-armmo-indudef-2026-conoce-interceptor-autonomo-drones-20261010212254.html",
-      "published_date": "2026-10-10T19:22:54+00:00",
-      "category": "Military"
+      "title": "CIP takes 25% stake in 1.1 GW UK offshore wind project",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/cip-toma-una-participacion-del-25-en-un-proyecto-eolico-marino-de-1-1-gw-en-reino-unido/",
+      "published_date": "2026-10-13T14:47:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The EU grants Spain a loan of 1,000 million for defense",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261010/11656052/ue-concede-espana-prestamo-1-000-millones-defensa.html",
-      "published_date": "2026-10-10T15:40:50+00:00",
-      "category": "Military"
+      "title": "ECB: \"It takes the sun 8 minutes to reach Europe and it does not pass through the Strait of Hormuz\"",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/bce-al-sol-le-lleva-8-minutos-llegar-a-europa-y-no-pasa-por-el-estrecho-de-ormuz/",
+      "published_date": "2026-10-13T13:08:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Community assures that there are activists linked to terrorism in the Sol camp",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261010/11656043/comunidad-asegura-hay-activistas-vinculados-terrorismo-acampada-sol.html",
-      "published_date": "2026-10-10T15:14:33+00:00",
-      "category": "Military"
+      "title": "How to save on your electricity bill without changing your daily habits",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/como-ahorrar-en-la-factura-de-la-luz-sin-cambiar-tus-habitos-cotidianos/",
+      "published_date": "2026-10-13T12:29:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Feijóo launches the pre-campaign promising to \"respond to the mafia with democracy\" and Ayuso charges against the Sol camp run by \"a group with a terrorist background\"",
+      "title": "Beatriz Corredor (Redeia): \"Networks are not the bottleneck of electrification\"",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/beatriz-corredor-redeia-las-redes-no-son-el-cuello-de-botella-de-la-electrificacion/",
+      "published_date": "2026-10-13T11:22:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The trial for defrauding the electricity marketers suspended due to the prosecutor's illness",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/suspendido-el-juicio-por-estafa-a-las-comercializadoras-electricas-por-enfermedad-del-fiscal/",
+      "published_date": "2026-10-13T11:18:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Axpo carries out its first LNG supply operation to a ship in the Port of Valencia",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/axpo-realiza-su-primera-operacion-de-suministro-de-gnl-a-un-buque-en-el-puerto-de-valencia/",
+      "published_date": "2026-10-13T11:13:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fenadismer activates a complaint channel against chargers that do not index fuel",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/fenadismer-activa-un-canal-de-denuncias-contra-los-cargadores-que-no-indexen-el-combustible/",
+      "published_date": "2026-10-13T11:10:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "SmartEnergyCongress 2026: strategy and competitiveness in energy key",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/smartenergycongress-2026-estrategia-y-competitividad-en-clave-energetica/",
+      "published_date": "2026-10-13T10:17:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "IRENA calls for reforms in electrical networks to accelerate the transition despite the renewable record",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/irena-pide-reformas-en-redes-electricas-para-acelerar-transicion-pese-al-record-renovable/",
+      "published_date": "2026-10-13T09:16:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fedea proposes to modify the way of financing regulated costs of the electrical system",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/fedea-propone-modificar-la-forma-de-financiacion-de-costes-regulados-del-sistema-electrico/",
+      "published_date": "2026-10-13T08:52:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Spanish oil, big winner of the tariff reduction agreed between China and the EU",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/10/6aca1a56e4d4d847628b457b.html",
-      "published_date": "2026-10-10T11:00:06+00:00",
-      "category": "Military"
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/13/6acdeb4ee9cf4ab0238b45a2.html",
+      "published_date": "2026-10-13T08:30:21+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Middle East conflict slows LNG demand growth in South Asia",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-conflicto-en-oriente-medio-frena-el-crecimiento-de-la-demanda-de-gnl-en-asia-meridional-y-deja-al-descubierto-graves-vulnerabilidades-de-suministro/",
+      "published_date": "2026-10-13T07:19:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The value of storage lies in how it is integrated and operated",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-valor-del-almacenamiento-reside-en-como-se-integra-y-se-opera/",
+      "published_date": "2026-10-13T05:52:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Two thirds of the increase in the regulated electricity rate is due to REE extra costs",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/companias/2026-10-13/dos-tercios-de-la-subida-de-la-tarifa-regulada-de-la-luz-se-deben-a-los-sobrecostes-de-ree.html",
+      "published_date": "2026-10-13T03:15:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Inditex, Iberdrola y ACS, para superar la travesía electoral",
       "source": "Expansión",
       "url": "https://www.expansion.com/podcasts/en-accion/2026/10/13/6acd6958468aeb585f8b458d.html",
       "published_date": "2026-10-12T23:17:39+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Seat links the continuity of the brand to European legislation on emissions",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261012/11657269/seat-marca-cupra-futuro-legislacion-europa-emisiones.html",
+      "published_date": "2026-10-12T18:11:23+00:00",
       "category": "Energy"
     },
     {
@@ -305,402 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "Los márgenes de refino vuelven a sorprender al alza en el tercer trimestre",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/los-margenes-de-refino-vuelven-a-sorprender-al-alza-en-el-tercer-trimestre/",
-      "published_date": "2026-10-12T06:18:00+00:00",
-      "category": "Energy"
+      "title": "Juanma Moreno calls for “adequate and specific financing” in the European budget to fight forest fires",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-pide-financiacion-adecuada-especifica-presupuesto-20261013185703-nts.html",
+      "published_date": "2026-10-13T17:43:35+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Illa aprieta a Moncloa para salvar la red eléctrica y la gigafactoría // Oliu: de Caixa a caja y sigo porque me toca",
+      "title": "PP and Vox illuminate a budget of 16,472 million with a “vocation” to complete the legislature",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/presupuestos-castilla-leon-elevan-1311-alcanzan-cifra-20261013125715-nt.html",
+      "published_date": "2026-10-13T16:51:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Zara chooses the historic Barcelona firm Santa Eulalia to promote its high-end offering",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261012/11656688/illa-aprieta-moncloa-salvar-red-electrica-gigafactoria-oliu-caixa-caja-sigo-me-toca.html",
-      "published_date": "2026-10-12T04:00:00+00:00",
-      "category": "Energy"
+      "url": "https://www.lavanguardia.com/dinero/20261013/11658117/zara-elige-historica-firma-barcelonesa-santa-eulalia-impulsar-oferta-alta-gama.html",
+      "published_date": "2026-10-13T16:49:07+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Santiago Gómez, president of the renewable employers' association: \"The next Government needs high vision, playing politics with energy only makes the bill more expensive\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/12/6ac779f5fdddff08248b45b4.html",
-      "published_date": "2026-10-11T22:10:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The wholesale price of electricity faces the third most expensive autumn in its history",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-precio-mayorista-de-la-electricidad-afronta-el-tercer-otono-mas-caro-de-su-historia/",
-      "published_date": "2026-10-11T22:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dominion-NextEra merger could slow Virginia's clean energy transition",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-fusion-entre-dominion-y-nextera-podria-frenar-la-transicion-hacia-las-energias-limpias-en-virginia/",
-      "published_date": "2026-10-11T22:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Four-hour batteries are already cheaper than peak gas plants around the world",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/las-baterias-de-cuatro-horas-ya-son-mas-baratas-que-las-centrales-de-gas-de-punta-en-todo-el-mundo/",
-      "published_date": "2026-10-11T22:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europe warns of the risk of cyber attacks on photovoltaics and demands more controls on investors",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/europa-alerta-del-riesgo-de-ciberataques-a-la-fotovoltaica-y-reclama-mas-controles-sobre-los-inversores/",
-      "published_date": "2026-10-11T22:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europe faces winter with gas reserves at minimum levels and prices at maximums",
+      "title": "Valorian proposes raising salaries by 18% at El Corte Inglés, Ikea or Fnac",
       "source": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/11/6acb6fd2468aeb591e8b45a8.html",
-      "published_date": "2026-10-11T21:43:37+00:00",
-      "category": "Energy"
+      "url": "https://www.expansion.com/empresas/distribucion/2026/10/13/6ace5f6de5fdeab23f8b4590.html",
+      "published_date": "2026-10-13T16:42:49+00:00",
+      "category": "Economy"
     },
     {
-      "title": "\"Esta es mi casa y no me voy\": la lucha del guardián de una subestación eléctrica de Huelva que vive por 18 céntimos al mes",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/huelva/casa-no-lucha-guardian-subestacion-electrica-huelva-vive-18-centimos-mes_1_13573869.html",
-      "published_date": "2026-10-11T19:11:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The IEA urges countries to release more diesel reserves due to the price crisis",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261011/11656648/aie-insta-paises-liberar-mas-reservas-diesel-crisis-precios.html",
-      "published_date": "2026-10-11T18:04:53+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Von der Leyen criticizes the “general aid” for fuel and uses France as an example: the differences with Spain",
+      "title": "The IMF raises its growth forecast for the Spanish economy to 2.5% in 2026, with inflation of 3.7",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/von-der-leyen-critica-ayudas-generales-combustibles-20261011045051-nt.html",
-      "published_date": "2026-10-11T10:36:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "«Energy regulation must be removed from political cycles»",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/espana-atractiva-venga-inversion-mundial-mercado-energetico-20261011020458-nt.html",
-      "published_date": "2026-10-11T00:24:45+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Smaller and more expensive potatoes: heat waves and rains take their toll on one of the basic household products",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/patatas-pequenas-caras-olas-calor-lluvias-pasan-20261010021235-nt.html",
-      "published_date": "2026-10-11T00:12:35+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Why the price of gasoline does not fall, although oil crosses Hormuz again",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/11/6ac913fde4d4d8641f8b4589.html",
-      "published_date": "2026-10-10T22:07:33+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Europe has to reduce its gas demand by 7% due to the lowest reserves since 2011",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261010/11655529/europa-reducir-demanda-gas-7-reservas-mas-bajas-2011.html",
-      "published_date": "2026-10-10T04:00:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Spanish talent to respond to the boom in electricity demand",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/dinero/20261010/11650361/talento-espanol-responder-boom-demanda-electrica.html",
-      "published_date": "2026-10-09T22:05:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "TCL Solar C2 rear contact panels arrive in Europe",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/llegan-a-europa-los-paneles-de-contacto-posterior-tcl-solar-c2/",
-      "published_date": "2026-10-09T22:02:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "AST se perfila como el socio inicial del plan satelital de Telefónica, Orange, Vodafone y Telekom",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/13/6acd2214e5fdea20378b4571.html",
-      "published_date": "2026-10-13T00:00:00+00:00",
+      "url": "https://www.abc.es/economia/fmi-eleva-prevision-crecimiento-espana-2026-20261013071159-nt.html",
+      "published_date": "2026-10-13T16:23:50+00:00",
       "category": "Economy"
     },
     {
-      "title": "Feijóo, a la embajadora de Marruecos: «He cumplido con mi deber»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-embajadora-marruecos-cumplido-deber-20261013014233-nt.html",
-      "published_date": "2026-10-12T23:42:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "El valor renacido del Ibex que gusta a todos los expertos para seguir subiendo",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inversion/2026/10/13/6ac8ba5be5fdeada2c8b4592.html",
-      "published_date": "2026-10-12T22:59:55+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "El Frente Amplio proclama líder a Colau tras la provocación del pacto entre Rufián y Montero",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/13/6acd3c3be85ecee9318b4594.html",
-      "published_date": "2026-10-12T22:00:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "El Frente Amplio responde al órdago de Podemos y Rufián: confirma a Colau como candidata y llama a Montero a sumarse",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/frente-amplio-responde-ordago-rufian-confirma-colau-candidata-llama-montero-sumarse_1_13580395.html",
-      "published_date": "2026-10-12T17:56:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "ERC y Podemos acuerdan su alianza electoral del 29-N para \"frenar a la extrema derecha\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/12/6accb0cae4d4d88f608b4577.html",
-      "published_date": "2026-10-12T17:13:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "El Ibex firma su mayor subida desde julio animado por los bancos",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/12/6acc7280468aeb995a8b459f.html",
-      "published_date": "2026-10-12T16:34:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Los inversores españoles suben su apuesta en Nvidia hasta los 4.500 millones en plena euforia de la IA",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/companias/2026-10-12/los-inversores-espanoles-suben-su-apuesta-en-nvidia-hasta-los-4500-millones-en-plena-euforia-de-la-ia.html",
-      "published_date": "2026-10-12T16:32:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Illa viaja a Bruselas para participar en el Comité de las Regiones y reunirse con Cósta y Ribera",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11657135/illa-viaja-bruselas-participar-comite-regiones-reunirse-costa-ribera.html",
-      "published_date": "2026-10-12T12:39:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Michael Woodford y Robert E. Hall ganan el Nobel de Economía por sus propuestas para suavizar crisis y burbujas",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-12/premio-nobel-de-economia-2026-en-directo-para.html",
-      "published_date": "2026-10-12T12:03:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "España busca su lugar en la revolución industrial de los semiconductores",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/espana-busca-lugar-revolucion-industrial-semiconductores-20261012131241-nt.html",
-      "published_date": "2026-10-12T11:12:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rufián y Montero harán “equipo” en la campaña de las elecciones y ERC incorporará a Podemos en las listas",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/confirma-erc-les-incorporara-listas-rufian-hara-campana-montero_1_13579498.html",
-      "published_date": "2026-10-12T10:13:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "El Ibex 35 repunta un 0,7% en la media sesión y rebasa los 19.150 puntos, con el crudo en 105 dólares",
+      "title": "The Ibex 35 gives up 0.4% and postpones its recovery before the start of the results season in the US",
       "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-repunta-07-media-sesion-rebasa-19150-puntos-crudo-105-dolares-20261012121205.html",
-      "published_date": "2026-10-12T10:12:05+00:00",
+      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cede-04-posterga-recuperacion-inicio-temporada-resultados-eeuu-20261013180653.html",
+      "published_date": "2026-10-13T16:06:53+00:00",
       "category": "Economy"
     },
     {
-      "title": "Carlos Cuerpo: “Buscamos que el ahorro de los españoles tenga alternativas a la inversión en vivienda”",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-12/carlos-cuerpo-buscamos-que-el-ahorro-de-los-espanoles-tenga-alternativas-a-la-inversion-en-vivienda.html",
-      "published_date": "2026-10-12T03:30:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The best student in Europe pays for it in the supermarket",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/mejor-alumno-paga-super-20260925022107-nt.html",
-      "published_date": "2026-10-12T00:21:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lessons from the last major failed bank takeover bid in Spain: \"Sabadell is not the master of its destiny and BBVA needs more geographical diversity\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/12/6ac8cd2fe85ecea11f8b4577.html",
-      "published_date": "2026-10-12T00:16:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "El Gobierno crea otras 500 plazas de jueces y 200 de fiscales en plena precampaña del 29-N",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/12/6acb808de9cf4aa30e8b4583.html",
-      "published_date": "2026-10-12T00:10:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The agreed wage increase plummets to 3% at the time of highest inflation of the year, touching 5%",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/subida-salarial-pactada-desploma-momento-mayor-inflacion-20261012014623-nt.html",
-      "published_date": "2026-10-12T00:09:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "A woman empties the bank accounts of her husband, who had died an hour earlier",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/mujer-vacia-cuentas-banco-marido-muerto-hora-20261011012950-nt.html",
-      "published_date": "2026-10-11T23:29:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The chemistry that moves the new economy",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/12/6ac66f2321efa0db268b459f.html",
-      "published_date": "2026-10-11T22:11:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Alquilar casas y ganar hasta un 9%",
+      "title": "The Ibex saves 19,200 points, attentive to business results and AI",
       "source": "Expansión",
-      "url": "https://www.expansion.com/ahorro/2026/10/13/6acd7dffe5fdea3b588b457f.html",
-      "published_date": "2026-10-13T00:45:53+00:00",
-      "category": "Local Events"
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/13/6acdc73b468aebdf418b456f.html",
+      "published_date": "2026-10-13T15:42:12+00:00",
+      "category": "Economy"
     },
     {
-      "title": "El voto exterior favorece a la izquierda: el PSOE gana fuera mientras pierde en casa",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/voto-exterior-favorece-izquierda-psoe-gana-pierde-20261013015532-nt.html",
-      "published_date": "2026-10-13T00:26:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mónica García se protege ante el posible batacazo de Más Madrid en las generales",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/monica-garcia-protege-ante-posible-batacazo-madrid-20261012013621-nt.html",
-      "published_date": "2026-10-13T00:08:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El PP prepara un plan de choque para reembolsar 800 euros a las familias",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/pp-prepara-plan-choque-reembolsar-800-euros-20261013013904-nt.html",
-      "published_date": "2026-10-13T00:05:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo, ante la ausencia de Abascal en la Fiesta Nacional: «Con Vox, ni cordón sanitario ni cordón umbilical»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-ante-ausencia-abascal-vox-cordon-sanitario-20261013014249-nt.html",
-      "published_date": "2026-10-12T23:42:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vox sacude el mapa electoral: cerca al PSOE en Andalucía, lo supera en Murcia y da el sorpasso al PP en Cataluña",
+      "title": "PP and Vox cut the allocations for unions by 33% in Castilla y León budgets that have not yet achieved the \"national priority\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/13/6acd12e2e4d4d82d4c8b4592.html",
-      "published_date": "2026-10-12T23:37:08+00:00",
-      "category": "Local Events"
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace3631e9cf4a766c8b4593.html",
+      "published_date": "2026-10-13T14:55:19+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Laura González Molero, presidenta de la Asociación para el Progreso de la Dirección (APD): \"En un mundo en desorden, los directivos son los nuevos referentes\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/13/6acd04c3fdddff0e628b4581.html",
-      "published_date": "2026-10-12T23:37:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Un coronel de la Guardia Civil se enfrenta a 4 años de cárcel por manipular la compra de 8.250 fusiles de asalto",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/coronel-guardia-civil-enfrenta-anos-carcel-manipular-20261012013326-nt.html",
-      "published_date": "2026-10-12T23:33:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WiZink mueve su sede en Madrid y traslada a 480 empleados",
+      "title": "The unions put pressure on Yolanda Díaz: they demand that the minimum wage be raised to more than 1,300 euros before the elections",
       "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/13/6ac92ff0468aeb591e8b457c.html",
-      "published_date": "2026-10-12T23:32:12+00:00",
-      "category": "Local Events"
+      "url": "https://www.expansion.com/economia/2026/10/13/6ace39dae5fdea596e8b4593.html",
+      "published_date": "2026-10-13T14:02:52+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Ensaya Carabanchel, cinco años catapultando a las nuevas bandas de Madrid",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/ensaya-carabanchel-cinco-anos-catapultando-nuevas-bandas-20261012011717-nt.html",
-      "published_date": "2026-10-12T23:17:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La ampliación de la línea 11 de Metro mira ya a Valdebebas en el horizonte de 2030",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/ampliacion-linea-metro-mira-valdebebas-horizonte-2030-20261012011700-nt.html",
-      "published_date": "2026-10-12T23:17:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La recuperación total de los montes de la Sierra Oeste tras los incendios se extenderá una década",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/plan-recuperar-montes-sierra-oeste-perdidos-mayor-20261012004753-nt.html",
-      "published_date": "2026-10-12T22:47:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSOE i PP es barallen en el fang",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/encatala/20261013/11657003/psoe-i-pp-fang-digital-ctx.html",
-      "published_date": "2026-10-12T22:35:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSOE y PP pelean en el barro",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/opinion/20261013/11656996/psoe-pp-barro-digital.html",
-      "published_date": "2026-10-12T22:30:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El PP de Cádiz exige al alcalde de Algeciras que dimita al conocer otra denuncia por abuso sexual",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cadiz/genova-exige-alcalde-algeciras-dimita-conocer-denuncia-20261012213812-nts.html",
-      "published_date": "2026-10-12T22:20:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "¿Es posible asegurar los errores y daños causados por la IA?",
+      "title": "Goldman Sachs increases its profit by 40% until September with 17.5 billion dollars",
       "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/seguros/2026/10/13/6acd5153468aeb80348b4579.html",
-      "published_date": "2026-10-12T22:19:20+00:00",
-      "category": "Local Events"
+      "url": "https://www.expansion.com/empresas/banca/2026/10/13/6ace389b468aeb057a8b4590.html",
+      "published_date": "2026-10-13T13:58:17+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Los jóvenes abandonan a Sánchez tras gastar 800 millones en bonos: \"No solucionamos la vida con un cheque en blanco\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6accf5c7fc6c83172a8b4590.html",
-      "published_date": "2026-10-12T22:00:45+00:00",
-      "category": "Local Events"
+      "title": "JPMorgan earns 53,000 million until September, 20% more",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/13/6ace2340468aebec108b457c.html",
+      "published_date": "2026-10-13T12:37:38+00:00",
+      "category": "Economy"
     },
     {
-      "title": "No gana Rufián, se impone el plan confederal de Junqueras",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/13/6accebcfe9cf4a6f168b4573.html",
-      "published_date": "2026-10-12T22:00:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maíllo dice que \"siempre\" ha tenido claro que Rufián \"nunca iba a dar el paso\" e insta a Podemos a decidir",
+      "title": "The Treasury warns that Vox's proposal to \"charge personal income tax\" has a cost of 85,000 million",
       "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-maillo-dice-siempre-tenido-claro-rufian-nunca-iba-dar-paso-insta-podemos-decidir-20261012232718.html",
-      "published_date": "2026-10-12T21:27:18+00:00",
+      "url": "https://www.europapress.es/economia/fiscal-00347/noticia-hacienda-avisa-propuesta-vox-cargarse-irpf-tiene-coste-85000-millones-20261013141212.html",
+      "published_date": "2026-10-13T12:12:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Spanish Stock Market pays 35,716 million in dividends until September, 22% more",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-bolsa-espanola-abona-35716-millones-dividendos-septiembre-22-mas-20261013132256.html",
+      "published_date": "2026-10-13T11:22:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Consumers warn Corpo y Escrivá that the digital euro protects less from fraud",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261013/11657810/consumidores-avisan-cuerpo-escriva-euro-digital-protege-fraude.html",
+      "published_date": "2026-10-13T11:04:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "New auction of Treasury Bills: this is the three- and nine-month profitability",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/nueva-subasta-letras-tesoro-rentabilidad-tres-nueve-20261013011403-nt.html",
+      "published_date": "2026-10-13T10:53:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Congress archives the sanction against Ana Vázquez, the representative who brought pepper spray to the chamber",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/congreso-reprueba-pero-no-sanciona-ana-vazquez-diputada-que-llevo-gas-pimienta-hemiciclo_7048130_0.html",
+      "published_date": "2026-10-13T10:47:39+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Esade, Impact Bridge and MicroBank highlight the role of purposeful debt as a driver of social transformation",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261013/11657781/esade-impact-bridge-microbank-destacan-papel-deuda-proposito-motor-transformacion-social.html",
+      "published_date": "2026-10-13T10:44:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ID Finance raises 545 million to promote the granting of credit lines",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/dinero/20261013/11657746/id-finance-capta-545-millones-impulsar-concesion-microcreditos.html",
+      "published_date": "2026-10-13T10:17:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The unions demand from the Government an increase in the minimum wage of 7% in 2027, up to 1,306.5 euros",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/13/6acdfd42fdddffec208b458d.html",
+      "published_date": "2026-10-13T10:08:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CC OO and UGT demand that the minimum wage rise by 7% in 2027",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-13/cc-oo-y-ugt-reclaman-que-el-salario-minimo-suba-un-7-en-2027.html",
+      "published_date": "2026-10-13T10:04:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Julia Vizcayno and Beatriz Blanco, elected major falleras of Valencia for the year 2027",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/elegidas-falleras-mayores-valencia-ano-2027-20261013164148-nt.html",
+      "published_date": "2026-10-13T17:43:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Crece la \"preocupación\" en Bruselas ante la falta de medidas legislativas de Sánchez para atajar la crisis de Ceuta y acelerar la devolución de inmigrantes",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/12/6accbac921efa004368b458e.html",
-      "published_date": "2026-10-12T21:06:06+00:00",
+      "title": "The European Parliament will process the inclusion of Ceuta and Melilla as outermost regions",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/eurocamara-tramitara-incluir-ceuta-melilla-regiones-ultraperifericas-20261013115106-nt.html",
+      "published_date": "2026-10-13T17:40:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moncloa justifies that the Moroccan incursion in Ceuta waters was hidden because it was a \"specific event\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/moncloa-justifica-ocultara-incursion-marroqui-aguas-ceuta-20261013151508-nt.html",
+      "published_date": "2026-10-13T17:39:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The National Police of Malaga honors the inspectors who hunt down the hitmen on the Costa del Sol",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/malaga/policia-nacional-malaga-condecora-inspectores-cazan-sicarios-20261013193610-nts.html",
+      "published_date": "2026-10-13T17:36:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Each real estate agency loses an average of four rental apartments and three contracts after the housing decrees",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/decretos-vivienda-efecto-inmobiliarias-retirada-inmuebles-freno-20261013104639-nt.html",
+      "published_date": "2026-10-13T17:36:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "De la Rosa recognizes \"some tension\" in the PSCL to elect the candidates for 29N",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/rosa-garantiza-maxima-neutralidad-elegir-candidatos-lideraran-20261013152840-nt.html",
+      "published_date": "2026-10-13T17:35:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The reservoirs of the Tagus basin close the hydrological year at 54% of their capacity",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/embalses-cuenca-tajo-cierran-ano-hidrologico-capacidad-20261013105859-nt.html",
+      "published_date": "2026-10-13T17:35:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Basque Government will no longer inform victims' associations when authorizing prison permits for ETA prisoners",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/pais-vasco/gobierno-vasco-informara-asociaciones-victimas-autorizar-permisos-20261013192539-nt.html",
+      "published_date": "2026-10-13T17:25:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The judge summons Sáenz de Tejada, the former magistrate whom Leire Díez \"recruited\" to harass Judge Biedma, to declare as under investigation",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/juez-biedma-pide-audiencia-nacional-incorporar-denuncias-20261013131135-nt.html",
+      "published_date": "2026-10-13T17:13:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Government urgently modifies the statutes of the ICO to adapt them to the España Crece fund",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-13/el-gobierno-modifica-por-la-via-de-urgencia-los-estatutos-del-ico-para-adaptarlos-al-fondo-espana-crece.html",
+      "published_date": "2026-10-13T17:05:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UGT and CC.OO. They demand that the minimum wage rise \"at least\" 7% and exceed 1,300 euros",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/ugt-ccoo-exigen-salario-minimo-suba-supere-20261013122421-nt.html",
+      "published_date": "2026-10-13T17:05:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andalusia will have a long weekend of up to 5 days in 2027: the BOE sets the 12 holidays and two extra Mondays",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/calendario-laboral-2027-fija-diez-festivos-oficiales-20261013102317-nts.html",
+      "published_date": "2026-10-13T16:59:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The UCO defines the main accused of the Manzanares double crime as a \"textbook psychopath\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/uco-define-principal-acusado-doble-crimen-manzanares-20261013185442-nt.html",
+      "published_date": "2026-10-13T16:54:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pablo Motos, about his wife Laura Llopis: «I would let myself be killed by her. \"I don't know if we will end up together, but he is the most important person in my life.\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/pablo-motos-habla-nunca-relacion-mujer-laura-20261006102110-nt.html",
+      "published_date": "2026-10-13T16:54:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Sánchez, fuck you! You riffraff!\": a PP councilor from Torre Pacheco scolds those camped in Sol during the ultra protest",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/murcia/politica/pedro-sanchez-mierda-concejala-pp-torre-pacheco-increpa-manifestantes-sol_1_13582912.html",
+      "published_date": "2026-10-13T16:38:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kings Felipe VI and Letizia in Ceuta, live today | Follow the live appearance of Felipe VI at the Parador de Ceuta",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657550/visita-reyes-ceuta-felipe-vi-leticia-crisis-migratoria-hoy-en-directo.html",
+      "published_date": "2026-10-13T16:19:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Vicente Aleixandre school in Ceuta opens its doors to the Kings",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-colegio-vicente-aleixandre-ceuta-abre-puertas-reyes-20261013180952.html",
+      "published_date": "2026-10-13T16:09:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colau sees \"an honor\" that Frente Amplio proposes her as leader, but insists on unity with Podemos and reaches out to ERC",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/colau-ve-un-honor-que-frente-amplio-proponga-como-lider-pero-insiste-unidad-con-podemos-tiende-mano-erc_7048310_0.html",
+      "published_date": "2026-10-13T16:05:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The National Court charges former judge Sáenz de Tejada in the Leire Díez case",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/audiencia-nacional-imputa-exjuez-saenz-tejada-caso-leire-diez_1_13582804.html",
+      "published_date": "2026-10-13T15:46:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colau insists on continuing to work so that Podemos joins the Broad Front: \"There is still time\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/colau-insiste-seguir-trabajando-integre-frente-amplio-todavia-hay-tiempo_1_13582780.html",
+      "published_date": "2026-10-13T15:40:41+00:00",
       "category": "Local Events"
     }
   ]
