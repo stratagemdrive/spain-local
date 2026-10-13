@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-12T20:08:31.771643+00:00",
+  "last_updated": "2026-10-13T03:20:50.108797+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "Inditex, Iberdrola y ACS, para superar la travesía electoral",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/podcasts/en-accion/2026/10/13/6acd6958468aeb585f8b458d.html",
+      "published_date": "2026-10-12T23:17:39+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Iberdrola, distinguida con dos premios internacionales por su Informe Integrado Online 2026",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/iberdrola-distinguida-con-dos-premios-internacionales-por-su-informe-integrado-online-2026/",
@@ -417,11 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "La perovskita alcanza una eficiencia récord del 23,5% en un submódulo solar de gran tamaño",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-perovskita-alcanza-una-eficiencia-record-del-23-5-en-un-submodulo-solar-de-gran-tamano/",
-      "published_date": "2026-10-09T22:01:00+00:00",
-      "category": "Energy"
+      "title": "AST se perfila como el socio inicial del plan satelital de Telefónica, Orange, Vodafone y Telekom",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/13/6acd2214e5fdea20378b4571.html",
+      "published_date": "2026-10-13T00:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Feijóo, a la embajadora de Marruecos: «He cumplido con mi deber»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-embajadora-marruecos-cumplido-deber-20261013014233-nt.html",
+      "published_date": "2026-10-12T23:42:44+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El valor renacido del Ibex que gusta a todos los expertos para seguir subiendo",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/inversion/2026/10/13/6ac8ba5be5fdeada2c8b4592.html",
+      "published_date": "2026-10-12T22:59:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El Frente Amplio proclama líder a Colau tras la provocación del pacto entre Rufián y Montero",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/13/6acd3c3be85ecee9318b4594.html",
+      "published_date": "2026-10-12T22:00:43+00:00",
+      "category": "Economy"
     },
     {
       "title": "El Frente Amplio responde al órdago de Podemos y Rufián: confirma a Colau como candidata y llama a Montero a sumarse",
@@ -508,6 +536,13 @@
       "category": "Economy"
     },
     {
+      "title": "El Gobierno crea otras 500 plazas de jueces y 200 de fiscales en plena precampaña del 29-N",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/12/6acb808de9cf4aa30e8b4583.html",
+      "published_date": "2026-10-12T00:10:58+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "The agreed wage increase plummets to 3% at the time of highest inflation of the year, touching 5%",
       "source": "ABC",
       "url": "https://www.abc.es/economia/cuentas-corrientes/subida-salarial-pactada-desploma-momento-mayor-inflacion-20261012014623-nt.html",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "A touch of AI to learn a technical trade in twelve weeks",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/toque-ia-aprender-oficio-tecnico-doce-semanas-20261012000101-nt.html",
-      "published_date": "2026-10-11T22:01:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Spanish companies perceive a lower impact of the conflict in Iran on demand and investment",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/las-empresas-espanolas-perciben-un-menor-impacto-del-conflicto-en-iran-sobre-la-demanda-y-la-inversion/",
-      "published_date": "2026-10-11T22:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The investment account leaves out 90% of Spanish funds",
+      "title": "Alquilar casas y ganar hasta un 9%",
       "source": "Expansión",
-      "url": "https://www.expansion.com/ahorro/2026/10/11/6acbe795468aeb78798b45b4.html",
-      "published_date": "2026-10-11T21:45:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The payments business will grow at a rate of 5% until 2030",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/11/6ac91e59e5fdea376c8b4590.html",
-      "published_date": "2026-10-11T21:45:03+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The ECB envisions new liquidity injections to banks for 2027",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/11/6ac9378be5fdead15f8b458d.html",
-      "published_date": "2026-10-11T21:44:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Un muerto en un accidente de tráfico en la CO-6301, a la altura de Puente Genil",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/muerto-accidente-trafico-co6301-altura-puente-genil-20261012212617-nts.html",
-      "published_date": "2026-10-12T19:26:17+00:00",
+      "url": "https://www.expansion.com/ahorro/2026/10/13/6acd7dffe5fdea3b588b457f.html",
+      "published_date": "2026-10-13T00:45:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Retrasos de hasta dos horas en los trenes de Alta Velocidad a Andalucía por el incendio de Zaragoza",
+      "title": "El voto exterior favorece a la izquierda: el PSOE gana fuera mientras pierde en casa",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/retrasos-dos-horas-trenes-alta-velocidad-andalucia-20261012200950-nts.html",
-      "published_date": "2026-10-12T19:17:37+00:00",
+      "url": "https://www.abc.es/espana/voto-exterior-favorece-izquierda-psoe-gana-pierde-20261013015532-nt.html",
+      "published_date": "2026-10-13T00:26:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Más de 4.000 afectados tras interrumpirse la circulación de Alta Velocidad entre Barcelona y Madrid por el incendio de un tren en Zaragoza",
+      "title": "Mónica García se protege ante el posible batacazo de Más Madrid en las generales",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/aragon/interrumpida-circulacion-alta-velocidad-barcelona-madrid-incendio-20261012181516-nt.html",
-      "published_date": "2026-10-12T19:04:37+00:00",
+      "url": "https://www.abc.es/espana/madrid/monica-garcia-protege-ante-posible-batacazo-madrid-20261012013621-nt.html",
+      "published_date": "2026-10-13T00:08:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Desfile Fuerzas Armadas por el Día de la Fiesta Nacional, en directo: última hora de los actos por el Día de la Hispanidad hoy, 12 de octubre",
+      "title": "El PP prepara un plan de choque para reembolsar 800 euros a las familias",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/desfile-fuerzas-armadas-dia-fiesta-nacional-directo-20261012094412-di.html",
-      "published_date": "2026-10-12T19:02:42+00:00",
+      "url": "https://www.abc.es/economia/pp-prepara-plan-choque-reembolsar-800-euros-20261013013904-nt.html",
+      "published_date": "2026-10-13T00:05:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Los \"momentos complejos\" marcan a Sánchez en un 12-O entre insultos y en un ambiente de fin de ciclo",
+      "title": "Feijóo, ante la ausencia de Abascal en la Fiesta Nacional: «Con Vox, ni cordón sanitario ni cordón umbilical»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-ante-ausencia-abascal-vox-cordon-sanitario-20261013014249-nt.html",
+      "published_date": "2026-10-12T23:42:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vox sacude el mapa electoral: cerca al PSOE en Andalucía, lo supera en Murcia y da el sorpasso al PP en Cataluña",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/12/6acd1d1721efa0354d8b4589.html",
-      "published_date": "2026-10-12T18:56:14+00:00",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/13/6acd12e2e4d4d82d4c8b4592.html",
+      "published_date": "2026-10-12T23:37:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Frente Amplio designa a Ada Colau como candidata en las elecciones",
+      "title": "Laura González Molero, presidenta de la Asociación para el Progreso de la Dirección (APD): \"En un mundo en desorden, los directivos son los nuevos referentes\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/13/6acd04c3fdddff0e628b4581.html",
+      "published_date": "2026-10-12T23:37:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Un coronel de la Guardia Civil se enfrenta a 4 años de cárcel por manipular la compra de 8.250 fusiles de asalto",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/coronel-guardia-civil-enfrenta-anos-carcel-manipular-20261012013326-nt.html",
+      "published_date": "2026-10-12T23:33:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WiZink mueve su sede en Madrid y traslada a 480 empleados",
       "source": "Expansión",
-      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/12/6acd290ae5fdeafd1e8b4593.html",
-      "published_date": "2026-10-12T18:40:21+00:00",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/13/6ac92ff0468aeb591e8b457c.html",
+      "published_date": "2026-10-12T23:32:12+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Miles de viajeros afectados tras suspenderse el AVE Madrid-Barcelona por el incendio de un tren: \"Se está perfilando una alternativa\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/miles-viajeros-afectados-tras-suspenderse-ave-madrid-barcelona-por-incendio-un-tren-se-esta-perfilando-una-alternativa_7047865_0.html",
-      "published_date": "2026-10-12T18:30:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Un pulso de optimismo electoral entre los partidos marca los corrillos del 12-O",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11657271/pulso-optimismo-electoral-partidos-marcan-corrillos-12.html",
-      "published_date": "2026-10-12T18:21:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez admite que buques marroquíes entraron en aguas de Ceuta mientras miles de inmigrantes cruzaban la frontera",
+      "title": "Ensaya Carabanchel, cinco años catapultando a las nuevas bandas de Madrid",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-admite-buques-marroquies-entraron-aguas-ceuta-20261012201515-nt.html",
-      "published_date": "2026-10-12T18:18:52+00:00",
+      "url": "https://www.abc.es/espana/madrid/ensaya-carabanchel-cinco-anos-catapultando-nuevas-bandas-20261012011717-nt.html",
+      "published_date": "2026-10-12T23:17:17+00:00",
       "category": "Local Events"
     },
     {
-      "title": "El Frente Amplio propone a Ada Colau como candidata a la presidencia y deja abierta la integración de Podemos",
-      "source": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-frente-amplio-propone-a-ada-colau-como-candidata-a-la-presidencia-y-deja-abierta-la-integracion-de-podemos.html",
-      "published_date": "2026-10-12T18:15:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Frente Amplio confirma a Ada Colau como candidata el 29N y llama a Podemos a sumarse tras su acuerdo con Rufián",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-ada-colau-como-cabeza-lista-las-elecciones-29n_7047873_0.html",
-      "published_date": "2026-10-12T18:10:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El 29-N acapara los corrillos en el Palacio Real: duelo de optimismo entre Sánchez y Feijóo",
+      "title": "La ampliación de la línea 11 de Metro mira ya a Valdebebas en el horizonte de 2030",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/29n-acapara-corrillos-palacio-real-duelo-optimismo-20261012163120-nt.html",
-      "published_date": "2026-10-12T18:09:44+00:00",
+      "url": "https://www.abc.es/espana/madrid/ampliacion-linea-metro-mira-valdebebas-horizonte-2030-20261012011700-nt.html",
+      "published_date": "2026-10-12T23:17:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Santiago Abascal celebra en Ceuta junto a Bardella el 12 de Octubre",
+      "title": "La recuperación total de los montes de la Sierra Oeste tras los incendios se extenderá una década",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/plan-recuperar-montes-sierra-oeste-perdidos-mayor-20261012004753-nt.html",
+      "published_date": "2026-10-12T22:47:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PSOE i PP es barallen en el fang",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11657266/santiago-abascal-celebra-ceuta-bardella-12-octubre.html",
-      "published_date": "2026-10-12T18:07:05+00:00",
+      "url": "https://www.lavanguardia.com/encatala/20261013/11657003/psoe-i-pp-fang-digital-ctx.html",
+      "published_date": "2026-10-12T22:35:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Frente Amplio propone a Colau como candidata al 29N y llama a Podemos a incorporarse pese a su pacto con ERC",
+      "title": "PSOE y PP pelean en el barro",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/opinion/20261013/11656996/psoe-pp-barro-digital.html",
+      "published_date": "2026-10-12T22:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El PP de Cádiz exige al alcalde de Algeciras que dimita al conocer otra denuncia por abuso sexual",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cadiz/genova-exige-alcalde-algeciras-dimita-conocer-denuncia-20261012213812-nts.html",
+      "published_date": "2026-10-12T22:20:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "¿Es posible asegurar los errores y daños causados por la IA?",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/seguros/2026/10/13/6acd5153468aeb80348b4579.html",
+      "published_date": "2026-10-12T22:19:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los jóvenes abandonan a Sánchez tras gastar 800 millones en bonos: \"No solucionamos la vida con un cheque en blanco\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6accf5c7fc6c83172a8b4590.html",
+      "published_date": "2026-10-12T22:00:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No gana Rufián, se impone el plan confederal de Junqueras",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/13/6accebcfe9cf4a6f168b4573.html",
+      "published_date": "2026-10-12T22:00:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maíllo dice que \"siempre\" ha tenido claro que Rufián \"nunca iba a dar el paso\" e insta a Podemos a decidir",
       "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-partidos-frente-amplio-proponen-ada-colau-candidata-29n-20261012200309.html",
-      "published_date": "2026-10-12T18:03:09+00:00",
+      "url": "https://www.europapress.es/nacional/noticia-maillo-dice-siempre-tenido-claro-rufian-nunca-iba-dar-paso-insta-podemos-decidir-20261012232718.html",
+      "published_date": "2026-10-12T21:27:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "La izquierda alternativa elige a Colau ante el abismo de la fragmentación",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261012/11657267/frente-amplio-oficializa-apuesta-colau-emplaza-entrar-coalicion.html",
-      "published_date": "2026-10-12T18:02:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La 'burbuja antipitidos' del desfile del 12-O no libra a Sánchez de una lluvia de abucheos e insultos",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/burbuja-antipitidos-desfile-libra-sanchez-lluvia-abucheos-20261012130146-nt.html",
-      "published_date": "2026-10-12T17:51:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El PSOE de Ávila muestra su división a dos días de cerrar las listas electorales",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/psoe-avila-muestra-division-dos-dias-cerrar-20261012193718-nt.html",
-      "published_date": "2026-10-12T17:38:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Podemos y ERC oficializan su alianza para el 29-N y harán campaña juntos",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/podemos-erc-oficializan-alianza-29n-haran-campana-20261012122428-nt.html",
-      "published_date": "2026-10-12T17:36:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Retenciones en las principales entradas a Madrid y tráfico denso en otras comunidades en la vuelta del puente del 12-O",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/retenciones-las-principales-entradas-madrid-vuelta-puente-12_7047855_0.html",
-      "published_date": "2026-10-12T16:29:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interrumpida la Alta Velocidad entre Barcelona y Madrid por el incendio de un tren en Ricla",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/transporte/2026/10/12/6acd0232468aebf72f8b458d.html",
-      "published_date": "2026-10-12T15:52:22+00:00",
+      "title": "Crece la \"preocupación\" en Bruselas ante la falta de medidas legislativas de Sánchez para atajar la crisis de Ceuta y acelerar la devolución de inmigrantes",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/12/6accbac921efa004368b458e.html",
+      "published_date": "2026-10-12T21:06:06+00:00",
       "category": "Local Events"
     }
   ]
