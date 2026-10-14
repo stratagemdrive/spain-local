@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-13T17:52:53.586406+00:00",
+  "last_updated": "2026-10-14T01:33:17.874697+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Indra avanza en su estrategia por las 'startups' catalanas y cierra junto a la SETT una inversión de 20 millones en Qilimanjaro Quantum Tech",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/14/6ace830dfc6c8339018b4573.html",
+      "published_date": "2026-10-13T23:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "¿Puede una moto eléctrica recorrer más de 400 km sin recargar?",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/motor/2026/10/14/6ace9e22e5fdea40288b45a0.html",
+      "published_date": "2026-10-13T22:04:38+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Unrest in Moncloa with Robles for leaking the altercation of the Moroccan Navy",
       "source": "ABC",
       "url": "https://www.abc.es/espana/malestar-moncloa-robles-filtrar-altercado-armada-marroqui-20261014194247-nt.html",
@@ -158,6 +172,13 @@
       "category": "Military"
     },
     {
+      "title": "Jeanne Robles, nacionalizada por la ‘ley de nietos’: “Estoy dispuesta a todo para recuperar el voto”",
+      "source": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-13/jeanne-robles-nacionalizada-por-la-ley-de-nietos-estoy-dispuesta-a-todo-para-recuperar-el-voto.html",
+      "published_date": "2026-10-13T13:02:34+00:00",
+      "category": "Military"
+    },
+    {
       "title": "War at the top of the PNV between the Ortuzar clan and Aitor Esteban with the 'excuse' of control in Vizcaya",
       "source": "El Mundo",
       "url": "https://www.elmundo.es/pais-vasco/2026/10/13/6accce7ae85eceb3788b4580.html",
@@ -169,6 +190,13 @@
       "source": "El Mundo",
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6acdd627e9cf4a3f058b4586.html",
       "published_date": "2026-10-13T09:24:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Un ataque con drones hunde un carguero frente a la costa de Bulgaria, el segundo en una semana",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-10-13/un-ataque-con-drones-hunde-un-carguero-frente-a-la-costa-de-bulgaria-el-segundo-en-una-semana.html",
+      "published_date": "2026-10-13T09:17:03+00:00",
       "category": "Military"
     },
     {
@@ -256,38 +284,31 @@
       "category": "Military"
     },
     {
-      "title": "Houthis demonstrate military reach with deadly missile attacks on Riyadh",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/11/6acb9508e5fdea742b8b4594.html",
-      "published_date": "2026-10-11T14:07:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Illa elevates Jordi Hereu as a PSC candidate and declares war on Junts: “What are you for?”",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261011/11656509/illa-encumbra-jordi-hereu-candidato-psc-declara-guerra-junts-que-sirves.html",
-      "published_date": "2026-10-11T10:22:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The parricide next door: drugs, extreme sex and serious psychiatric problems",
+      "title": "Los hogares en España se preparan para una factura del gas disparada: subirá hasta 27 euros al mes",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/parricida-habitacion-lado-drogas-sexo-extremo-graves-20261006020510-nt.html",
-      "published_date": "2026-10-11T00:05:10+00:00",
-      "category": "Military"
+      "url": "https://www.abc.es/economia/cuentas-corrientes/hogares-espana-preparan-factura-gas-disparada-subira-20261014012127-nt.html",
+      "published_date": "2026-10-13T23:21:27+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Military Secret Service informed Franco of the espionage in the Canary Islands a year before his arrival",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/canariasahora/sociedad/servicio-secreto-militar-informo-franco-espionaje-canarias-ano-llegada_1_13572602.html",
-      "published_date": "2026-10-10T20:10:44+00:00",
-      "category": "Military"
+      "title": "El gas natural se acerca a 87 euros el megavatio hora, precio máximo desde enero de 2023",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-gas-natural-se-acerca-a-87-euros-el-megavatio-hora-precio-maximo-desde-enero-de-2023/",
+      "published_date": "2026-10-13T22:30:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "The European Commissioner for Energy affirms that \"things are going in the right direction, but not fast enough\" in the transformation of the energy system",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/el-comisario-energia-europeo-afirma-que-las-cosas-van-en-direccion-adecuada-pero-no-suficientemente-rapido-en-la-transformacion-del-sistema-energetico/",
       "published_date": "2026-10-13T15:37:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Aldama pide a la Audiencia Nacional poder vender un edificio en Málaga por 3,5 millones: \"Hay riesgo de okupación\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/aldama-pide-audiencia-nacional-vender-edificio-malaga-3-5-millones-hay-riesgo-okupacion_1_13582555.html",
+      "published_date": "2026-10-13T15:18:50+00:00",
       "category": "Energy"
     },
     {
@@ -319,6 +340,20 @@
       "category": "Energy"
     },
     {
+      "title": "El gas natural se cotiza a 86 euros el megavatio hora, precio máximo desde enero de 2023",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-gas-natural-se-cotiza-a-86-euros-el-megavatio-hora-precio-maximo-desde-enero-de-2023/",
+      "published_date": "2026-10-13T12:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "EDP suministrará energía solar a Akamai en Singapur para apoyar su expansión digital",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/edp-suministrara-energia-solar-a-akamai-en-singapur-para-apoyar-su-expansion-digital/",
+      "published_date": "2026-10-13T11:30:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Beatriz Corredor (Redeia): \"Networks are not the bottleneck of electrification\"",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/beatriz-corredor-redeia-las-redes-no-son-el-cuello-de-botella-de-la-electrificacion/",
@@ -344,6 +379,13 @@
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/fenadismer-activa-un-canal-de-denuncias-contra-los-cargadores-que-no-indexen-el-combustible/",
       "published_date": "2026-10-13T11:10:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "La disolución de las Cortes libra a Vázquez de la sanción por exhibir gas pimienta en el Congreso",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11657757/disolucion-cortes-libra-ana-vazquez-sancion-gas-pimienta-congreso.html",
+      "published_date": "2026-10-13T10:27:39+00:00",
       "category": "Energy"
     },
     {
@@ -382,52 +424,80 @@
       "category": "Energy"
     },
     {
-      "title": "The value of storage lies in how it is integrated and operated",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-valor-del-almacenamiento-reside-en-como-se-integra-y-se-opera/",
-      "published_date": "2026-10-13T05:52:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Two thirds of the increase in the regulated electricity rate is due to REE extra costs",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/companias/2026-10-13/dos-tercios-de-la-subida-de-la-tarifa-regulada-de-la-luz-se-deben-a-los-sobrecostes-de-ree.html",
-      "published_date": "2026-10-13T03:15:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Inditex, Iberdrola y ACS, para superar la travesía electoral",
+      "title": "Santander liderará el alza del beneficio de una banca europea disparada",
       "source": "Expansión",
-      "url": "https://www.expansion.com/podcasts/en-accion/2026/10/13/6acd6958468aeb585f8b458d.html",
-      "published_date": "2026-10-12T23:17:39+00:00",
-      "category": "Energy"
+      "url": "https://www.expansion.com/empresas/banca/2026/10/14/6aa93ea8468aebf73f8b4595.html",
+      "published_date": "2026-10-14T01:08:59+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Seat links the continuity of the brand to European legislation on emissions",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261012/11657269/seat-marca-cupra-futuro-legislacion-europa-emisiones.html",
-      "published_date": "2026-10-12T18:11:23+00:00",
-      "category": "Energy"
+      "title": "De 2.300 millones de euros en deducciones fiscales a sólo 4: el estrepitoso fiasco fiscal de la ley de Calviño para lanzar las 'startup'",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/14/6ace34bee9cf4a766c8b458b.html",
+      "published_date": "2026-10-13T23:51:38+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iberdrola, distinguida con dos premios internacionales por su Informe Integrado Online 2026",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/iberdrola-distinguida-con-dos-premios-internacionales-por-su-informe-integrado-online-2026/",
-      "published_date": "2026-10-12T08:38:00+00:00",
-      "category": "Energy"
+      "title": "Convocadas las oposiciones a Letrado de las Cortes Generales: plazas, requisitos y fechas",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/convocadas-oposiciones-letrado-cortes-generales-plazas-requisitos-20261013010335-nt.html",
+      "published_date": "2026-10-13T23:08:11+00:00",
+      "category": "Economy"
     },
     {
-      "title": "El 'rey de los piratas' de la luz, a juicio por por defraudar 61 millones a Endesa, Naturgy y Repsol",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-rey-de-los-piratas-de-la-luz-a-juicio-por-por-defraudar-61-millones-a-endesa-naturgy-y-repsol/",
-      "published_date": "2026-10-12T08:21:00+00:00",
-      "category": "Energy"
+      "title": "¿Bonos verdes o sociales? Los grandes bancos reparten sus preferencias",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/sostenibilidad/2026/10/14/bonos-verdes-sociales-grandes-bancos-reparten-preferencias.html",
+      "published_date": "2026-10-13T22:45:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La Justicia británica ordena a Santander pagar 81 millones como aval por una planta de TSK en Mozambique",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/14/6ace8277e5fdea507d8b4571.html",
+      "published_date": "2026-10-13T22:43:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BT podrá hacer ofertas agresivas en zonas donde compite con VMO2 (Telefónica)",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/14/6accf981468aebb1668b4583.html",
+      "published_date": "2026-10-13T22:25:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "PayPal ficha en BBVA su nuevo responsable para España",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/14/6ace76f2e5fdeae1078b456d.html",
+      "published_date": "2026-10-13T22:24:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Las mujeres facturan, ¿y Hacienda cobra? El peaje fiscal que pagará Shakira en Madrid",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/fiscal/2026/10/14/6ace7d01468aeb98198b4597.html",
+      "published_date": "2026-10-13T22:18:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cómo sacar partido en el Ibex 35 a la gran paradoja de la Bolsa y el euro",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/13/6ace6020e5fdeab23f8b4597.html",
+      "published_date": "2026-10-13T18:44:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "Juanma Moreno calls for “adequate and specific financing” in the European budget to fight forest fires",
       "source": "ABC",
       "url": "https://www.abc.es/espana/andalucia/juanma-moreno-pide-financiacion-adecuada-especifica-presupuesto-20261013185703-nts.html",
       "published_date": "2026-10-13T17:43:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BBVA reinicia las recompras de acciones por 1.000 millones para retribuir a los accionistas",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261013/11658160/bbva-reinicia-recompras-acciones-1-000-millones-retribuir-accionistas.html",
+      "published_date": "2026-10-13T17:40:29+00:00",
       "category": "Economy"
     },
     {
@@ -494,213 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "JPMorgan earns 53,000 million until September, 20% more",
+      "title": "Juegos, danza y cómics para llevar la Hispanidad a las aulas madrileñas",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/juegos-danza-comics-llevar-hispanidad-aulas-madrilenas-20261013011259-nt.html",
+      "published_date": "2026-10-13T23:51:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La librería Pérgamo se despide de su histórico local y busca una nueva ubicación",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/libreria-pergamo-despide-historico-local-busca-nueva-20261013145515-nt.html",
+      "published_date": "2026-10-13T23:49:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El entorno del PSOE anima a nietos nacionalizados a recurrir la decisión del Supremo: «Os ayudaremos con lo que sea»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/entorno-psoe-anima-nietos-nacionalizados-recurrir-decision-20261014012325-nt.html",
+      "published_date": "2026-10-13T23:23:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moncloa eleva el choque con el Supremo y le acusa de alentar la tesis del pucherazo con la 'ley de nietos'",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/moncloa-eleva-choque-supremo-acusa-alentar-tesis-20261013012313-nt.html",
+      "published_date": "2026-10-13T23:23:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La 'fábrica de viviendas' prometida por Sánchez, en el limbo un año y medio después",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/fabrica-viviendas-prometida-sanchez-limbo-ano-medio-20261014012104-nt.html",
+      "published_date": "2026-10-13T23:22:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Carné Joven de Madrid podrá solicitarse desde los 12 años a partir de este miércoles",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/carne-joven-madrid-puede-solicitarse-partir-anos-20261013130623-nt.html",
+      "published_date": "2026-10-13T22:59:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diez valores que podrían subir en Bolsa con sus resultados",
       "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/13/6ace2340468aebec108b457c.html",
-      "published_date": "2026-10-13T12:37:38+00:00",
-      "category": "Economy"
+      "url": "https://www.expansion.com/mercados/2026/10/14/6ace1f47468aeb7e218b457d.html",
+      "published_date": "2026-10-13T22:20:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Treasury warns that Vox's proposal to \"charge personal income tax\" has a cost of 85,000 million",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/fiscal-00347/noticia-hacienda-avisa-propuesta-vox-cargarse-irpf-tiene-coste-85000-millones-20261013141212.html",
-      "published_date": "2026-10-13T12:12:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Spanish Stock Market pays 35,716 million in dividends until September, 22% more",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-bolsa-espanola-abona-35716-millones-dividendos-septiembre-22-mas-20261013132256.html",
-      "published_date": "2026-10-13T11:22:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Consumers warn Corpo y Escrivá that the digital euro protects less from fraud",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261013/11657810/consumidores-avisan-cuerpo-escriva-euro-digital-protege-fraude.html",
-      "published_date": "2026-10-13T11:04:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "New auction of Treasury Bills: this is the three- and nine-month profitability",
+      "title": "Tudanca se impone entre las agrupaciones del PSOE de Burgos para ser el cabeza de lista al Senado",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/nueva-subasta-letras-tesoro-rentabilidad-tres-nueve-20261013011403-nt.html",
-      "published_date": "2026-10-13T10:53:49+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/castilla-leon/tudanca-impone-agrupaciones-psoe-burgos-cabeza-lista-20261013001314-nt.html",
+      "published_date": "2026-10-13T22:13:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Congress archives the sanction against Ana Vázquez, the representative who brought pepper spray to the chamber",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/congreso-reprueba-pero-no-sanciona-ana-vazquez-diputada-que-llevo-gas-pimienta-hemiciclo_7048130_0.html",
-      "published_date": "2026-10-13T10:47:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Esade, Impact Bridge and MicroBank highlight the role of purposeful debt as a driver of social transformation",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261013/11657781/esade-impact-bridge-microbank-destacan-papel-deuda-proposito-motor-transformacion-social.html",
-      "published_date": "2026-10-13T10:44:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "ID Finance raises 545 million to promote the granting of credit lines",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/dinero/20261013/11657746/id-finance-capta-545-millones-impulsar-concesion-microcreditos.html",
-      "published_date": "2026-10-13T10:17:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The unions demand from the Government an increase in the minimum wage of 7% in 2027, up to 1,306.5 euros",
+      "title": "¿Tres izquierdas en Valencia? Compromís lleva al límite la negociación con Podemos e Izquierda Unida",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/13/6acdfd42fdddffec208b458d.html",
-      "published_date": "2026-10-13T10:08:09+00:00",
-      "category": "Economy"
+      "url": "https://www.elmundo.es/comunidad-valenciana/2026/10/14/6ace70c3e85ece01258b459e.html",
+      "published_date": "2026-10-13T22:04:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "CC OO and UGT demand that the minimum wage rise by 7% in 2027",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-13/cc-oo-y-ugt-reclaman-que-el-salario-minimo-suba-un-7-en-2027.html",
-      "published_date": "2026-10-13T10:04:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Julia Vizcayno and Beatriz Blanco, elected major falleras of Valencia for the year 2027",
+      "title": "Un muerto y tres heridos en una colisión con tres camiones implicados en la A-6 en Castrogonzalo (Zamora)",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/elegidas-falleras-mayores-valencia-ano-2027-20261013164148-nt.html",
-      "published_date": "2026-10-13T17:43:41+00:00",
+      "url": "https://www.abc.es/espana/castilla-leon/muerto-tres-heridos-colision-tres-camiones-implicados-20261013233246-nt.html",
+      "published_date": "2026-10-13T21:32:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The European Parliament will process the inclusion of Ceuta and Melilla as outermost regions",
+      "title": "Pardo de Vera, ex secretaria de Estado de Transportes: \"Cargos del Gobierno me propusieron colocar a gente afín al PSOE en la cúpula de Adif\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/13/6ace6df121efa06c418b458a.html",
+      "published_date": "2026-10-13T21:02:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Velázquez acusa a Sánchez de «despreciar» a Toledo y pide acabar con la «mafia» del Gobierno",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/eurocamara-tramitara-incluir-ceuta-melilla-regiones-ultraperifericas-20261013115106-nt.html",
-      "published_date": "2026-10-13T17:40:13+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-acusa-sanchez-despreciar-toledo-pide-acabar-20261013220319-nt.html",
+      "published_date": "2026-10-13T20:03:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Moncloa justifies that the Moroccan incursion in Ceuta waters was hidden because it was a \"specific event\"",
+      "title": "Núñez llama a convertir el «enfado» con Sánchez en votos para llevar a Feijóo a Moncloa",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/moncloa-justifica-ocultara-incursion-marroqui-aguas-ceuta-20261013151508-nt.html",
-      "published_date": "2026-10-13T17:39:53+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-llama-convertir-enfado-sanchez-votos-llevar-20261013213633-nt.html",
+      "published_date": "2026-10-13T19:36:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The National Police of Malaga honors the inspectors who hunt down the hitmen on the Costa del Sol",
+      "title": "Recogimiento en el cementerio Sidi Embarek",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/malaga/policia-nacional-malaga-condecora-inspectores-cazan-sicarios-20261013193610-nts.html",
-      "published_date": "2026-10-13T17:36:10+00:00",
+      "url": "https://www.abc.es/espana/recogimiento-cementerio-sidi-embarek-20261013192403-nt.html",
+      "published_date": "2026-10-13T19:23:28+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Each real estate agency loses an average of four rental apartments and three contracts after the housing decrees",
+      "title": "12 de los 15 concejales del PP de Algeciras abandonan el gobierno de Landaluce y barajan presentar una moción de censura junto a Vox",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/13/6ace42e921efa0b74f8b4593.html",
+      "published_date": "2026-10-13T19:16:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ERC define el pacto con Podemos como una absorción y Rufián insiste en que se sume el Frente Amplio bajo su liderazgo",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/decretos-vivienda-efecto-inmobiliarias-retirada-inmuebles-freno-20261013104639-nt.html",
-      "published_date": "2026-10-13T17:36:06+00:00",
+      "url": "https://www.abc.es/espana/cataluna/erc-define-pacto-podemos-absorcion-rufian-insiste-20261013142253-nt.html",
+      "published_date": "2026-10-13T18:55:15+00:00",
       "category": "Local Events"
     },
     {
-      "title": "De la Rosa recognizes \"some tension\" in the PSCL to elect the candidates for 29N",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/rosa-garantiza-maxima-neutralidad-elegir-candidatos-lideraran-20261013152840-nt.html",
-      "published_date": "2026-10-13T17:35:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The reservoirs of the Tagus basin close the hydrological year at 54% of their capacity",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/embalses-cuenca-tajo-cierran-ano-hidrologico-capacidad-20261013105859-nt.html",
-      "published_date": "2026-10-13T17:35:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Basque Government will no longer inform victims' associations when authorizing prison permits for ETA prisoners",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/pais-vasco/gobierno-vasco-informara-asociaciones-victimas-autorizar-permisos-20261013192539-nt.html",
-      "published_date": "2026-10-13T17:25:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The judge summons Sáenz de Tejada, the former magistrate whom Leire Díez \"recruited\" to harass Judge Biedma, to declare as under investigation",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/juez-biedma-pide-audiencia-nacional-incorporar-denuncias-20261013131135-nt.html",
-      "published_date": "2026-10-13T17:13:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Government urgently modifies the statutes of the ICO to adapt them to the España Crece fund",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-13/el-gobierno-modifica-por-la-via-de-urgencia-los-estatutos-del-ico-para-adaptarlos-al-fondo-espana-crece.html",
-      "published_date": "2026-10-13T17:05:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UGT and CC.OO. They demand that the minimum wage rise \"at least\" 7% and exceed 1,300 euros",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/ugt-ccoo-exigen-salario-minimo-suba-supere-20261013122421-nt.html",
-      "published_date": "2026-10-13T17:05:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Andalusia will have a long weekend of up to 5 days in 2027: the BOE sets the 12 holidays and two extra Mondays",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/calendario-laboral-2027-fija-diez-festivos-oficiales-20261013102317-nts.html",
-      "published_date": "2026-10-13T16:59:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The UCO defines the main accused of the Manzanares double crime as a \"textbook psychopath\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/uco-define-principal-acusado-doble-crimen-manzanares-20261013185442-nt.html",
-      "published_date": "2026-10-13T16:54:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pablo Motos, about his wife Laura Llopis: «I would let myself be killed by her. \"I don't know if we will end up together, but he is the most important person in my life.\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/pablo-motos-habla-nunca-relacion-mujer-laura-20261006102110-nt.html",
-      "published_date": "2026-10-13T16:54:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Sánchez, fuck you! You riffraff!\": a PP councilor from Torre Pacheco scolds those camped in Sol during the ultra protest",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/murcia/politica/pedro-sanchez-mierda-concejala-pp-torre-pacheco-increpa-manifestantes-sol_1_13582912.html",
-      "published_date": "2026-10-13T16:38:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kings Felipe VI and Letizia in Ceuta, live today | Follow the live appearance of Felipe VI at the Parador de Ceuta",
+      "title": "El PSC pide la comparecencia de Romà y Gras en el Parlament por la entrevista a un matrimonio antivacunas en TV3",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11657550/visita-reyes-ceuta-felipe-vi-leticia-crisis-migratoria-hoy-en-directo.html",
-      "published_date": "2026-10-13T16:19:38+00:00",
+      "url": "https://www.lavanguardia.com/television/20261013/11658186/psc-pide-comparecencia-roma-gras-parlament-entrevista-matrimonio-antivacunas-tv3.html",
+      "published_date": "2026-10-13T18:47:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Vicente Aleixandre school in Ceuta opens its doors to the Kings",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-colegio-vicente-aleixandre-ceuta-abre-puertas-reyes-20261013180952.html",
-      "published_date": "2026-10-13T16:09:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colau sees \"an honor\" that Frente Amplio proposes her as leader, but insists on unity with Podemos and reaches out to ERC",
+      "title": "Frente Amplio acuerda que Emilio Delgado sea cabeza de lista por Madrid",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/colau-ve-un-honor-que-frente-amplio-proponga-como-lider-pero-insiste-unidad-con-podemos-tiende-mano-erc_7048310_0.html",
-      "published_date": "2026-10-13T16:05:52+00:00",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-acuerda-que-emilio-delgado-sea-cabeza-lista-por-madrid_7048383_0.html",
+      "published_date": "2026-10-13T18:43:48+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The National Court charges former judge Sáenz de Tejada in the Leire Díez case",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/audiencia-nacional-imputa-exjuez-saenz-tejada-caso-leire-diez_1_13582804.html",
-      "published_date": "2026-10-13T15:46:24+00:00",
+      "title": "Feijoo echa en cara a Sánchez que no acompañe a los reyes en Ceuta",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261013/11658182/feijoo-echa-cara-sanchez-acompane-reyes-ceuta.html",
+      "published_date": "2026-10-13T18:35:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Colau insists on continuing to work so that Podemos joins the Broad Front: \"There is still time\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/colau-insiste-seguir-trabajando-integre-frente-amplio-todavia-hay-tiempo_1_13582780.html",
-      "published_date": "2026-10-13T15:40:41+00:00",
+      "title": "Los partidos del Frente Amplio pactan que Emilio Delgado encabece Madrid y eso aboca a Ada Colau a ir por Barcelona",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/13/6ace73e9e9cf4a207c8b45a1.html",
+      "published_date": "2026-10-13T18:31:41+00:00",
       "category": "Local Events"
     }
   ]
