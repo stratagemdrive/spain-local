@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-14T15:43:31.350169+00:00",
+  "last_updated": "2026-10-15T01:07:53.357340+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,48 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Tres castillos de fuegos artificiales y un espectáculo de drones hoy en Valencia: horarios y ubicación",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/tres-castillos-fuegos-artificiales-espectaculo-drones-hoy-20261015105742-nt.html",
+      "published_date": "2026-10-14T23:46:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sánchez sitúa a Margarita Robles como número dos del PSOE en Madrid en unas listas plagadas de ministros",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/margarita-robles-numero-dos-psoe-listas-madrid-20261014174436-nt.html",
+      "published_date": "2026-10-14T22:49:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Qué ministros irán en las listas al Congreso y quiénes no repetirán",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html",
+      "published_date": "2026-10-14T16:54:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Margarita Robles será la 'número 2' de Sánchez al Congreso por Madrid",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/madrid/noticia-margarita-robles-sera-numero-sanchez-congreso-madrid-20261014174024.html",
+      "published_date": "2026-10-14T15:40:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sánchez aúpa a Robles a número dos del PSOE en Madrid por delante de Marlaska tras la crisis de Ceuta",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/14/6acfa004e85ece67338b45a6.html",
+      "published_date": "2026-10-14T15:35:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Margarita Robles será la número dos de Sánchez en la lista del PSOE y Antonio Hernando encabezará el Senado",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/margarita-robles-sera-numero-dos-sanchez-lista-psoe_7048818_0.html",
+      "published_date": "2026-10-14T15:34:28+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Margarita Robles será la ‘número dos’ de Pedro Sánchez en las listas del PSOE",
       "source": "El País",
       "url": "https://elpais.com/espana/elecciones-generales/2026-10-14/margarita-robles-sera-la-numero-dos-de-pedro-sanchez-en-las-listas-del-psoe.html",
@@ -155,6 +197,13 @@
       "source": "elDiario.es",
       "url": "https://www.eldiario.es/politica/margarita-robles-sera-numero-sanchez-listas-psoe-madrid_1_13582904.html",
       "published_date": "2026-10-14T15:08:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sánchez vuelve a recurrir a Robles como número dos por Madrid para las elecciones del 29-N",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261014/11658732/sanchez-encaja-ministros-listas-psoe-salvo-comicios-autonomicos.html",
+      "published_date": "2026-10-14T10:29:22+00:00",
       "category": "Military"
     },
     {
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "The rise of Defense forces offices to redesign operations",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/juridico/actualidad-tendencias/2026/10/12/auge-defensa-obliga-despachos-redisenar-operaciones.html",
-      "published_date": "2026-10-12T19:27:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "El sexto destructor lanzamisiles de EE UU llegará este jueves a la base naval de Rota",
-      "source": "El País",
-      "url": "https://elpais.com/espana/2026-10-12/el-sexto-destructor-lanzamisiles-de-ee-uu-llegara-este-jueves-a-la-base-naval-de-rota.html",
-      "published_date": "2026-10-12T03:30:01+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "All the keys to the 12-O parade: 34 fighters, the controversial 8x8 Dragon and no military units from Ceuta",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/12/6acbb064fdddff8e448b4585.html",
-      "published_date": "2026-10-12T00:15:22+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defense prepares the replacement of VIP transport planes for authorities",
+      "title": "El mundo se enfrenta a una grave crisis del gas natural licuado",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/defensa-prepara-relevo-aviones-vip-transporte-autoridades-20261012014924-nt.html",
-      "published_date": "2026-10-11T23:55:38+00:00",
-      "category": "Military"
+      "url": "https://www.abc.es/economia/mundo-enfrenta-grave-crisis-gas-natural-licuado-20261015011529-nt.html",
+      "published_date": "2026-10-14T23:15:29+00:00",
+      "category": "Energy"
     },
     {
-      "title": "More than 4,300 soldiers, 183 vehicles and 82 aircraft in the parade, but without units from Ceuta",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/4300-militares-183-vehiculos-aeronaves-novedad-eurofighter-20261012014857-nt.html",
-      "published_date": "2026-10-11T23:49:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The sixth US destroyer will arrive at the Rota base on October 15",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sexto-destructor-estadounidense-llegara-base-rota-octubre_7047697_0.html",
-      "published_date": "2026-10-11T19:24:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Esteban amplifies the absurdity by stating that \"he was informed minutes before\" of Bengoetxea's candidacy, which he already knew",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/pais-vasco/2026/10/11/6acbbd44fdddff80638b458c.html",
-      "published_date": "2026-10-11T17:38:14+00:00",
-      "category": "Military"
+      "title": "Solaria invertirá 55.125 millones de euros en tres centros de datos en Uruguay",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/solaria-invertira-55-125-millones-de-euros-en-tres-centros-de-datos-en-uruguay/",
+      "published_date": "2026-10-14T22:30:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "El 'rey de los piratas' de la luz, a juicio por por defraudar 61 millones a Endesa, Naturgy y Repsol",
@@ -410,18 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "El gas natural se cotiza a 86 euros el megavatio hora, precio máximo desde enero de 2023",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-gas-natural-se-cotiza-a-86-euros-el-megavatio-hora-precio-maximo-desde-enero-de-2023/",
-      "published_date": "2026-10-13T12:00:00+00:00",
-      "category": "Energy"
+      "title": "Pardo de Vera revela que Pepe Blanco le llamó para consultarle sobre Aldesa, la empresa vinculada a Zapatero",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/pardo-vera-revela-blanco-llamo-consultarle-sobre-20261015012125-nt.html",
+      "published_date": "2026-10-14T23:29:22+00:00",
+      "category": "Economy"
     },
     {
-      "title": "EDP suministrará energía solar a Akamai en Singapur para apoyar su expansión digital",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/edp-suministrara-energia-solar-a-akamai-en-singapur-para-apoyar-su-expansion-digital/",
-      "published_date": "2026-10-13T11:30:00+00:00",
-      "category": "Energy"
+      "title": "España es la única gran economía del euro que pierde productividad desde 2018 pese a recibir 100.000 milllones de fondos europeos",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/15/6acfc0db21efa0734c8b45de.html",
+      "published_date": "2026-10-14T22:58:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La Fiscalía rectifica y avala ante el juez que la Audiencia Nacional es competente para investigar la querella contra Julio Iglesias",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/fiscalia-rectifica-avala-juez-audiencia-nacional-competente-investigar-querella-julio-iglesias_1_13584127.html",
+      "published_date": "2026-10-14T17:38:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Telefónica se alía con Revolut en Alemania para telefonía móvil",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/14/6acfab09e5fdeae1078b45ad.html",
+      "published_date": "2026-10-14T16:28:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El IPC de EEUU y el repunte de los bonos diluyen el avance del Ibex 35, que cierra plano en los 19.200",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ipc-eeuu-repunte-bonos-diluyen-avance-ibex-35-cierra-plano-19200-20261014180858.html",
+      "published_date": "2026-10-14T16:08:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "El Ibex digiere la tensiones inflacionistas en EEUU",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "De 2.300 millones de euros en deducciones fiscales a sólo 4: el estrepitoso fiasco fiscal de la ley de Calviño para lanzar las 'startup'",
+      "title": "Urtasun guarda silencio sobre el Principal de Valencia tres semanas después del cierre",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/urtasun-guarda-silencio-sobre-principal-valencia-tres-20261015194500-nt.html",
+      "published_date": "2026-10-14T23:44:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vocales conservadores del CGPJ ven la sombra del PSOE en el veto de los progresistas a la juez Biedma",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/vocales-conservadores-cgpj-ven-sombra-psoe-veto-20261015012144-nt.html",
+      "published_date": "2026-10-14T23:22:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez completa la legislatura con menos leyes aprobadas en democracia",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-completa-legislatura-leyes-aprobadas-democracia-20261012011805-nt.html",
+      "published_date": "2026-10-14T23:19:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La tía Javiera, la rosquillera de las mil sobrinas",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/tia-javiera-rosquillera-mil-sobrinas-20261014010922-nt.html",
+      "published_date": "2026-10-14T23:09:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Una mafia del top manta vendió más de 70.000 camisetas falsas junto al Bernabéu",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/mafia-top-manta-vendio-70000-camisetas-falsas-20261014010234-nt.html",
+      "published_date": "2026-10-14T23:02:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El PSCL pendiente del 'sí' de Ferraz a unas listas que en Burgos recuperan a Tudanca para el Senado",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pscl-pendiente-ferraz-listas-burgos-recuperan-tudanca-20261014213010-nt.html",
+      "published_date": "2026-10-14T22:04:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "80 años de la primera azafata de avión en España: \"Antes se miraba más el servicio, ahora se repasa insistentemente qué hacer en cada emergencia\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/14/6ace34bee9cf4a766c8b458b.html",
-      "published_date": "2026-10-13T23:51:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Convocadas las oposiciones a Letrado de las Cortes Generales: plazas, requisitos y fechas",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/convocadas-oposiciones-letrado-cortes-generales-plazas-requisitos-20261013010335-nt.html",
-      "published_date": "2026-10-13T23:08:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "¿Bonos verdes o sociales? Los grandes bancos reparten sus preferencias",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/sostenibilidad/2026/10/14/bonos-verdes-sociales-grandes-bancos-reparten-preferencias.html",
-      "published_date": "2026-10-13T22:45:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "La Justicia británica ordena a Santander pagar 81 millones como aval por una planta de TSK en Mozambique",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/14/6ace8277e5fdea507d8b4571.html",
-      "published_date": "2026-10-13T22:43:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BT podrá hacer ofertas agresivas en zonas donde compite con VMO2 (Telefónica)",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/14/6accf981468aebb1668b4583.html",
-      "published_date": "2026-10-13T22:25:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Más de cuatro millones de euros para derribar viviendas en ruina de 92 pueblos en Aragón",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/aragon/cuatro-millones-euros-derribar-viviendas-ruina-pueblos-20261014172745-nt.html",
-      "published_date": "2026-10-14T15:27:46+00:00",
+      "url": "https://www.elmundo.es/economia/2026/10/15/6acf6510fdddfff6248b457e.html",
+      "published_date": "2026-10-14T22:00:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mompó, Gaspar y Rodríguez advierten de la «polarización exagerada de la política»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/mompo-gaspar-rodriguez-advierten-polarizacion-exagerada-politica-20261014172709-nt.html",
-      "published_date": "2026-10-14T15:27:09+00:00",
+      "title": "Illa salva los 4,3 millones que avaló a los líderes independentistas",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/15/6acfb517fdddff75718b4579.html",
+      "published_date": "2026-10-14T22:00:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "El PSOE mantiene que lo único «histórico» es el dinero que recibe la Junta del Gobierno",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/psoe-responde-manueco-historico-dinero-recibe-junta-20261014130601-nt.html",
-      "published_date": "2026-10-14T15:21:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Comunidad de Madrid denuncia ante la Fiscalía delitos de odio contra Ayuso en la acampada de Sol",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/comunidad-madrid-denuncia-ante-fiscalia-posibles-delitos-20261014153424-nt.html",
-      "published_date": "2026-10-14T15:20:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colau ofrece renunciar a su candidatura y cambiar el nombre de Frente Amplio para lograr la unidad con Podemos",
-      "source": "El País",
-      "url": "https://elpais.com/espana/catalunya/2026-10-14/colau-ofrece-renunciar-a-su-candidatura-y-cambiar-el-nombre-de-frente-amplio-para-lograr-la-unidad-con-podemos.html",
-      "published_date": "2026-10-14T15:19:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cargas policiales y cinco detenidos en la protesta por la educación pública en Madrid",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/cargas-policiales-cinco-detenidos-protesta-educacion-publica-20261014120002-nt.html",
-      "published_date": "2026-10-14T15:11:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El PP denuncia la “incoherencia” de la portavoz del PSOE por los pisos de su pareja y la reta a un debate de vivienda",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261014/11658965/pp-denuncia-incoherencia-portavoz-psoe-pisos-pareja-reta-debate-vivienda.html",
-      "published_date": "2026-10-14T14:45:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rueda acusa al Gobierno de usar electoralmente las acampadas por la vivienda",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/rueda-acusa-gobierno-usar-electoralmente-acampadas-vivienda-20261014134626-nt.html",
-      "published_date": "2026-10-14T14:44:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "¿Aún no has dado de alta a tus equipos en los Juegos Deportivos de ECM?",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/escuela-deporte/dado-alta-tus-equipos-juegos-deportivos-ecm-20261014164144-nt.html",
-      "published_date": "2026-10-14T14:41:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Xunta desmonta el alarmismo de Abel Caballero por el agua en Vigo: el suministro está garantizado",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/xunta-desmonta-alarmismo-abel-caballero-agua-vigo-20261014163932-nt.html",
-      "published_date": "2026-10-14T14:39:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La acampada de Sol trasladará la Fiesta de la Trashumancia a la Plaza Mayor",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/acampada-sol-trasladar-fiesta-trashumancia-plaza-mayor-20261014152921-nt.html",
-      "published_date": "2026-10-14T14:31:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ayuso agotará todas las vías judiciales ante el Supremo si el delegado de Sánchez no desaloja Sol",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/ayuso-agotara-vias-judiciales-ante-supremo-delegado-20261014145935-nt.html",
-      "published_date": "2026-10-14T14:31:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El PP denuncia la \"incoherencia\" de la portavoz del PSOE tras conocerse los 30 pisos de su pareja",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/economia/politica/2026/10/14/pp-denuncia-incoherencia-portavoz-psoe-conocerse-30-pisos-pareja.html",
-      "published_date": "2026-10-14T13:45:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Díaz acusa al PP de querer recortar las pensiones y asegura que el sistema público no va a \"petar\"",
+      "title": "Colau ve \"desconcertante\" que el acuerdo de ERC y Podemos no incluya primarias: \"Hay alguna contradicción\"",
       "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/laboral-00346/noticia-diaz-acusa-pp-querer-recortar-pensiones-asegura-sistema-publico-no-va-petar-20261014150610.html",
-      "published_date": "2026-10-14T13:06:10+00:00",
+      "url": "https://www.europapress.es/nacional/noticia-colau-ve-desconcertante-acuerdo-erc-podemos-no-incluya-primarias-hay-alguna-contradiccion-20261014230952.html",
+      "published_date": "2026-10-14T21:09:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "La Aemet alerta de una dana y de un desplome de las temperaturas para el fin de semana y Protección Civil aconseja extremar la precaución en las carreteras",
+      "title": "Landaluce asume el fin de su mandato en Algeciras tras la moción de censura del PP y Vox: «Esto no tiene vuelta atrás»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cadiz/landaluce-asume-fin-mandato-algeciras-tras-mocion-20261014230730-nts.html",
+      "published_date": "2026-10-14T21:07:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"El primero de los marroncillos\": correos internos revelan que el hombre del PSOE en Tragsa dirigió 'enchufes' tras Jésica",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/14/6acf37b0e85ecefb528b4589.html",
-      "published_date": "2026-10-14T13:00:46+00:00",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/14/6abe8311fc6c838a398b45ac.html",
+      "published_date": "2026-10-14T20:43:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "La inflación vuelve a escalar en EE.UU. y queda en el 3,7% por el combustible",
+      "title": "Los \"30 pisos\" de la pareja de la portavoz de Ferraz le explotan al PSOE en su campaña contra los \"rentistas\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/14/6acfd0c5e9cf4a98198b45c6.html",
+      "published_date": "2026-10-14T20:43:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los maquinistas alertaron en junio de las incidencias del mismo modelo de tren que ardió el lunes en Zaragoza",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/14/6acfcc27e4d4d80d1a8b45a2.html",
+      "published_date": "2026-10-14T20:43:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feijóo comunica en Bruselas que respalda a Pablo Hernández de Cos para presidir el BCE y refuerza su candidatura",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/14/6acfbc00e85ece9f628b4592.html",
+      "published_date": "2026-10-14T20:42:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anabel Mateos releva a Antonio Hernando, su pareja, como cabeza de lista del PSOE de Almería al Congreso",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/almeria/anabel-mateos-releva-antonio-hernando-pareja-cabeza-20261014213919-nts.html",
+      "published_date": "2026-10-14T19:42:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La lista completa del PSOE de Córdoba para el 29-N: el diputado Alberto Mayoral encabeza la lista al Congreso",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/diputado-alberto-mayoral-numero-lista-psoe-cordoba-20261014182244-nts.html",
+      "published_date": "2026-10-14T19:33:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El PSOE andaluz rechaza el cese de su consejero tras asesorar a Begoña Gómez: «Es una caza de brujas del PP»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/psoe-andaluz-rebela-cese-consejero-tras-asesorar-20261014201606-nts.html",
+      "published_date": "2026-10-14T19:17:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez cree que si PP y Vox llegan al Gobierno de España \"firman la carta de defunción del Estado del Bienestar\"",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/aragon/noticia-sanchez-cree-si-pp-vox-llegan-gobierno-espana-firman-carta-defuncion-estado-bienestar-20261014203519.html",
+      "published_date": "2026-10-14T18:35:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261014/11658895/inflacion-eeuu-septiembre-precios.html",
-      "published_date": "2026-10-14T13:00:00+00:00",
+      "url": "https://www.lavanguardia.com/politica/20261014/11659113/mireia-ingla-jordi-albert-laura-pelay-seran-numeros-2-3-4-lista-erc-congreso.html",
+      "published_date": "2026-10-14T18:17:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Toyota presenta el nuevo autobús de hidrógeno Sora, con autonomía de más de 300 kilómetros",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/toyota-presenta-el-nuevo-autobus-de-hidrogeno-sora-con-autonomia-de-mas-de-300-kilometros/",
-      "published_date": "2026-10-14T12:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Aemet avisa de un \"cambio brusco de tiempo\": alerta de la llegada de una dana y de un desplome del mercurio el fin de semana",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/aemet-avisa-un-cambio-brusco-tiempo-que-acabara-con-calor-anomalo-octubre_7048720_0.html",
-      "published_date": "2026-10-14T12:50:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renfe retira la parte de AVE no afectada por el incendio pero la locomotora sigue en la vía y los retrasos se mantendrán unos días más",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/renfe-retira-parte-ave-no-afectada-por-incendio-pero-locomotora-sigue-via-los-retrasos-se-mantendran-unos-dias-mas_7048705_0.html",
-      "published_date": "2026-10-14T12:34:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Los vocales progresistas del CGPJ se niegan a firmar un comunicado de apoyo a la juez Biedma, objetivo de las cloacas del PSOE",
+      "title": "Ester Muñoz sobre la fractura en el CGPJ en el apoyo a Biedma: \"Se puede ser progresista sin ser feminista\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/14/6acf4b17e9cf4ad8248b459d.html",
-      "published_date": "2026-10-14T12:31:40+00:00",
+      "url": "https://www.elmundo.es/murcia/2026/10/14/6acfb9cbe4d4d80d1a8b4597.html",
+      "published_date": "2026-10-14T17:47:49+00:00",
       "category": "Local Events"
     }
   ]
