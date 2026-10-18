@@ -1,8 +1,15 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-17T14:01:19.958946+00:00",
+  "last_updated": "2026-10-18T00:30:14.399190+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "The King applies a new and forceful diplomacy for Ceuta and Melilla",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/casa-real/rey-eleva-tono-ceuta-20261018012859-nt.html",
+      "published_date": "2026-10-17T23:29:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Frente Amplio presents Ada Colau as a candidate without reaching a general agreement with Podemos",
       "source": "20minutos",
@@ -137,11 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The European Commission warns that \"national priority\" in public aid violates community law",
+      "title": "The Spanish defense cannot depend on the ballot boxes",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/defensa-espanola-puede-depender-urnas-20261014015427-nt.html",
+      "published_date": "2026-10-17T23:54:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sánchez boasts of pacifism, but has already requested weapons from the United States for more than 7.1 billion",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-presume-pacifismo-solicitado-estados-unidos-armamento-20261017202206-nt.html",
+      "published_date": "2026-10-17T20:38:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The Ertzaintza and the National Court investigate two young people of Spanish nationality for serious crimes of terrorism",
       "source": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/politica/comision-europea-advierte-prioridad-nacional-ayudas-publicas-vulnera-derecho-comunitario_1_13581253.html",
-      "published_date": "2026-10-13T09:38:19+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.eldiario.es/euskadi/ertzaintza-audiencia-nacional-investigan-jovenes-nacionalidad-espanola-delitos-graves-terrorismo_1_13594556.html",
+      "published_date": "2026-10-17T19:51:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Count Rudi, the aristocrat who was the engine of Marbella luxury, dies",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/malaga/muere-conde-rudi-aristocrata-acompano-marbella-inicios-20261017213702-nts.html",
+      "published_date": "2026-10-17T19:48:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two detainees in Irun investigated for terrorism and linked to “dissident sectors of the Abertzale left”",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261017/11661566/dos-detenidos-irun-investigados-terrorismo.html",
+      "published_date": "2026-10-17T18:12:50+00:00",
+      "category": "Military"
     },
     {
       "title": "The electoral advance knocks down the Authority in Defense of the Financial Client again after almost five years",
@@ -246,41 +281,6 @@
       "source": "El Mundo",
       "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad092ade4d4d8ed218b4586.html",
       "published_date": "2026-10-15T09:01:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sánchez intenta compensar su \"podemización\" con Robles de número dos y tras quedarse sin una vicepresidenta como 'ticket'",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6acfd2ec21efa0d8708b4585.html",
-      "published_date": "2026-10-15T04:56:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "El encaje de ministros y cargos de Sánchez abre una pugna interna en las listas del PSOE en Andalucía y Comunidad Valenciana",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/encaje-ministros-cargos-sanchez-abre-una-pugna-interna-las-listas-psoe-andalucia-comunidad-valenciana_7048834_0.html",
-      "published_date": "2026-10-15T03:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tres castillos de fuegos artificiales y un espectáculo de drones hoy en Valencia: horarios y ubicación",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/tres-castillos-fuegos-artificiales-espectaculo-drones-hoy-20261015105742-nt.html",
-      "published_date": "2026-10-14T23:46:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Sánchez sitúa a Margarita Robles como número dos del PSOE en Madrid en unas listas plagadas de ministros",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/margarita-robles-numero-dos-psoe-listas-madrid-20261014174436-nt.html",
-      "published_date": "2026-10-14T22:49:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Qué ministros irán en las listas al Congreso y quiénes no repetirán",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/ministros-iran-listas-congreso-no-repetiran_1_13585524.html",
-      "published_date": "2026-10-14T16:54:02+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,132 @@
       "category": "Energy"
     },
     {
+      "title": "Spanish mortgages leave the podium of the cheapest in Europe after complaints from bankers",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/hipotecas-espanolas-abandonan-top-baratas-europa-tras-20261017012148-nt.html",
+      "published_date": "2026-10-17T23:43:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "José Elías, Catalan businessman: \"The best investment in my son's education was giving him 1,000 euros to lose\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/jose-elias-empresario-catalan-mejor-inversion-educacion-20261017170000-nt.html",
+      "published_date": "2026-10-17T23:39:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Amparo Moraleda (Airbus): The woman who flies high",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261018/11661551/amparo-moraleda-airbus-mujer-vuela-alto.html",
+      "published_date": "2026-10-17T23:26:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What home can you buy for 250,000 euros? A mini-apartment in Madrid or San Sebastián compared to the big apartment in Lugo",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/vivienda-puedes-comprar-250000-euros-minipiso-madrid-20261018012207-nt.html",
+      "published_date": "2026-10-17T23:22:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Feijóo, facing a problem if he wins: he suspects that Sánchez is hiding a deficit, but revealing it would trigger Spain's risk premium",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/18/6ad102ebe85ecef44b8b458d.html",
+      "published_date": "2026-10-17T23:17:31+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ana Jaureguizar, president of L'Oreal: \"I miss Spain raising its voice in Brussels to defend our industry\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/18/6ad0a4f2e4d4d8ed218b4593.html",
+      "published_date": "2026-10-17T23:06:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "More employment and less convergence in productivity",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/18/6ad2454efdddff0e7f8b458c.html",
+      "published_date": "2026-10-17T22:06:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Absenteeism and inflation",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/18/6ad1021bfc6c834d4b8b4588.html",
+      "published_date": "2026-10-17T22:06:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The investment in BBVA shares has appreciated by 56% since the takeover bid",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261018/11661546/inversion-acciones-bbva-revaloriza-56-opa.html",
+      "published_date": "2026-10-17T22:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tourism under suspicion",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/turismo-bajo-sospecha-20261018000100-nt.html",
+      "published_date": "2026-10-17T22:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The telecos, after the SpaceX order",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/17/6abfb96c468aeb49278b458d.html",
+      "published_date": "2026-10-17T19:04:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "More than a third of European companies exceed their budget on AI",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/tecnologia/2026/10/17/tercio-empresas-europeas-superan-presupuesto-ia.html",
+      "published_date": "2026-10-17T18:54:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "X-ray of the rental: these are the prices by capital",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/17/radiografia-alquiler-asi-estan-precios-capitales.html",
+      "published_date": "2026-10-17T18:44:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Puig adds followers waiting for his 'Investor's Day'",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/17/6ad3bf04e5fdea4b718b4575.html",
+      "published_date": "2026-10-17T18:39:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "More than 1,000 days without new Budgets: how long can Spain live with the 2023 accounts?",
+      "source": "El País",
+      "url": "https://elpais.com/economia/negocios/2026-10-17/mas-de-1000-dias-sin-nuevos-presupuestos-hasta-cuando-puede-vivir-espana-con-las-cuentas-de-2023.html",
+      "published_date": "2026-10-17T15:45:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Yolanda Díaz sees it as \"unacceptable\" that the right \"attacks\" pensions: \"We will not allow them to not revalue them\"",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-yolanda-diaz-ve-inaceptable-derechas-ataquen-pensiones-no-consentiremos-no-revaloricen-20261017171450.html",
+      "published_date": "2026-10-17T15:14:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stopping foreign home purchases: where it is concentrated and what is its nationality",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frenazo-compra-extranjera-vivienda-donde-se-concentra-cual-es-su-nacionalidad_7050017_0.html",
+      "published_date": "2026-10-17T14:41:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The general secretary of UGT, Pepe Álvarez, regrets the lack of agreement on the left",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261017/11661477/secretario-general-ugt-pepe-alvarez-lamenta-falta-acuerdo-izquierda.html",
+      "published_date": "2026-10-17T14:39:44+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Núñez supports Feijóo's \"zero tax\" to buy a home or start a business in the towns",
       "source": "ABC",
       "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-respalda-impuesto-cero-feijoo-comprar-vivienda-20261017152352-nt.html",
@@ -438,269 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Montero launches his candidacy and accuses Frente Amplio of preferring to agree with PSOE in the Senate than with Podemos in the CCAA",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-montero-lanza-candidatura-acusa-frente-amplio-preferir-pactar-psoe-senado-podemos-ccaa-20261017123614.html",
-      "published_date": "2026-10-17T10:36:14+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Podemos vindicates the Montero-Rufián tandem after the fiasco of the negotiation with Frente Amplio: \"They are the only ones who can stand up to the right\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/reivindica-tandem-montero-rufian-fiasco-negociacion-frente-amplio-son-unicos-plantar-cara-derecha_1_13593564.html",
-      "published_date": "2026-10-17T10:35:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The IMF calls to fill the fiscal and energy cushion in the face of global uncertainty",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261017/11661324/fmi-alerta-necesidad-cuadrar-cuentas-incertidumbre-mundial.html",
-      "published_date": "2026-10-17T10:33:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Christie's International Real Estate is presented in Barcelona",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261017/11661395/christie-s-international-real-estate-presenta-barcelona.html",
-      "published_date": "2026-10-17T10:16:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How to win on the Stock Market without leaving Europe, with Flavien del Pino from BDL Capital Management",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/podcasts/en-accion/2026/10/16/ganar-bolsa-salir-europa-flaviel-pino-bld.html",
-      "published_date": "2026-10-17T09:55:19+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Business calls: what the new 400 prefix means and what to do if they call you from another number",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/noticia-llamadas-comerciales-significa-nuevo-prefijo-400-hacer-si-te-llaman-otro-numero-20261017095950.html",
-      "published_date": "2026-10-17T07:59:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Luxury industry: strategies to grow in a changing environment",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/luxury-forum/2026/10/17/6ad3181ee5fdea74708b458e.html",
-      "published_date": "2026-10-17T06:55:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The success of Irene Montero and Gabriel Rufián",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/blog/el-boletin-del-director/exito-irene-montero-gabriel-rufian_132_13593339.html",
-      "published_date": "2026-10-17T06:39:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rent with option to buy, the way to housing when you can't afford an entry: \"The bank asked us for a lot of money\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/alquiler-con-opcion-compra-via-vivienda-cuando-no-llega-para-una-entrada-banco-nos-pedia-muchisimo-dinero_7048789_0.html",
-      "published_date": "2026-10-17T05:51:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The departure of Montse Mínguez shakes the PSOE: from the controversy over her partner's real estate businesses to her resignation",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/marcha-montse-minguez-sacude-psoe-polemica-por-los-negocios-inmobiliarios-su-pareja-su-dimision_7049853_0.html",
-      "published_date": "2026-10-17T05:46:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Niño Becerra, economist, on the future of the pension system in Spain: «The Social Security debt is 130,000 million euros. It doesn't add up because it doesn't make enough money.\"",
+      "title": "A TV and an air bridge to the Caribbean: those who do not sleep for 29-N",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/nino-becerra-economista-sobre-futuro-sistema-pensiones-20261017070000-nt.html",
-      "published_date": "2026-10-17T05:00:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BBVA and Sabadell rise strongly in the stock market a year after the takeover bid",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261017/11661047/bbva-sabadell-suben-fuerza-bolsa-ano-opa.html",
-      "published_date": "2026-10-17T04:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The new economy is here: the technologies that change the world meet in Barcelona",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261017/11657822/nueva-economia-esta-tecnologias-cambian-mundo-dan-cita-barcelona-brl.html",
-      "published_date": "2026-10-17T03:55:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ibex companies lead job creation among large European listed companies",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-17/las-empresas-del-ibex-lideran-la-creacion-de-empleo-entre-las-grandes-cotizadas-europeas.html",
-      "published_date": "2026-10-17T03:45:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The price of magical realism at the polls",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-17/el-precio-del-realismo-magico-en-las-urnas.html",
-      "published_date": "2026-10-17T03:45:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Enough of catastrophism: uncertainty makes us free",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-17/basta-de-catastrofismo-la-incertidumbre-nos-hace-libres.html",
-      "published_date": "2026-10-17T03:40:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Flying Tiger Copenhagen: the king of impulse purchases' plan to conquer the world",
-      "source": "El País",
-      "url": "https://elpais.com/economia/negocios/2026-10-17/flying-tiger-copenhagen-el-plan-del-rey-de-la-compra-por-impulso-para-conquistar-el-mundo.html",
-      "published_date": "2026-10-17T03:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mixed, fixed or variable? What mortgage to take out in the middle of the rise in the Euribor",
-      "source": "El País",
-      "url": "https://elpais.com/economia/negocios/2026-10-17/que-hipoteca-contratar-en-pleno-repunte-del-euribor.html",
-      "published_date": "2026-10-17T03:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Pope leaves the hospital four days after his lung operation",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-10-17/el-papa-sale-esta-tarde-del-hospital-cuatro-dias-despues-de-su-operacion-de-pulmon.html",
-      "published_date": "2026-10-17T13:50:06+00:00",
+      "url": "https://www.abc.es/espana/jose-a-perez-tele-puente-aereo-caribe-duermen-29n-20261018012641-nt.html",
+      "published_date": "2026-10-17T23:43:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two minors arrested for the death of a woman immobilized and gagged during a robbery at her home in Burgos",
+      "title": "Polls for the 29N general elections in the Canary Islands: results of PSOE, PP, VOX and Canarian Coalition and winner according to the polls",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/canarias/encuestas-elecciones-generales-29n-canarias-resultados-psoe-20261017051500-nt.html",
+      "published_date": "2026-10-17T23:39:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The local police of Rivas revolt against the left-wing government due to the total absence of dialogue",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/policia-local-rivas-revuelve-gobierno-izquierdas-ausencia-20261017010728-nt.html",
+      "published_date": "2026-10-17T23:36:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Metro station in Sol reopens after safety and health conditions are restored",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/metro-finaliza-limpieza-sol-seguira-cerrado-tener-20261017124804-nt.html",
+      "published_date": "2026-10-17T23:35:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is it always worth renting your home in Spain? This is the profitability that you can get from all the savings",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/vivienda-mejor-inversion-descubre-rentabilidad-opciones-tus-20261017012717-nt.html",
+      "published_date": "2026-10-17T23:33:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ceuta, portrait of a wounded city",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/ceuta-retrato-ciudad-herida-20261018012815-nt.html",
+      "published_date": "2026-10-17T23:28:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The newspaper archive portrays Sánchez: neither early elections nor more than two terms",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/perderan-2027-aburrimiento-limite-mandatos-hemeroteca-desmonta-20261006012830-nt.html",
+      "published_date": "2026-10-17T23:28:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Adamuz's evidence is still kept in a drawer without being analyzed nine months later",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/pruebas-adamuz-siguen-guardadas-cajon-analizar-nueve-20261018012805-nts.html",
+      "published_date": "2026-10-17T23:28:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The keys to the emergence of the Ombudsman on the scene with the 'grandchildren law'",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/claves-irrupcion-escena-defensor-pueblo-ley-nietos-20261018012727-nt.html",
+      "published_date": "2026-10-17T23:27:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The PP considers removing the State from the capital of private companies if it wins the elections",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/pp-pone-punto-mira-presencia-estado-empresas-20261018012739-nt.html",
+      "published_date": "2026-10-17T23:27:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Government is getting its act together to contain another major blackout",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/maria-jesus-perez-gobierno-entra-panico-ante-gran-apagon-20261018012707-nt.html",
+      "published_date": "2026-10-17T23:27:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Non-aggression pact\" of Feijóo and Abascal with an eye on the Senate",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/17/6ad36e44e9cf4a94488b4585.html",
-      "published_date": "2026-10-17T13:38:18+00:00",
+      "url": "https://www.elmundo.es/espana/2026/10/18/6ad3a436fdddfffb408b459c.html",
+      "published_date": "2026-10-17T23:25:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A grass fire next to the Valparaíso neighborhood of Toledo is controlled",
+      "title": "The head of the Mossos Investigation: \"An attack can destabilize the State, but organized crime can corrupt it in silence\"",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/incendio-barrio-valparaiso-toledo-moviliza-varias-dotaciones-20261017141710-nt.html",
-      "published_date": "2026-10-17T13:21:53+00:00",
+      "url": "https://www.abc.es/espana/cataluna/jefe-investigacion-mossos-atentado-terrorista-puede-desestabilizar-20261018012323-nt.html",
+      "published_date": "2026-10-17T23:23:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Feijóo is committed to guaranteeing the \"accessible and secret\" vote of people with visual disabilities in all elections",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-se-compromete-garantizar-voto-accesible-secreto-las-personas-con-discapacidad-visual-todas-las-elecciones_7049995_0.html",
-      "published_date": "2026-10-17T13:12:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two minors arrested for the death of an 83-year-old woman during a robbery at her home in Burgos",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/provincias/burgos/detenidos-menores-muerte-mujer-83-anos-durante-robo-casa-burgos_1_13594035.html",
-      "published_date": "2026-10-17T13:12:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Board activates the pre-emergency plan for flood risk in Andalusia",
+      "title": "El Cardoso de la Sierra, a Madrid-style Treviño County: “It is not politics, but geographical coherence”",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/junta-activa-plan-preemergencia-riesgo-inundaciones-andalucia-20261017150216-nts.html",
-      "published_date": "2026-10-17T13:11:45+00:00",
+      "url": "https://www.abc.es/espana/madrid/cardoso-sierra-condado-trevino-madrilena-xxx-20261016011539-nt.html",
+      "published_date": "2026-10-17T23:15:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Feijóo: the \"coalition of the desperate\" Sánchez-Colau credits the situation of the PSOE",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/17/6ad36b66468aeb085c8b45a2.html",
-      "published_date": "2026-10-17T13:10:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aemet raises the warning for rain on the southern coast of Valencia and northern Alicante to red this Sunday",
+      "title": "The British cemetery of Carabanchel",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/aemet-eleva-rojo-aviso-lluvias-litoral-sur-20261017125700-nt.html",
-      "published_date": "2026-10-17T13:09:06+00:00",
+      "url": "https://www.abc.es/espana/madrid/cementerio-britanico-carabanchel-20261017010746-nt.html",
+      "published_date": "2026-10-17T23:07:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Civil Protection calls for limiting mobility in seven Catalan regions in anticipation of heavy rains",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/proteccion-civil-pide-limitar-movilidad-siete-comarcas-catalanas-prevision-lluvias-intensas_1_13594018.html",
-      "published_date": "2026-10-17T13:08:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rains and storms put Andalusia on alert today: the most complicated hours",
+      "title": "Are you a nurse? Health opens the deadline for permanent positions: deadline, requirements and how to apply",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/lluvias-tormentas-andalucia-sabado-consulta-mapa-horarios-20261017100910-nts.html",
-      "published_date": "2026-10-17T13:03:40+00:00",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/enfermero-sanidad-abre-plazo-plazas-fijas-fecha-20261016010615-nt.html",
+      "published_date": "2026-10-17T23:06:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Núñez's PP assures that Page is not going to the Federal Committee because \"everything has already been agreed\" with Sánchez",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-nunez-asegura-page-comite-federal-pactado-20261017150300-nt.html",
-      "published_date": "2026-10-17T13:03:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Frente Amplio turns the page on the failed pact with Podemos: “The time to unite the parties is over, we must unite the people”",
-      "source": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-17/frente-amplio-pasa-pagina-sobre-el-fallido-pacto-con-podemos-se-acabo-el-tiempo-de-unir-a-los-partidos-hay-que-unir-a-la-gente.html",
-      "published_date": "2026-10-17T12:56:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abascal assures that he will act \"with high vision\" after the agreement of the left to run as a coalition in the Senate",
+      "title": "The unknowns of the crime of an elderly woman in Burgos at the hands of two teenagers: the Police are looking for more people involved in the robbery that ended in death",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/17/6ad34ce5fdddff917d8b45b8.html",
-      "published_date": "2026-10-17T12:51:11+00:00",
+      "url": "https://www.elmundo.es/espana/2026/10/18/6ad3be9b21efa0481e8b45ac.html",
+      "published_date": "2026-10-17T23:06:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two minors arrested for the death of an 83-year-old woman who appeared tied up at her home in Burgos",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/detenidos-dos-menores-muerte-mujer-anos-aparecio-20261017144545-nt.html",
-      "published_date": "2026-10-17T12:49:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Frente Amplio turns the page on Podemos: \"'No more dramas', uniting the parties is over, the time to unite people begins\"",
+      "title": "The disunity of the left encourages Sánchez's team: \"The useful vote will come to the PSOE naturally\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/17/6ad3671afc6c83882f8b45b5.html",
-      "published_date": "2026-10-17T12:44:41+00:00",
+      "url": "https://www.elmundo.es/espana/2026/10/18/6ad39ef7e4d4d80d4b8b456d.html",
+      "published_date": "2026-10-17T22:07:07+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Colau and Podemos reproach each other for the failure of the unity of the left",
+      "title": "They are looking for a person in Cabrera de Mar (Barcelona) after falling into a river",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/colau-podemos-reprochan-mutuamente-fracaso-unidad-izquierda-20261017144303-nt.html",
-      "published_date": "2026-10-17T12:43:17+00:00",
+      "url": "https://www.abc.es/espana/cataluna/buscan-persona-cabrera-mar-barcelona-tras-caer-20261017214925-nt.html",
+      "published_date": "2026-10-17T21:11:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The candidates dance",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261017/11661446/candidatos-bailan.html",
-      "published_date": "2026-10-17T12:41:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez brings Begoña Gómez into the campaign: \"They have tried to break us and we are stronger. I love you\"",
-      "source": "El País",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-17/sanchez-mete-a-begona-gomez-en-campana-nos-han-intentado-quebrar-y-estamos-mas-fuertes-te-quiero.html",
-      "published_date": "2026-10-17T12:35:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "An active forest fire in Forcarei burns more than 20 hectares",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/incendio-forestal-activo-forcarei-calcina-hectareas-20261017143007-nt.html",
-      "published_date": "2026-10-17T12:30:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Toledo Provincial Council allocates 250,000 euros to art courses in the municipalities of the province",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/diputacion-toledo-destina-250000-euros-cursos-arte-20261017142057-nt.html",
-      "published_date": "2026-10-17T12:20:58+00:00",
+      "title": "Foreign Affairs' blocking of data on the 'grandchildren law' will lead to massive challenges to the vote after the elections",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/17/6ad3c675fdddff332c8b456d.html",
+      "published_date": "2026-10-17T20:59:17+00:00",
       "category": "Local Events"
     }
   ]
