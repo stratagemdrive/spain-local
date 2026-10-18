@@ -1,8 +1,15 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-18T00:30:14.399190+00:00",
+  "last_updated": "2026-10-18T14:13:42.405409+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "The PP denounces a \"deliberate maneuver\" by Foreign Affairs to prevent \"through facts\" the suspension of the 'grandchildren law'",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/18/6ad4c213fc6c83c1078b4575.html",
+      "published_date": "2026-10-18T12:57:00+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The King applies a new and forceful diplomacy for Ceuta and Melilla",
       "source": "ABC",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Catalan democratic memory law gives one year to remove the Franco monument from Tortosa",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261013/11657684/ley-memoria-democratica-catalana-da-ano-retirar-monumento-franquista-tortosa.html",
-      "published_date": "2026-10-13T10:28:53+00:00",
-      "category": "Diplomacy"
+      "title": "The former representative of Asturias Lucía Montejo leaves Podemos with criticism of the management: \"Calling it as a circus is an understatement\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/asturias/exdiputada-asturias-lucia-montejo-abandona-criticas-direccion-calificarlo-circo-quedarse-corto_1_13595275.html",
+      "published_date": "2026-10-18T12:03:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The last steps towards the end of ETA terrorism",
+      "source": "El País",
+      "url": "https://elpais.com/espana/2026-10-18/los-ultimos-pasos-del-final-del-terrorismo-etarra.html",
+      "published_date": "2026-10-18T03:30:01+00:00",
+      "category": "Military"
     },
     {
       "title": "The Spanish defense cannot depend on the ballot boxes",
@@ -155,6 +169,13 @@
       "source": "ABC",
       "url": "https://www.abc.es/espana/sanchez-presume-pacifismo-solicitado-estados-unidos-armamento-20261017202206-nt.html",
       "published_date": "2026-10-17T20:38:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Reconstruction of one of the videos of military beatings of migrants in Ceuta: \"We were sleeping and they woke us up with beatings\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/desalambre/reconstruccion-videos-palizas-militares-migrantes-ceuta-dormiamos-despertaron-golpes_1_13594408.html",
+      "published_date": "2026-10-17T20:11:43+00:00",
       "category": "Military"
     },
     {
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "El Basilone completa en Rota el escudo de la OTAN con radar de última generación contra misiles y drones",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/basilone-completa-rota-escudo-otan-radar-ultima-20261015162209-nt.html",
-      "published_date": "2026-10-15T14:52:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Rota da la bienvenida al USS John Basilone, el sexto destructor del escudo antimisiles de la OTAN",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261015/11659846/rota-da-bienvenida-uss-john-basilone-sexto-destructor-escudo-antimisiles-otan.html",
-      "published_date": "2026-10-15T13:43:48+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "El porqué de la apuesta de Sánchez por la \"insoportable\" Margarita Robles: \"Siempre ha estado ahí en los momentos difíciles\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/15/6ad092ade4d4d8ed218b4586.html",
-      "published_date": "2026-10-15T09:01:41+00:00",
-      "category": "Military"
+      "title": "Luis Pérez de Ayala (Cuatrecasas): “We cannot let young lawyers learn from AI”",
+      "source": "El País",
+      "url": "https://elpais.com/economia/negocios/2026-10-18/luis-perez-de-ayala-cuatrecasas-no-podemos-dejar-que-los-abogados-jovenes-aprendan-de-la-ia.html",
+      "published_date": "2026-10-18T03:30:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Energy in times of war",
@@ -417,11 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "The future will be renewable, but not low prices: data centers change the equation",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-futuro-sera-renovable-pero-no-de-precios-bajos-los-centros-de-datos-cambian-la-ecuacion/",
-      "published_date": "2026-10-16T05:46:00+00:00",
-      "category": "Energy"
+      "title": "«AI is not coming to take away jobs, but to improve competitiveness»",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/ia-viene-quitar-empleos-mejorar-competitividad-20261018111037-nt.html",
+      "published_date": "2026-10-18T09:10:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How much money does a National Police earn in Spain in 2026: salary according to category and complements",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuanto-dinero-cobra-policia-nacional-espana-2026-sueldo-20261018060000-nt.html",
+      "published_date": "2026-10-18T04:00:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Carlos Body: “The increase in pensions is guaranteed by a law that the PP rejected”",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261018/11661541/carlos-cuerpo-subida-pensiones-esta-asegurada-ley-pp-rechazo.html",
+      "published_date": "2026-10-18T04:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How the decisions of companies and workers move the economy",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261018/11660658/como-decisiones-empresas-trabajadores-mueven-economia-brl.html",
+      "published_date": "2026-10-18T03:50:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The inflation that is diluted and the one that persists",
+      "source": "El País",
+      "url": "https://elpais.com/economia/negocios/2026-10-18/la-inflacion-que-se-diluye-y-la-que-persiste.html",
+      "published_date": "2026-10-18T03:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The pension debate enters swampy terrain: should the model be reformed or changed for another?",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-18/el-debate-de-las-pensiones-entra-en-terreno-pantanoso-hay-que-reformar-el-modelo-o-cambiarlo-por-otro.html",
+      "published_date": "2026-10-18T03:30:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "New banking rules in the EU: will they encourage mergers?",
+      "source": "El País",
+      "url": "https://elpais.com/economia/negocios/2026-10-18/nuevas-reglas-bancarias-en-la-ue-incentivaran-las-fusiones.html",
+      "published_date": "2026-10-18T03:30:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Spanish mortgages leave the podium of the cheapest in Europe after complaints from bankers",
@@ -494,6 +543,13 @@
       "category": "Economy"
     },
     {
+      "title": "David Morales, the Latin 'Mamdani': \"You have to win with the people's money, not with that of big companies\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/internacional/david-morales-mamdani-latino-hay-ganar-dinero-gente-no-grandes-empresas_128_13569857.html",
+      "published_date": "2026-10-17T20:11:44+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "The telecos, after the SpaceX order",
       "source": "Expansión",
       "url": "https://www.expansion.com/mercados/2026/10/17/6abfb96c468aeb49278b458d.html",
@@ -508,199 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "X-ray of the rental: these are the prices by capital",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/17/radiografia-alquiler-asi-estan-precios-capitales.html",
-      "published_date": "2026-10-17T18:44:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Puig adds followers waiting for his 'Investor's Day'",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/10/17/6ad3bf04e5fdea4b718b4575.html",
-      "published_date": "2026-10-17T18:39:15+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "More than 1,000 days without new Budgets: how long can Spain live with the 2023 accounts?",
-      "source": "El País",
-      "url": "https://elpais.com/economia/negocios/2026-10-17/mas-de-1000-dias-sin-nuevos-presupuestos-hasta-cuando-puede-vivir-espana-con-las-cuentas-de-2023.html",
-      "published_date": "2026-10-17T15:45:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Yolanda Díaz sees it as \"unacceptable\" that the right \"attacks\" pensions: \"We will not allow them to not revalue them\"",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-yolanda-diaz-ve-inaceptable-derechas-ataquen-pensiones-no-consentiremos-no-revaloricen-20261017171450.html",
-      "published_date": "2026-10-17T15:14:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stopping foreign home purchases: where it is concentrated and what is its nationality",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frenazo-compra-extranjera-vivienda-donde-se-concentra-cual-es-su-nacionalidad_7050017_0.html",
-      "published_date": "2026-10-17T14:41:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The general secretary of UGT, Pepe Álvarez, regrets the lack of agreement on the left",
+      "title": "Ceuta evicts about 500 migrants from various settlements with an operation of 350 agents",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261017/11661477/secretario-general-ugt-pepe-alvarez-lamenta-falta-acuerdo-izquierda.html",
-      "published_date": "2026-10-17T14:39:44+00:00",
-      "category": "Economy"
+      "url": "https://www.lavanguardia.com/politica/20261018/11662044/ceuta-desaloja-500-migrantes-asentamientos-operativo-350-agentes.html",
+      "published_date": "2026-10-18T14:02:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Núñez supports Feijóo's \"zero tax\" to buy a home or start a business in the towns",
+      "title": "They ask for ten years in prison for attacking a man with a drink and stabbing another at the Albariño Festival in Cambados",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-respalda-impuesto-cero-feijoo-comprar-vivienda-20261017152352-nt.html",
-      "published_date": "2026-10-17T13:23:52+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/galicia/piden-diez-anos-carcel-atacar-copa-hombre-20261018154504-nt.html",
+      "published_date": "2026-10-18T13:45:04+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Montero and Belarra accuse Frente Amplio of preferring to agree with the PSOE in the Senate rather than with Podemos in the Communities",
+      "title": "Núñez asks Page \"what version is he in today\": \"The one where he threatens and runs away?\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/nunez-pregunta-page-version-hoy-amenaza-sale-20261018144731-nt.html",
+      "published_date": "2026-10-18T13:33:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alicia García describes the leftist alliance for the Senate as a “coalition of the desperate”",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/alicia-garcia-califica-coalicion-desesperados-alianza-izquierdas-20261018152844-nt.html",
+      "published_date": "2026-10-18T13:28:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Valencia and Alicante face the most adverse day of Dana Adam this Sunday with a red warning due to rain",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/valencia-alicante-afrontan-domingo-jornada-adversa-dana-20261018103931-nt.html",
+      "published_date": "2026-10-18T13:18:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dana Adam puts Andalusia on alert: where it will rain the hardest this Sunday",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/dana-adam-pone-alerta-andalucia-llovera-fuerza-20261018105251-nts.html",
+      "published_date": "2026-10-18T12:22:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The PSOE accuses Feijóo of \"betraying\" Castilla-La Mancha with his National Water Pact",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-feijoo-traicionar-castillala-mancha-pacto-20261018133229-nt.html",
+      "published_date": "2026-10-18T12:18:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Generalitat sends a new Es-Alert to the municipalities of the south of Valencia and north of Alicante with rains of up to 200 liters",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/sociedad/generalitat-envia-nuevo-alert-municipios-sur-valencia-norte-alicante-lluvias-200-litros_1_13595317.html",
+      "published_date": "2026-10-18T12:14:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feijóo asks to \"promote\" the change from Catalonia, a key fiefdom for the PP this 29N, and entrusts Albiol with an anti-squatting law",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/montero-belarra-acusan-frente-amplio-preferir-pactar-con-psoe-senado-antes-que-con-podemos-las-comunidades_7049985_0.html",
-      "published_date": "2026-10-17T11:35:53+00:00",
-      "category": "Economy"
+      "url": "https://www.20minutos.es/nacional/feijoo-pide-impulsar-cambio-desde-cataluna-feudo-clave-pp-29n-encarga-albiol-ley-antiokupacion_7050153_0.html",
+      "published_date": "2026-10-18T12:07:55+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "A TV and an air bridge to the Caribbean: those who do not sleep for 29-N",
+      "title": "Renfe criticizes the decision of some train drivers not to circulate due to the rains in Valencia",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/jose-a-perez-tele-puente-aereo-caribe-duermen-29n-20261018012641-nt.html",
-      "published_date": "2026-10-17T23:43:27+00:00",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/renfe-critica-decision-maquinistas-circular-lluvias-valencia-20261018134451-nt.html",
+      "published_date": "2026-10-18T11:44:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Polls for the 29N general elections in the Canary Islands: results of PSOE, PP, VOX and Canarian Coalition and winner according to the polls",
+      "title": "Feijóo launches Albiol for the Catalan conservative vote: \"Let the Sánchez clan be careful, the PP is coming\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/feijoo-lanza-albiol-voto-conservador-catalan-tenga-cuidado-clan-sanchez-viene-pp_1_13595066.html",
+      "published_date": "2026-10-18T11:35:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A brawl in Lucena leaves two injured, taken to the hospital, and one detained",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/canarias/encuestas-elecciones-generales-29n-canarias-resultados-psoe-20261017051500-nt.html",
-      "published_date": "2026-10-17T23:39:59+00:00",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/reyerta-lucena-salda-dos-heridos-trasladados-hospital-20261018133441-nts.html",
+      "published_date": "2026-10-18T11:34:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The local police of Rivas revolt against the left-wing government due to the total absence of dialogue",
+      "title": "The PP accuses Bellido of supporting the PSOE lists to keep Sánchez in power",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/policia-local-rivas-revuelve-gobierno-izquierdas-ausencia-20261017010728-nt.html",
-      "published_date": "2026-10-17T23:36:23+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-acusa-bellido-respaldar-listas-psoe-mantener-20261018121307-nt.html",
+      "published_date": "2026-10-18T11:31:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Metro station in Sol reopens after safety and health conditions are restored",
+      "title": "Feijóo commissions Albiol with an anti-squatting law and focuses on Catalonia to \"promote\" the change of Government",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/metro-finaliza-limpieza-sol-seguira-cerrado-tener-20261017124804-nt.html",
-      "published_date": "2026-10-17T23:35:13+00:00",
+      "url": "https://www.abc.es/espana/cataluna/feijoo-encarga-albiol-ley-antiokupacion-pone-foco-20261018125206-nt.html",
+      "published_date": "2026-10-18T11:28:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Is it always worth renting your home in Spain? This is the profitability that you can get from all the savings",
+      "title": "The National Police evicts the migrant settlements of Tarajal and other parts of Ceuta",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/desalambre/policia-nacional-desaloja-asentamientos-personas-migrantes-tarajal-puntos-ceuta_1_13595220.html",
+      "published_date": "2026-10-18T11:21:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fourteen defendants face 4 years in prison in Cuenca for laundering money from drug trafficking",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/vivienda-mejor-inversion-descubre-rentabilidad-opciones-tus-20261017012717-nt.html",
-      "published_date": "2026-10-17T23:33:41+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/catorce-acusados-enfrentan-cuenca-anos-carcel-blanqueo-20261018131712-nt.html",
+      "published_date": "2026-10-18T11:17:13+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ceuta, portrait of a wounded city",
+      "title": "The neighborhood of El Palo bears the brunt of Adam's time in Malaga",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/ceuta-retrato-ciudad-herida-20261018012815-nt.html",
-      "published_date": "2026-10-17T23:28:50+00:00",
+      "url": "https://www.abc.es/espana/andalucia/malaga/barriada-palo-lleva-peor-parte-paso-adam-20261018124234-nts.html",
+      "published_date": "2026-10-18T11:04:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The newspaper archive portrays Sánchez: neither early elections nor more than two terms",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/perderan-2027-aburrimiento-limite-mandatos-hemeroteca-desmonta-20261006012830-nt.html",
-      "published_date": "2026-10-17T23:28:30+00:00",
+      "title": "The Government issues an ES-Alert for flood risk in Ibiza and Formentera",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/illes-balears/sociedad/govern-emite-alert-riesgo-inundacion-ibiza-formentera_1_13595203.html",
+      "published_date": "2026-10-18T11:01:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Adamuz's evidence is still kept in a drawer without being analyzed nine months later",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/pruebas-adamuz-siguen-guardadas-cajon-analizar-nueve-20261018012805-nts.html",
-      "published_date": "2026-10-17T23:28:05+00:00",
+      "title": "Trias advises Junts to be “skillful” and talk to PSOE and PP if it benefits Catalonia",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261018/11661987/trias-receta-junts-habil-hablar-psoe-pp-beneficia-catalunya.html",
+      "published_date": "2026-10-18T10:56:32+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The keys to the emergence of the Ombudsman on the scene with the 'grandchildren law'",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/claves-irrupcion-escena-defensor-pueblo-ley-nietos-20261018012727-nt.html",
-      "published_date": "2026-10-17T23:27:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PP considers removing the State from the capital of private companies if it wins the elections",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/pp-pone-punto-mira-presencia-estado-empresas-20261018012739-nt.html",
-      "published_date": "2026-10-17T23:27:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Government is getting its act together to contain another major blackout",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/maria-jesus-perez-gobierno-entra-panico-ante-gran-apagon-20261018012707-nt.html",
-      "published_date": "2026-10-17T23:27:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Non-aggression pact\" of Feijóo and Abascal with an eye on the Senate",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/18/6ad3a436fdddfffb408b459c.html",
-      "published_date": "2026-10-17T23:25:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The head of the Mossos Investigation: \"An attack can destabilize the State, but organized crime can corrupt it in silence\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/jefe-investigacion-mossos-atentado-terrorista-puede-desestabilizar-20261018012323-nt.html",
-      "published_date": "2026-10-17T23:23:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Cardoso de la Sierra, a Madrid-style Treviño County: “It is not politics, but geographical coherence”",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/cardoso-sierra-condado-trevino-madrilena-xxx-20261016011539-nt.html",
-      "published_date": "2026-10-17T23:15:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The British cemetery of Carabanchel",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/cementerio-britanico-carabanchel-20261017010746-nt.html",
-      "published_date": "2026-10-17T23:07:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Are you a nurse? Health opens the deadline for permanent positions: deadline, requirements and how to apply",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/enfermero-sanidad-abre-plazo-plazas-fijas-fecha-20261016010615-nt.html",
-      "published_date": "2026-10-17T23:06:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The unknowns of the crime of an elderly woman in Burgos at the hands of two teenagers: the Police are looking for more people involved in the robbery that ended in death",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/18/6ad3be9b21efa0481e8b45ac.html",
-      "published_date": "2026-10-17T23:06:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The disunity of the left encourages Sánchez's team: \"The useful vote will come to the PSOE naturally\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/18/6ad39ef7e4d4d80d4b8b456d.html",
-      "published_date": "2026-10-17T22:07:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "They are looking for a person in Cabrera de Mar (Barcelona) after falling into a river",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/buscan-persona-cabrera-mar-barcelona-tras-caer-20261017214925-nt.html",
-      "published_date": "2026-10-17T21:11:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foreign Affairs' blocking of data on the 'grandchildren law' will lead to massive challenges to the vote after the elections",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/17/6ad3c675fdddff332c8b456d.html",
-      "published_date": "2026-10-17T20:59:17+00:00",
+      "title": "Feijóo promises a new anti-occupation law with Albiol after the 29-N elections",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261018/11661983/feijoo-promete-nueva-ley-antiocupaciones-mano-albiol-elecciones-29-n.html",
+      "published_date": "2026-10-18T10:55:28+00:00",
       "category": "Local Events"
     }
   ]
