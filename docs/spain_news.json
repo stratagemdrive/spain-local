@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-18T14:13:42.405409+00:00",
+  "last_updated": "2026-10-19T00:40:00.579909+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -284,6 +284,27 @@
       "category": "Military"
     },
     {
+      "title": "Desalojado en Ceuta un autobús con migrantes después de que uno de los ocupantes usara gas pimienta",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/18/6ad504eb21efa00b7b8b4570.html",
+      "published_date": "2026-10-18T17:44:13+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Sergio Soto, experto en energía: «Los hogares con calefacción de gas deben revisar su contrato antes de los meses de más consumo»",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/sergio-soto-experto-energia-hogares-calefaccion-gas-20261018181036-nt.html",
+      "published_date": "2026-10-18T16:10:36+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Foment avisa del riesgo de cierres en la industria por la subida de los precios energéticos",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261018/11662065/foment-avisa-riesgo-cierres-industria-subida-precios-energeticos.html",
+      "published_date": "2026-10-18T15:28:32+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Luis Pérez de Ayala (Cuatrecasas): “We cannot let young lawyers learn from AI”",
       "source": "El País",
       "url": "https://elpais.com/economia/negocios/2026-10-18/luis-perez-de-ayala-cuatrecasas-no-podemos-dejar-que-los-abogados-jovenes-aprendan-de-la-ia.html",
@@ -302,6 +323,20 @@
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/el-gas-natural-supera-los-89-euros-el-megavatio-hora-por-primera-vez-desde-2022/",
       "published_date": "2026-10-16T22:17:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Valores para ganar más enla recta final del año en Bolsa",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/17/6ad2908ae5fdea10278b4581.html",
+      "published_date": "2026-10-16T22:13:34+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Italia pacta con Bruselas un sistema para abaratar la luz similar al \"mecanismo ibérico\"",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/italia-pacta-con-bruselas-un-sistema-para-abaratar-la-luz-similar-al-mecanismo-iberico/",
+      "published_date": "2026-10-16T22:06:00+00:00",
       "category": "Energy"
     },
     {
@@ -389,39 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Spain did not import Russian LNG in September for the first time since the start of the Ukrainian war",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/espana-no-importo-gnl-ruso-en-septiembre-por-primera-vez-desde-inicio-de-guerra-de-ucrania/",
-      "published_date": "2026-10-16T11:00:00+00:00",
-      "category": "Energy"
+      "title": "El ingrediente de la IA comienza a dar un nuevo cuerpo al sector cervecero",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/ingrediente-ia-comienza-dar-nuevo-cuerpo-sector-20261018111200-nt.html",
+      "published_date": "2026-10-18T22:03:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Schneider Electric invoiced 11,460 million in the third quarter, 18% more, and improves annual forecasts",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/schneider-electric-facturo-11-460-millones-en-el-tercer-trimestre-un-18-mas-y-mejora-previsiones-anuales/",
-      "published_date": "2026-10-16T10:23:00+00:00",
-      "category": "Energy"
+      "title": "La inversión inmobiliaria se dispara un 35% y marca récord hasta septiembre",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/2026/10/18/inversion-inmobiliaria-dispara-35-marca-record-septiembre.html",
+      "published_date": "2026-10-18T21:43:54+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Storage remains 45% below the 2030 global target despite the battery boom",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-almacenamiento-se-queda-un-45-por-debajo-del-objetivo-mundial-de-2030-pese-al-boom-de-las-baterias/",
-      "published_date": "2026-10-16T10:19:00+00:00",
-      "category": "Energy"
+      "title": "El Gobierno entierra el dato de fijos discontinuos 'parados' y retrasa la estadística clave del INE tras más de un año atascada",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/18/6ad24cb721efa0ea438b45ab.html",
+      "published_date": "2026-10-18T20:42:33+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The Government gives the 'ok' to Red Eléctrica to build the large anti-blackout lifelines",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-gobierno-da-el-ok-a-red-electrica-para-construir-los-grandes-salvavidas-antiapagones/",
-      "published_date": "2026-10-16T06:39:00+00:00",
-      "category": "Energy"
+      "title": "Cuerpo asegura que la subida de las pensiones está \"asegurada\" por una ley que el PP rechazó",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/cuerpo-asegura-que-subida-las-pensiones-esta-asegurada-por-una-ley-que-pp-rechazo_7050174_0.html",
+      "published_date": "2026-10-18T13:44:01+00:00",
+      "category": "Economy"
     },
     {
-      "title": "From cyber attack to supply interruption: the growing risk for the energy sector",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/del-ciberataque-a-la-interrupcion-del-suministro-el-riesgo-creciente-para-el-sector-energetico/",
-      "published_date": "2026-10-16T05:59:00+00:00",
-      "category": "Energy"
+      "title": "Hallado el cuerpo sin vida de la mujer desaparecida durante el temporal en Cabrera de Mar, Barcelona",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/hallado-cuerpo-vida-mujer-desaparecida-durante-temporal-cabrera-mar-barcelona_1_13595151.html",
+      "published_date": "2026-10-18T10:37:53+00:00",
+      "category": "Economy"
     },
     {
       "title": "«AI is not coming to take away jobs, but to improve competitiveness»",
@@ -529,178 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "The investment in BBVA shares has appreciated by 56% since the takeover bid",
+      "title": "Currículo Colau para la izquierda populista",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/curriculo-colau-izquierda-populista-20261019021849-nt.html",
+      "published_date": "2026-10-19T00:18:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "756 altos cargos y 959 asesores a dedo: la herencia que deja Sánchez si sale del Gobierno",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/756-altos-cargos-959-asesores-dedo-herencia-20261016014144-nt.html",
+      "published_date": "2026-10-19T00:14:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Génova desarrolla un sistema paralelo de recuento de votos para las mesas electorales",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/genova-desarrolla-sistema-paralelo-recuento-votos-mesas-20261019014048-nt.html",
+      "published_date": "2026-10-19T00:11:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baleares suspende las clases en plena alerta roja por la dana Adam",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/baleares/ume-desplegara-ibiza-mallorca-colaborar-incidencias-provocadas-20261018180145-nt.html",
+      "published_date": "2026-10-19T00:05:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez multiplica casi por cuatro las ayudas directas a los sindicatos",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/sanchez-multiplica-cuatro-ayudas-directas-sindicatos-20261019013317-nt.html",
+      "published_date": "2026-10-18T23:35:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vox convierte sus alianzas internacionales en una de sus principales bazas electorales",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/vox-convierte-alianzas-internacionales-principales-bazas-electorales-20261018013208-nt.html",
+      "published_date": "2026-10-18T23:32:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La caída de la izquierda que hizo posible Sánchez",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/19/6ad50e43e4d4d8cd468b457c.html",
+      "published_date": "2026-10-18T23:28:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La izquierda se desangra por toda España: puede perder escaños en 29 provincias mientras la derecha se impone en el 80% del mapa",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad4f168e9cf4a2c7a8b458b.html",
+      "published_date": "2026-10-18T23:28:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vox Madrid cierra filas y confía en que una derrota de Sánchez el 29N quite fuerza a Ayuso",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/vox-madrid-cierra-filas-confia-derrota-sanchez-20261017012102-nt.html",
+      "published_date": "2026-10-18T23:21:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La instalación de cajeros en los pueblos pequeños movilizará 30 millones al año, la mitad para el comercio local",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/cajeros-pueblos-20261016012019-nt.html",
+      "published_date": "2026-10-18T23:20:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Comunidad de Madrid lleva a Washington una exposición sobre las víctimas de ETA",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/comunidad-madrid-lleva-washington-exposicion-sobre-victimas-20261016011939-nt.html",
+      "published_date": "2026-10-18T23:20:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La 'operación diciembre' de Hernández de Cos para intentar la primera presidencia del BCE para un español tras 28 años",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/19/6ad4f375fdddffd94b8b458c.html",
+      "published_date": "2026-10-18T22:57:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cuenta atrás para el IVA de los pisos turísticos, una \"medida de escaparate\" que 'sale a devolver' a los propietarios",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/10/19/6ad2072c21efa0481e8b457c.html",
+      "published_date": "2026-10-18T22:57:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La dana Adam mantiene en alerta roja a Valencia y Alicante al amenazar con otra tromba de agua",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/dana-adam-mantiene-alerta-roja-valencia-alicante-20261018220213-nt.html",
+      "published_date": "2026-10-18T22:30:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feijóo marca Catalunya como un territorio clave para llegar a la Moncloa tras las elecciones del 29-N",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261018/11661546/inversion-acciones-bbva-revaloriza-56-opa.html",
-      "published_date": "2026-10-17T22:05:00+00:00",
-      "category": "Economy"
+      "url": "https://www.lavanguardia.com/politica/20261019/11662138/feijoo-marca-catalunya-territorio-clave-llegar-moncloa-elecciones-29-n.html",
+      "published_date": "2026-10-18T22:05:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Tourism under suspicion",
+      "title": "Vox se encamina a empatar al PSOE en la mitad de la geografía: 'sorpasso' en Almería y Murcia y posible estreno en Galicia",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/10/19/6ad4f320fc6c8374648b4583.html",
+      "published_date": "2026-10-18T22:03:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Una tromba de agua descarga 140 litros en hora y media sobre Urda y anega calles y casas",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/turismo-bajo-sospecha-20261018000100-nt.html",
-      "published_date": "2026-10-17T22:01:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "David Morales, the Latin 'Mamdani': \"You have to win with the people's money, not with that of big companies\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/internacional/david-morales-mamdani-latino-hay-ganar-dinero-gente-no-grandes-empresas_128_13569857.html",
-      "published_date": "2026-10-17T20:11:44+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The telecos, after the SpaceX order",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/10/17/6abfb96c468aeb49278b458d.html",
-      "published_date": "2026-10-17T19:04:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "More than a third of European companies exceed their budget on AI",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/tecnologia/2026/10/17/tercio-empresas-europeas-superan-presupuesto-ia.html",
-      "published_date": "2026-10-17T18:54:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ceuta evicts about 500 migrants from various settlements with an operation of 350 agents",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261018/11662044/ceuta-desaloja-500-migrantes-asentamientos-operativo-350-agentes.html",
-      "published_date": "2026-10-18T14:02:18+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/tromba-agua-descarga-140-litros-hora-media-20261018221650-nt.html",
+      "published_date": "2026-10-18T21:53:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "They ask for ten years in prison for attacking a man with a drink and stabbing another at the Albariño Festival in Cambados",
+      "title": "Hallan muerta a una mujer que se bañaba en una playa de Valencia en pleno temporal",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/piden-diez-anos-carcel-atacar-copa-hombre-20261018154504-nt.html",
-      "published_date": "2026-10-18T13:45:04+00:00",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/hallan-muerta-mujer-banaba-playa-valencia-pleno-20261018224722-nt.html",
+      "published_date": "2026-10-18T21:23:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Núñez asks Page \"what version is he in today\": \"The one where he threatens and runs away?\"",
+      "title": "Suspendido el acto de precampaña de Pedro Sánchez previsto en Toledo para este miércoles",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/nunez-pregunta-page-version-hoy-amenaza-sale-20261018144731-nt.html",
-      "published_date": "2026-10-18T13:33:01+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/suspendido-acto-precampana-pedro-sanchez-previsto-toledo-20261018232159-nt.html",
+      "published_date": "2026-10-18T21:22:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Alicia García describes the leftist alliance for the Senate as a “coalition of the desperate”",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/alicia-garcia-califica-coalicion-desesperados-alianza-izquierdas-20261018152844-nt.html",
-      "published_date": "2026-10-18T13:28:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Valencia and Alicante face the most adverse day of Dana Adam this Sunday with a red warning due to rain",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/valencia-alicante-afrontan-domingo-jornada-adversa-dana-20261018103931-nt.html",
-      "published_date": "2026-10-18T13:18:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dana Adam puts Andalusia on alert: where it will rain the hardest this Sunday",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/dana-adam-pone-alerta-andalucia-llovera-fuerza-20261018105251-nts.html",
-      "published_date": "2026-10-18T12:22:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PSOE accuses Feijóo of \"betraying\" Castilla-La Mancha with his National Water Pact",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-acusa-feijoo-traicionar-castillala-mancha-pacto-20261018133229-nt.html",
-      "published_date": "2026-10-18T12:18:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Generalitat sends a new Es-Alert to the municipalities of the south of Valencia and north of Alicante with rains of up to 200 liters",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/sociedad/generalitat-envia-nuevo-alert-municipios-sur-valencia-norte-alicante-lluvias-200-litros_1_13595317.html",
-      "published_date": "2026-10-18T12:14:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo asks to \"promote\" the change from Catalonia, a key fiefdom for the PP this 29N, and entrusts Albiol with an anti-squatting law",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-pide-impulsar-cambio-desde-cataluna-feudo-clave-pp-29n-encarga-albiol-ley-antiokupacion_7050153_0.html",
-      "published_date": "2026-10-18T12:07:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renfe criticizes the decision of some train drivers not to circulate due to the rains in Valencia",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/renfe-critica-decision-maquinistas-circular-lluvias-valencia-20261018134451-nt.html",
-      "published_date": "2026-10-18T11:44:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo launches Albiol for the Catalan conservative vote: \"Let the Sánchez clan be careful, the PP is coming\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/feijoo-lanza-albiol-voto-conservador-catalan-tenga-cuidado-clan-sanchez-viene-pp_1_13595066.html",
-      "published_date": "2026-10-18T11:35:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A brawl in Lucena leaves two injured, taken to the hospital, and one detained",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/reyerta-lucena-salda-dos-heridos-trasladados-hospital-20261018133441-nts.html",
-      "published_date": "2026-10-18T11:34:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PP accuses Bellido of supporting the PSOE lists to keep Sánchez in power",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/pp-acusa-bellido-respaldar-listas-psoe-mantener-20261018121307-nt.html",
-      "published_date": "2026-10-18T11:31:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo commissions Albiol with an anti-squatting law and focuses on Catalonia to \"promote\" the change of Government",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/feijoo-encarga-albiol-ley-antiokupacion-pone-foco-20261018125206-nt.html",
-      "published_date": "2026-10-18T11:28:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The National Police evicts the migrant settlements of Tarajal and other parts of Ceuta",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/desalambre/policia-nacional-desaloja-asentamientos-personas-migrantes-tarajal-puntos-ceuta_1_13595220.html",
-      "published_date": "2026-10-18T11:21:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fourteen defendants face 4 years in prison in Cuenca for laundering money from drug trafficking",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/catorce-acusados-enfrentan-cuenca-anos-carcel-blanqueo-20261018131712-nt.html",
-      "published_date": "2026-10-18T11:17:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The neighborhood of El Palo bears the brunt of Adam's time in Malaga",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/malaga/barriada-palo-lleva-peor-parte-paso-adam-20261018124234-nts.html",
-      "published_date": "2026-10-18T11:04:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Government issues an ES-Alert for flood risk in Ibiza and Formentera",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/sociedad/govern-emite-alert-riesgo-inundacion-ibiza-formentera_1_13595203.html",
-      "published_date": "2026-10-18T11:01:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trias advises Junts to be “skillful” and talk to PSOE and PP if it benefits Catalonia",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261018/11661987/trias-receta-junts-habil-hablar-psoe-pp-beneficia-catalunya.html",
-      "published_date": "2026-10-18T10:56:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo promises a new anti-occupation law with Albiol after the 29-N elections",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261018/11661983/feijoo-promete-nueva-ley-antiocupaciones-mano-albiol-elecciones-29-n.html",
-      "published_date": "2026-10-18T10:55:28+00:00",
+      "title": "Delcy lamentó perder \"incidencia\" sobre \"PS\" tras la caída de Ábalos como ministro y secretario de Organización del PSOE",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/18/6ad4ea58e9cf4a28178b458f.html",
+      "published_date": "2026-10-18T20:42:51+00:00",
       "category": "Local Events"
     }
   ]
