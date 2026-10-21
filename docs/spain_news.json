@@ -1,8 +1,15 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-20T15:33:25.813599+00:00",
+  "last_updated": "2026-10-21T01:10:29.182498+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "El PP amenaza por burofax a Albares con llevarlo a los tribunales si Exteriores no cumple los requisitos del TS para el voto suspendido por la ley de nietos",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad74e8dfc6c83f51d8b4599.html",
+      "published_date": "2026-10-20T13:10:20+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Acerinox e Ignis impulsan la descarbonización y la competitividad en la fábrica del Campo de Gibraltar con dos proyectos innovadores",
       "source": "El Periódico de la Energía",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "José Manuel Albares: \"We have to be prepared for external interference in the elections\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/internacional/jose-manuel-albares-preparados-injerencias-externas-elecciones_128_13587998.html",
-      "published_date": "2026-10-15T20:03:48+00:00",
-      "category": "Diplomacy"
+      "title": "El foro vinculado a las 'cloacas' del PSOE vigiló a otra juez con cámaras y drones",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/foro-vinculado-cloacas-psoe-vigilo-juez-camaras-20261021012209-nt.html",
+      "published_date": "2026-10-21T00:30:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "La OTAN reforzará su presencia en el mar Negro tras los últimos ataques con drones",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-10-20/la-otan-reforzara-su-presencia-en-el-mar-negro-tras-los-ultimos-ataques-con-drones.html",
+      "published_date": "2026-10-20T17:08:47+00:00",
+      "category": "Military"
     },
     {
       "title": "The Navy will buy a new batch of bombs for its Harrier fighter jets",
@@ -267,20 +281,6 @@
       "source": "ABC",
       "url": "https://www.abc.es/espana/robles-presume-relacion-sanchez-tras-premio-listas-20261017012957-nt.html",
       "published_date": "2026-10-16T23:30:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The latest CNI dossier sinks the entire Government except Robles: it shields itself with the report that it validated while Sánchez elevated it in the lists",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/16/6ad26c0be9cf4a856f8b45ab.html",
-      "published_date": "2026-10-16T20:48:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Marlaska replies to Feijóo that deploying the Navy in Ceuta is \"looking at the past\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/marlaska-replica-feijoo-que-desplegar-armada-ceuta-es-mirar-pasado_7049816_0.html",
-      "published_date": "2026-10-16T15:36:39+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,55 @@
       "category": "Energy"
     },
     {
+      "title": "Las grandes empresas energéticas temen un ataque fiscal de última hora del Gobierno",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/empresas-energeticas-temen-ataque-fiscal-ultima-hora-20261021012337-nt.html",
+      "published_date": "2026-10-21T00:08:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CaixaBank, Santander e Ibercaja disparan su negocio de seguros",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/seguros/2026/10/21/6ad7ba2d468aeb19138b4576.html",
+      "published_date": "2026-10-21T00:05:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El mapa del alquiler en el que aterrizan los decretos Maricarmen: uno de cada tres contratos es temporal y el stock permanente se desploma un 10%",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/10/21/6ad76830fc6c83f6628b45af.html",
+      "published_date": "2026-10-20T23:27:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La financiera de BNP y Santander pierde 74 millones en 2025",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/seguros/2026/10/21/6ad7bbd5e5fdea3f4e8b4570.html",
+      "published_date": "2026-10-20T22:48:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Piden revocar de nuevo el tercer grado al etarra que ordenó asesinar al fiscal Luis Portero por \"escasa reparación del daño\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/piden-revocar-nuevo-tercer-grado-etarra-que-ordeno-asesinar-fiscal-luis-portero-por-escasa-reparacion-dano_7051247_0.html",
+      "published_date": "2026-10-20T18:09:46+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El milagro de un CEO venido de la inversión: cómo Linkener pasó de rozar la bancarrota a facturar más de cinco millones y levantar otros 7,5",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/20/6ad7866ce4d4d84f338b457f.html",
+      "published_date": "2026-10-20T17:37:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El Ibex 35 recupera los 19.000 tras remontar un 0,28% ante el alivio del crudo y los rendimientos de los bonos",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-recupera-19000-remontar-028-alivio-crudo-rendimientos-bonos-20261020180653.html",
+      "published_date": "2026-10-20T16:06:53+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "La Eurocámara pide controlar las exportaciones de minerales estratégicos y crear reservas europeas",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/la-eurocamara-pide-controlar-las-exportaciones-de-minerales-estrategicos-y-crear-reservas-europeas/",
@@ -435,6 +484,20 @@
       "source": "Expansión",
       "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/20/6ad701bae5fdea41568b4586.html",
       "published_date": "2026-10-20T14:09:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Investigan como homicidio el hallazgo del cadáver de una mujer semienterrado en una playa de Chiclana (Cádiz)",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/10/20/6ad75de5e4d4d82e648b4587.html",
+      "published_date": "2026-10-20T12:47:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Supremo permite compatibilizar el mínimo por hijos y el beneficio fiscal por alimentos en custodia compartida",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/fiscal-00347/noticia-supremo-permite-compatibilizar-minimo-hijos-beneficio-fiscal-alimentos-custodia-compartida-20261020140959.html",
+      "published_date": "2026-10-20T12:09:59+00:00",
       "category": "Economy"
     },
     {
@@ -501,206 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Tres valores del Ibex que marcan récord en un octubre bajista",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inversion/2026/10/20/6ad6528e468aebe36d8b459a.html",
-      "published_date": "2026-10-20T00:26:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The banks that pay the most for payroll direct debit in 2026",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/20/6ad5f04b468aebea578b4595.html",
-      "published_date": "2026-10-20T00:26:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The best and worst stocks in terms of value and momentum",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/10/20/6ad6125de5fdea65528b459f.html",
-      "published_date": "2026-10-20T00:26:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The business flight continues in Catalonia: it loses 302 companies until September while Madrid adds 505 more",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/20/sigue-fuga-empresarial-cataluna-pierde-302-companias-septiembre-madrid-suma-505.html",
-      "published_date": "2026-10-20T00:04:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Santander signs KPMG to look for a partner in business insurance",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/seguros/2026/10/20/6ad64ed2468aebff388b4597.html",
-      "published_date": "2026-10-19T23:48:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Spanish banks have 20,000 million euros in French sovereign debt",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/20/6ad657ff468aeb6a078b4590.html",
-      "published_date": "2026-10-19T23:48:47+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The privileges that Puigdemont will have when he returns to Spain: 70,385 euros in salary, driver, bodyguard and an office with three advisors",
+      "title": "Los impuestos y cotizaciones que soporta un trabajador medio suben un 18% con Sánchez, mientras su renta cae un 4%",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/11730867-sueldo-chofer-escolta-despacho-tres-asesores-20261027012912-nt.html",
-      "published_date": "2026-10-19T23:29:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The clash between heirs blocks the succession in large family companies",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/choque-herederos-bloquea-sucesion-grandes-empresas-familiares-20261020012208-nt.html",
-      "published_date": "2026-10-19T23:22:08+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Is your salary frozen? Check if your company is required by law to upload it to you",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/sueldo-congelado-comprueba-empresa-obligada-ley-subirtelo-20261019010753-nt.html",
-      "published_date": "2026-10-19T23:08:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Detenido un profesor de un colegio junto a la Gran Vía por violar a una decena de alumnos de entre 12 y 15 años",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/detenido-profesor-colegio-junto-gran-via-violar-20261020142840-nt.html",
-      "published_date": "2026-10-20T15:18:47+00:00",
+      "url": "https://www.abc.es/economia/impuestos-cotizaciones-soporta-trabajador-medio-suben-sanchez-20261021222828-nt.html",
+      "published_date": "2026-10-21T00:12:10+00:00",
       "category": "Local Events"
     },
     {
-      "title": "El PP acusa al Gobierno de incumplir «deliberadamente» el mandato judicial con la 'ley de nietos' y mueve ficha",
+      "title": "La Comunidad reactiva el desdoblamiento de la M-501 tras los incendios: «Ahora o nunca»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/pp-acusa-gobierno-incumplir-deliberadamente-mandato-judicial-20261020144809-nt.html",
-      "published_date": "2026-10-20T15:16:40+00:00",
+      "url": "https://www.abc.es/espana/madrid/comunidad-reactiva-desdoblamiento-m501-tras-incendios-nunca-20261020011110-nt.html",
+      "published_date": "2026-10-20T23:35:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "El juez apremia al PSOE para que informe en dos días de los abogados a los que contrató entre 2021 y 2025",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/juez-apremia-psoe-informe-dos-dias-abogados-20261020142253-nt.html",
-      "published_date": "2026-10-20T15:15:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rebajan de 7 a 4 años la condena a un hombre que violó a una mujer en un callejón y después la dejó tirada en el suelo",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/rebajan-anos-condena-hombre-violo-mujer-callejon-20261020170807-nt.html",
-      "published_date": "2026-10-20T15:08:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Hotel Corbella de Posadas, de Córdoba Califato Gourmet a Madrid Fusión 2027",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/hotel-corbella-posadas-cordoba-califato-gourmet-madrid-20261020142857-nts.html",
-      "published_date": "2026-10-20T15:05:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez regresa a la zona cero de una dana sin pisar el barro en Oliva",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/sanchez-regresa-zona-cero-dana-pisar-barro-20261020145920-nt.html",
-      "published_date": "2026-10-20T15:05:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pedro Sánchez pierde a su guionista a 40 días de las elecciones: de escribir los chistes en Moncloa a hacerlo para Quequé en La Séptima",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/pedro-sanchez-pierde-guionista-dias-elecciones-escribir-20261020163711-nt.html",
-      "published_date": "2026-10-20T15:04:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Álvarez de Toledo llama a una \"revolución de la decencia\" y pide al Constitucional que \"no sea cómplice de las maniobras de Sánchez\" con el censo",
+      "title": "La factura millonaria de las riadas: concentran casi el 80% de las indemnizaciones por catástrofes naturales y ya han costado 11.100 millones al bolsillo de los españoles",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/murcia/2026/10/20/6ad77839e85ecebe7b8b4587.html",
-      "published_date": "2026-10-20T14:50:21+00:00",
+      "url": "https://www.elmundo.es/economia/2026/10/20/6ad7aaa5e85ece22068b45c6.html",
+      "published_date": "2026-10-20T23:33:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sánchez y Puente se divierten con Celtas Cortos en plena crisis con las listas del PSOE en Castilla y León",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/rato-musical-inolvidable-pedro-sanchez-oscar-puente-20261020104841-nt.html",
-      "published_date": "2026-10-20T14:49:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El juez Vilaplana reactiva la causa del fraude masivo de formación en Andalucía con tres exconsejeros del PSOE imputados",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/juez-vilaplana-reactiva-causa-fraude-masivo-formacion-20261020162103-nts.html",
-      "published_date": "2026-10-20T14:36:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Podemos y Frente Amplio se juran «deportividad» y «guante blanco» en campaña mientras siguen los reproches",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/podemos-frente-amplio-juran-deportividad-guante-blanco-20261020142923-nt.html",
-      "published_date": "2026-10-20T14:20:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ayuso considera «irrealizables» las exigencias de la huelga educativa: 328 colegios nuevos y 13.600 docentes más",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/ayuso-considera-irrealizables-exigencias-huelga-educativa-328-20261020094426-nt.html",
-      "published_date": "2026-10-20T14:16:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Recuperan el cadáver de un hombre en aguas de Menorca, la sexta víctima por la dana Adam",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/sociedad/bomberos-rescatan-cadaver-hombre-aguas-menorca-plena-alerta-dana-adam_1_13600768.html",
-      "published_date": "2026-10-20T14:09:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La visita del papa León XIV a España generó un impacto económico de casi 140 millones de euros",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/visita-papa-leon-xiv-espana-genero-un-impacto-economico-casi-140-millones-euros_7051107_0.html",
-      "published_date": "2026-10-20T14:05:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ford Valencia ensamblará las baterías de los vehículos eléctricos en una nueva planta",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261020/11663733/ford-valencia-ensamblara-baterias-vehiculos-electricos-nueva-planta.html",
-      "published_date": "2026-10-20T13:48:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Gobierno declarará zona catastrófica a los municipios afectados por la dana Adam y promete recursos para la reconstrucción",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/gobierno-declarara-zona-catastrofica-municipios-afectados-dana-adam-promete-recursos-reconstruccion_1_13600720.html",
-      "published_date": "2026-10-20T13:47:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Justicia ordena a la UCO cotejar los datos fiscales y de la Seguridad Social de González Amador",
+      "title": "Sánchez mima a los universitarios ante las elecciones: derecho a huelga, a conciliar, al psicólogo y a la desconexión digital",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/20/6ad76bfbfdddff597d8b459b.html",
-      "published_date": "2026-10-20T13:42:45+00:00",
+      "url": "https://www.elmundo.es/espana/2026/10/21/6ad77811e9cf4aaf268b45b7.html",
+      "published_date": "2026-10-20T23:27:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Moncloa calibra sus mensajes en el Consejo de Ministros tras el toque de atención de la Junta Electoral a Sánchez",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/moncloa-calibra-sus-mensajes-consejo-ministros-tras-toque-atencion-junta-electoral-sanchez_7051092_0.html",
-      "published_date": "2026-10-20T13:27:35+00:00",
+      "title": "Los Mossos negocian con Puigdemont su retorno",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/mossos-negocian-puigdemont-retorno-20261021012513-nt.html",
+      "published_date": "2026-10-20T23:25:13+00:00",
       "category": "Local Events"
     },
     {
-      "title": "La Audiencia de Madrid ordena que la UCO analice los datos tributarios de González Amador",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261020/11663715/audiencia-madrid-ordena-uco-analice-datos-tributarios-gonzalez-amador.html",
-      "published_date": "2026-10-20T12:59:46+00:00",
+      "title": "El PSOE aparta de sus listas electorales a los cuatro diputados con más viviendas",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/psoe-desahucia-listas-29n-grandes-tenedores-vivienda-20261020012454-nt.html",
+      "published_date": "2026-10-20T23:25:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "El PP amenaza a Exteriores con acciones penales si \"obstaculiza\" la retirada del censo de los nacionalizados por la 'ley de nietos'",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-amenaza-exteriores-con-acciones-penales-si-obstaculiza-retirada-censo-los-nacionalizados-por-ley-nietos_7051075_0.html",
-      "published_date": "2026-10-20T12:57:25+00:00",
+      "title": "Albiol, a la conquista de dos escaños claves para el PP en Cataluña que acerquen a Feijóo a la Moncloa",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/albiol-conquista-dos-escanos-catalanes-pp-acerquen-20261020012501-nt.html",
+      "published_date": "2026-10-20T23:25:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Batalla de los robotaxis: los coches sin conductor de Google y Uber comienzan a circular por Madrid",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/tecnologia/2026/10/21/batalla-robotaxis-coches-conductor-google-uber-comienzan-circular-madrid.html",
+      "published_date": "2026-10-20T23:21:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Besant prevé triplicar su tamaño y alcanzar 3.000 millones en activos",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/2026/10/21/besant-preve-triplicar-tamano-alcanzar-3-000-millones-activos.html",
+      "published_date": "2026-10-20T23:20:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El programa Mi Primera Vivienda de Madrid ya tiene 12 entidades financieras adheridas",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/programa-primera-vivienda-madrid-entidades-financieras-adheridas-20261020011215-nt.html",
+      "published_date": "2026-10-20T23:12:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metro estrena la teleasistencia en las máquinas de billetes de 47 estaciones con humanos y sin IA",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/metro-estrena-teleasistencia-maquinas-billetes-estaciones-humanos-20261020011146-nt.html",
+      "published_date": "2026-10-20T23:11:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bicimad suma más de 100.000 viajes en sus primeros cien días en Pozuelo de Alarcón",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/bicimad-suma-100000-viajes-primeros-cien-dias-20261020011128-nt.html",
+      "published_date": "2026-10-20T23:11:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leire Díez acusa a la UCO de \"mentir\" en el informe sobre la extorsión a la juez Biedma: \"No he tenido nada que ver con los narcos, es mentira\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/21/6ad7ea0521efa0e64a8b456f.html",
+      "published_date": "2026-10-20T22:31:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tres \"activos reales\" recomendados para 2027",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/21/6ad75edd468aeb67678b4597.html",
+      "published_date": "2026-10-20T22:31:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Un censo adulterado",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/21/6ad77869fdddff2c618b458d.html",
+      "published_date": "2026-10-20T22:02:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La UCO señala que Aldama achacó a un intento de robo los daños en un coche suyo cuando se decía que fue tiroteado",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-uco-senala-aldama-achaco-intento-robo-danos-coche-suyo-cuando-decia-fue-tiroteado-20261020225937.html",
+      "published_date": "2026-10-20T20:59:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Las seis víctimas que deja la dana Adam: dos bañistas, un conductor, un campista, una anciana con movilidad reducida y una espectadora de un partido de baloncesto juvenil",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/20/6ad7b3dffdddff6a428b45b5.html",
+      "published_date": "2026-10-20T20:44:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez carga a la factura del próximo Gobierno subidas a pensionistas y funcionarios que costarán más de 17.600 millones",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/20/6ad7938b21efa09b7d8b45a0.html",
+      "published_date": "2026-10-20T20:44:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "¿Podrá Feijóo sortear las trampas de Sánchez?",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/opinion/2026/10/20/podra-feijoo-sortear-trampas-sanchez.html",
+      "published_date": "2026-10-20T20:09:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Llorca activa ayudas directas por la dana Adam: 6.000 euros en enseres y 800 al mes para vivienda",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/llorca-activa-ayudas-directas-dana-adam-6000-20261020211639-nt.html",
+      "published_date": "2026-10-20T19:33:20+00:00",
       "category": "Local Events"
     }
   ]
