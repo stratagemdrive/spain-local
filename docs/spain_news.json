@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-21T15:46:15.732571+00:00",
+  "last_updated": "2026-10-22T01:09:02.032647+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -11,10 +11,24 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Macron acuerda con Arabia Saudí prorrogar el suministro adicional de diésel a Francia",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/macron-acuerda-con-arabia-saudi-prorrogar-el-suministro-adicional-de-diesel-a-francia/",
+      "published_date": "2026-10-21T15:23:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Foreign Affairs accuses Milei of promoting \"polarization and violence\" and warns: \"Spain does not accept external interference\"",
       "source": "ABC",
       "url": "https://www.abc.es/espana/exteriores-acusa-milei-fomentar-polarizacion-violencia-avisa-20261021171743-nt.html",
       "published_date": "2026-10-21T15:21:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El Gobierno condena los insultos de Milei contra Sánchez y los tilda de \"indignos\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/exteriores-condena-los-insultos-milei-contra-sanchez-los-tilda-indignos_7051693_0.html",
+      "published_date": "2026-10-21T15:15:29+00:00",
       "category": "Diplomacy"
     },
     {
@@ -127,20 +141,6 @@
       "source": "El Mundo",
       "url": "https://www.elmundo.es/economia/2026/10/21/6ad71f7efc6c83ef568b458d.html",
       "published_date": "2026-10-20T23:27:42+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El PP amenaza por burofax a Albares con llevarlo a los tribunales si Exteriores no cumple los requisitos del TS para el voto suspendido por la ley de nietos",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/20/6ad74e8dfc6c83f51d8b4599.html",
-      "published_date": "2026-10-20T13:10:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ryanair cancels routes from Brussels with Barcelona, Madrid, Valencia and Malaga due to the increase in taxes in Belgium",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/20/6ad743b5e85ece82378b4596.html",
-      "published_date": "2026-10-20T10:36:11+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "El despliegue de la red troncal de hidrógeno en Alemania avanza a ritmo lento dos años después de su lanzamiento",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-despliegue-de-la-red-troncal-de-hidrogeno-en-alemania-avanza-a-ritmo-lento-dos-anos-despues-de-su-lanzamiento/",
+      "published_date": "2026-10-21T22:30:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Blackout in Ceuta: a failure in the Algeciras substation leaves the autonomous city without power for an hour",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/apagon-en-ceuta-esta-manana-ya-se-ha-recuperado-el-suministro/",
@@ -417,11 +424,67 @@
       "category": "Energy"
     },
     {
-      "title": "Más de 20.000 personas han visitado en un mes la gran exposición tecnológica de Iberdrola con motivo de su 125 aniversario",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/mas-de-20-000-personas-han-visitado-en-un-mes-la-gran-exposicion-tecnologica-de-iberdrola-con-motivo-de-su-125-aniversario/",
-      "published_date": "2026-10-20T12:22:00+00:00",
-      "category": "Energy"
+      "title": "El gigante del Ibex que encandila al mercado y tiene recorrido al alza",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/inversion/2026/10/22/6ad735f6e5fdea3c0b8b4594.html",
+      "published_date": "2026-10-22T00:18:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Santander ficha al exCEO de El Corte Inglés Santiago Bau",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/2026/10/22/6ad9060de5fdea73488b4581.html",
+      "published_date": "2026-10-22T00:18:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Murtra desplaza a toda la cúpula directiva de Telefónica a Brasil en plena campaña electoral",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-21/murtra-desplaza-a-toda-la-cupula-directiva-de-telefonica-a-brasil-en-plena-campana-electoral.html",
+      "published_date": "2026-10-21T22:16:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La España de las desigualdades: la vivienda cuesta hasta 17 veces más según el municipio y la renta varía hasta 6,5 entre barrios",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/10/22/6ad8ddd7fdddff8a6a8b458a.html",
+      "published_date": "2026-10-21T22:01:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nhood nombra a Pedro Rizo director de Mercado de Capitales",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/inmobiliario/2026/10/22/nhood-nombra-pedro-rizo-director-mercado-capitales.html",
+      "published_date": "2026-10-21T22:01:12+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El PP remite una carta a Montero proponiendo un debate sobre vivienda y una \"secretaria\" de Ferraz rechaza su recepción",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/21/6ad8deb3fc6c83c3228b4584.html",
+      "published_date": "2026-10-21T16:38:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La Fiscalía pide un año y 11 meses de prisión para el alcalde de Estepona por prevaricación y malversación",
+      "source": "El País",
+      "url": "https://elpais.com/espana/2026-10-21/la-fiscalia-pide-un-ano-y-11-meses-de-prision-para-el-alcalde-de-estepona-por-prevaricacion-y-malversacion.html",
+      "published_date": "2026-10-21T16:28:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El Ibex 35 sube un 1,21% al cierre, hasta los 19.323 puntos",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-121-cierre-19323-puntos-20261021181306.html",
+      "published_date": "2026-10-21T16:13:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El PP propone al PSOE un cara a cara sobre vivienda durante la campaña",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/pp-propone-psoe-un-cara-cara-sobre-vivienda-durante-campana_7051697_0.html",
+      "published_date": "2026-10-21T16:09:47+00:00",
+      "category": "Economy"
     },
     {
       "title": "The bank raises the Ibex above 19,300 points",
@@ -442,6 +505,13 @@
       "source": "20minutos",
       "url": "https://www.20minutos.es/nacional/madrid-barcelona-concentran-94-los-100-barrios-con-precio-vivienda-mas-caro_7051514_0.html",
       "published_date": "2026-10-21T14:17:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La deuda pública en la UE sube a su máximo nivel desde la pandemia",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-21/la-deuda-publica-en-la-ue-sube-a-su-maximo-nivel-desde-la-pandemia.html",
+      "published_date": "2026-10-21T13:55:44+00:00",
       "category": "Economy"
     },
     {
@@ -494,213 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Faconauto demands tax aid from companies to renew the vehicle fleet",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/faconauto-reclama-ayudas-fiscales-a-empresas-para-renovar-el-parque-automovilistico/",
-      "published_date": "2026-10-21T12:04:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Large consumer companies warn of a slowdown in private spending and ask the Government to reduce VAT",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261021/11664602/empresas-gran-consumo-alertan-freno-gasto-privado-piden-gobierno-rebajar-iva.html",
-      "published_date": "2026-10-21T12:02:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "BBVA and Santander will collaborate with Nvidia on security for AI agents",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-bbva-santander-colaboraran-nvidia-seguridad-agentes-ia-20261021135618.html",
-      "published_date": "2026-10-21T11:56:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Iñaki Ortega joins Trescom as CEO and first shareholder",
+      "title": "La Ertzaintza dejó ir al «líder de Jardun», acusado de terrorismo, tras identificarle con datos de policías y un zulo de ETA",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/inaki-ortega-incorpora-trescom-ceo-primer-accionista-20261021134645-nt.html",
-      "published_date": "2026-10-21T11:46:46+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/pais-vasco/ertzaintza-libero-lider-jardun-acusado-terrorismo-tras-20261022013033-nt.html",
+      "published_date": "2026-10-22T00:20:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The cities with the most expensive and cheapest houses in Spain: from 57,000 euros in Puertollano to a million in Calvià",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/ciudades-casas-caras-baratas-espana-57-000-euros-puertollano-millon-calvia_1_13602791.html",
-      "published_date": "2026-10-21T11:44:40+00:00",
-      "category": "Economy"
+      "title": "Los 172 diputados que votaron a favor de los decretos suman 242 viviendas",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/172-diputados-votaron-favor-decretos-suman-242-20261022013145-nt.html",
+      "published_date": "2026-10-22T00:19:53+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Exolum considers that the prices agreed with its clients are reasonable and transparent",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/exolum-considera-que-los-precios-pactados-con-sus-clientes-son-razonables-y-transparentes/",
-      "published_date": "2026-10-21T11:43:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Prosecutor's Office sees \"very likely\" that Ayuso's partner camouflaged the payment of \"a favor\" to a Quirón manager",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/fiscalia-ve-probable-pareja-ayuso-camuflara-pago-favor-directivo-quiron_1_13602945.html",
-      "published_date": "2026-10-21T11:26:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The EU agrees to keep more CO2 emission permits to avoid sharp price increases for the industry",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-ue-acuerda-conservar-mas-permisos-de-emision-de-co2-para-evitar-fuertes-subidas-de-precios-a-la-industria/",
-      "published_date": "2026-10-21T11:17:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Ricardo Álvarez (Dia): \"After the transformation, 97% of our stores are already profitable\"",
+      "title": "El plan de vivienda de Feijóo: rebajas fiscales, Ley del Suelo y 'desokupaciones' exprés",
       "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/distribucion/2026/10/21/6ad88cf0468aebd3028b457c.html",
-      "published_date": "2026-10-21T11:04:40+00:00",
-      "category": "Economy"
+      "url": "https://www.expansion.com/economia/2026/10/22/plan-vivienda-feijoo-rebajas-fiscales-ley-suelo-desokupaciones-expres.html",
+      "published_date": "2026-10-21T23:47:42+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Large consumers ask the new Government to lower taxes and a \"sensible and orderly\" immigration policy",
+      "title": "Feijóo se compromete a aprobar una ley anti okupas en los primeros cien días de Gobierno",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-compromete-aprobar-ley-anti-okupas-primeros-20261022013754-nt.html",
+      "published_date": "2026-10-21T23:38:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez arma un ejército de fieles para resistir desde el Congreso tras el 29-N",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-arma-ejercito-fieles-resistir-congreso-tras-20261022013249-nt.html",
+      "published_date": "2026-10-21T23:35:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yolanda Díaz busca un golpe de efecto ante la OIT con una subida del SMI del entorno del 5%",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/yolanda-diaz-busca-golpe-efecto-elecciones-oit-20261022013022-nt.html",
+      "published_date": "2026-10-21T23:30:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ayuso y Milei escenifican su buena sintonía durante una reunión de dos horas en Madrid",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/ayuso-milei-escenifican-buena-relacion-encuentro-sede-20261021181303-nt.html",
+      "published_date": "2026-10-21T23:12:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ruy González de Clavijo",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/ruy-gonzalez-clavijo-20261021011130-nt.html",
+      "published_date": "2026-10-21T23:11:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Garamendi reordena a su 'guardia pretoriana' y da mando en plaza a Madrid y Cataluña para negociar las grandes reformas tras el 29-N",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/21/6ad8937de9cf4afd2a8b4570.html",
-      "published_date": "2026-10-21T10:44:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Total rupture in the SME employers' association endorsed by the Government: the bulk of the associations leave the entity",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/ruptura-total-patronal-pymes-avalada-gobierno-grueso-20261021150851-nt.html",
-      "published_date": "2026-10-21T15:36:41+00:00",
+      "url": "https://www.elmundo.es/economia/2026/10/22/6ad8cddae85ece9b228b456d.html",
+      "published_date": "2026-10-21T22:01:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Madrid promotes the first 700 rental homes with the option to buy in Los Berrocales",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/madrid-impulsa-primeras-700-viviendas-alquiler-opcion-20261021165756-nt.html",
-      "published_date": "2026-10-21T15:33:56+00:00",
+      "title": "Criptos: las preguntas clave sobre el mayor activo de riesgo del mercado",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/criptomonedas/2026/10/22/6ad25177468aebc0588b457b.html",
+      "published_date": "2026-10-21T22:01:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Radical protesters try to break up Abascal's rally in La Coruña: \"They have come to the aid of Pedro Sánchez, his mafia, his corruption\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/cargas-policiales-acto-abascal-coruna-coaccion-violenta-20261021132324-nt.html",
-      "published_date": "2026-10-21T15:28:49+00:00",
+      "title": "Diplomáticos cuestionan el uso de Sánchez de la política exterior en su operación frente a Milei",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/22/6ad8fe2bfdddff715f8b456e.html",
+      "published_date": "2026-10-21T22:00:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "El Hierro, the permanent duel of the 'nameless' that the sea claims",
+      "title": "De la «pandemia del horror» al «escarnio público»: Camps y Oltra reviven cómo les afectó el bulo del Bar España",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/canarias/hierro-duelo-permanente-nombre-cobra-mar-20261021172630-nt.html",
-      "published_date": "2026-10-21T15:26:31+00:00",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/pandemia-horror-escarnio-publico-camps-oltra-reviven-20261022204015-nt.html",
+      "published_date": "2026-10-21T21:19:59+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The PP gets Barcelona to be a private prosecution for the housing riots and the ninth anniversary of 1-O",
+      "title": "Durísimo enfrentamiento al borde del insulto entre Sánchez y el polaco Tusk por la inmigración",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/pp-consigue-barcelona-acusacion-particular-disturbios-vivienda-20261021171026-nt.html",
-      "published_date": "2026-10-21T15:25:51+00:00",
+      "url": "https://www.abc.es/espana/intercambio-insultos-durisimo-enfrentamiento-sanchez-polaco-tusk-20261021215948-nt.html",
+      "published_date": "2026-10-21T21:08:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Vox places Gil Lázaro as the head of the Congress list for Valencia for 29N",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/vox-situa-gil-lazaro-cabeza-lista-congreso-20261021171924-nt.html",
-      "published_date": "2026-10-21T15:25:30+00:00",
+      "title": "Dos instituciones dañadas por dos ex ministros del PSOE en el intento de salvar la 'ley de nietos'",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/21/6ad8fea2e85ece4a468b457a.html",
+      "published_date": "2026-10-21T20:51:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The pedophile teacher tricked his students during five courses through the PlayStation",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/profesor-pederasta-embauco-cinco-anos-alumnos-traves-20261020012145-nt.html",
-      "published_date": "2026-10-21T15:11:34+00:00",
+      "title": "Tres detenidos por desórdenes públicos en las protestas contra el mitin de Santiago Abascal en Avilés",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/21/6ad92318e9cf4ad24a8b4597.html",
+      "published_date": "2026-10-21T20:44:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Santalices and Minister Fabiola García join the PP lists of 29-N",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/santalices-conselleira-fabiola-garcia-suman-listas-dle-20261021170948-nt.html",
-      "published_date": "2026-10-21T15:09:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The indefinite strike on the Almería urban bus remains blocked despite the offer of a 3.5% salary increase",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/almeria/huelga-indefinida-bus-urbano-almeria-sigue-bloqueada-20261021170458-nts.html",
-      "published_date": "2026-10-21T15:04:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vimpyca opens 16 homes for families at risk of social exclusion in Córdoba, which will be managed by Cáritas",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/vimpyca-abre-viviendas-familias-riesgo-exclusion-social-20261021130518-nts.html",
-      "published_date": "2026-10-21T15:04:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A building confiscated from drug trafficker Marcial Dorado in Galicia will be converted into 15 public housing units",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/edificio-decomisado-narco-marcial-dorado-galicia-convertira-20261021170335-nt.html",
-      "published_date": "2026-10-21T15:03:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Milei calls Sánchez a “dictator” and urges Spaniards to “kick out the socialists”",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/javier-milei-llama-impresentable-dictador-pedro-sanchez-20261021103446-nt.html",
-      "published_date": "2026-10-21T15:01:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From 57,000 euros in Puertollano to almost a million in Calviá: the average price of housing in Spain",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/57000-euros-puertollano-millon-euros-calvia-precio-20261021133028-nt.html",
-      "published_date": "2026-10-21T15:00:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The two Juanes of Spain",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/dos-juanes-espana-20261021145129-nt.html",
-      "published_date": "2026-10-21T14:59:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Civil Guard recovers Infoca material valued at 1.2 million in Adamuz and arrests a former pilot and a mechanic",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/guardia-civil-recupera-adamuz-material-infoca-valorado-20261021093204-nts.html",
-      "published_date": "2026-10-21T14:54:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three neighborhoods of Córdoba repeat among the 15 poorest in Spain: Guadalquivir, Palmeras and Sector Sur",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/barrios-pobres-espana-20261021103647-nts.html",
-      "published_date": "2026-10-21T14:51:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gloria's agony after being stabbed by her ex-partner: \"It was him, it was him!\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/agonia-gloria-tras-solo-dos-meses-relacion-20261021164820-nt.html",
-      "published_date": "2026-10-21T14:48:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PP condemns the riots in La Coruña against Abascal and expresses its solidarity: \"Violence is never the way\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/pp-condena-disturbios-coruna-abascal-traslada-solidaridad-20261021155239-nt.html",
-      "published_date": "2026-10-21T14:44:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Valencia unlocks the Benimaclet PAI 30 years later",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/valencia-desbloquea-pai-benimaclet-anos-despues-20261021164357-nt.html",
-      "published_date": "2026-10-21T14:43:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gil Lázaro displaces Carlos Flores Juberías as Vox's number one for Valencia",
+      "title": "Pedro Sánchez será entrevistado este jueves en 'La Revuelta' por David Broncano",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261021/11664692/gil-lazaro-desplaza-numero-vox-valencia-carlos-flores-juberias.html",
-      "published_date": "2026-10-21T14:18:50+00:00",
+      "url": "https://www.lavanguardia.com/politica/20261021/11664933/pedro-sanchez-sera-entrevistado-jueves-david-broncano-revuelta.html",
+      "published_date": "2026-10-21T20:37:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toni Comín llega a Madrid para acudir este jueves a la JEC",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261021/11664926/toni-comin-llega-madrid-acudir-jueves-jec.html",
+      "published_date": "2026-10-21T20:20:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ferraz elige para acompañar a Seijo en la lista del PSOE de Palencia a un 'rival' de Miriam Andrés",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/agustin-martinez-rut-perez-completan-lista-psoe-20261021163051-nt.html",
+      "published_date": "2026-10-21T19:56:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El PP se enreda con las listas electorales de Castilla y León",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/pp-enreda-castilla-leon-listas-electorales-20261021213037-nt.html",
+      "published_date": "2026-10-21T19:34:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez azuza el miedo a la motosierra de Milei: “Si Feijóo y Abascal gobiernan, van a hacer en España lo mismo que en Argentina”",
+      "source": "El País",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/sanchez-azuza-el-miedo-a-la-motosierra-de-milei-si-feijoo-y-abascal-gobiernan-van-a-hacer-en-espana-lo-mismo-que-en-argentina.html",
+      "published_date": "2026-10-21T19:01:06+00:00",
       "category": "Local Events"
     }
   ]
