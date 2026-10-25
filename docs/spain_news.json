@@ -1,8 +1,15 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-25T00:40:21.897184+00:00",
+  "last_updated": "2026-10-25T14:42:03.853264+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Podemos will not present lists to the Senate in the Valencian Community after its pact with Compromís and the EU",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/valencia/20261025/11667626/presentara-listas-senado-comunidad-valenciana-pacto-compromis-eu.html",
+      "published_date": "2026-10-25T09:43:34+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Spain closes the legislature as the EU country with the most untransposed directives",
       "source": "La Vanguardia",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Diplomats question Sánchez's use of foreign policy in his operation against Milei",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/22/6ad8fe2bfdddff715f8b456e.html",
-      "published_date": "2026-10-21T22:00:53+00:00",
-      "category": "Diplomacy"
+      "title": "From drone to artificial intelligence: Expo AgriTech 2026 brings together the innovations that are transforming the field",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261025/11665701/dron-inteligencia-artificial-expo-agritech-2026-reune-innovaciones-transformando-campo-brl.html",
+      "published_date": "2026-10-25T04:55:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "A teenage army in white sneakers and black tracksuits",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/sociedad/ejercito-adolescente-deportivas-blancas-chandal-negro_129_13605777.html",
+      "published_date": "2026-10-24T20:25:23+00:00",
+      "category": "Military"
     },
     {
       "title": "José Luis Navarro Jr. will defend his European crown against Kamil Kuzdzien",
@@ -267,20 +281,6 @@
       "source": "El Mundo",
       "url": "https://www.elmundo.es/espana/2026/10/23/6ada590fe9cf4ac43d8b456d.html",
       "published_date": "2026-10-22T23:15:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Flora says goodbye in the trenches of her Guerrilla: \"The ephemeral will become permanent in my house\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/flora-despide-trincheras-guerrilla-efimero-hara-permanente-20261022210934-nts.html",
-      "published_date": "2026-10-22T19:31:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "European Parliament proposes EU naval mission in the Black Sea following recent drone attacks on commercial ships",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-10-22/el-parlamento-europeo-propone-una-mision-naval-de-la-ue-en-el-mar-negro-tras-los-ultimos-ataques-de-drones-contra-buques-comerciales.html",
-      "published_date": "2026-10-22T15:57:36+00:00",
       "category": "Military"
     },
     {
@@ -424,6 +424,132 @@
       "category": "Energy"
     },
     {
+      "title": "Colau attacks the PSOE: he accuses them of not reducing inequality and asks to fill the streets in front of politicians with a \"golden bill\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/colau-arremete-contra-psoe-les-acusa-no-reducir-desigualdad-pide-llenar-las-calles-frente-politicos-con-piquito-oro_7053123_0.html",
+      "published_date": "2026-10-25T13:53:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What's behind Blocus: the anonymous group that encouraged the Barcelona riots and wants to take its extreme violence throughout Spain",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/que-hay-tras-blocus-grupo-anonimo-que-alento-los-disturbios-barcelona-quiere-llevar-su-violencia-extrema-por-toda-espana_7053108_0.html",
+      "published_date": "2026-10-25T12:52:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Nvidia weaves a network of strategic alliances in banking, telecoms and automotive to promote its AI",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/noticia-nvidia-teje-red-alianzas-estrategicas-banca-telecos-automocion-impulsar-ia-20261025133004.html",
+      "published_date": "2026-10-25T12:30:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The proposals of Luiz Inácio Lula da Silva: State and investment against inequalities",
+      "source": "El País",
+      "url": "https://elpais.com/america/2026-10-25/las-propuestas-de-luiz-inacio-lula-da-silva-estado-e-inversion-contra-las-desigualdades.html",
+      "published_date": "2026-10-25T12:01:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sánchez runs alongside Corpus in a video loaded with messages about his mandate: \"We've had eight, shall we do four more?\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-corre-junto-carlos-cuerpo-video-cargado-mensajes-sobre-mandato-llevamos-ocho-hacemos-cuatro-mas_7053086_0.html",
+      "published_date": "2026-10-25T11:16:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A laborer in the metallurgical sector in Guipúzcoa earns 30% more per hour than an engineer in Cuenca",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/laboral-00346/noticia-peon-sector-metalurgico-guipuzcoa-cobra-hora-30-mas-ingeniero-cuenca-20261025113355.html",
+      "published_date": "2026-10-25T10:33:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Workers who collect the SMI will pay personal income tax if the Government does not approve another tax adjustment in the Permanent Deputation or in 2027",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/25/6addcd56fc6c832d1f8b456d.html",
+      "published_date": "2026-10-25T09:44:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The tax exemption of the increase in the SMI, pending a legal change in the Permanent Deputation or the new Congress",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/laboral-00346/noticia-exencion-fiscal-subida-smi-pendiente-cambio-legal-diputacion-permanente-nuevo-congreso-20261025102649.html",
+      "published_date": "2026-10-25T09:26:49+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What does your neighbor live on? Salary, pension or aid",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/vive-vecino-salario-pension-ayudas-20261024022206-nt.html",
+      "published_date": "2026-10-25T07:40:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rising inflation scares companies away from public procurement",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261025/11667287/alza-inflacion-ahuyenta-empresas-contratacion-publica.html",
+      "published_date": "2026-10-25T05:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The family business and AI",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261025/11667285/empresa-familiar-ia.html",
+      "published_date": "2026-10-25T05:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The heat takes its toll on the hotel business in southern Europe",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261025/11667281/calor-pasa-factura-negocio-hotelero-sur-europa.html",
+      "published_date": "2026-10-25T05:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "“Sustainable finance runs the risk of being just marketing”",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261025/11667274/finanzas-sostenibles-corren-riesgo-marketing.html",
+      "published_date": "2026-10-25T05:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Extreme weather will cut the Spanish economy by 2.4% by 2029",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261025/11667273/clima-extremo-recortara-2-4-economia-espanola-2029.html",
+      "published_date": "2026-10-25T05:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "This is how Macron's economic formula derailed",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-10-25/asi-descarrilo-la-formula-economica-de-macron.html",
+      "published_date": "2026-10-25T04:45:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "France in trouble: lessons for Spain",
+      "source": "El País",
+      "url": "https://elpais.com/economia/negocios/2026-10-25/francia-en-aprietos-ensenanzas-para-espana.html",
+      "published_date": "2026-10-25T04:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Three good news against economic pessimism",
+      "source": "El País",
+      "url": "https://elpais.com/economia/negocios/2026-10-25/tres-buenas-noticias-contra-el-pesimismo-economico.html",
+      "published_date": "2026-10-25T04:30:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The 'chameleon lefties' infiltrate a business board that shifts to the right",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/zurdos-camaleon-infiltran-tablero-empresarial-vira-derecha-20261025023310-nt.html",
+      "published_date": "2026-10-25T01:33:10+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "The IMF places Spain as the leader of advanced economies in increased government spending since 2018",
       "source": "El Mundo",
       "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/25/6ada3edbe9cf4a4d178b4595.html",
@@ -438,269 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Spanish roads are filled with dangerous 'curves': from being the envy of Europe to a record conservation deficit of 13.5 billion euros",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/24/6adc89e6e85ecec82f8b457a.html",
-      "published_date": "2026-10-24T20:51:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The student residence business: more investment but about 500,000 beds are missing",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/negocio-las-residencias-estudiantes-mas-inversion-pero-faltan-unas-500-000-camas_7053006_0.html",
-      "published_date": "2026-10-24T17:52:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Clues to invest now with a euro under pressure",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inversion/2026/10/24/6adb9ab9e5fdea911e8b45a9.html",
-      "published_date": "2026-10-24T17:48:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The 'milquini', the new mileuristas in the economy of 2026: “We reduce leisure to a minimum”",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-24/los-milquini-los-nuevos-mileuristas-en-la-economia-de-2026-el-ocio-lo-reducimos-al-minimo.html",
-      "published_date": "2026-10-24T17:41:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The big capitals lose strength",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/grandes-capitales-pierden-fuerza.html",
-      "published_date": "2026-10-24T17:30:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Barcelona soars 11% despite the brake on sales",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-dispara-11-pesar-freno-compraventa.html",
-      "published_date": "2026-10-24T17:25:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Can Lula overcome Flávio Bolsonaro? This is what the polls say",
-      "source": "El País",
-      "url": "https://elpais.com/america/2026-10-24/puede-lula-remontar-a-flavio-bolsonaro-esto-es-lo-que-dicen-las-encuestas.html",
-      "published_date": "2026-10-24T15:47:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rufián and Montero call to \"submit the PSOE\" and boast of an alliance usurping the name of Colau's: \"We are the Front\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/rufian-montero-llaman-someter-psoe-presumen-alianza-usurpando-nombre-los-colau-frente-somos-nosotros_7052967_0.html",
-      "published_date": "2026-10-24T13:56:45+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Núñez vindicates the figure of Feijóo to recover growth and decency in Spain",
+      "title": "The night paving of Río Guadiana Avenue in Toledo will cause outages starting this Monday",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-reivindica-figura-feijoo-recuperar-crecimiento-decencia-20261024150905-nt.html",
-      "published_date": "2026-10-24T13:34:02+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/asfaltado-nocturno-avenida-rio-guadiana-toledo-provocara-20261025152445-nt.html",
+      "published_date": "2026-10-25T14:24:45+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Feijóo promises a tax reduction for young people, families and the self-employed while criticizing those who \"agitate the street\": \"Do we want what happens in France?\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-promete-rebaja-fiscal-jovenes-familias-autonomos-critica-quien-agita-calle-queremos-francia_7052963_0.html",
-      "published_date": "2026-10-24T13:16:59+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Feijóo promises a broad tax reduction “to those who deserve it most”: young people, families and the self-employed",
+      "title": "Low profile in the nationalist call against \"police violence\"",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/feijoo-promete-amplia-rebaja-fiscal-merece-jovenes-20261024133011-nt.html",
-      "published_date": "2026-10-24T13:04:00+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/galicia/perfil-bajo-convocatoria-nacionalista-violencia-policial-20261025152237-nt.html",
+      "published_date": "2026-10-25T14:22:38+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The construction company of the new Matalascañas promenade appears in the secret agenda of the Koldo case",
+      "title": "Juanma Moreno remembers the case of Leo, the boy with butterfly skin: \"I hope the drug Vyjuvek is a reality in Spain\"",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/huelva/constructora-nuevo-paseo-matalascanas-bajo-lupa-judicial-20261024065711-nts.html",
-      "published_date": "2026-10-24T12:36:21+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-recuerda-leo-pide-farmaco-vyjuvek-20261025123123-nts.html",
+      "published_date": "2026-10-25T14:21:26+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "From Rusowsky to La Plazuela: Pedro Sánchez dances again at the pre-campaign event in Granada",
+      "title": "The PP pulls management in its lists at the cost of exceptions in its statute",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/granada/rusowsky-plazuela-pedro-sanchez-vuelve-bailar-acto-20261024135844-nts.html",
-      "published_date": "2026-10-24T12:08:39+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/andalucia/pp-tira-gestion-listas-costa-excepciones-estatuto-20261025151408-nts.html",
+      "published_date": "2026-10-25T14:14:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rufián and Montero launch their tandem with reproaches against a PSOE that they want to “submit” and the Frente Amplio",
+      "title": "Mackerel women demonstrate in Madrid \"for a safe, Spanish and European Ceuta\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/mujeres-caballas-manifiestan-madrid-ceuta-segura-espanola-20261025123815-nt.html",
+      "published_date": "2026-10-25T14:13:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A 26-year-old man arrested for sexual assault of a 22-year-old woman at the Puerta del Sol campsite",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/detenido-joven-anos-agresion-sexual-mujer-acampada-20261025145319-nt.html",
+      "published_date": "2026-10-25T14:12:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feijóo relates Sánchez to the Barcelona riots: \"They are resisting abandoning power with violence\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/feijoo-relaciona-sanchez-disturbios-barcelona-resistiendo-abandonar-20261025140032-nt.html",
+      "published_date": "2026-10-25T14:12:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ester Muñoz: «This land was emptied in Spain to build a great nation and we are going to do it again»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/ester-munoz-tierra-vacio-espana-construir-gran-20261025150413-nt.html",
+      "published_date": "2026-10-25T14:04:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The tortuous contest of the municipal nursery schools of Toledo already has a winner",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/tortuoso-concurso-escuelas-infantiles-municipales-toledo-ganador-20261025145831-nt.html",
+      "published_date": "2026-10-25T13:58:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Junts, PP and Vox demand explanations from Illa for the riots in Barcelona in the middle of the electoral campaign",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/junts-pp-vox-exigen-explicaciones-illa-disturbios-20261025145346-nt.html",
+      "published_date": "2026-10-25T13:53:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Comín crosses the border with France on foot and returns to Catalonia after nine years on the run",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/comin-cruza-frontera-francia-pie-regresa-cataluna-20261025143805-nt.html",
+      "published_date": "2026-10-25T13:38:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Minister Comín crosses the border on foot to stage his return after nine years in Belgium",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/toni-comin-exconseller-junts-cruza-frontera-pie-regreso-bruselas_1_13613715.html",
+      "published_date": "2026-10-25T13:33:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "David Tomé, the youngest goatherd in Andalusia: \"Before you could live with fifty goats, now you need four hundred to make ends meet\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/malaga/david-tome-cabrero-joven-andalucia-podias-vivir-20261025143220-nts.html",
+      "published_date": "2026-10-25T13:32:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A Galicia of twelve stars",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/galicia/galicia-doce-estrellas-20261023143217-nt.html",
+      "published_date": "2026-10-25T13:32:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frente Amplio charges against left-wing politicians with a \"golden bill\" and who \"do not put in the effort\" to defend rights",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/frene-amplio-carga-politicos-izquierda-piquito-oro-no-ponen-cuerpo-defender-derechos_1_13613685.html",
+      "published_date": "2026-10-25T13:29:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fabiola García will resign this Sunday as Minister of Social Policy and Rueda will appoint her replacement this Monday",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/galicia/fabiola-garcia-cesara-domingo-conselleira-politica-social-20261025142314-nt.html",
+      "published_date": "2026-10-25T13:23:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In 'Hermanas', Ione Hernández addresses a drama about sexual abuse that \"does not pass judgment or take sides\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/ione-hernandez-aborda-hermanas-drama-sobre-abusos-20261025134518-nt.html",
+      "published_date": "2026-10-25T13:22:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andalusia activates a network of dentists for patients with butterfly skin",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/andalucia-activa-red-dentistas-pacientes-piel-mariposa-20261025141822-nts.html",
+      "published_date": "2026-10-25T13:18:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Comín returns to Catalonia crossing the border on foot: “Without exile there would have been no amnesty”",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/elecciones/20261024/11667190/rufian-montero-estrenan-tandem-reproches-psoe-quieren-someter-frente-amplio.html",
-      "published_date": "2026-10-24T12:00:28+00:00",
-      "category": "Economy"
+      "url": "https://www.lavanguardia.com/politica/20261025/11667667/comin-vuelve-catalunya-cruzando-pie-frontera-exilio-hubiera-habido-amnistia.html",
+      "published_date": "2026-10-25T13:17:18+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Montero and Rufián boast of an alliance between ERC and Podemos and intensify their attacks against everyone: \"We are the front\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/10/24/6adc985b21efa088288b45b4.html",
-      "published_date": "2026-10-24T11:38:51+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rufián and Montero open the joint campaign of ERC and Podemos: \"Feijóo wants a country of enslaved women\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/rufian-montero-abren-campana-conjunta-erc-feijoo-quiere-pais-mujeres-esclavizadas_1_13611024.html",
-      "published_date": "2026-10-24T11:10:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Frente Amplio proposes setting retirement at 65 years of age and guaranteeing pensions equal to or greater than the minimum wage",
+      "title": "Feijóo blames Sánchez and \"the disciples of the wall\" for the riots in Barcelona: \"Since they have lost the street they want to burn it down\"",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-fijar-jubilacion-los-65-anos-garantizar-pensiones-iguales-superiores-salario-minimo_7052938_0.html",
-      "published_date": "2026-10-24T11:03:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Can Spain end up like France? The keys to understanding debt, deficit and growth",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-puede-espana-acabar-francia-claves-entender-deuda-deficit-crecimiento-20261024095949.html",
-      "published_date": "2026-10-24T07:59:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The territory of the 'sewer' in Badajoz becomes a powder keg",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/extremadura/territorio-cloaca-badajoz-convierte-polvorin-20261014023559-nt.html",
-      "published_date": "2026-10-25T00:35:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jardun leader and IRA dissident held Gudari Eguna in France after being identified but not arrested",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/pais-vasco/lider-jardun-disidente-ira-celebraron-gudari-eguna-20261025023537-nt.html",
-      "published_date": "2026-10-25T00:35:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sleeping with his enemy: controversy over the popular verdict of the man who recorded his wife before strangling her",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/durmiendo-enemigo-polemica-veredicto-popular-hombre-grabo-20261024023324-nt.html",
-      "published_date": "2026-10-25T00:33:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The seven tits of our misery",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/siete-tetas-miseria-20261024021611-nt.html",
-      "published_date": "2026-10-25T00:16:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Sierra Oeste begins autumn in the largest chestnut grove in Madrid, saved from the flames",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/sierra-oeste-estrena-otono-mayor-castanar-madrid-20261023015456-nt.html",
-      "published_date": "2026-10-24T23:54:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Más Madrid's threats increase tension in the final stretch of Ayuso's legislature",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/amenazas-madrid-extreman-tension-recta-final-legislatura-20261023015257-nt.html",
-      "published_date": "2026-10-24T23:52:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Court of Accounts opens proceedings for the recovery of 400,000 euros irregularly paid to Sánchez's brother and his friend in Badajoz",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/25/6adcd78fe9cf4a40228b4575.html",
-      "published_date": "2026-10-24T23:27:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A hundred arrested for the destruction and looting of the anti-system in Barcelona",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/disturbios-centro-barcelona-marcha-sistema-20261024202028-nt.html",
-      "published_date": "2026-10-24T22:27:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Only 91 of the 31,390 files reviewed meet the requirements of the 'grandchildren law'",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/solo-31000-expedientes-nietos-bien-tramitados-20261024231709-nt.html",
-      "published_date": "2026-10-24T22:08:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez's team already sees him as a \"winner\" but sectors of the PSOE outside Madrid reduce the euphoria: \"There is no enthusiasm on the street\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/25/6adcd6f0e9cf4a3f028b4579.html",
-      "published_date": "2026-10-24T22:04:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain tries to get on the rail highways",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/espana-intenta-subirse-marcha-autopistas-ferroviarias-20261025000100-nt.html",
-      "published_date": "2026-10-24T22:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "five hundred",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/quinientos-20261023220655-nt.html",
-      "published_date": "2026-10-24T20:06:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alterations, looting and charges in the center of Barcelona in a youth protest \"against the system\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/altercados-saqueos-cargas-centro-barcelona-protesta-juvenil-sistema_1_13612854.html",
-      "published_date": "2026-10-24T19:13:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "One dead and four injured in a head-on collision in Alhaurín el Grande",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/malaga/muerto-cuatro-heridos-colision-frontal-alhaurin-grande-20261024205830-nts.html",
-      "published_date": "2026-10-24T18:58:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Visitors to 'Sabor a Córdoba' say: \"The oils are exquisite and the site is impressive\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/visitantes-sabor-cordoba-opinan-aceites-exquisitos-sitio-20261024163003-nts.html",
-      "published_date": "2026-10-24T18:41:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "They denounce Tesh Sidi, number two of the Frente Amplio in Madrid, for workplace harassment",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/denuncian-tesh-sidi-numero-dos-frente-amplio-20261024195734-nt.html",
-      "published_date": "2026-10-24T18:27:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PSOE links Ruiz's resignation from the Congressional list with its investigation for alleged workplace harassment",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-vincula-renuncia-ruiz-lista-congreso-investigacion-20261024202616-nt.html",
-      "published_date": "2026-10-24T18:26:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jordi Wild gives details about what his interviews will be like after Pedro Sánchez's yes: 90 minutes, two fact-checkers, \"fucked up topics\"...",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/jordi-wild-da-detalles-sobre-como-seran-entrevistas-si-pedro-sanchez-minutos-verificadores-temas-jodidos_7053016_0.html",
-      "published_date": "2026-10-24T18:25:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Massive Saffron Rose Festival in Consuegra",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/multitudinaria-fiesta-rosa-azafran-consuegra-20261024201252-nt.html",
-      "published_date": "2026-10-24T18:12:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo elects Alma Ezcurra as four from the PP for Madrid to Congress and Inmaculada Sanz as two in the Senate",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-alma-ezcurra-cuatro-pp-madrid-congreso-20261024200318-nt.html",
-      "published_date": "2026-10-24T18:08:22+00:00",
+      "url": "https://www.20minutos.es/nacional/feijoo-culpa-sanchez-los-discipulos-muro-los-disturbios-barcelona-como-han-perdido-calle-quieren-incendiarla_7053113_0.html",
+      "published_date": "2026-10-25T13:13:03+00:00",
       "category": "Local Events"
     }
   ]
