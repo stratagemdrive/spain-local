@@ -1,8 +1,43 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-26T17:05:06.021018+00:00",
+  "last_updated": "2026-10-27T01:41:53.170045+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "What happens if you don't pass or drop out of a SEPE course? Avoid sanctions",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/pasa-apruebas-abandonas-curso-sepe-evita-sanciones-20261026010655-nt.html",
+      "published_date": "2026-10-27T00:07:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Council reaches partial agreement on CAP reform",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-26/el-consejo-de-la-ue-llega-a-un-acuerdo-parcial-sobre-la-reforma-de-la-pac.html",
+      "published_date": "2026-10-26T23:08:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vivanta closes all its dental clinics pending the Brussels ruling",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/companias/2026-10-26/vivanta-cierra-todas-sus-clinicas-dentales-a-la-espera-del-pronunciamiento-de-bruselas.html",
+      "published_date": "2026-10-26T19:40:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The AEPD cannot demand interest for sanctions suspended by a judge",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/juridico/2026/10/26/aepd-exigir-intereses-sanciones-suspendidas-juez.html",
+      "published_date": "2026-10-26T19:31:50+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Temu backs down and accepts Brussels' measures to reduce the sale of illegal products",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261026/11668655/temu-recula-acepta-medidas-bruselas-reducir-venta-productos-ilegales.html",
+      "published_date": "2026-10-26T18:34:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "The consul in Uruguay, after the precautionary measures of the TS for the 'grandchildren law': \"We are going to continue with the procedures\"",
       "source": "ABC",
@@ -109,39 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "A former Guantánamo prisoner expelled to Morocco after 11 years in prison in Spain for recruiting jihadists in Madrid",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/23/6adb115c21efa03e428b4586.html",
-      "published_date": "2026-10-23T08:26:05+00:00",
-      "category": "Diplomacy"
+      "title": "War between Moncloa and the delegate in Madrid due to his \"scaredness\" one month after 29N",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/guerra-moncloa-delegado-madrid-espantada-mes-29n-20261027012836-nt.html",
+      "published_date": "2026-10-27T00:29:09+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spain suffers more deaths at work than the EU average and moves away from the safest countries",
+      "title": "Abascal calls for a “massive mobilization” on 29N to respond to the violence against Vox",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/abascal-pide-movilizacion-masiva-29n-responder-violencia-20261026204341-nt.html",
+      "published_date": "2026-10-26T20:55:26+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Robles warns at the UN that peace cannot be built with our backs to women",
       "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-23/espana-sufre-mas-muertes-en-el-trabajo-que-la-media-de-la-ue-y-se-aleja-de-los-paises-mas-seguros.html",
-      "published_date": "2026-10-23T03:45:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The EU supports Spain to tighten the forgiveness of debts with the Treasury",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/23/ue-avala-espana-endurecer-perdon-deudas-hacienda.html",
-      "published_date": "2026-10-22T22:39:29+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Electric cars soar by more than 70% in Europe and account for almost a third of the market",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/motor/2026/10/22/6ada3d54e5fdea67028b4588.html",
-      "published_date": "2026-10-22T16:57:15+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Foreign Affairs, after Israel's veto of elDiario.es: \"The Government defends the freedom of Spanish journalists\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/internacional/exteriores-veto-israel-eldiario-gobierno-defiende-libertad-periodistas-espanoles_1_13607332.html",
-      "published_date": "2026-10-22T16:36:26+00:00",
-      "category": "Diplomacy"
+      "url": "https://elpais.com/espana/2026-10-26/robles-advierte-en-la-onu-de-que-la-paz-no-puede-construirse-de-espaldas-a-las-mujeres.html",
+      "published_date": "2026-10-26T18:11:03+00:00",
+      "category": "Military"
     },
     {
       "title": "José Elías, businessman, asks to recover the military service in Spain: \"Many kids need that bath of reality\"",
@@ -162,6 +183,13 @@
       "source": "Europa Press",
       "url": "https://www.europapress.es/nacional/noticia-alvarez-toledo-culpa-sanchez-disturbios-barcelona-le-acusa-alentar-estrategia-guerracivilista-20261026125317.html",
       "published_date": "2026-10-26T11:53:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The First Expansion on drones from Seat, BBVA, Sabadell, Madrileña Red de Gas, Lula, Tesla and SpaceX",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/26/primera-expansion-sobre-drones-seat-bbva-sabadell-madrilena-red-gas-lula-tesla-space-x.html",
+      "published_date": "2026-10-26T06:38:13+00:00",
       "category": "Military"
     },
     {
@@ -256,32 +284,60 @@
       "category": "Military"
     },
     {
-      "title": "The “narcoarchitect” of the second narcotunnel in Ceuta asks to annul the case",
-      "source": "El País",
-      "url": "https://elpais.com/espana/2026-10-23/el-narcoarquitecto-del-segundo-narcotunel-de-ceuta-pide-anular-la-causa.html",
-      "published_date": "2026-10-23T18:51:56+00:00",
-      "category": "Military"
+      "title": "Hydrogen projects in Spain fall from almost 400 to 312 in one year",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/energia/2026/10/27/6adff0f5e5fdeaee468b4574.html",
+      "published_date": "2026-10-27T00:39:26+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Armed Forces rehearse in Huelva how to respond to massive drone attacks using 5G technology",
+      "title": "TTF natural gas reduces its rise to 2.7%, up to 96 euros, a new maximum since 2022",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-gas-natural-ttf-reduce-su-subida-al-2-7-hasta-96-euros-nuevo-maximo-desde-2022/",
+      "published_date": "2026-10-26T23:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "EQT buys Range Resources to create a natural gas giant with a valuation of 44.7 billion",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/eqt-compra-range-resources-para-crear-un-gigante-del-gas-natural-con-una-valoracion-de-44-700-millones/",
+      "published_date": "2026-10-26T23:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Repsol completes its share buyback program early for 500 million",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/repsol-completa-anticipadamente-su-programa-de-recompra-de-acciones-por-500-millones/",
+      "published_date": "2026-10-26T23:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Aagesen relaxes its conditions for data centers: larger facilities or electricity from older renewables",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/las-fuerzas-armadas-ensayan-huelva-como-responder-ataques-masivos-con-drones-mediante-tecnologia-5g_7052819_0.html",
-      "published_date": "2026-10-23T16:46:35+00:00",
-      "category": "Military"
+      "url": "https://www.20minutos.es/nacional/aagesen-flexibiliza-sus-condiciones-para-los-centros-datos-instalaciones-mas-grandes-electricidad-renovables-mas-antiguas_7053699_0.html",
+      "published_date": "2026-10-26T22:06:33+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The Police find \"nothing\" in the coordinates of Navarra that those detained for terrorism had as a possible location of a weapons cache",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/euskadi/policia-foral-no-encuentra-zona-navarra-senalada-posible-ubicacion-zulo-armas_1_13610831.html",
-      "published_date": "2026-10-23T16:16:38+00:00",
-      "category": "Military"
+      "title": "The Government gives a break to data centers with less demanding energy requirements",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-gobierno-da-un-respiro-a-los-centros-de-datos-con-requisitos-energeticos-menos-exigentes/",
+      "published_date": "2026-10-26T22:02:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Telefónica and Indra study the creation of a joint venture for sovereign cloud services in Europe",
+      "title": "The Government softens the renewable requirements for data centers",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/tecnologia/2026/10/26/gobierno-suaviza-exigencias-renovables-centros-datos.html",
+      "published_date": "2026-10-26T22:01:05+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The time change triggers the electricity bill with the highest prices in four years",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/telefonica-indra-estudian-creacion-joint-venture-servicios-20261023175123-nt.html",
-      "published_date": "2026-10-23T15:51:24+00:00",
-      "category": "Military"
+      "url": "https://www.abc.es/economia/cuentas-corrientes/cambio-hora-dispara-factura-luz-precios-altos-20261025021511-nt.html",
+      "published_date": "2026-10-26T18:35:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "The house of pet terror: 61 dogs and cats overcrowded without electricity and with mange in Vélez-Málaga",
@@ -368,339 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "The renewable hydrogen sector in Spain is advancing towards a new stage of consolidation with 312 registered projects",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-sector-del-hidrogeno-renovable-en-espana-avanza-hacia-una-nueva-etapa-de-consolidacion-con-312-proyectos-registrados/",
-      "published_date": "2026-10-26T11:16:00+00:00",
-      "category": "Energy"
+      "title": "Iván Redondo's lowest hours due to his real estate purchases",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/alargada-sombra-ivan-redondo-tras-dejar-poder-20261026012318-nt.html",
+      "published_date": "2026-10-27T00:23:48+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The rise in energy and rates will slow down the growth of Catalan SMEs this year",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261026/11668166/pimec-empresas-ventas-resultado-anuari-pyme.html",
-      "published_date": "2026-10-26T11:02:03+00:00",
-      "category": "Energy"
+      "title": "Companies shake up agreements to renegotiate the salary shield for sick workers",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/empresas-acotan-complementos-bajas-convenios-ante-gasto-20261027011947-nt.html",
+      "published_date": "2026-10-27T00:19:47+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Iberdrola and MediaMarkt sign an agreement to supply renewable energy for 100% of their centers in Spain",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/iberdrola-y-mediamarkt-firman-un-acuerdo-de-suministro-de-energia-renovable-para-el-100-de-sus-centros-en-espana/",
-      "published_date": "2026-10-26T10:14:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil falls below $115 despite new Houthi attacks on oil fields",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-petroleo-cae-por-debajo-de-115-dolares-pese-a-los-nuevos-ataques-de-los-huties-sobre-campos-petroliferos/",
-      "published_date": "2026-10-26T10:05:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "\"Europe must firmly maintain its energy transition agenda\"",
+      "title": "The Matutes hotel holding company earns 30% less but improves its margins",
       "source": "Expansión",
-      "url": "https://www.expansion.com/sostenibilidad/greenworld/2026/10/26/6adf1ea2468aeb067f8b4599.html",
-      "published_date": "2026-10-26T09:54:35+00:00",
-      "category": "Energy"
+      "url": "https://www.expansion.com/inmobiliario/2026/10/27/holding-hotelero-matutes-gana-30-mejora-margenes.html",
+      "published_date": "2026-10-27T00:05:03+00:00",
+      "category": "Economy"
     },
     {
-      "title": "TTF natural gas shoots up almost 4% and exceeds 97 euros, new highs since 2022",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-gas-natural-ttf-se-dispara-casi-un-4-y-supera-los-97-euros-nuevos-maximos-desde-2022/",
-      "published_date": "2026-10-26T09:46:00+00:00",
-      "category": "Energy"
+      "title": "Anthropic heads to the stock market: the ten keys revealed by its long-awaited IPO",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/tecnologia/2026/10/27/anthropic-pone-rumbo-bolsa-diez-claves-desvela-esperada-opv.html",
+      "published_date": "2026-10-27T00:00:45+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The CNMC gives the green light to the purchase of Contigo Energía by Iberdrola, which will add a portfolio of 100,000 clients",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-cnmc-da-luz-verde-a-la-compra-de-contigo-energia-por-iberdrola-que-sumara-una-cartera-de-100-000-clientes/",
-      "published_date": "2026-10-26T09:37:00+00:00",
-      "category": "Energy"
+      "title": "From Amazon to Google: The 10 largest companies in the world 'risk' 700,000 million in contracts in Anthropic's IPO",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/27/6adf9bdde4d4d8957d8b459f.html",
+      "published_date": "2026-10-26T23:58:21+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The trial against the pirates of light who defrauded more than 61 million ends",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/acaba-el-juicio-contra-los-piratas-de-la-luz-que-estafaron-mas-de-61-millones/",
-      "published_date": "2026-10-26T09:30:00+00:00",
-      "category": "Energy"
+      "title": "HSBC turns around and now sees debt as more attractive than the stock market",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/27/6adf5d3c468aebeb6f8b4591.html",
+      "published_date": "2026-10-26T23:51:46+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Lula's comeback hits stock markets pending decisions on interest rates from the ECB and the Fed",
+      "title": "The Fed debates pausing rates despite the rise in inflation",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/27/6adfa0cbe5fdea070b8b4585.html",
+      "published_date": "2026-10-26T23:51:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Bank of America: \"The European stock market will fall by over 10% and the Spanish stock market by an additional 5%\"",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/27/6adb494fe5fdead25c8b45ac.html",
+      "published_date": "2026-10-26T23:47:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Spanish securities most exposed to Brazil leave 7,000 million in the stock market",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/27/6adfe090468aeb991d8b45a5.html",
+      "published_date": "2026-10-26T23:47:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Santander faces more debt maturities in 2027 than BBVA, CaixaBank and Sabadell combined",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/27/6aa7d8f8468aeb6c048b4584.html",
+      "published_date": "2026-10-26T23:12:56+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ACS, Ferrovial and Sacyr enter Trump's private network plan",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/construccion-servicios/2026/10/27/6adfd9a1e5fdea07608b4584.html",
+      "published_date": "2026-10-26T23:12:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "A report dismantles Feijóo's guru's doubts about self-consumption: \"a strategic asset for the industry\"",
       "source": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/remontada-lula-golpea-bolsas-espera-decisiones-tipos-interes-bce-fed_1_13616233.html",
-      "published_date": "2026-10-26T16:51:38+00:00",
+      "url": "https://www.eldiario.es/economia/informe-desmonta-dudas-guru-feijoo-autoconsumo-activo-estrategico-industria_1_13616190.html",
+      "published_date": "2026-10-26T23:02:16+00:00",
       "category": "Economy"
     },
     {
-      "title": "The Ibex lags behind Europe due to the 'Brazil effect', but recovers 19,000 points",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/26/6adef961e5fdeacc278b4574.html",
-      "published_date": "2026-10-26T16:38:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Severe poverty worsens in Spain despite a decade marked by economic growth",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-26/la-pobreza-severa-empeora-en-espana-pese-a-una-decada-marcada-por-el-crecimiento-economico.html",
-      "published_date": "2026-10-26T16:32:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Castilla-La Mancha already has more than 10,000 female managers: \"We need many more\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-10000-mujeres-directivas-necesitamos-20261026141827-nt.html",
-      "published_date": "2026-10-26T16:24:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Woodburn warns of the risk of diluting the carbon market: \"It will penalize pioneering companies\"",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/sostenibilidad/greenworld/2026/10/26/6adf7ddbe5fdeaa5678b458c.html",
-      "published_date": "2026-10-26T16:22:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Andrés Pérez, music producer: \"It is very complicated to be self-employed in this country, we are the true working class\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/andres-perez-productor-musical-complicado-autonomo-pais-20261026171827-nts.html",
-      "published_date": "2026-10-26T16:18:28+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Income from tax havens increases thanks to the global minimum tax",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/26/ingresos-paraisos-fiscales-aumentan-gracias-impuesto-minimo-global.html",
-      "published_date": "2026-10-26T16:03:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Brazilian stock market sinks more than 15% after Lula's unexpected victory in the presidential elections",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-bolsa-brasilena-hunde-mas-15-inesperada-victoria-lula-elecciones-presidenciales-20261026164513.html",
-      "published_date": "2026-10-26T15:45:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Airlines enter “maximum uncertainty” and prepare for a hot summer due to kerosene prices",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/aerolineas-entran-incertidumbre-maxima-preparan-verano-caliente-20261026131843-nt.html",
-      "published_date": "2026-10-26T15:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Anthropic formalizes its imminent stock market debut: it will list on the Nasdaq as ANT and recognizes that catastrophic risks of AI could harm the company",
+      "title": "Making Science reaches maturity on its tenth anniversary and entrusts its growth to AI: \"We want to do five times more with the same investment\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/26/6adf66d7e4d4d896318b4596.html",
-      "published_date": "2026-10-26T15:24:06+00:00",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/27/6ada4a21e4d4d81b058b4581.html",
+      "published_date": "2026-10-26T23:01:24+00:00",
       "category": "Economy"
     },
     {
-      "title": "Photogallery | Images of the GreenWorld & Sustainability EXPANSION",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/sostenibilidad/greenworld/album/2026/10/26/6adf0f55468aeb9a368b4574.html",
-      "published_date": "2026-10-26T14:14:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Decarbonization as a lever for competitiveness and efficiency",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/sostenibilidad/greenworld/2026/10/26/6adf587d468aeb73528b4593.html",
-      "published_date": "2026-10-26T14:11:22+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The São Paulo Stock Exchange suspends the session after Lula's victory",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261026/11668497/bolsa-sao-paulo-suspende-sesion.html",
-      "published_date": "2026-10-26T14:03:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The circular economy, from a question of necessity to a factor of competitiveness",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/sostenibilidad/greenworld/2026/10/26/6adf5b4e468aeb25538b4584.html",
-      "published_date": "2026-10-26T13:53:25+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Telefónica and Banco Santander plummet in the stock market after Lula's victory in Brazil",
+      "title": "Homes without parking spaces: A formula to reduce house prices?",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/dinero-inversion/2026/10/26/6adf0b5bfdddff98418b458f.html",
-      "published_date": "2026-10-26T13:40:56+00:00",
+      "url": "https://www.elmundo.es/economia/dinero-inversion/2026/10/27/6ad720b0e9cf4aae708b459b.html",
+      "published_date": "2026-10-26T23:01:15+00:00",
       "category": "Economy"
     },
     {
-      "title": "General strike of November 11: what companies can do and what is not allowed",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/noticia-huelga-general-11-noviembre-pueden-hacer-empresas-no-permitido-20261026143509.html",
-      "published_date": "2026-10-26T13:35:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Anthropic takes the lead in the race for AI: registers the prospectus to go public",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/2026/10/26/6adf536ae5fdea212e8b4576.html",
-      "published_date": "2026-10-26T13:24:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Konecta hires Houlihan Lokey to restructure more than 1 billion in debt",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/2026/10/26/6adf4f9a468aebc56e8b4588.html",
-      "published_date": "2026-10-26T13:05:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Fed meeting: what markets expect about interest rates in October and December",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-mercados-preven-pausa-tipos-fed-descuentan-subida-diciembre-20261026140406.html",
-      "published_date": "2026-10-26T13:04:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Meta launches to attract investments of 85,000 million dollars to finance its spending on AI",
+      "title": "Vodafone gains ground with tourists and surpasses Digi to reach almost 26% market share and return to second place in prepaid",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/26/6adf4d8ee9cf4aed668b4578.html",
-      "published_date": "2026-10-26T13:03:52+00:00",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/27/6adf5c5ee85ece3b1c8b4593.html",
+      "published_date": "2026-10-26T23:01:14+00:00",
       "category": "Economy"
     },
     {
-      "title": "Ayuso places two figures he trusts on Feijóo's list for Congress and remodels his Government in key areas",
+      "title": "Vacations, having a car, heating the house... Spain falls away from Europe and enters the five countries that can afford the fewest things despite economic growth",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/26/6adf4110fc6c831e5c8b4598.html",
+      "published_date": "2026-10-26T21:34:25+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Danone Spain profits skyrocket after selling its shares in the French parent company",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/catalunya/2026/10/26/danone-espana-dispara-beneficio-vender-acciones-matriz-francesa.html",
+      "published_date": "2026-10-26T20:31:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Abdón Pedrajas Littler launches the consulting firm Kinema People",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/juridico/actualidad-tendencias/2026/10/26/abdon-pedrajas-littler-lanza-consultora-kinema-people.html",
+      "published_date": "2026-10-26T19:34:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Colau asks Sánchez, Feijóo and Abascal for responsible use of AI in the campaign: \"We do not need to humiliate to convince\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/colau-pide-sanchez-feijoo-abascal-un-uso-responsable-ia-campana-no-necesitamos-humillar-para-convencer_7053687_0.html",
+      "published_date": "2026-10-26T19:02:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Check Eurodreams: results for today Monday, October 26, 2026",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/comprobar-eurodreams-resultados-hoy-lunes-26-octubre-2026_7053693_0.html",
+      "published_date": "2026-10-26T19:00:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Intelligence detects Russian interference to amplify the Barcelona riots",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/feijoo-incluye-lista-madrid-novillo-dimitira-consejero-20261026141235-nt.html",
-      "published_date": "2026-10-26T16:41:45+00:00",
+      "url": "https://www.abc.es/espana/cataluna/inteligencia-detecta-injerencias-rusas-amplificar-disturbios-barcelona-20261027012746-nt.html",
+      "published_date": "2026-10-27T01:14:17+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The PSOE denounces that the new Polígono parking lot is “unsafe”, without paving or lighting",
+      "title": "A \"surgical deal\" closed in injury time after a difficult weekend",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/psoe-denuncia-nuevo-aparcamiento-poligono-inseguro-asfaltar-20261026174041-nt.html",
-      "published_date": "2026-10-26T16:40:41+00:00",
+      "url": "https://www.abc.es/espana/fraguo-acuerdo-pp-vox-senado-20261027012644-nt.html",
+      "published_date": "2026-10-27T00:50:35+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A union from Urbana issues a statement after statements about the Colau riots: \"She fueled radicalism and today her puppies act\"",
+      "title": "Earn up to 1,889 euros per month with these European Parliament scholarships: requirements, deadlines and professional profiles",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/guardia-urbana-barcelona-obligada-emitir-comunicado-tras-20261026144926-nt.html",
-      "published_date": "2026-10-26T16:39:52+00:00",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/gana-1889-euros-mes-becas-parlamento-europeo-20261026010733-nt.html",
+      "published_date": "2026-10-27T00:39:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "A young man is arrested for intentionally running over two others in Alicante",
+      "title": "The Government backs down and relaxes the requirements to develop data centers",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/alicante/detienen-joven-atropellar-dos-intencionadamente-alicante-20261026173640-nt.html",
-      "published_date": "2026-10-26T16:36:41+00:00",
+      "url": "https://www.abc.es/economia/gobierno-marcha-atras-nueva-ley-centros-datos-20261026230859-nt.html",
+      "published_date": "2026-10-27T00:37:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Frente Amplio will present candidates for Congress in all constituencies except Teruel",
+      "title": "Judge Vilaplana charges 18 former senior PSOE officials for diverting million-dollar aid to Santana Motor",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/frente-amplio-presentara-candidaturas-congreso-circunscripciones-salvo-20261026170311-nt.html",
-      "published_date": "2026-10-26T16:33:31+00:00",
+      "url": "https://www.abc.es/espana/andalucia/juez-vilaplana-imputa-altos-cargos-psoe-inventar-20261027012926-nts.html",
+      "published_date": "2026-10-27T00:29:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Agreement in the senate: Vox does not present a candidate in Cádiz and only one in four Andalusian provinces",
+      "title": "Spenger revolutionizes the leadership of Orange Spain in B2B and networks",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/27/6adfebac468aebeb6f8b45ab.html",
+      "published_date": "2026-10-27T00:29:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A hundred local assemblies of the PSOE in Madrid proposed the delegate as a candidate",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/acuerdo-senado-vox-presenta-candidato-cadiz-solo-20261026163055-nts.html",
-      "published_date": "2026-10-26T16:32:09+00:00",
+      "url": "https://www.abc.es/espana/madrid/centenar-asambleas-locales-psoe-madrid-propusieron-delegado-20261026012849-nt.html",
+      "published_date": "2026-10-27T00:28:49+00:00",
       "category": "Local Events"
     },
     {
-      "title": "29N general election polls: results of PSOE, PP, VOX and Frente Amplio and winner according to the polls",
+      "title": "Moncloa fears that the riots will ruin the electoral campaign",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/encuestas-elecciones-generales-29n-resultados-psoe-pp-20261026051500-nt.html",
-      "published_date": "2026-10-26T16:17:27+00:00",
+      "url": "https://www.abc.es/espana/moncloa-teme-disturbios-revienten-campana-electoral-20261027012756-nt.html",
+      "published_date": "2026-10-27T00:28:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Cultural activities, shows or excursions fill the program for seniors in Toledo",
+      "title": "Sánchez clings to Lula's epic to encourage the comeback on 29N",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/actividades-culturales-espectaculos-excursiones-llenan-programacion-mayores-20261026171400-nt.html",
-      "published_date": "2026-10-26T16:14:01+00:00",
+      "url": "https://www.abc.es/espana/ainhoa-martinez-sanchez-aferra-epica-lula-alentar-remontada-29n-20261026012725-nt.html",
+      "published_date": "2026-10-27T00:27:57+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The PSOE tries to get a million voters out of abstention to be the first force on 29N",
+      "title": "Chaos in the opposition: dozens of senior officials denounce that they earn just over 1,000 euros while awaiting their destination",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/psoe-busca-sacar-millon-votantes-abstencion-primera-20261025015454-nt.html",
-      "published_date": "2026-10-26T16:09:16+00:00",
+      "url": "https://www.abc.es/economia/descontrol-oposiciones-inspectores-trabajo-llevan-ano-cobrando-20261028012311-nt.html",
+      "published_date": "2026-10-27T00:23:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The PSOE of Madrid recognizes that the resignation of the delegate makes them a \"break\": \"It leaves many fronts open\"",
+      "title": "New schism between the Sol campers, who consider leaving after the 29-N elections",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/psoe-madrid-reconoce-dimision-delegado-roto-deja-20261026114336-nt.html",
-      "published_date": "2026-10-26T16:06:43+00:00",
+      "url": "https://www.abc.es/espana/madrid/nuevo-cisma-acampados-sol-valoran-irse-tras-20261026012225-nt.html",
+      "published_date": "2026-10-27T00:22:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "UGT and CCOO call 30,000 teachers in Castilla y León to strike",
+      "title": "Albares is now accelerating due to the Supreme Court's threat in the grandchildren law: he demands the data before 3:00 p.m. today",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/27/6adfa4ff21efa000718b459f.html",
+      "published_date": "2026-10-27T00:15:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Do what you want\": the lack of control of the Interior led to a Police-Civil Guard clash in the middle of the assault in Ceuta",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/27/6adfa58521efa00b508b4594.html",
+      "published_date": "2026-10-27T00:10:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A young man causes chaos in Retiro when he flees from the Police and ends up crashing into several vehicles",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/ugt-ccoo-llaman-huelga-30000-docentes-castilla-20261026152725-nt.html",
-      "published_date": "2026-10-26T16:06:20+00:00",
+      "url": "https://www.abc.es/espana/madrid/joven-siembra-caos-retiro-huir-policia-acabar-20261026142510-nt.html",
+      "published_date": "2026-10-27T00:09:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The City Council of Córdoba will reduce empty tree pits to 1,500 between 2027 and 2028, less than 3% of the total",
+      "title": "Practical guide to voting in the Senate after the pacts on the right and left",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/ayuntamiento-cordoba-bajara-2027-2028-1500-alcorques-20261026122223-nts.html",
-      "published_date": "2026-10-26T16:04:43+00:00",
+      "url": "https://www.abc.es/espana/guia-practica-votar-derecha-izquierda-senado-20261026183227-nt.html",
+      "published_date": "2026-10-27T00:05:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Galicia will take over work permits for foreigners on November 5 to \"speed up\" hiring",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/galicia-ultima-traspaso-permisos-trabajo-extranjeros-aerodromos-20261026162911-nt.html",
-      "published_date": "2026-10-26T16:04:36+00:00",
+      "title": "Goldman Sachs gives Wall Street's blessing to a Government of PP and Vox",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/10/27/6adf7e7de5fdea1b788b457b.html",
+      "published_date": "2026-10-26T23:19:42+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Who is Jordi Wild, the 'youtuber' who is going to interview Sánchez, Feijóo, Abascal and Colau in his podcast ahead of the 29-N elections",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/jordi-wild-claves-trayectoria-youtuber-entrevistar-podcast-20261026113311-nt.html",
-      "published_date": "2026-10-26T16:04:04+00:00",
+      "title": "CaixaBank hires EY to analyze Cetelem's accounts",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/27/6adf5217468aeb9a368b4586.html",
+      "published_date": "2026-10-26T23:19:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Mañueco entrusts Ares with \"raising the level\" and \"prestige\" of education in Castilla y León",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/manueco-encomienda-ares-elevar-nivel-prestigio-educacion-20261026104359-nt.html",
-      "published_date": "2026-10-26T16:03:09+00:00",
+      "title": "Vivas tells what life is like in Ceuta three months after the massive entry of migrants and asks for help: \"Don't abandon us\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vivas-cuenta-como-es-vida-ceuta-tres-meses-despues-entrada-masiva-migrantes-pide-ayuda-no-nos-abandonen_7053723_0.html",
+      "published_date": "2026-10-26T23:17:36+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Changes in the Xunta: Ángeles Vázquez moves to Social Policy and Nicolás Vázquez takes over Environment",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/cambios-xunta-angeles-vazquez-pasa-politica-social-20261026143620-nt.html",
-      "published_date": "2026-10-26T15:58:06+00:00",
+      "title": "The risk of violence from Blocus spreads to other cities and there are fears of 9/11 of chaos",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/27/6adfac09fc6c839e088b4597.html",
+      "published_date": "2026-10-26T23:03:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The streets of Belgrade resound with joy after Vucic's defeat: \"It is a symbol for Europe\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/internacional/theguardian/calles-belgrado-resuenan-alegria-derrota-vucic-simbolo-europa_1_13616109.html",
-      "published_date": "2026-10-26T15:57:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Frente Amplio confirms that it will have candidates in all Congressional constituencies except Teruel",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-frente-amplio-confirma-tendra-candidatos-todas-circunscripciones-congreso-teruel-20261026165125.html",
-      "published_date": "2026-10-26T15:51:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Juanma Moreno: «Sánchez is not doing well and deserves a reproach»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-sanchez-haciendo-bien-merece-reproche-20261026164534-nts.html",
-      "published_date": "2026-10-26T15:45:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo promotes Inma Sanz, Almeida's right hand, as number 2 to the Senate",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/feijoo-aupa-inma-sanz-numero-almeida-senado-20261026154122-nt.html",
-      "published_date": "2026-10-26T15:39:31+00:00",
+      "title": "The chaotic map of the left before its great examination on 29-N: division into 45 of the 52 constituencies",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/27/6adfa55221efa0451e8b45a3.html",
+      "published_date": "2026-10-26T23:03:22+00:00",
       "category": "Local Events"
     }
   ]
