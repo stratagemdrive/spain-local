@@ -1,8 +1,15 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-29T02:01:27.834221+00:00",
+  "last_updated": "2026-10-29T17:16:50.577193+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Albares presume de cumplir con el Supremo a costa del enfado de los consulados: \"Somos el último eslabón y nos pusieron toda la responsabilidad\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae23003e9cf4a094f8b456d.html",
+      "published_date": "2026-10-29T01:03:47+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Morocco takes for granted its entry into a strategic terminal in the Port of Barcelona",
       "source": "ABC",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "'The tiger of hashish', one of the biggest drug traffickers in Spain, falls in an operation against trafficking from Morocco",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/cae-uno-los-mayores-narcos-espana-una-operacion-contra-una-gran-red-trafico-hachis-procedente-marruecos_7053819_0.html",
-      "published_date": "2026-10-27T09:17:54+00:00",
-      "category": "Diplomacy"
+      "title": "Recasens (Indra): \"El anterior comité de dirección parecía una reunión de karaoke\"",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/2026/10/29/recasens-indra-anterior-comite-direccion-parecia-reunion-karaoke.html",
+      "published_date": "2026-10-29T11:06:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Indra gana 355 millones hasta septiembre, un 22% más, impulsada por la Defensa y el Espacio",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/indra-gana-355-millones-septiembre-impulsada-defensa-20261029100818-nt.html",
+      "published_date": "2026-10-29T09:53:15+00:00",
+      "category": "Military"
     },
     {
       "title": "The CGPJ unblocks the renewal of its commissions with an open war between the members",
@@ -270,18 +284,109 @@
       "category": "Military"
     },
     {
-      "title": "Seat se reúne con Aggity para explorar colaboraciones en la industria de defensa",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261026/11668063/seat-reune-aggity-explorar-colaboraciones-industria-defensa.html",
-      "published_date": "2026-10-26T08:26:44+00:00",
-      "category": "Military"
+      "title": "Alemania, Italia y Polonia rechazan los impuestos a la luz iguales o inferiores a los del gas como pide Bruselas",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/alemania-italia-y-polonia-rechazan-impuestos-a-la-luz-iguales-o-inferiores-a-los-del-gas-como-pide-bruselas/",
+      "published_date": "2026-10-29T15:57:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The First Expansion on drones from Seat, BBVA, Sabadell, Madrileña Red de Gas, Lula, Tesla and SpaceX",
+      "title": "Naturgy analiza activamente oportunidades de compra, con el foco en electricidad y en Europa y Norteamérica",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/naturgy-analiza-activamente-oportunidades-de-compra-con-el-foco-en-electricidad-y-en-europa-y-norteamerica/",
+      "published_date": "2026-10-29T14:44:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Imaz (Repsol) advierte de posible escasez de diésel en Europa en invierno, aunque no ve problemas en España",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/imaz-repsol-advierte-de-posible-escasez-de-diesel-en-europa-en-invierno-aunque-no-ve-problemas-en-espana/",
+      "published_date": "2026-10-29T12:53:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Red Eléctrica digitaliza la red de transporte que conecta las provincias de Huesca y Lérida",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/red-electrica-digitaliza-la-red-de-transporte-que-conecta-las-provincias-de-huesca-y-lerida/",
+      "published_date": "2026-10-29T10:50:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "La producción de petróleo y gas de Petrobras crece un 14% hasta septiembre",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-produccion-de-petroleo-y-gas-de-petrobras-crece-un-14-hasta-septiembre/",
+      "published_date": "2026-10-29T10:25:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Red Eléctrica inicia el tendido del cable subterráneo de la interconexión con Francia por el Golfo de Vizcaya",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/red-electrica-inicia-el-tendido-del-cable-subterraneo-de-la-interconexion-con-francia-por-el-golfo-de-vizcaya/",
+      "published_date": "2026-10-29T10:05:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Naturgy gana 1.758 millones a septiembre, un 5,4% más, y apunta a beneficio récord de 2.200 millones",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/naturgy-gana-1-758-millones-a-septiembre-un-5-4-mas-y-apunta-a-beneficio-record-de-2-200-millones/",
+      "published_date": "2026-10-29T09:35:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Naturgy gana un 5,4% más y apunta a beneficio récord de 2.200 millones",
       "source": "Expansión",
-      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/26/primera-expansion-sobre-drones-seat-bbva-sabadell-madrilena-red-gas-lula-tesla-space-x.html",
-      "published_date": "2026-10-26T06:38:13+00:00",
-      "category": "Military"
+      "url": "https://www.expansion.com/empresas/energia/2026/10/29/naturgy-gana-5-4-apunta-beneficio-record-2-200-millones.html",
+      "published_date": "2026-10-29T09:20:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Naturgy mejora por tercera vez sus previsiones y se prepara para crecer con compras",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/29/6ae2fc8cfdddffcd638b45a6.html",
+      "published_date": "2026-10-29T08:34:25+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Naturgy eleva su beneficio un 5% pese al impacto en las cadenas de suministro de gas",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/naturgy-20261029092946-nt.html",
+      "published_date": "2026-10-29T08:29:46+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Repsol dispara su beneficio un 325% por los incontrolables precios del petróleo",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/repsol-20261029084906-nt.html",
+      "published_date": "2026-10-29T07:49:07+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Repsol cuadruplica su beneficio por encima de los 5.000 millones en los nueve primeros meses",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/repsol-cuadruplica-su-beneficio-por-encima-de-los-5-000-millones-en-los-nueve-primeros-meses/",
+      "published_date": "2026-10-29T07:44:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Repsol gana 5.000 millones en nueve meses, un 325% más, con el 'rally' de la gasolina y el diésel",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/29/6ae2f745e85ece1b7f8b4570.html",
+      "published_date": "2026-10-29T07:38:42+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Repsol multiplica por cuatro el beneficio y supera por primera vez en su historia los 5.000 millones",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/energia/2026/10/29/repsol-multiplica-cuatro-beneficio-supera-primera-vez-historia-5-000-millones.html",
+      "published_date": "2026-10-29T06:57:37+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Reino Unido da luz verde a una gigantesca planta solar de 800 MW",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/reino-unido-da-luz-verde-a-una-gigantesca-planta-solar-de-800-mw/",
+      "published_date": "2026-10-29T04:30:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Endesa asks to review the entire nuclear closure after extending Almaraz",
@@ -319,109 +424,116 @@
       "category": "Energy"
     },
     {
-      "title": "The lessons not learned in Adamuz: an unfinished investigation, a network at half gas and no political responsible",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/28/6ae2184421efa0390e8b45b3.html",
-      "published_date": "2026-10-28T21:57:44+00:00",
-      "category": "Energy"
+      "title": "El BBVA gana 9.066 millones entre enero y septiembre, un 13,6% más",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/companias/2026-10-29/el-bbva-gana-9066-millones-entre-enero-y-septiembre-un-136-mas.html",
+      "published_date": "2026-10-29T16:42:52+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Environment will dedicate more than 200 million to stop fires, half to have a 12-month operation",
+      "title": "BBVA gana 9.066 millones hasta septiembre, un 13,6% más, y descarta otra opa sobre el Sabadell",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/medio-ambiente-dedicara-200-millones-frenar-incendios-20261028112248-nt.html",
-      "published_date": "2026-10-28T16:39:48+00:00",
-      "category": "Energy"
+      "url": "https://www.abc.es/economia/bbva-gana-9066-millones-septiembre-136-crecimiento-20261029074831-nt.html",
+      "published_date": "2026-10-29T15:13:34+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The price of gas in Europe exceeds 100 euros per megawatt for the first time since 2022",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261028/11670429/precio-gas-europa-supera-100-euros-megavatio-primera-vez-2022.html",
-      "published_date": "2026-10-28T16:33:30+00:00",
-      "category": "Energy"
+      "title": "BBVA apuesta por ganar cuota en Empresas y Consumo ante el frenazo hipotecario",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/29/bbva-apuesta-ganar-cuota-empresas-consumo-frenazo-hipotecario.html",
+      "published_date": "2026-10-29T14:34:28+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The CNMC is studying reviewing the structure of tolls to see if they properly reflect the use of the networks",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-cnmc-estudia-revisar-estructura-de-peajes-para-ver-si-reflejan-bien-el-uso-de-las-redes/",
-      "published_date": "2026-10-28T16:25:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The electricity in the wholesale market will mark its annual maximum on Thursday, reaching 231 euros/MWh",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-luz-en-el-mercado-mayorista-marcara-el-jueves-su-maximo-anual-al-alcanzar-231-euros-mwh/",
-      "published_date": "2026-10-28T14:23:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Armani (Endesa) believes that the Almaraz extension opens the door to reviewing the nuclear closure schedule",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/armani-endesa-cree-que-la-prorroga-de-almaraz-abre-la-puerta-a-revisar-el-calendario-de-cierre-nuclear/",
-      "published_date": "2026-10-28T13:24:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Renewable hydrogen in Spain: fewer projects, more realism and only 400 MW with determined investment",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-hidrogeno-renovable-en-espana-menos-proyectos-mas-realismo-y-solo-400-mw-con-inversion-decidida/",
-      "published_date": "2026-10-28T12:11:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Endesa sees the Government's proposal for data centers as \"insufficient\" to overcome barriers to investment",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/endesa-ve-la-propuesta-del-gobierno-para-los-centros-datos-insuficiente-para-salvar-barreras-a-la-inversion/",
-      "published_date": "2026-10-28T11:47:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Técnicas Reunidas extends its presence in Africa with a new hydrogen project in Ethiopia",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/tecnicas-reunidas-extiende-su-presencia-en-africa-con-un-nuevo-proyecto-de-hidrogeno-en-etiopia/",
-      "published_date": "2026-10-28T09:53:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Redeia increases its profits by September by 5.3% to 410 million and increases its investments in networks by 19%",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/redeia-eleva-un-5-3-sus-ganancias-a-septiembre-hasta-410-millones-y-aumenta-un-19-sus-inversiones-en-redes/",
-      "published_date": "2026-10-28T09:46:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Endesa earns 15% more until September and increases investment in networks by 42%",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/endesa-gana-un-15-mas-hasta-septiembre-e-incrementa-la-inversion-en-redes-un-42/",
-      "published_date": "2026-10-28T09:32:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Red Eléctrica increases profits and investments in the middle of a regulatory boom",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/red-electrica-eleva-beneficio-inversiones-mitad-boom-20261028090741-nt.html",
-      "published_date": "2026-10-28T08:07:41+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Redeia increases its profits by 5.3%, to 410 million, and increases its investments in networks by 19%",
+      "title": "BBVA gana 9.066 millones de euros hasta septiembre, un 13,6% más, y descarta otra OPA sobre Sabadell: \"Es un capítulo cerrado\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae1abdde85ece095e8b4576.html",
-      "published_date": "2026-10-28T08:02:06+00:00",
-      "category": "Energy"
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/29/6ae2efc1e4d4d871118b456d.html",
+      "published_date": "2026-10-29T14:20:38+00:00",
+      "category": "Economy"
     },
     {
-      "title": "About 500 tractors protest today in Madrid against the increase in fuel prices",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261028/11669927/500-tractores-protestan-hoy-madrid-subida-precio-carburantes.html",
-      "published_date": "2026-10-28T07:59:28+00:00",
-      "category": "Energy"
+      "title": "Botín compra acciones de Santander por 3,1 millones de euros",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/29/botin-compra-acciones-santander-3-1-millones-euros.html",
+      "published_date": "2026-10-29T13:20:07+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Redeia increases profits by 5.3% as of September, to 410 million, and increases its investments in networks by 19%",
+      "title": "Entrix ficha a Juan Galiardo para reforzar su expansión internacional",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/entrix-ficha-a-juan-galiardo-para-reforzar-su-expansion-internacional/",
+      "published_date": "2026-10-29T13:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Duro mensaje de los inspectores de Hacienda: «Hay abandono y desidia con los servicios públicos»",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/duro-mensaje-inspectores-hacienda-abandono-desidia-servicios-20261029113526-nt.html",
+      "published_date": "2026-10-29T12:57:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Puig aspira a disparar sus ventas un 60% en los próximos 7 años gracias a potenciar EEUU, reforzar Asia y crear un gigante mundial de la dermocosmética",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/10/29/6ae1f4f8e85ece60078b45ba.html",
+      "published_date": "2026-10-29T12:21:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Armengol (Sabadell): \"Estamos viendo una desaceleración notable en la demanda hipotecaria\"",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/10/29/armengol-sabadell-viendo-desaceleracion-notable-demanda-hipotecaria.html",
+      "published_date": "2026-10-29T11:40:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Los inspectores de Hacienda lamentan el accidente ferroviario y denuncian el “abandono” de la Administración pública",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-29/los-inspectores-de-hacienda-lamentan-el-accidente-ferroviario-y-denuncian-el-abandono-de-la-administracion-publica.html",
+      "published_date": "2026-10-29T11:38:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El Ibex 35 acaricia los 18.800 puntos (-0,57%) en plena oleada de resultados y a la espera del BCE",
       "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/noticia-redeia-eleva-53-ganancias-septiembre-410-millones-dispara-19-inversiones-redes-20261028083631.html",
-      "published_date": "2026-10-28T07:36:31+00:00",
-      "category": "Energy"
+      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-acaricia-18800-puntos-057-plena-oleada-resultados-espera-bce-20261029120847.html",
+      "published_date": "2026-10-29T11:08:47+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Standard Investment entra en gasolineras 'low cost' con la compra de Gasexpress",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/2026/10/29/standard-investment-entra-gasolineras-low-cost-compra-gasexpress.html",
+      "published_date": "2026-10-29T09:47:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El Ibex, otra vez a la cola de Europa, lastrado por los bancos",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/29/ibex-desbordado-referencias.html",
+      "published_date": "2026-10-29T06:53:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "BBVA gana 9.066 millones de euros hasta septiembre, un 13,6% más",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-bbva-gana-9066-millones-euros-septiembre-136-mas-20261029070702.html",
+      "published_date": "2026-10-29T06:07:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Un programa electoral en una servilleta de papel",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/economia/2026-10-29/un-programa-electoral-en-una-servilleta-de-papel.html",
+      "published_date": "2026-10-29T04:45:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Los rivales de Telefónica alertan de que desregular los conductos encarecerá Internet 1,5 euros al mes",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/companias/2026-10-29/los-rivales-de-telefonica-alertan-de-que-desregular-los-conductos-encarecera-internet-hasta-3-euros-al-mes.html",
+      "published_date": "2026-10-29T04:15:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Debt tension invites the ECB to freeze rates for now",
@@ -452,255 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "The Ibex titan of the last 3 months has a potential of more than 22%",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inversion/2026/10/29/titan-ibex-ultimos-3-meses-potencial-superior-22.html",
-      "published_date": "2026-10-29T00:39:50+00:00",
-      "category": "Economy"
+      "title": "El Rey pide que se determine “cómo y por qué” ha sucedido la catástrofe de Urda y medidas para que “no vuelva a suceder”",
+      "source": "El País",
+      "url": "https://elpais.com/espana/2026-10-29/el-rey-pide-que-se-determine-como-y-por-que-ha-sucedido-la-catastrofe-de-urda-y-medidas-para-que-no-vuelva-a-suceder.html",
+      "published_date": "2026-10-29T17:01:36+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Elon Musk's plan to dominate the era of artificial intelligence",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/tecnologia/2026/10/29/plan-elon-musk-dominar-inteligencia-artificial.html",
-      "published_date": "2026-10-29T00:39:39+00:00",
-      "category": "Economy"
+      "title": "Sánchez asegura que se “reforzará la seguridad” ferroviaria para evitar nuevos accidentes",
+      "source": "El País",
+      "url": "https://elpais.com/espana/2026-10-29/sanchez-asegura-que-se-reforzara-la-seguridad-ferroviaria-para-evitar-nuevos-accidentes.html",
+      "published_date": "2026-10-29T16:57:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Government accumulates an investment deficit of 3,600 million in the railway network in the highest income cycle in history",
+      "title": "Urda, a 450 kilómetros de Zaragoza, cerca del corazón: Aragón entero, de duelo",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/gobierno-racaneo-inversion-ferroviaria-prevista-2021-2025-20261029013125-nt.html",
-      "published_date": "2026-10-29T00:31:25+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/aragon/urda-450-kilometros-zaragoza-cerca-corazon-aragon-20261029140724-nt.html",
+      "published_date": "2026-10-29T16:46:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The biker duo who looked for lonely old women to steal their gold chains",
+      "title": "El Rey reclama unidad ante la tragedia: «Sigamos adelante juntos y unidos. Con dignidad y rigor»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/duo-motoristas-buscaba-ancianas-solas-robarles-tiron-20261028011518-nt.html",
-      "published_date": "2026-10-29T00:15:18+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/casa-real/reyes-llegan-toledo-aplausos-apoyar-heridos-familiares-20261029154336-nt.html",
+      "published_date": "2026-10-29T16:46:24+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The cheap trick to make your radiators heat up more without spending an extra euro",
+      "title": "El PP se despide de Fátima Báñez: «Era una mujer incansable y una leal amiga»",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/truco-barato-tus-radiadores-calienten-gastar-euro-20261028011330-nt.html",
-      "published_date": "2026-10-29T00:13:47+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/pp-despide-fatima-banez-era-mujer-incansable-20261029174546-nt.html",
+      "published_date": "2026-10-29T16:46:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Treasury sends the 'fear letters': what they are and how you should act if you receive one",
+      "title": "Vox se querella contra Puente ante el Supremo por presuntos homicidios en el accidente de Urda",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/hacienda-envia-cartas-miedo-debes-actuar-recibes-20261028011257-nt.html",
-      "published_date": "2026-10-29T00:13:11+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/vox-querella-puente-ante-supremo-presuntos-homicidios-20261029120145-nt.html",
+      "published_date": "2026-10-29T16:45:15+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "ING launches its private banking with 6,000 high-net-worth clients",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/29/ing-lanza-banca-privada-6-000-clientes-altos-patrimonios.html",
-      "published_date": "2026-10-28T23:41:51+00:00",
-      "category": "Economy"
+      "title": "Singapore Airlines, la mejor aerolínea del mundo, recupera el vuelo Madrid-Singapur con parada en Barcelona",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/singapore-airlines-mejor-aerolinea-mundo-recupera-vuelo-20261027174231-nt.html",
+      "published_date": "2026-10-29T16:12:17+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Why a stylish (and Spanish) backpack is the best company ambassador",
+      "title": "Salvados por un minuto y 500 metros: \"Si no llegamos a parar, también hubiéramos chocado, nos libramos de milagro\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/10/29/6ada4350e4d4d86f108b461a.html",
-      "published_date": "2026-10-28T23:01:25+00:00",
-      "category": "Economy"
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae2f28cfdddff8c338b45b5.html",
+      "published_date": "2026-10-29T16:11:22+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Alphabet reduces its profit by 33% in the third quarter as its spending on AI increases",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/companias/2026-10-28/alphabet-reduce-su-beneficio-un-33-en-el-tercer-trimestre-mientras-dispara-su-gasto-en-ia.html",
-      "published_date": "2026-10-28T21:13:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Microsoft boosts its profit by 32% supported by the good progress of its AI-related business",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-28/microsoft-dispara-su-beneficio-un-32-apoyada-en-la-buena-marcha-de-su-negocio-relacionado-con-la-ia.html",
-      "published_date": "2026-10-28T20:52:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Warsh postpones interest rate hikes until after the US elections",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261028/11670438/warsh-aplaza-subida-tipos-interes-elecciones-estados-unidos.html",
-      "published_date": "2026-10-28T18:15:17+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Federal Reserve keeps rates at 4% despite inflation pressure",
+      "title": "Pradas reprocha a Argüeso que le atribuya la «responsabilidad exclusiva» de la gestión de la dana",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/reserva-federal-mantiene-tipos-pese-presion-inflacion-20261028190247-nt.html",
-      "published_date": "2026-10-28T18:10:58+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/comunidad-valenciana/pradas-reprocha-argueso-atribuya-responsabilidad-exclusiva-gestion-20261029171101-nt.html",
+      "published_date": "2026-10-29T16:11:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Banco Santander increases its profit by 20% to 12,405 million after selling Poland and integrating Webster and TSB",
+      "title": "Quema ocho camiones de la competencia por encargo de su jefe «a cambio de una cantidad importante de dinero»",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/banco-santander-dispara-beneficio-12405-millones-tras-20261028075132-nt.html",
-      "published_date": "2026-10-28T17:31:56+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/castilla-leon/quema-ocho-camiones-competencia-encargo-jefe-cambio-20261029143804-nt.html",
+      "published_date": "2026-10-29T16:09:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Companies cancel Madrid-Andalusia trains without knowing when the service will resume",
+      "title": "PSOE, PP y Vox muestran en las Cortes su «unidad en el dolor» por la tragedia ferroviaria de Urda",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/companias-cancelan-trenes-madridandalucia-saber-reanudara-servicio-20261028181945-nt.html",
-      "published_date": "2026-10-28T17:30:23+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-pp-vox-muestran-unidad-dolor-tragedia-20261029165710-nt.html",
+      "published_date": "2026-10-29T16:00:33+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The ECB needs a smooth transmission and an orderly transition",
+      "title": "Una exministra, un guardia civil o un inspector de Hacienda: las vidas que descarrilaron en el accidente de Urda",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/exministra-guardia-civil-inspector-hacienda-victimas-accidente-20261028150850-nt.html",
+      "published_date": "2026-10-29T15:57:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los inversores apuestan por el auge del sector de los apartamentos de lujo en Miami",
       "source": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/28/bce-necesita-transmision-fluida-transicion-ordenada.html",
-      "published_date": "2026-10-28T17:14:27+00:00",
-      "category": "Economy"
+      "url": "https://www.expansion.com/economia/financial-times/2026/10/29/inversores-apuestan-auge-sector-apartamentos-lujo-miami.html",
+      "published_date": "2026-10-29T15:54:02+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rising prices and sold out seats: what is happening with the flights between Madrid and Andalusia after the accident",
+      "title": "Puente rechaza las peticiones de dimisión y comparecerá ante la Diputación Permanente del Congreso por el accidente de Urda",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/precios-alza-asientos-agotados-que-esta-pasando-vuelos-madrid-andalucia-desde-accidente_7054368_0.html",
-      "published_date": "2026-10-28T17:05:01+00:00",
-      "category": "Economy"
+      "url": "https://www.20minutos.es/nacional/puente-aleja-posibilidad-dimitir-pide-comparecer-ante-diputacion-permanente-congreso-por-accidente-urda_7055110_0.html",
+      "published_date": "2026-10-29T15:44:10+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Iryo denies Puente and assures that his train did not resume its march because he was still waiting for instructions from the control center",
+      "title": "El Gobierno rebajó ante Bruselas sus compromisos de inversión en seguridad ferroviaria para asegurarse los fondos europeos",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/tren-iryo-reanudo-marcha-esperaba-instrucciones-centro-20261028185441-nt.html",
-      "published_date": "2026-10-29T01:36:00+00:00",
+      "url": "https://www.abc.es/economia/gobierno-cambio-ante-bruselas-compromisos-inversion-seguridad-20261029130411-nt.html",
+      "published_date": "2026-10-29T15:43:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Government of Pedro Sánchez leaves the High Speed in Andalusia destroyed",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/alta-velocidad-andalucia-tocada-muerte-tras-dos-20261029020525-nts.html",
-      "published_date": "2026-10-29T01:05:25+00:00",
+      "title": "Argüeso dice que ni siquiera debía participar en el Cecopi de la dana y la jueza le recuerda que lo convocó él",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/argueso-dice-siquiera-debia-participar-cecopi-dana-jueza-le-recuerda-convoco_1_13625030.html",
+      "published_date": "2026-10-29T14:54:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The questions of the accident: the technical failure before the human one questions Puente's story",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/interrogantes-accidente-fallo-tecnico-humano-cuestiona-relato-20261029020351-nt.html",
-      "published_date": "2026-10-29T01:03:51+00:00",
+      "title": "La desesperada búsqueda de Pepe, César o David tras la tragedia de Urda: \"Ojalá esté inconsciente, pero vivo y luchando\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/desesperada-busqueda-pepe-cesar-david-tragedia-urda-ojala-inconsciente-vivo-luchando_1_13624034.html",
+      "published_date": "2026-10-29T14:53:37+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The train drivers are going on strike today to protest the safety conditions of the AVE",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/maquinistas-van-hoy-huelga-protestan-condiciones-seguridad-20261029020342-nt.html",
-      "published_date": "2026-10-29T01:03:42+00:00",
+      "title": "Feijóo apunta a las “responsabilidades políticas” de Puente por el segundo accidente mortal de la alta velocidad en nueve meses",
+      "source": "El País",
+      "url": "https://elpais.com/espana/2026-10-29/feijoo-apunta-a-las-responsabilidades-politicas-de-puente-por-el-segundo-accidente-mortal-de-la-alta-velocidad-en-nueve-meses.html",
+      "published_date": "2026-10-29T14:14:40+00:00",
       "category": "Local Events"
     },
     {
-      "title": "At least 68 dead in another AVE tragedy in nine months",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/muertos-tragedia-ave-nueve-meses-20261028210429-nt.html",
-      "published_date": "2026-10-29T00:58:48+00:00",
+      "title": "La empresa editora de 'Okdiario' pagó 200.000 euros de la defensa de Koldo García",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261029/11671239/empresa-editora-okdiario-pago-200-000-euros-defensa-koldo-garcia.html",
+      "published_date": "2026-10-29T13:24:34+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Police are suspicious of the cancellation of Blocus in Madrid and will deploy 200 riot police on Saturday",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/policia-recela-desconvocatoria-blocus-madrid-desplegara-200-20261028012501-nt.html",
-      "published_date": "2026-10-29T00:49:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dismay in the PP over the disappearance of Fátima Báñez in the train accident",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/consternacion-pp-desaparicion-fatima-banez-accidente-ferroviario-20261029012953-nt.html",
-      "published_date": "2026-10-29T00:47:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The funds freeze investments in Spain due to housing decrees",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/2026/10/29/fondos-congelan-inversiones-espana-decretos-vivienda.html",
-      "published_date": "2026-10-29T00:44:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The passengers of the Granada-Madrid AVE, evacuated in Ciudad Real due to the train accident: \"We hit the brakes and people got a lot of damage\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pasajeros-ave-granadamadrid-evacuados-ciudad-real-accidente-20261028194254-nt.html",
-      "published_date": "2026-10-29T00:41:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crédit Agricole moves to a Merlin building next to Puerta de Alcalá",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/2026/10/29/credit-agricole-muda-edificio-merlin-puerta-alcala.html",
-      "published_date": "2026-10-29T00:39:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSOE officials begin to question Puente's continuity in the Government",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-salta-fusible-puente-jaque-doberman-aspiraciones-20261029013000-nt.html",
-      "published_date": "2026-10-29T00:38:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Adif technicians: \"They knew that the system was not secure, the LZB is obsolete, it is from 1970\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/tecnicos-adif-sabian-sistema-era-seguro-lzb-20261028013205-nt.html",
-      "published_date": "2026-10-29T00:32:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puente has limited itself to reducing the speed of the AVE to tackle the crisis since the Adamuz tragedy",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/puente-limitado-reducir-velocidad-ave-atajar-crisis-20261028013138-nt.html",
-      "published_date": "2026-10-29T00:31:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Urda tragedy occurs with the Adamuz investigation with little progress and key evidence in a drawer",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/tragedia-urda-ocurre-investigacion-adamuz-pocos-avances-20261028012916-nt.html",
-      "published_date": "2026-10-29T00:29:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Urda accident knocks out the Government: \"It is a catastrophe\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/accidente-urda-noquea-gobierno-catastrofe-20261029012840-nt.html",
-      "published_date": "2026-10-29T00:29:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sofía Puente endorsed in writing granting nationality to descendants of emigrants in 1830 by the 'law of grandchildren'",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/sofia-puente-avalo-escrito-conceder-nacionalidad-descendientes-20261028012558-nt.html",
-      "published_date": "2026-10-29T00:26:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The paradox of the flood",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/paradoja-diluvio-20261028012339-nt.html",
-      "published_date": "2026-10-29T00:23:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lucio del Valle, the man who quenched Madrid's thirst",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/lucio-valle-hombre-quito-sed-madrid-20261028012027-nt.html",
-      "published_date": "2026-10-29T00:20:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From towns that will multiply neighbors to the greatest development in Europe: Madrid will create 220,000 new homes by 2045",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/viviendas-madrid-20261020011445-nt.html",
-      "published_date": "2026-10-29T00:15:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How much do you pay for the menu of the day? These are the most expensive and cheapest autonomous communities",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/cuesta-menu-dia-comunidad-comunidades-autonomas-caras-20261028011405-nt.html",
-      "published_date": "2026-10-29T00:14:20+00:00",
+      "title": "Muere Fátima Báñez, la discreta negociadora de Rajoy, amiga de Von der Leyen y 'ministrable' para Feijóo",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae25d85e9cf4af1528b458d.html",
+      "published_date": "2026-10-29T13:19:01+00:00",
       "category": "Local Events"
     }
   ]
