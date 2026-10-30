@@ -1,8 +1,15 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-29T17:16:50.577193+00:00",
+  "last_updated": "2026-10-30T02:19:31.669148+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "El Supremo levanta los apercibimientos a los ministros Bolaños y Albares tras haber entregado el listado de la 'ley de nietos'",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/29/6ae37c90e9cf4a127a8b4591.html",
+      "published_date": "2026-10-29T17:40:01+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Albares presume de cumplir con el Supremo a costa del enfado de los consulados: \"Somos el último eslabón y nos pusieron toda la responsabilidad\"",
       "source": "El Mundo",
@@ -134,13 +141,6 @@
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/la-ce-plantea-preparar-a-la-ue-para-un-calentamiento-global-de-3-c-grados-en-2100/",
       "published_date": "2026-10-27T11:02:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "One of the biggest 'narcos' in Spain arrested in Morocco with ten tons of hashish seized and 86 arrests",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/27/6ae07823e4d4d848598b4580.html",
-      "published_date": "2026-10-27T10:19:00+00:00",
       "category": "Diplomacy"
     },
     {
@@ -284,6 +284,27 @@
       "category": "Military"
     },
     {
+      "title": "Enagás cierra la compra a Osaka Gas del 20% de Saggas por 31 millones y alcanza el 92,5% de la regasificadora",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/enagas-cierra-la-compra-a-osaka-gas-del-20-de-saggas-por-31-millones-y-alcanza-el-92-5-de-la-regasificadora/",
+      "published_date": "2026-10-29T23:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Galán (Iberdrola) traslada sus condolencias a la familia de Fátima Báñez y de todos los fallecidos",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/galan-iberdrola-traslada-sus-condolencias-a-la-familia-de-fatima-banez-y-de-todos-los-fallecidos/",
+      "published_date": "2026-10-29T23:30:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "La recarga de vehículos eléctricos se consolida como un pilar estratégico para modernizar la red eléctrica",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-recarga-de-vehiculos-electricos-se-consolida-como-un-pilar-estrategico-para-modernizar-la-red-electrica/",
+      "published_date": "2026-10-29T23:30:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "Alemania, Italia y Polonia rechazan los impuestos a la luz iguales o inferiores a los del gas como pide Bruselas",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/alemania-italia-y-polonia-rechazan-impuestos-a-la-luz-iguales-o-inferiores-a-los-del-gas-como-pide-bruselas/",
@@ -403,25 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "Repsol, Shell and Total start an anti-crisis plan for oil from the EU",
+      "title": "La apuesta de BBVA por los mercados emergentes",
       "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/energia/2026/10/29/repsol-shell-total-arrancan-ue-plan-anticrisis-petroleo.html",
-      "published_date": "2026-10-28T23:41:38+00:00",
-      "category": "Energy"
+      "url": "https://www.expansion.com/empresas/banca/2026/10/30/apuesta-bbva-mercados-emergentes.html",
+      "published_date": "2026-10-29T23:35:44+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Brent crude oil rises 1.26% and exceeds $115 amid fears of escalation in the Middle East",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-crudo-brent-sube-1-26-y-supera-los-115-dolares-entre-temores-de-escalada-en-oriente-medio/",
-      "published_date": "2026-10-28T23:30:00+00:00",
-      "category": "Energy"
+      "title": "El 37,6% de los trabajadores españoles están sobrecualificados para el puesto que desempeñan",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-10-30/el-376-de-los-trabajadores-espanoles-estan-sobrecualificados-para-el-puesto-que-desempenan.html",
+      "published_date": "2026-10-29T21:00:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "EU Energy Ministers discuss prices and security of supply for winter this Thursday",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/los-ministros-de-energia-de-ue-abordan-este-jueves-los-precios-y-la-seguridad-del-suministro-para-el-invierno/",
-      "published_date": "2026-10-28T23:30:00+00:00",
-      "category": "Energy"
+      "title": "Frente Amplio y Podemos cargan contra Puente por \"señalar a un trabajador\" en el accidente de Urda: \"Es indecente\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-cargan-contra-puente-por-senalar-un-trabajador-accidente-urda-es-indecente_7055158_0.html",
+      "published_date": "2026-10-29T18:06:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Colau y Montero elevan el tono y denuncian que se culpe a un trabajador del accidente de Urda",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/colau-montero-elevan-tono-denuncian-culpe-trabajador-accidente-urda_1_13625364.html",
+      "published_date": "2026-10-29T17:39:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El Ibex 35 salva los 18.800 puntos (-0,14%) tras pausar los tipos el BCE, con el crudo en 114 dólares",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-salva-18800-puntos-014-pausar-tipos-bce-crudo-114-dolares-20261029181115.html",
+      "published_date": "2026-10-29T17:11:15+00:00",
+      "category": "Economy"
     },
     {
       "title": "El BBVA gana 9.066 millones entre enero y septiembre, un 13,6% más",
@@ -501,6 +536,13 @@
       "category": "Economy"
     },
     {
+      "title": "El número de muertos por el choque de trenes en Urda sube a 69 pendientes de identificar \"restos humanos\" en los vagones",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/numero-muertos-por-choque-trenes-urda-sube-69-los-servicios-rescate-identifican-restos-humanos-los-vagones_7054868_0.html",
+      "published_date": "2026-10-29T10:43:20+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Standard Investment entra en gasolineras 'low cost' con la compra de Gasexpress",
       "source": "Expansión",
       "url": "https://www.expansion.com/empresas/2026/10/29/standard-investment-entra-gasolineras-low-cost-compra-gasexpress.html",
@@ -515,192 +557,150 @@
       "category": "Economy"
     },
     {
-      "title": "BBVA gana 9.066 millones de euros hasta septiembre, un 13,6% más",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-bbva-gana-9066-millones-euros-septiembre-136-mas-20261029070702.html",
-      "published_date": "2026-10-29T06:07:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Un programa electoral en una servilleta de papel",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/economia/2026-10-29/un-programa-electoral-en-una-servilleta-de-papel.html",
-      "published_date": "2026-10-29T04:45:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Los rivales de Telefónica alertan de que desregular los conductos encarecerá Internet 1,5 euros al mes",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/companias/2026-10-29/los-rivales-de-telefonica-alertan-de-que-desregular-los-conductos-encarecera-internet-hasta-3-euros-al-mes.html",
-      "published_date": "2026-10-29T04:15:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Debt tension invites the ECB to freeze rates for now",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/tension-deuda-invita-bce-congelar-tipos-20261029020401-nt.html",
-      "published_date": "2026-10-29T01:04:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tordable (Bit2Me STX): \"We want to become the Stock Exchange of private capital\"",
+      "title": "La Primera de Expansión sobre el accidente de Urda, BBVA, Sabadell, ING, Samsung y Google",
       "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/criptomonedas/2026/10/29/tordable-bit2me-stx-queremos-convertirnos-bolsa-valores-capital-privado.html",
-      "published_date": "2026-10-29T00:52:48+00:00",
+      "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/29/primera-expansion-sobre-accidente-urda-bbva-sabadell-ing-samsung-google.html",
+      "published_date": "2026-10-29T06:26:23+00:00",
       "category": "Economy"
     },
     {
-      "title": "Dils accelerates to enter the 'top 3' consulting industry in Spain",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inmobiliario/2026/10/29/dils-acelera-entrar-top-3-consultoria-espana.html",
-      "published_date": "2026-10-29T00:45:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Santander wants loyal customers to reduce costs",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/29/santander-quiere-clientes-fieles-reducir-costes.html",
-      "published_date": "2026-10-29T00:45:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "El Rey pide que se determine “cómo y por qué” ha sucedido la catástrofe de Urda y medidas para que “no vuelva a suceder”",
-      "source": "El País",
-      "url": "https://elpais.com/espana/2026-10-29/el-rey-pide-que-se-determine-como-y-por-que-ha-sucedido-la-catastrofe-de-urda-y-medidas-para-que-no-vuelva-a-suceder.html",
-      "published_date": "2026-10-29T17:01:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez asegura que se “reforzará la seguridad” ferroviaria para evitar nuevos accidentes",
-      "source": "El País",
-      "url": "https://elpais.com/espana/2026-10-29/sanchez-asegura-que-se-reforzara-la-seguridad-ferroviaria-para-evitar-nuevos-accidentes.html",
-      "published_date": "2026-10-29T16:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Urda, a 450 kilómetros de Zaragoza, cerca del corazón: Aragón entero, de duelo",
+      "title": "La Milla de Oro de Madrid se blinda por miedo al saqueo: «Hay nerviosismo»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/aragon/urda-450-kilometros-zaragoza-cerca-corazon-aragon-20261029140724-nt.html",
-      "published_date": "2026-10-29T16:46:28+00:00",
+      "url": "https://www.abc.es/espana/madrid/milla-oro-madrid-blinda-ante-miedo-saqueo-20261029011250-nt.html",
+      "published_date": "2026-10-30T01:14:54+00:00",
       "category": "Local Events"
     },
     {
-      "title": "El Rey reclama unidad ante la tragedia: «Sigamos adelante juntos y unidos. Con dignidad y rigor»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/casa-real/reyes-llegan-toledo-aplausos-apoyar-heridos-familiares-20261029154336-nt.html",
-      "published_date": "2026-10-29T16:46:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El PP se despide de Fátima Báñez: «Era una mujer incansable y una leal amiga»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/pp-despide-fatima-banez-era-mujer-incansable-20261029174546-nt.html",
-      "published_date": "2026-10-29T16:46:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vox se querella contra Puente ante el Supremo por presuntos homicidios en el accidente de Urda",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/vox-querella-puente-ante-supremo-presuntos-homicidios-20261029120145-nt.html",
-      "published_date": "2026-10-29T16:45:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Singapore Airlines, la mejor aerolínea del mundo, recupera el vuelo Madrid-Singapur con parada en Barcelona",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/singapore-airlines-mejor-aerolinea-mundo-recupera-vuelo-20261027174231-nt.html",
-      "published_date": "2026-10-29T16:12:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Salvados por un minuto y 500 metros: \"Si no llegamos a parar, también hubiéramos chocado, nos libramos de milagro\"",
+      "title": "El ejemplo institucional de Page: \"muy afectado\", aparca sus diferencias con Sánchez y ejerce de anfitrión de Feijóo",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae2f28cfdddff8c338b45b5.html",
-      "published_date": "2026-10-29T16:11:22+00:00",
+      "url": "https://www.elmundo.es/espana/2026/10/30/6abcb554e85eceda1a8b45ba.html",
+      "published_date": "2026-10-30T00:50:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Pradas reprocha a Argüeso que le atribuya la «responsabilidad exclusiva» de la gestión de la dana",
+      "title": "La Guardia Civil investiga si era adecuado el mantenimiento del tramo del accidente de Urda",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/pradas-reprocha-argueso-atribuya-responsabilidad-exclusiva-gestion-20261029171101-nt.html",
-      "published_date": "2026-10-29T16:11:02+00:00",
+      "url": "https://www.abc.es/espana/guardia-civil-investiga-mantenimiento-seguridad-tramo-accidente-20261030011736-nt.html",
+      "published_date": "2026-10-30T00:39:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Quema ocho camiones de la competencia por encargo de su jefe «a cambio de una cantidad importante de dinero»",
+      "title": "Sánchez amortiza a Puente y le orilla en la gestión de la crisis ferroviaria",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/quema-ocho-camiones-competencia-encargo-jefe-cambio-20261029143804-nt.html",
-      "published_date": "2026-10-29T16:09:56+00:00",
+      "url": "https://www.abc.es/espana/sanchez-amortiza-puente-relega-gestion-crisis-ferroviaria-20261030011847-nt.html",
+      "published_date": "2026-10-30T00:19:10+00:00",
       "category": "Local Events"
     },
     {
-      "title": "PSOE, PP y Vox muestran en las Cortes su «unidad en el dolor» por la tragedia ferroviaria de Urda",
+      "title": "La música electrónica de vanguardia toma Madrid: «Nos une la gente joven»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-pp-vox-muestran-unidad-dolor-tragedia-20261029165710-nt.html",
-      "published_date": "2026-10-29T16:00:33+00:00",
+      "url": "https://www.abc.es/espana/madrid/musica-electronica-vanguardia-apodera-madrid-une-gente-20261028010438-nt.html",
+      "published_date": "2026-10-30T00:04:38+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Una exministra, un guardia civil o un inspector de Hacienda: las vidas que descarrilaron en el accidente de Urda",
+      "title": "Bomberos madrileños en la tragedia de Urda: «Nunca olvidaré la primera imagen de los trenes, era de película»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/exministra-guardia-civil-inspector-hacienda-victimas-accidente-20261028150850-nt.html",
-      "published_date": "2026-10-29T15:57:40+00:00",
+      "url": "https://www.abc.es/espana/madrid/bomberos-madrilenos-tragedia-urda-nunca-olvidare-primera-20261029010402-nt.html",
+      "published_date": "2026-10-30T00:04:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Los inversores apuestan por el auge del sector de los apartamentos de lujo en Miami",
+      "title": "Abascal, sobre Pedro Sánchez y Óscar Puente: «Ellos son el error humano»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/abascal-sobre-pedro-sanchez-oscar-puente-error-20261029205805-nt.html",
+      "published_date": "2026-10-29T23:53:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La puntilla del sanchismo",
       "source": "Expansión",
-      "url": "https://www.expansion.com/economia/financial-times/2026/10/29/inversores-apuestan-auge-sector-apartamentos-lujo-miami.html",
-      "published_date": "2026-10-29T15:54:02+00:00",
+      "url": "https://www.expansion.com/opinion/2026/10/30/puntilla-sanchismo.html",
+      "published_date": "2026-10-29T23:34:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Puente rechaza las peticiones de dimisión y comparecerá ante la Diputación Permanente del Congreso por el accidente de Urda",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/puente-aleja-posibilidad-dimitir-pide-comparecer-ante-diputacion-permanente-congreso-por-accidente-urda_7055110_0.html",
-      "published_date": "2026-10-29T15:44:10+00:00",
+      "title": "El líder de la mafia turca que fue tiroteado en Salou y rematado en el hospital de Tarragona",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/10/30/6ae3b194fdddff99288b4581.html",
+      "published_date": "2026-10-29T23:02:20+00:00",
       "category": "Local Events"
     },
     {
-      "title": "El Gobierno rebajó ante Bruselas sus compromisos de inversión en seguridad ferroviaria para asegurarse los fondos europeos",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/gobierno-cambio-ante-bruselas-compromisos-inversion-seguridad-20261029130411-nt.html",
-      "published_date": "2026-10-29T15:43:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argüeso dice que ni siquiera debía participar en el Cecopi de la dana y la jueza le recuerda que lo convocó él",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/comunitat-valenciana/argueso-dice-siquiera-debia-participar-cecopi-dana-jueza-le-recuerda-convoco_1_13625030.html",
-      "published_date": "2026-10-29T14:54:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La desesperada búsqueda de Pepe, César o David tras la tragedia de Urda: \"Ojalá esté inconsciente, pero vivo y luchando\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/desesperada-busqueda-pepe-cesar-david-tragedia-urda-ojala-inconsciente-vivo-luchando_1_13624034.html",
-      "published_date": "2026-10-29T14:53:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo apunta a las “responsabilidades políticas” de Puente por el segundo accidente mortal de la alta velocidad en nueve meses",
-      "source": "El País",
-      "url": "https://elpais.com/espana/2026-10-29/feijoo-apunta-a-las-responsabilidades-politicas-de-puente-por-el-segundo-accidente-mortal-de-la-alta-velocidad-en-nueve-meses.html",
-      "published_date": "2026-10-29T14:14:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La empresa editora de 'Okdiario' pagó 200.000 euros de la defensa de Koldo García",
+      "title": "Alertan de un hackeo en Binance que podría haber vaciado 2.000 millones de dólares",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261029/11671239/empresa-editora-okdiario-pago-200-000-euros-defensa-koldo-garcia.html",
-      "published_date": "2026-10-29T13:24:34+00:00",
+      "url": "https://www.lavanguardia.com/economia/20261029/11671599/alertan-hackeo-binance-haber-vaciado-2-000-millones-dolares.html",
+      "published_date": "2026-10-29T22:54:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Muere Fátima Báñez, la discreta negociadora de Rajoy, amiga de Von der Leyen y 'ministrable' para Feijóo",
+      "title": "El sector turístico de Córdoba sufre las primeras cancelaciones para el puente de Todos los Santos tras el accidente de Urda",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/sector-turistico-cordoba-sufre-primeras-cancelaciones-puente-20261029154858-nts.html",
+      "published_date": "2026-10-29T22:40:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La continuidad de Puente en el Gobierno divide al PSOE mientras el ministro rechaza dimitir: \"Los audios lo ponen más contra las cuerdas\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae25d85e9cf4af1528b458d.html",
-      "published_date": "2026-10-29T13:19:01+00:00",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae38952fc6c83c1278b4597.html",
+      "published_date": "2026-10-29T21:50:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El PSOE ofrece en sacrificio al último de la fila",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae37dda21efa051508b458a.html",
+      "published_date": "2026-10-29T21:48:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renfe aplaza su plan alternativo de transporte en la línea Madrid-Andalucía",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/renfe-aplaza-plan-alternativo-transporte-linea-madridandalucia-20261029213003-nts.html",
+      "published_date": "2026-10-29T21:23:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Detenido en Lérida un menor de 16 años por crear y administrar los canales de Blocus para incitar a los saqueos",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/detenido-lerida-menor-anos-crear-administrar-canales-20261029202951-nt.html",
+      "published_date": "2026-10-29T21:20:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Rapants se coronan como Artistas del Año en los Premios Palco de la música gallega",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/galicia/the-rapants-coronan-artistas-ano-premios-palco-20261029213000-nt.html",
+      "published_date": "2026-10-29T20:30:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "De Urda a Toledo: forenses 'blindados', familiares sin consuelo y un hospital dándolo todo el día después de la tragedia",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/urda-toledo-forenses-blindados-familiares-consuelo-hospital-dandolo-dia-despues-tragedia_1_13625581.html",
+      "published_date": "2026-10-29T20:10:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renfe retrasa hasta el 3 de noviembre su plan alternativo entre Madrid y Andalucía por la exigencia de los maquinistas",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/10/29/6ae3a19fe4d4d8377a8b45a0.html",
+      "published_date": "2026-10-29T19:48:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Una exministra, un maquinista, una atleta, un guardia civil, un inspector de Hacienda... los rostros de la tragedia de los trenes de Urda",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/una-exministra-un-maquinista-una-atleta-un-guardia-civil-un-inspector-hacienda-los-rostros-tragedia-los-trenes-urda_7055129_0.html",
+      "published_date": "2026-10-29T19:18:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Junta Electoral abre expediente a Sánchez por el vídeo ante el Guernica de Picasso",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261029/11671482/junta-electoral-abre-expediente-sanchez-video-guernica-picasso.html",
+      "published_date": "2026-10-29T19:03:39+00:00",
       "category": "Local Events"
     }
   ]
