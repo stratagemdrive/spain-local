@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-10-31T15:56:15.878977+00:00",
+  "last_updated": "2026-11-01T01:41:42.226061+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -284,6 +284,20 @@
       "category": "Military"
     },
     {
+      "title": "¿Quién vigila al guardián del sistema eléctrico?",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/vigila-guardian-sistema-electrico-20261101000600-nt.html",
+      "published_date": "2026-10-31T23:06:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "La UE y Canadá estudiarán aumentar los envíos de gas a Europa y crear reservas de materias primas críticas",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-ue-y-canada-estudiaran-aumentar-los-envios-de-gas-a-europa-y-crear-reservas-de-materias-primas-criticas/",
+      "published_date": "2026-10-30T23:09:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "The Argentine state oil company YPF earns 2,494 million until September compared to losses of 154 million",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/la-petrolera-estatal-argentina-ypf-gana-2-494-millones-hasta-septiembre-frente-a-unas-perdidas-de-154-millones/",
@@ -410,18 +424,32 @@
       "category": "Energy"
     },
     {
-      "title": "Red Eléctrica habilita ya 15 GW de renovables para dar un empujón al control de tensión",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/red-electrica-habilita-ya-15-gw-de-renovables-para-dar-un-empujon-al-control-de-tension/",
-      "published_date": "2026-10-30T04:30:00+00:00",
-      "category": "Energy"
+      "title": "Las compras de pequeños bancos mueven el sector a falta de grandes opas",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261101/11672957/compras-pequenos-bancos-mueven-sector-falta-grandes-opas.html",
+      "published_date": "2026-10-31T23:05:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Enagás cierra la compra a Osaka Gas del 20% de Saggas por 31 millones y alcanza el 92,5% de la regasificadora",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/enagas-cierra-la-compra-a-osaka-gas-del-20-de-saggas-por-31-millones-y-alcanza-el-92-5-de-la-regasificadora/",
-      "published_date": "2026-10-29T23:30:00+00:00",
-      "category": "Energy"
+      "title": "Lula tiene que elegir entre la austeridad y el camino más arriesgado de la expansión",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261101/11671805/lula-elegir-austeridad-camino-mas-arriesgado-expansion.html",
+      "published_date": "2026-10-31T23:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La inteligencia artificial abre un nuevo frente industrial para el oro y la plata",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/inteligencia-artificial-abre-nuevo-frente-industrial-oro-20261101000400-nt.html",
+      "published_date": "2026-10-31T23:04:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Un guardia civil cuenta el rescate de Almudena, la sevillana que viajaba en el Iryo de Urda: \"Fue la única que salió con vida\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/andalucia/guardia-civil-cuenta-rescate-almudena-sevillana-viajaba-iryo-urda-unica-salio-vida_1_13629494.html",
+      "published_date": "2026-10-31T16:47:21+00:00",
+      "category": "Economy"
     },
     {
       "title": "Spain resists in a eurozone with its three largest economies in decline",
@@ -536,171 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Twenty strong stocks rising against the tide in October",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/inversion/2026/10/31/veinte-valores-fuertes-suben-contracorriente-octubre.html",
-      "published_date": "2026-10-30T23:08:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The state oil company Pemex reduces its losses by 82.4% in the third quarter, to 514.1 million",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-petrolera-estatal-pemex-reduce-sus-perdidas-un-82-4-en-el-tercer-trimestre-hasta-los-514-1-millones/",
-      "published_date": "2026-10-30T23:06:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Petrochemical investors face overcapacity and disappointing growth prospects",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/los-inversores-del-sector-petroquimico-se-enfrentan-a-un-exceso-de-capacidad-y-a-unas-perspectivas-de-crecimiento-decepcionantes/",
-      "published_date": "2026-10-30T23:03:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The US promotes the manufacturing of innovative batteries with the aim of strengthening the country's competitiveness",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/eeuu-impulsa-la-fabricacion-de-baterias-innovadoras-con-el-objetivo-de-reforzar-la-competitividad-del-pais/",
-      "published_date": "2026-10-30T23:02:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "One deceased and one seriously injured due to an attack with a knife in Tordehumos (Valladolid)",
+      "title": "Los sanitarios de Urgencias del hospital de Toledo ante la tragedia de Urda: «No te puedes derrumbar»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/fallecido-herido-grave-agresion-arma-blanca-tordehumos-20261031152143-nt.html",
-      "published_date": "2026-10-31T15:27:55+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vivieron-sanitarios-urgencias-toledo-tragedia-urda-puedes-20261030022258-nt.html",
+      "published_date": "2026-11-01T01:22:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "More than 8,000 people demonstrate against the Cantabria surf pool: \"There can be no general interest if there is general rejection\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/cantabria/8-000-personas-manifiestan-piscina-surf-cantabria-no-existir-interes-general-si-existe-rechazo-general_1_13628933.html",
-      "published_date": "2026-10-31T15:22:15+00:00",
+      "title": "¿Cómo se controla la seguridad entre trenes y qué pasó en Urda?",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/controla-seguridad-trenes-paso-urda-20261031203454-nt.html",
+      "published_date": "2026-11-01T01:06:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "One dead from a knife and another seriously in an attack in Tordehumos (Valladolid)",
+      "title": "El accidente de Urda convulsiona el 29-N: El PSOE se hunde en el desánimo y el PP gira hacia la gestión",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/accidente-urda-convulsiona-29n-psoe-hunde-desanimo-20261101013929-nt.html",
+      "published_date": "2026-11-01T00:49:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Puente se queda sin la sucesión de Sánchez, que tiene fecha y casi hora",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/puente-queda-sucesion-sanchez-fecha-hora-20261031014031-nt.html",
+      "published_date": "2026-11-01T00:41:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Justicia revisa contratos de Transportes por más de 500 millones de euros por sospechas de malversación",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/dinero-transportes-justicia-revisa-contratos-500-millones-20261101013954-nt.html",
+      "published_date": "2026-11-01T00:40:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Gobierno prevé dejar caer al presidente de Adif como cortafuegos para proteger a Puente y a Sánchez",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/gobierno-preve-dejar-caer-presidente-adif-cortafuegos-20261030014015-nt.html",
+      "published_date": "2026-11-01T00:40:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hortaleza, el pueblo que sobrevivió a Madrid",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/hortaleza-pueblo-sobrevivio-madrid-20261031011011-nt.html",
+      "published_date": "2026-11-01T00:10:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barcelona lleva la tecnología urbana inteligente al mercado global",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/barcelona-lleva-tecnologia-urbana-inteligente-mercado-global-20261101001400-nt.html",
+      "published_date": "2026-10-31T23:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "No son molinos, Sancho Panza; son puentes",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/dinero/20261101/11672349/son-molinos-sancho-panza-son-puentes.html",
+      "published_date": "2026-10-31T23:05:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Las otras víctimas del 'crimen' ferroviario: \"No deberíamos dejar que salga ningún tren hasta que se arregle esto\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/31/6ae6000be4d4d8677f8b4571.html",
-      "published_date": "2026-10-31T14:57:11+00:00",
+      "url": "https://www.elmundo.es/papel/2026/11/01/6ae6106021efa0b6078b4589.html",
+      "published_date": "2026-10-31T23:02:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "\"We grabbed his hand and never let go\": the emotional rescue of the Civil Guard to Almudena in the Urda accident",
+      "title": "Madrid Urban Fest, el gran escaparate del ritmo de la calle",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/madrid-urban-fest-gran-escaparate-ritmo-calle-20261031235345-nt.html",
+      "published_date": "2026-10-31T22:53:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Guardia Civil confirma la muerte de María del Carmen García, la joven de Rute, en el accidente de Urda",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/guardia-civil-confirma-muerte-maria-carmen-garcia-20261031230711-nts.html",
+      "published_date": "2026-10-31T22:07:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Santiago Abascal: \"El crecimiento de Vox es lo que asegura la alternativa\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/31/6ae60007e4d4d89d158b45b2.html",
-      "published_date": "2026-10-31T14:54:00+00:00",
+      "url": "https://www.elmundo.es/espana/2026/10/31/6ae5d63221efa081798b4597.html",
+      "published_date": "2026-10-31T21:48:06+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Vox asks to suspend the voting of the children of those nationalized by the 'grandchild law' if the parents do not prove the exile",
+      "title": "Los camposantos de Galicia se llenan de flores para recibir el Día de Todos los Santos",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/vox-pide-suspender-voto-hijos-nacionalizados-ley-20261031151940-nt.html",
-      "published_date": "2026-10-31T14:49:54+00:00",
+      "url": "https://www.abc.es/espana/galicia/camposantos-galicia-llenan-flores-recibir-dia-santos-20261031181802-nt.html",
+      "published_date": "2026-10-31T21:43:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Urda mourns the victims of the train accident: \"Now we are the ones who need peace\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/urda-llora-victimas-accidente-ferroviario-necesitamos-paz-20261031130857-nt.html",
-      "published_date": "2026-10-31T14:43:26+00:00",
+      "title": "Miles de personas recorren en silencio las calles blindadas de Valencia por el segundo año de la dana",
+      "source": "El País",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-31/miles-de-personas-recorren-en-silencio-las-calles-blindadas-de-valencia-por-el-segundo-ano-de-la-dana.html",
+      "published_date": "2026-10-31T20:19:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Arsa, one of the dogs that looked for victims in Adamuz, now works in Urda",
+      "title": "Detenido en Valencia un menor vinculado a 'Blocus' por instigar a realizar sabotajes",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-detenido-valencia-menor-vinculado-blocus-instigar-realizar-sabotajes-20261031202733.html",
+      "published_date": "2026-10-31T19:27:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ryanair y Wizz Air organizan nuevos vuelos entre Madrid y Andalucía tras el accidente de tren de Toledo: \"Queremos ayudar\"",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/arsa-una-las-perras-que-busco-victimas-adamuz-trabaja-ahora-urda_7055814_0.html",
-      "published_date": "2026-10-31T14:38:23+00:00",
+      "url": "https://www.20minutos.es/nacional/ryanair-wizz-air-organizan-nuevos-vuelos-entre-madrid-andalucia-accidente-tren-toledo-queremos-ayudar_7055872_0.html",
+      "published_date": "2026-10-31T19:15:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Partners of Sánchez and UGT demand that Puente respond for the tragedy: Frente Amplio, PNV and BNG ask for \"responsibilities\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/socios-sanchez-ugt-exigen-que-puente-responda-por-tragedia-frente-amplio-pnv-bng-piden-responsabilidades_7055807_0.html",
-      "published_date": "2026-10-31T14:34:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The residents of Urda turn to the 69 victims of the train accident in a funeral mass without representation from the Government",
+      "title": "Más de mil identificados y un dispositivo policial sin precedentes anulan la amenaza de Blocus en las calles",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/31/6ae5d6c6e4d4d8a3438b459e.html",
-      "published_date": "2026-10-31T14:26:21+00:00",
+      "url": "https://www.elmundo.es/espana/2026/10/31/6ae5d7d5e85eced00f8b4573.html",
+      "published_date": "2026-10-31T18:26:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Winning votes, but not getting deputies: why the same electoral result can give a seat in one province and not in another",
+      "title": "Las grandes petroleras europeas disparan ganancias a más de 68.000 millones a septiembre por alza del crudo",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/noticia-grandes-petroleras-europeas-disparan-ganancias-mas-68000-millones-septiembre-alza-crudo-20261031182743.html",
+      "published_date": "2026-10-31T17:27:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vox acusa al Gobierno de hacer \"chistecitos\" en televisión mientras se produce la \"tercermundización\" de la red ferroviaria",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ganar-votos-pero-no-conseguir-diputados-mismo-resultado-electoral-puede-dar-escano-provincia-otra-no_7055666_0.html",
-      "published_date": "2026-10-31T14:12:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "They decree provisional prison without bail for the founder of 'Blocus' in Spain",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/decretan-prision-provisional-fianza-presunto-fundador-blocus-20261031142207-nt.html",
-      "published_date": "2026-10-31T13:43:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Civil Guard is considering a series of security failures before the human error in the Urda train accident",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/guardia-civil-baraja-serie-fallos-seguridad-sobre-error-humano-accidente-tren-urda_7055801_0.html",
-      "published_date": "2026-10-31T13:43:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "They decree provisional prison without bail for the alleged founder and leader of Blocus España",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/decretan-prision-provisional-sin-fianza-para-supuesto-fundador-cabecilla-blocus-espana_7055804_0.html",
-      "published_date": "2026-10-31T13:28:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wizz Air opens two new routes to connect Madrid with Malaga and Seville after the Urda accident",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/wizz-air-abre-dos-nuevas-rutas-conectar-20261031142458-nts.html",
-      "published_date": "2026-10-31T13:24:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PP demands \"consequences\" from Sánchez for the Urda tragedy and promises to work so that \"no one ever feels afraid to get on a train\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-exige-sanchez-consecuencias-tragedia-urda-promete-trabajar-nunca-nadie-sienta-miedo-subir-tren_7055792_0.html",
-      "published_date": "2026-10-31T13:03:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fúnez (PP) demands “the truth of what happened” in the Urda train accident",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/funez-reclama-verdad-ocurrido-accidente-ferroviario-urda-20261031135310-nt.html",
-      "published_date": "2026-10-31T12:56:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The archbishop of Toledo asks that tragedies like that of Urda \"not be repeated\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/arzobispo-toledo-pide-que-tragedias-como-urda-no-vuelvan-repetirse_7055794_0.html",
-      "published_date": "2026-10-31T12:55:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three people from the same family arrested for selling drugs from their home in Valladolid",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/detenidas-tres-personas-familia-venta-droga-domicilio-20261031134934-nt.html",
-      "published_date": "2026-10-31T12:52:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two people hospitalized after a house fire in Puente Genil",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/hospitalizadas-dos-personas-tras-incendio-casa-puente-20261031135228-nts.html",
-      "published_date": "2026-10-31T12:52:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "On trial for stabbing a man in the abdomen in Belvís Park in Santiago",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/juicio-apunalar-hombre-abdomen-parque-belvis-santiago-20261031135037-nt.html",
-      "published_date": "2026-10-31T12:50:57+00:00",
+      "url": "https://www.20minutos.es/nacional/vox-acusa-gobierno-hacer-chistecitos-television-mientras-se-produce-tercermundizacion-red-ferroviaria_7055827_0.html",
+      "published_date": "2026-10-31T16:16:01+00:00",
       "category": "Local Events"
     }
   ]
