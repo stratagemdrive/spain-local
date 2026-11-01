@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-11-01T01:41:42.226061+00:00",
+  "last_updated": "2026-11-01T16:58:58.534788+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,34 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Geopolitical tension favors the rise in the stock market of the defense sector, such as Indra and Amper, according to Sabadell",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/noticia-tension-geopolitica-favorece-alza-bursatil-sector-defensa-indra-amper-sabadell-20261101093849.html",
+      "published_date": "2026-11-01T08:38:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palmer Luckey and Ben Lamm, the billionaire geeks behind the super war dogs",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/opinion/2026-11-01/palmer-luckey-y-ben-lamm-los-milmillonarios-frikis-detras-de-los-superperros-de-guerra.html",
+      "published_date": "2026-11-01T04:40:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Economists faced with great dissatisfaction",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/01/6ae3810221efa09e728b4590.html",
+      "published_date": "2026-10-31T23:03:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The war between Pérez Llorca's family and his Russian partner intensifies: his hotel in Vila Joiosa is at risk of liquidation",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/comunitat-valenciana/economia/guerra-familia-perez-llorca-socio-ruso-recrudece-riesgo-liquidacion-hotel-vila-joiosa_1_13625548.html",
+      "published_date": "2026-10-31T21:12:18+00:00",
+      "category": "Military"
+    },
+    {
       "title": "The number of women in UN peacekeeping missions falls: 26% fewer troops and 43% fewer experts in 2026",
       "source": "Europa Press",
       "url": "https://www.europapress.es/seguridad-y-defensa/noticia-numero-mujeres-misiones-paz-onu-cae-26-tropa-43-expertas-menos-2026-20261031102950.html",
@@ -256,38 +284,59 @@
       "category": "Military"
     },
     {
-      "title": "M&G rota sus fondos hacia Reino Unido, Japón y emergentes para el cierre de año",
+      "title": "The 100 million barrels of oil promised by the G7 begin to hit the market",
       "source": "Expansión",
-      "url": "https://www.expansion.com/inversion/2026/10/28/6ae09ea1e5fdea71218b45b4.html",
-      "published_date": "2026-10-27T23:48:20+00:00",
-      "category": "Military"
+      "url": "https://www.expansion.com/empresas/energia/2026/11/01/empiezan-salir-mercado-100-millones-barriles-petroleo-prometidos-g7.html",
+      "published_date": "2026-11-01T11:08:02+00:00",
+      "category": "Energy"
     },
     {
-      "title": "El Gobierno aprueba 2.200 millones de préstamos a Navantia para proyectos de defensa",
+      "title": "Independent gas stations seek refuge in brands in the face of drifting fuel prices",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/gasolineras-independientes-buscan-refugio-marcas-ante-deriva-20261101022517-nt.html",
+      "published_date": "2026-11-01T07:08:28+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Large industry faces strong energy cost overruns at the end of the year",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261027/11669667/gobierno-aprueba-2-200-millones-prestamos-navantia-proyectos-defensa.html",
-      "published_date": "2026-10-27T21:41:09+00:00",
-      "category": "Military"
+      "url": "https://www.lavanguardia.com/economia/20261101/11672968/gran-industria-enfrenta-fuertes-sobrecostes-energeticos-finales-ano.html",
+      "published_date": "2026-11-01T05:00:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The 'Lula Army': this was the digital strategy devised by André Janones to fight the battle on the terrain of Bolsonarism",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/internacional/ejercito-lula-estrategia-digital-ideada-andre-janones-dar-batalla-terreno-bolsonarismo_129_13619857.html",
-      "published_date": "2026-10-27T21:30:39+00:00",
-      "category": "Military"
+      "title": "Zamora goes up in arms over the construction of a macro data center: “It's a way to throw us out”",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-11-01/zamora-se-pone-en-pie-de-guerra-por-la-construccion-de-un-macrocentro-de-datos-es-una-manera-de-echarnos.html",
+      "published_date": "2026-11-01T04:30:01+00:00",
+      "category": "Energy"
     },
     {
-      "title": "El Gobierno aprueba 2.200 millones para Navantia y anticipa una cascada de adjudicaciones militares durante la campaña",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/27/6ae10d75e4d4d8894a8b458a.html",
-      "published_date": "2026-10-27T20:46:53+00:00",
-      "category": "Military"
+      "title": "The price of gasoline and diesel from today: this is how the aid and the cost of filling the tank remain",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/precio-gasolina-diesel-hoy-quedan-ayudas-coste-20261101022504-nt.html",
+      "published_date": "2026-11-01T01:25:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "NATO urges preparation for a long period of instability in energy prices",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/otan-insta-prepararse-largo-periodo-inestabilidad-precios-20261101013755-nt.html",
+      "published_date": "2026-11-01T00:37:56+00:00",
+      "category": "Energy"
     },
     {
       "title": "¿Quién vigila al guardián del sistema eléctrico?",
       "source": "ABC",
       "url": "https://www.abc.es/economia/vigila-guardian-sistema-electrico-20261101000600-nt.html",
       "published_date": "2026-10-31T23:06:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The darkened promise of energy communities",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/promesa-oscurecida-comunidades-energeticas-20261101000200-nt.html",
+      "published_date": "2026-10-31T23:02:00+00:00",
       "category": "Energy"
     },
     {
@@ -375,53 +424,109 @@
       "category": "Energy"
     },
     {
-      "title": "Moeve exhibits financial muscle after breaking up with Galp: it earns 1,134 million and invests 885 million",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/moeve-exhibe-musculo-financiero-tras-romper-con-galp-gana-1-134-millones-e-invierte-885-millones/",
-      "published_date": "2026-10-30T09:55:00+00:00",
-      "category": "Energy"
+      "title": "Vox incorporates into the Budget a fund of 15 million for people affected by pests and diseases in the countryside",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/vox-incorpora-presupuesto-fondo-millones-afectados-plagas-20261101171128-nts.html",
+      "published_date": "2026-11-01T16:11:29+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The price of electricity shoots up this Friday to 244 euros/MWh, its highest level since April 2022",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-precio-de-la-luz-se-dispara-este-viernes-a-244-euros-mwh-su-nivel-mas-alto-desde-abril-de-2022/",
-      "published_date": "2026-10-30T09:39:00+00:00",
-      "category": "Energy"
+      "title": "The trick of a Vilagarcía company to hide the hours of its truck drivers: relays between cars and trucks",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/galicia/truco-empresa-vilagarcia-ocultar-horas-camioneros-relevos-20261101153000-nt.html",
+      "published_date": "2026-11-01T14:30:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "La inflación no se mueve del 4,9% en octubre pese a la caída del precio de los carburantes",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/30/6ae44e87fc6c8392178b4587.html",
-      "published_date": "2026-10-30T08:12:20+00:00",
-      "category": "Energy"
+      "title": "The Frente Amplio proposes to \"intervene\" the banks' floors to stop the housing crisis",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/frente-amplio-propone-intervenir-pisos-bancos-frenar-20261101142100-nts.html",
+      "published_date": "2026-11-01T13:21:00+00:00",
+      "category": "Economy"
     },
     {
-      "title": "La inflación se mantiene en el 4,9% por el empuje de los combustibles",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-30/la-inflacion-se-mantiene-en-el-49-por-el-empuje-de-los-combustibles.html",
-      "published_date": "2026-10-30T08:08:04+00:00",
-      "category": "Energy"
+      "title": "Amancio Ortega will collect 1,617 million euros in dividends from Inditex this Monday",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/mercados/2026/11/01/amancio-ortega-cobrara-1-617-millones-euros-dividendos-inditex-lunes.html",
+      "published_date": "2026-11-01T11:45:24+00:00",
+      "category": "Economy"
     },
     {
-      "title": "El IPC se mantiene en el 4,9% en octubre pese al abaratamiento de las gasolinas",
+      "title": "PwC experts predict that the growth of the Spanish economy will slow to 2.4% this year",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/11/01/expertos-pwc-preven-crecimiento-economia-espanola-desacelere-2-4-ano.html",
+      "published_date": "2026-11-01T11:33:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The senator with the greatest real estate assets will not be on the PP lists for 29N",
       "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ipc-mantiene-49-octubre-pese-abaratamiento-gasolinas-20261030090031.html",
-      "published_date": "2026-10-30T08:00:31+00:00",
-      "category": "Energy"
+      "url": "https://www.europapress.es/nacional/noticia-senadora-mayor-patrimonio-inmobiliario-no-ira-listas-pp-29n-20261101121947.html",
+      "published_date": "2026-11-01T11:19:47+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Europa, en manos del GNL de EEUU",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/europa-en-manos-del-gnl-de-eeuu/",
-      "published_date": "2026-10-30T07:34:00+00:00",
-      "category": "Energy"
+      "title": "Amancio Ortega will receive 3,234 million in dividends from Inditex after collecting 1,617 million this Monday",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/noticia-amancio-ortega-ingresara-3234-millones-dividendos-inditex-cobrar-1617-millones-lunes-20261101115952.html",
+      "published_date": "2026-11-01T10:59:52+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Shell expands its share buyback program to $5 billion and encourages the oil sector",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/shell-amplia-su-programa-de-recompra-de-acciones-hasta-los-5-000-millones-de-dolares-y-anima-al-sector-petrolero/",
-      "published_date": "2026-10-30T06:47:00+00:00",
-      "category": "Energy"
+      "title": "Technological and digital fertilizer gives a new color to the florist business",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/abono-tecnologico-digital-nuevo-color-negocio-floristerias-20261101105315-nt.html",
+      "published_date": "2026-11-01T09:53:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Send money between family members free and tax-free: the method endorsed by experts",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/envia-dinero-familiares-gratis-libre-impuestos-metodo-20261030082927-nt.html",
+      "published_date": "2026-11-01T07:29:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The PSOE is caught in a political clamp due to the Urda tragedy",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261101/11672932/psoe-queda-atrapado-pinza-politica-pp-frente-amplio-accidente-tren-urda.html",
+      "published_date": "2026-11-01T05:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Is the fiscal malaise easing?",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261101/11642784/amaina-malestar-fiscal.html",
+      "published_date": "2026-11-01T05:00:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The seams of the expansive cycle",
+      "source": "El País",
+      "url": "https://elpais.com/economia/negocios/2026-11-01/las-costuras-del-ciclo-expansivo.html",
+      "published_date": "2026-11-01T04:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The keys: energy companies dodge this time the debate on the rise of their profits",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/opinion/2026-11-01/las-claves-las-energeticas-esquivan-esta-vez-el-debate-sobre-el-auge-de-sus-beneficios.html",
+      "published_date": "2026-11-01T04:40:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "It was not just a human failure: the weaknesses of the system evidenced by the Urda and Adamuz accidents",
+      "source": "El País",
+      "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
+      "published_date": "2026-11-01T04:30:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The bank charges up to 276 euros per year for the unconnected (and clueless) customer",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-11-01/la-banca-cobra-hasta-276-euros-al-ano-al-cliente-poco-vinculado-y-despistado.html",
+      "published_date": "2026-11-01T04:30:01+00:00",
+      "category": "Economy"
     },
     {
       "title": "Las compras de pequeños bancos mueven el sector a falta de grandes opas",
@@ -445,262 +550,157 @@
       "category": "Economy"
     },
     {
-      "title": "Un guardia civil cuenta el rescate de Almudena, la sevillana que viajaba en el Iryo de Urda: \"Fue la única que salió con vida\"",
+      "title": "Sustainability or efficiency?",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/01/6ae382d9e9cf4af1528b45c5.html",
+      "published_date": "2026-10-31T23:03:24+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The privileged Spanish bridge",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/john-muller-privilegiado-puente-espanol-20261101000100-nt.html",
+      "published_date": "2026-10-31T23:01:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Four members of a family die, two adults and two minors, in a traffic accident in Malva (Zamora)",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/01/6ae75848e9cf4ad73e8b4578.html",
+      "published_date": "2026-11-01T16:47:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where did the right miss the absolute majority in the 2023 general elections? The 9 provinces that were decisive",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/donde-escapo-mayoria-absoluta-derecha-elecciones-generales-2023-9-provincias-decisivas_7056020_0.html",
+      "published_date": "2026-11-01T16:42:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When the 'insurance of the dead' knocks on your door: one in two Spaniards has the cost of dying covered",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/01/6ae49e03e85ece7c2c8b4574.html",
+      "published_date": "2026-11-01T16:41:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four deaths, including two minors, when a vehicle left the road in Malva (Zamora)",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/mueren-cuatro-personas-dos-menores-accidente-trafico-20261101155827-nt.html",
+      "published_date": "2026-11-01T16:38:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Juan Roig, president of Mercadona: «We are risking food. \"Farmers work hard, it has to be profitable and they make money.\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/juan-roig-presidente-mercadona-jugando-alimentacion-agricultores-20261101170000-nt.html",
+      "published_date": "2026-11-01T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The identification of Urda's victims now focuses on foreign travelers",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/identificacion-victimas-urda-centra-viajeros-extranjeros-20261101165459-nt.html",
+      "published_date": "2026-11-01T15:55:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The judge demands that crane shifts be reinforced to maintain the search in Urda \"uninterruptedly\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/jueza-exige-reforzar-turnos-gruas-mantener-manera-20261101142525-nt.html",
+      "published_date": "2026-11-01T15:53:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Renfe prepares maximum speed and circulation instructions for its drivers to avoid accidents like the one in Urda",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/renfe-prepara-instrucciones-velocidad-circulacion-maquinistas-evitar-20261101140411-nt.html",
+      "published_date": "2026-11-01T15:51:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four dead, two adults and two minors, in an accident in Malva, Zamora",
       "source": "elDiario.es",
-      "url": "https://www.eldiario.es/andalucia/guardia-civil-cuenta-rescate-almudena-sevillana-viajaba-iryo-urda-unica-salio-vida_1_13629494.html",
-      "published_date": "2026-10-31T16:47:21+00:00",
-      "category": "Economy"
+      "url": "https://www.eldiario.es/castilla-y-leon/cuatro-muertos-adultos-menores-salida-via-malva-zamora_1_13630758.html",
+      "published_date": "2026-11-01T15:43:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Spain resists in a eurozone with its three largest economies in decline",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/economia/2026/10/31/espana-resiste-eurozona-tres-mayores-economias-declive.html",
-      "published_date": "2026-10-31T14:59:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Advisory Council advises the Board to carry out a \"grammatical\" review of the Budget to improve its wording",
+      "title": "Travel agencies warn that tourism in Andalusia will be \"especially affected\" after the accident",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/consejo-consultivo-aconseja-junta-haga-revision-gramatical-20261031154154-nts.html",
-      "published_date": "2026-10-31T14:41:54+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/andalucia/agencias-viajes-advierten-turismo-andalucia-vera-especialmente-20261101163402-nts.html",
+      "published_date": "2026-11-01T15:34:03+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "A Fene company discovers that its employees were reselling construction materials without authorization",
+      "title": "Urda's ground zero continues without rest: searches, cranes and belongings waiting for their owners",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/empresa-fene-descubre-empleados-revendian-materiales-construccion-20261031153000-nt.html",
-      "published_date": "2026-10-31T14:30:00+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/zona-cero-urda-sigue-descanso-rastreos-gruas-20261101145631-nt.html",
+      "published_date": "2026-11-01T15:24:59+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "VMO2 prepares thousands of layoffs to save costs",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/2026/10/31/vmo2-prepara-miles-despidos-ahorrar-costes.html",
-      "published_date": "2026-10-31T12:01:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Spain exports its knowledge in the construction of large sustainable infrastructures",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/31/6ad60cf1fdddff9f5d8b45ba.html",
-      "published_date": "2026-10-31T10:09:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Growth without private investment: how the Spanish economy improves with fewer resources",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-31/crecimiento-sin-inversion-privada-como-la-economia-espanola-mejora-con-menos-recursos.html",
-      "published_date": "2026-10-31T04:45:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The bill for the blockade of wind projects in rural Spain",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-31/la-factura-del-bloqueo-a-los-proyectos-eolicos-en-la-espana-rural.html",
-      "published_date": "2026-10-31T04:40:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Geely's reform still hasn't started",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-31/la-reforma-de-geely-sigue-sin-arrancar.html",
-      "published_date": "2026-10-31T04:40:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Another technological shake-up on the verge of receiving Anthropic",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-31/otra-sacudida-tecnologica-a-las-puertas-de-recibir-a-anthropic.html",
-      "published_date": "2026-10-31T04:40:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nightmare before Christmas in Hollywood",
-      "source": "El País",
-      "url": "https://elpais.com/economia/negocios/carta-del-corresponsal/2026-10-31/pesadilla-antes-de-navidad-en-hollywood.html",
-      "published_date": "2026-10-31T04:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Spanish banks are heading into their fifth consecutive year of profits",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/banca/2026/10/31/banca-espanola-enfila-quinto-ano-consecutivo-beneficios.html",
-      "published_date": "2026-10-31T01:14:13+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Banks test their supports",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/10/31/bancos-tantean-soportes.html",
-      "published_date": "2026-10-31T00:47:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Mina El Moto plans to list on the Spanish stock market",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/2026/10/31/mina-moto-planea-saltar-cotizar-bolsa-espanola.html",
-      "published_date": "2026-10-31T00:34:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How Binance Rushes to Cover Losses from Biggest Theft in Crypto History",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/10/31/6ae4d6cae9cf4ab54a8b4589.html",
-      "published_date": "2026-10-31T00:13:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The easiest oppositions to pass in 2026: short syllabi and permanent employment",
+      "title": "Maymanta closes its festivals with a Creole Song festival",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/oposiciones-faciles-aprobar-2026-temarios-cortos-empleo-20261026011206-nt.html",
-      "published_date": "2026-10-31T00:12:06+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/cataluna/maymanta-cierra-verbenas-fiesta-cancion-criolla-20261101162116-nt.html",
+      "published_date": "2026-11-01T15:21:16+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "How to prevent your children from giving up their inheritance (without Internet tricks) because of taxes",
+      "title": "Toledo recovers 80 graves in its municipal cemetery after investing nearly 200,000 euros",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/evitar-tus-hijos-renuncien-herencia-trucos-internet-20261030011147-nt.html",
-      "published_date": "2026-10-31T00:11:47+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-recupera-sepulturas-cementerio-municipal-tras-invertir-20261101143741-nt.html",
+      "published_date": "2026-11-01T15:12:09+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Los sanitarios de Urgencias del hospital de Toledo ante la tragedia de Urda: «No te puedes derrumbar»",
+      "title": "The other trace of the Urda tragedy: psychological support for the civil guards",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vivieron-sanitarios-urgencias-toledo-tragedia-urda-puedes-20261030022258-nt.html",
-      "published_date": "2026-11-01T01:22:58+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/huella-tragedia-urda-apoyo-psicologico-guardias-civiles-20261101160011-nt.html",
+      "published_date": "2026-11-01T15:08:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "¿Cómo se controla la seguridad entre trenes y qué pasó en Urda?",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/controla-seguridad-trenes-paso-urda-20261031203454-nt.html",
-      "published_date": "2026-11-01T01:06:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El accidente de Urda convulsiona el 29-N: El PSOE se hunde en el desánimo y el PP gira hacia la gestión",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/accidente-urda-convulsiona-29n-psoe-hunde-desanimo-20261101013929-nt.html",
-      "published_date": "2026-11-01T00:49:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Puente se queda sin la sucesión de Sánchez, que tiene fecha y casi hora",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/puente-queda-sucesion-sanchez-fecha-hora-20261031014031-nt.html",
-      "published_date": "2026-11-01T00:41:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Justicia revisa contratos de Transportes por más de 500 millones de euros por sospechas de malversación",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/dinero-transportes-justicia-revisa-contratos-500-millones-20261101013954-nt.html",
-      "published_date": "2026-11-01T00:40:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Gobierno prevé dejar caer al presidente de Adif como cortafuegos para proteger a Puente y a Sánchez",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/gobierno-preve-dejar-caer-presidente-adif-cortafuegos-20261030014015-nt.html",
-      "published_date": "2026-11-01T00:40:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hortaleza, el pueblo que sobrevivió a Madrid",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/hortaleza-pueblo-sobrevivio-madrid-20261031011011-nt.html",
-      "published_date": "2026-11-01T00:10:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barcelona lleva la tecnología urbana inteligente al mercado global",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/barcelona-lleva-tecnologia-urbana-inteligente-mercado-global-20261101001400-nt.html",
-      "published_date": "2026-10-31T23:14:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "No son molinos, Sancho Panza; son puentes",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/dinero/20261101/11672349/son-molinos-sancho-panza-son-puentes.html",
-      "published_date": "2026-10-31T23:05:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las otras víctimas del 'crimen' ferroviario: \"No deberíamos dejar que salga ningún tren hasta que se arregle esto\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/papel/2026/11/01/6ae6106021efa0b6078b4589.html",
-      "published_date": "2026-10-31T23:02:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madrid Urban Fest, el gran escaparate del ritmo de la calle",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/madrid-urban-fest-gran-escaparate-ritmo-calle-20261031235345-nt.html",
-      "published_date": "2026-10-31T22:53:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Guardia Civil confirma la muerte de María del Carmen García, la joven de Rute, en el accidente de Urda",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/guardia-civil-confirma-muerte-maria-carmen-garcia-20261031230711-nts.html",
-      "published_date": "2026-10-31T22:07:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Santiago Abascal: \"El crecimiento de Vox es lo que asegura la alternativa\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/31/6ae5d63221efa081798b4597.html",
-      "published_date": "2026-10-31T21:48:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Los camposantos de Galicia se llenan de flores para recibir el Día de Todos los Santos",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/camposantos-galicia-llenan-flores-recibir-dia-santos-20261031181802-nt.html",
-      "published_date": "2026-10-31T21:43:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miles de personas recorren en silencio las calles blindadas de Valencia por el segundo año de la dana",
-      "source": "El País",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2026-10-31/miles-de-personas-recorren-en-silencio-las-calles-blindadas-de-valencia-por-el-segundo-ano-de-la-dana.html",
-      "published_date": "2026-10-31T20:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Detenido en Valencia un menor vinculado a 'Blocus' por instigar a realizar sabotajes",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-detenido-valencia-menor-vinculado-blocus-instigar-realizar-sabotajes-20261031202733.html",
-      "published_date": "2026-10-31T19:27:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ryanair y Wizz Air organizan nuevos vuelos entre Madrid y Andalucía tras el accidente de tren de Toledo: \"Queremos ayudar\"",
+      "title": "Albiol accuses TVE of postponing a debate due to the interests of the PSOE and warns that he will not go to another",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ryanair-wizz-air-organizan-nuevos-vuelos-entre-madrid-andalucia-accidente-tren-toledo-queremos-ayudar_7055872_0.html",
-      "published_date": "2026-10-31T19:15:14+00:00",
+      "url": "https://www.20minutos.es/nacional/albiol-acusa-tve-aplazar-un-debate-por-intereses-psoe-avisa-que-no-ira-otro_7056005_0.html",
+      "published_date": "2026-11-01T15:01:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Más de mil identificados y un dispositivo policial sin precedentes anulan la amenaza de Blocus en las calles",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/31/6ae5d7d5e85eced00f8b4573.html",
-      "published_date": "2026-10-31T18:26:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las grandes petroleras europeas disparan ganancias a más de 68.000 millones a septiembre por alza del crudo",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/noticia-grandes-petroleras-europeas-disparan-ganancias-mas-68000-millones-septiembre-alza-crudo-20261031182743.html",
-      "published_date": "2026-10-31T17:27:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vox acusa al Gobierno de hacer \"chistecitos\" en televisión mientras se produce la \"tercermundización\" de la red ferroviaria",
+      "title": "Óscar Puente, in critical hours: PSOE members join the pressure for him to resign and the shadows grow in his management",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/vox-acusa-gobierno-hacer-chistecitos-television-mientras-se-produce-tercermundizacion-red-ferroviaria_7055827_0.html",
-      "published_date": "2026-10-31T16:16:01+00:00",
+      "url": "https://www.20minutos.es/nacional/oscar-puente-foco-crece-presion-dimita-sombra-gestion-antes-doble-comparecencia-martes_7055996_0.html",
+      "published_date": "2026-11-01T14:38:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "García Albiol, clear with the management of RTVE after seeing how they suspend the electoral debate this Monday: \"I find it outrageous that a public television is handed over and into the hands of the PSOE\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/garcia-albiol-claro-gestion-rtve-tras-ver-20261101121515-nt.html",
+      "published_date": "2026-11-01T14:23:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The PP joins Vox and announces that it will appear as a private prosecutor in the legal case of the Urda accident",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/pp-une-vox-anuncia-personara-acusacion-particular-causa-judicial-accidente-urda_1_13630675.html",
+      "published_date": "2026-11-01T14:22:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "José Manuel, María de los Ángeles or Antonio: the fatalities in Andalusia left by the Toledo train crash",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/jose-manuel-maria-angeles-antonio-victimas-mortales-20261030102559-nts.html",
+      "published_date": "2026-11-01T14:11:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PP and Vox will appear in the cause of the Urda accident",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/pp-vox-personaran-causa-accidente-urda-20261101140437-nt.html",
+      "published_date": "2026-11-01T14:04:55+00:00",
       "category": "Local Events"
     }
   ]
