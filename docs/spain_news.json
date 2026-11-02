@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-11-01T16:58:58.534788+00:00",
+  "last_updated": "2026-11-02T02:03:10.771299+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -361,6 +361,13 @@
       "category": "Energy"
     },
     {
+      "title": "EEUU impulsa la fabricación de baterías innovadoras con el objetivo de reforzar la competitividad del país",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/eeuu-impulsa-la-fabricacion-de-baterias-innovadoras-con-el-objetivo-de-reforzar-la-competitividad-del-pais/",
+      "published_date": "2026-10-30T23:02:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "The 'boom' of hybrid plants: massive alliance of solar energy with batteries in the US",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/el-boom-de-las-plantas-hibridas-alianza-masiva-de-la-energia-solar-con-las-baterias-en-eeuu/",
@@ -417,11 +424,39 @@
       "category": "Energy"
     },
     {
-      "title": "The provisional tariff deficit of the electrical system stands at 571 million as of August",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-deficit-de-tarifa-provisional-del-sistema-electrico-se-situa-en-571-millones-a-agosto/",
-      "published_date": "2026-10-30T10:05:00+00:00",
-      "category": "Energy"
+      "title": "Caso Helena Jubany: 25 años de lucha hasta sentar en el banquillo al sospechoso de asesinarla",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/helena-jubany-anos-lucha-sentar-banquillo-sospechoso-20261025014504-nt.html",
+      "published_date": "2026-11-02T00:45:05+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Santander es el único gran banco que gana accionistas en 2026",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/11/01/santander-unico-gran-banco-gana-accionistas-2026.html",
+      "published_date": "2026-11-01T23:30:37+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Yolanda Díaz declara a la OIT que su campaña no ha costado ni un euro y reconoce haber usado la Vicepresidencia para reuniones en su agenda oficial de Gobierno",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/11/02/6ae5b9dffc6c8378718b4597.html",
+      "published_date": "2026-11-01T23:12:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "JPMorgan y Santander lideran el mejor año del M&A desde 2006",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/11/02/jpmorgan-santander-lideran-mejor-ano-m-2006.html",
+      "published_date": "2026-11-01T23:09:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Santander UK afronta un golpe de 120 millones por el recargo a la banca",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/11/01/santander-uk-afronta-golpe-120-millones-recargo-banca.html",
+      "published_date": "2026-11-01T22:59:58+00:00",
+      "category": "Economy"
     },
     {
       "title": "Vox incorporates into the Budget a fund of 15 million for people affected by pests and diseases in the countryside",
@@ -515,6 +550,13 @@
       "category": "Economy"
     },
     {
+      "title": "Édouard Philippe: “Francia es hoy más débil económicamente y la sociedad es más violenta y crispada”",
+      "source": "El País",
+      "url": "https://elpais.com/internacional/2026-11-01/edouard-philippe-francia-es-hoy-mas-debil-economicamente-y-la-sociedad-es-mas-violenta-y-crispada.html",
+      "published_date": "2026-11-01T04:30:01+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "It was not just a human failure: the weaknesses of the system evidenced by the Urda and Adamuz accidents",
       "source": "El País",
       "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
@@ -522,46 +564,130 @@
       "category": "Economy"
     },
     {
-      "title": "The bank charges up to 276 euros per year for the unconnected (and clueless) customer",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-11-01/la-banca-cobra-hasta-276-euros-al-ano-al-cliente-poco-vinculado-y-despistado.html",
-      "published_date": "2026-11-01T04:30:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Las compras de pequeños bancos mueven el sector a falta de grandes opas",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261101/11672957/compras-pequenos-bancos-mueven-sector-falta-grandes-opas.html",
-      "published_date": "2026-10-31T23:05:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Lula tiene que elegir entre la austeridad y el camino más arriesgado de la expansión",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261101/11671805/lula-elegir-austeridad-camino-mas-arriesgado-expansion.html",
-      "published_date": "2026-10-31T23:05:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "La inteligencia artificial abre un nuevo frente industrial para el oro y la plata",
+      "title": "Señor Sánchez, yo quiero involucionar",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/inteligencia-artificial-abre-nuevo-frente-industrial-oro-20261101000400-nt.html",
-      "published_date": "2026-10-31T23:04:00+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/economia/senor-sanchez-quiero-involucionar-20261101014245-nt.html",
+      "published_date": "2026-11-02T01:27:58+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Sustainability or efficiency?",
+      "title": "Un guardia civil sobre el rescate de Urda: «La orografía y los accesos evitaron más fallecidos»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/guardia-civil-sobre-rescate-urda-orografia-accesos-20261101014849-nt.html",
+      "published_date": "2026-11-02T00:48:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Comunidad de Madrid presume de lograr electricidad para 100.000 viviendas tras obligar al Gobierno a rectificar",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/comunidad-madrid-presume-lograr-electricidad-100000-viviendas-20261030014638-nt.html",
+      "published_date": "2026-11-02T00:46:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El buenismo que llevó Barcelona al caos",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/buenismo-llevo-barcelona-caos-20261102014512-nt.html",
+      "published_date": "2026-11-02T00:45:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspender dos años el AVE entre Madrid y Barcelona abocaría a un colapso en las comunicaciones",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/modelo-aleman-refirio-puente-cerrar-alta-velocidad-20261102014354-nt.html",
+      "published_date": "2026-11-02T00:44:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El DAO abrió una investigación interna pese a tener \"claro\" que el teniente coronel Balas no había filtrado los mensajes entre Sánchez y Ábalos",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/01/6ae382d9e9cf4af1528b45c5.html",
-      "published_date": "2026-10-31T23:03:24+00:00",
-      "category": "Economy"
+      "url": "https://www.elmundo.es/espana/2026/11/02/6ae7908be85ece8f138b456e.html",
+      "published_date": "2026-11-02T00:14:52+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The privileged Spanish bridge",
+      "title": "El PP reanudará los mítines en Valladolid: \"Que nadie olvide que votar al PSOE es votar a Óscar Puente\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/02/6ae7638f21efa0c56f8b4597.html",
+      "published_date": "2026-11-01T23:13:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La izquierda arma a su \"ejército\" inspirado en la remontada de Lula: \"El candidato eres tú\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/02/6ae76f91e85ece854c8b456e.html",
+      "published_date": "2026-11-01T23:13:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unos 244.000 votantes de Sánchez apoyan al PP tras la segunda tragedia ferroviaria en nueve meses",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/02/6ae77482e4d4d8283b8b4576.html",
+      "published_date": "2026-11-01T23:13:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Radiografía del 'parcheo' de la red ferroviaria: Adif ya supera este año el número de contratos de emergencia de todo 2025 y asigna uno de cada cuatro euros a 'dedo'",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/02/6ae4ec76e85ecef2658b45b6.html",
+      "published_date": "2026-11-01T23:12:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El PSOE pierde 450.000 votos y cae por debajo de 100 escaños en la primera encuesta tras la tragedia de Urda",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/01/6ae77446e4d4d8f3698b458a.html",
+      "published_date": "2026-11-01T23:07:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los hedge fund dueños de Codere analizan vender el grupo por partes",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/2026/11/02/hedge-fund-duenos-codere-analizan-vender-grupo-partes.html",
+      "published_date": "2026-11-01T23:02:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alvarez & Marsal, único aspirante al contrato del Frob para asesorarle con CaixaBank",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/11/02/alvarez-marsal-unico-aspirante-contrato-frob-asesorarle-caixabank.html",
+      "published_date": "2026-11-01T23:01:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Juan Bravo: \"El PP derogará toda la intervención del Gobierno sobre la vivienda\"",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/11/02/juan-bravo-pp-derogara-toda-intervencion-gobierno-sobre-vivienda.html",
+      "published_date": "2026-11-01T23:01:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El voto del exterior, tradicionalmente para el PSOE, sí ha movido escaños",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/john-muller-privilegiado-puente-espanol-20261101000100-nt.html",
-      "published_date": "2026-10-31T23:01:00+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/castilla-leon/voto-exterior-tradicionalmente-psoe-movido-escanos-20260927234544-nt.html",
+      "published_date": "2026-11-01T22:45:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los usuarios de Binance retiran más de 3.600 millones de la plataforma tras el robo",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/economia/financial-times/2026/11/01/usuarios-binance-retiran-3-600-millones-plataforma-robo.html",
+      "published_date": "2026-11-01T18:39:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feijóo reúne este lunes a la cúpula del PP y reanuda la campaña tras el luto por Urda",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-reune-este-lunes-cupula-pp-reanuda-campana-tras-luto-por-urda_7056035_0.html",
+      "published_date": "2026-11-01T17:24:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez retoma este lunes 2 de noviembre su agenda tras el accidente de Urda con un foro europeo en Barcelona",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/sanchez-retoma-este-lunes-2-noviembre-su-agenda-tras-accidente-urda-con-un-foro-europeo-barcelona_7056033_0.html",
+      "published_date": "2026-11-01T17:08:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Four members of a family die, two adults and two minors, in a traffic accident in Malva (Zamora)",
@@ -575,132 +701,6 @@
       "source": "20minutos",
       "url": "https://www.20minutos.es/nacional/donde-escapo-mayoria-absoluta-derecha-elecciones-generales-2023-9-provincias-decisivas_7056020_0.html",
       "published_date": "2026-11-01T16:42:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "When the 'insurance of the dead' knocks on your door: one in two Spaniards has the cost of dying covered",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/11/01/6ae49e03e85ece7c2c8b4574.html",
-      "published_date": "2026-11-01T16:41:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four deaths, including two minors, when a vehicle left the road in Malva (Zamora)",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/mueren-cuatro-personas-dos-menores-accidente-trafico-20261101155827-nt.html",
-      "published_date": "2026-11-01T16:38:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Juan Roig, president of Mercadona: «We are risking food. \"Farmers work hard, it has to be profitable and they make money.\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/juan-roig-presidente-mercadona-jugando-alimentacion-agricultores-20261101170000-nt.html",
-      "published_date": "2026-11-01T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The identification of Urda's victims now focuses on foreign travelers",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/identificacion-victimas-urda-centra-viajeros-extranjeros-20261101165459-nt.html",
-      "published_date": "2026-11-01T15:55:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The judge demands that crane shifts be reinforced to maintain the search in Urda \"uninterruptedly\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/jueza-exige-reforzar-turnos-gruas-mantener-manera-20261101142525-nt.html",
-      "published_date": "2026-11-01T15:53:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renfe prepares maximum speed and circulation instructions for its drivers to avoid accidents like the one in Urda",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/renfe-prepara-instrucciones-velocidad-circulacion-maquinistas-evitar-20261101140411-nt.html",
-      "published_date": "2026-11-01T15:51:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four dead, two adults and two minors, in an accident in Malva, Zamora",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/castilla-y-leon/cuatro-muertos-adultos-menores-salida-via-malva-zamora_1_13630758.html",
-      "published_date": "2026-11-01T15:43:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Travel agencies warn that tourism in Andalusia will be \"especially affected\" after the accident",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/agencias-viajes-advierten-turismo-andalucia-vera-especialmente-20261101163402-nts.html",
-      "published_date": "2026-11-01T15:34:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Urda's ground zero continues without rest: searches, cranes and belongings waiting for their owners",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/zona-cero-urda-sigue-descanso-rastreos-gruas-20261101145631-nt.html",
-      "published_date": "2026-11-01T15:24:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maymanta closes its festivals with a Creole Song festival",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/maymanta-cierra-verbenas-fiesta-cancion-criolla-20261101162116-nt.html",
-      "published_date": "2026-11-01T15:21:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Toledo recovers 80 graves in its municipal cemetery after investing nearly 200,000 euros",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-recupera-sepulturas-cementerio-municipal-tras-invertir-20261101143741-nt.html",
-      "published_date": "2026-11-01T15:12:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The other trace of the Urda tragedy: psychological support for the civil guards",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/huella-tragedia-urda-apoyo-psicologico-guardias-civiles-20261101160011-nt.html",
-      "published_date": "2026-11-01T15:08:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Albiol accuses TVE of postponing a debate due to the interests of the PSOE and warns that he will not go to another",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/albiol-acusa-tve-aplazar-un-debate-por-intereses-psoe-avisa-que-no-ira-otro_7056005_0.html",
-      "published_date": "2026-11-01T15:01:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Óscar Puente, in critical hours: PSOE members join the pressure for him to resign and the shadows grow in his management",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/oscar-puente-foco-crece-presion-dimita-sombra-gestion-antes-doble-comparecencia-martes_7055996_0.html",
-      "published_date": "2026-11-01T14:38:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "García Albiol, clear with the management of RTVE after seeing how they suspend the electoral debate this Monday: \"I find it outrageous that a public television is handed over and into the hands of the PSOE\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/garcia-albiol-claro-gestion-rtve-tras-ver-20261101121515-nt.html",
-      "published_date": "2026-11-01T14:23:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PP joins Vox and announces that it will appear as a private prosecutor in the legal case of the Urda accident",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/pp-une-vox-anuncia-personara-acusacion-particular-causa-judicial-accidente-urda_1_13630675.html",
-      "published_date": "2026-11-01T14:22:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "José Manuel, María de los Ángeles or Antonio: the fatalities in Andalusia left by the Toledo train crash",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/jose-manuel-maria-angeles-antonio-victimas-mortales-20261030102559-nts.html",
-      "published_date": "2026-11-01T14:11:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PP and Vox will appear in the cause of the Urda accident",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/pp-vox-personaran-causa-accidente-urda-20261101140437-nt.html",
-      "published_date": "2026-11-01T14:04:55+00:00",
       "category": "Local Events"
     }
   ]
