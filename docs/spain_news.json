@@ -1,8 +1,43 @@
 {
   "country": "Spain",
-  "last_updated": "2026-11-02T20:36:05.093046+00:00",
+  "last_updated": "2026-11-03T03:47:43.159716+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Morocco tries to shield its industry in the EU as if it were 'made in Europe' with the support of the PSOE and the rejection of the PP",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/11/03/6ae8875fe4d4d883668b458b.html",
+      "published_date": "2026-11-03T00:21:16+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "XXX Ibero-American Summit: marked by the Urda accident and the polarization between the neo-right and failed socialism",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/xxx-cumbre-iberoamericana-marcada-accidente-urda-polarizacion-20261102233348-nt.html",
+      "published_date": "2026-11-02T23:11:22+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Historic summit in Spain: the \"enormous influence\" of Felipe VI balances Ibero-America from Sheinbaum to Milei",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/02/6ae8a8c921efa0bc188b458b.html",
+      "published_date": "2026-11-02T21:44:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "This has been the first day of World in Progress 2026: from Sánchez's announcement of aid for the victims of Urda to Rebeca Grynspan's demand for the role of the UN",
+      "source": "El País",
+      "url": "https://elpais.com/videos/2026-11-02/asi-ha-sido-la-primera-jornada-del-world-in-progress-2026-del-anuncio-de-sanchez-de-ayudas-para-las-victimas-de-urda-a-la-reivindicacion-de-rebeca-grynspan-del-papel-de-la-onu.html",
+      "published_date": "2026-11-02T21:37:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Milei's first face to face with the \"dictator\" Sánchez: the hottest moment of the Ibero-American Summit",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/02/6ae8f157fdddff7b508b458e.html",
+      "published_date": "2026-11-02T20:40:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Turkish diplomat Feridun Sinirlioglu enters the race to lead the UN",
       "source": "El País",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "El Supremo levanta los apercibimientos a los ministros Bolaños y Albares tras haber entregado el listado de la 'ley de nietos'",
+      "title": "500 years of Beretta Holding: from the Battle of Lepanto to anti-drone shotguns: \"We see many opportunities in defense\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/29/6ae37c90e9cf4a127a8b4591.html",
-      "published_date": "2026-10-29T17:40:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“We could and should do more”: experts call for investing in maintaining high speed",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-10-29/podriamos-y-deberiamos-hacer-mas-los-expertos-piden-invertir-en-el-mantenimiento-de-la-alta-velocidad.html",
-      "published_date": "2026-10-29T04:35:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Albares presume de cumplir con el Supremo a costa del enfado de los consulados: \"Somos el último eslabón y nos pusieron toda la responsabilidad\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae23003e9cf4a094f8b456d.html",
-      "published_date": "2026-10-29T01:03:47+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Morocco takes for granted its entry into a strategic terminal in the Port of Barcelona",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/marruecos-entrada-terminal-estrategica-puerto-barcelona-20261028012419-nt.html",
-      "published_date": "2026-10-29T00:24:19+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pollán describes the meeting with Senegal to repatriate minors as “fruitful” and announces that contacts will continue",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/pollan-califica-fructifera-reunion-senegal-repatriar-menores-20261028141046-nt.html",
-      "published_date": "2026-10-28T16:41:33+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/03/6ae48b5021efa0c7548b4585.html",
+      "published_date": "2026-11-02T23:04:08+00:00",
+      "category": "Military"
     },
     {
       "title": "A campaign without fuss in defense of public services",
@@ -155,6 +162,20 @@
       "source": "El País",
       "url": "https://cincodias.elpais.com/companias/2026-11-02/indra-pondra-su-division-de-inteligencia-artificial-en-el-centro-del-nuevo-plan-estrategico.html",
       "published_date": "2026-11-02T04:15:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The left arms its \"army\" inspired by Lula's comeback: \"The candidate is you\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/02/6ae76f91e85ece854c8b456e.html",
+      "published_date": "2026-11-01T23:13:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Venture capital launches to invest in Spanish defense companies under the umbrella of the State",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/capital-riesgo-lanza-invertir-empresas-espanolas-defensa-paraguas_1_13608662.html",
+      "published_date": "2026-11-01T21:07:47+00:00",
       "category": "Military"
     },
     {
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Recasens (Indra): \"El anterior comité de dirección parecía una reunión de karaoke\"",
-      "source": "Expansión",
-      "url": "https://www.expansion.com/empresas/2026/10/29/recasens-indra-anterior-comite-direccion-parecia-reunion-karaoke.html",
-      "published_date": "2026-10-29T11:06:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Indra gana 355 millones hasta septiembre, un 22% más, impulsada por la Defensa y el Espacio",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/indra-gana-355-millones-septiembre-impulsada-defensa-20261029100818-nt.html",
-      "published_date": "2026-10-29T09:53:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The CGPJ unblocks the renewal of its commissions with an open war between the members",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cgpj-desbloquea-renovacion-comisiones-guerra-abierta-vocales-20261029020432-nt.html",
-      "published_date": "2026-10-29T01:04:46+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Ryanair studies freezing salaries and reducing crews due to the impact of fuel",
       "source": "Expansión",
       "url": "https://www.expansion.com/empresas/transporte/2026/11/02/ryanair-estudia-congelar-sueldos-reducir-tripulaciones-impacto-combustible.html",
@@ -389,6 +389,13 @@
       "category": "Energy"
     },
     {
+      "title": "Green molecules to reduce energy dependence",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/02/6ae47ab121efa030068b457b.html",
+      "published_date": "2026-11-01T23:13:25+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "OPEC+ freezes oil supply in December for the third month",
       "source": "La Vanguardia",
       "url": "https://www.lavanguardia.com/economia/20261101/11673468/opep-congela-oferta-petroleo-diciembre-tercer-mes.html",
@@ -417,290 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "The price of gasoline and diesel from today: this is how the aid and the cost of filling the tank remain",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/precio-gasolina-diesel-hoy-quedan-ayudas-coste-20261101022504-nt.html",
-      "published_date": "2026-11-01T01:25:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The second edition of the microcredential in Economic Journalism of the UAB and the APIEC begins",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261102/11674462/ii-edicion-microcredencial-periodismo-economico-uab-apiec-arranca.html",
-      "published_date": "2026-11-02T19:12:23+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Check Eurodreams: results for today Monday, November 2, 2026",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/comprobar-eurodreams-resultados-hoy-lunes-2-noviembre-2026_7056316_0.html",
-      "published_date": "2026-11-02T19:00:05+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Local tourism stars in Córdoba on an unusual Todos los Santos bridge for commerce",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/turismo-cercania-protagoniza-cordoba-puente-santos-inusual-20261102195337-nts.html",
-      "published_date": "2026-11-02T18:53:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Adilson Mendes continues to take firm steps in his recovery with Córdoba CF",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/adilson-mendes-sigue-dando-pasos-firmes-recuperacion-20261102195324-nts.html",
-      "published_date": "2026-11-02T18:53:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The PNV asks the SEPI to \"stop being an obstacle\" to the continuity of Tubos Reunidos",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-pnv-pide-a-la-a-la-sepi-que-deje-de-ser-un-obstaculo-para-la-continuidad-de-tubos-reunidos/",
-      "published_date": "2026-11-02T18:48:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Escrivá sees inflation as \"worrying\" due to the persistence of rising energy prices",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/escriva-ve-preocupante-la-inflacion-por-la-persistencia-del-encarecimiento-de-la-energia/",
-      "published_date": "2026-11-02T18:39:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Binance clients withdraw more than 4.2 billion after the cyber attack on their platform",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/02/6ae8d232fdddffe80c8b457b.html",
-      "published_date": "2026-11-02T18:22:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Music brings company and dignity to the inmates of Ocaña I (Toledo)",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/musica-lleva-compania-dignidad-internos-ocana-toledo-20261102191119-nt.html",
-      "published_date": "2026-11-02T18:11:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Grifols earns 390 million until September, 28.4% more, supported by the Biopharma business",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/11/02/6ae8cdaffc6c83c25e8b4591.html",
-      "published_date": "2026-11-02T18:04:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How have hackers managed to attack supermarkets in several European countries?",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261102/11674330/como-han-logrado-hackers-atacar-supermercados-paises-europeos.html",
-      "published_date": "2026-11-02T15:56:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Montero asks to apply article 128 to renationalize the railway and demands the resignation of Óscar Puente",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/02/6ae882acfc6c83a01a8b456e.html",
-      "published_date": "2026-11-02T15:38:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Anthropic invoices 15 billion in the third quarter, according to the updated brochure of its IPO",
+      "title": "The Bank of Spain increased personnel expenses by 25% last year",
       "source": "Expansión",
-      "url": "https://www.expansion.com/tecnologia/2026/11/02/anthropic-factura-15-000-millones-tercer-trimestre-folleto-actualizado-opv.html",
-      "published_date": "2026-11-02T15:28:44+00:00",
+      "url": "https://www.expansion.com/empresas/banca/2026/11/03/banco-espana-elevo-gastos-personal-25-ano-pasado.html",
+      "published_date": "2026-11-03T00:34:38+00:00",
       "category": "Economy"
     },
     {
-      "title": "The Supreme Court sentences a granddaughter to pay almost 30,000 euros for collecting her deceased grandmother's pension for years",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/02/6ae89adcfc6c8307788b458c.html",
-      "published_date": "2026-11-02T14:32:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bitcoin accuses exits in ETFs and Binance",
+      "title": "Fear of debt puts upward pressure on banks' cost of capital",
       "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/criptomonedas/2026/11/02/bitcoin-acusa-salidas-etf-binance.html",
-      "published_date": "2026-11-02T12:19:25+00:00",
+      "url": "https://www.expansion.com/empresas/banca/2026/11/03/temor-deuda-presiona-alza-coste-capital-banca.html",
+      "published_date": "2026-11-03T00:33:04+00:00",
       "category": "Economy"
     },
     {
-      "title": "The rental price increases by 2.6% in the regulated areas of Catalonia, up to 894 euros",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261102/11673979/precio-alquiler-sube-2-6-zonas-reguladas-catalunya-894-euros.html",
-      "published_date": "2026-11-02T11:40:01+00:00",
+      "title": "Puente wants to protect Renfe in the liberalization of the Cercanías with more demands on private companies",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/puente-quiere-blindar-renfe-liberalizacion-cercanias-exigencias-20261031010929-nt.html",
+      "published_date": "2026-11-03T00:28:57+00:00",
       "category": "Economy"
     },
     {
-      "title": "A new cyber attack leaves million-dollar losses in supermarkets in five European countries",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/economia/nuevo-ciberataque-deja-perdidas-millonarias-supermercados-belgica-suecia_1_13631596.html",
-      "published_date": "2026-11-02T11:30:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Price of milk from today, Monday, November 2, 2026: how much does it cost in Mercadona, Carrefour or Alcampo",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/2026/11/02/6ae86791e85ece8f138b457c.html",
-      "published_date": "2026-11-02T10:59:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "CaixaBank accelerates on the Ibex with the favoritism of Morgan Stanley",
+      "title": "Puig reaches highs of the year and still has potential",
       "source": "Expansión",
-      "url": "https://www.expansion.com/mercados/2026/11/02/caixabank-acelera-ibex-favoritismo-morgan-stanley.html",
-      "published_date": "2026-11-02T10:16:23+00:00",
+      "url": "https://www.expansion.com/inversion/2026/11/03/puig-enfila-maximos-ano-aun-potencial.html",
+      "published_date": "2026-11-03T00:26:13+00:00",
       "category": "Economy"
     },
     {
-      "title": "Illa and the Catalan employers oppose the closure of the Madrid-Barcelona AVE suggested by Puente",
+      "title": "Keys to winning on the stock market in a high-voltage November",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/inversion/2026/11/03/claves-ganar-bolsa-noviembre-alto-voltaje.html",
+      "published_date": "2026-11-03T00:26:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Growth without prosperity in the Spain of pensions: spending already doubles income from social contributions in 18 provinces",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/11/02/6ae85c43e9cf4aa8168b458c.html",
-      "published_date": "2026-11-02T09:48:29+00:00",
+      "url": "https://www.elmundo.es/economia/2026/11/03/6ae8b743e85ece4c478b4588.html",
+      "published_date": "2026-11-03T00:21:18+00:00",
       "category": "Economy"
     },
     {
-      "title": "'The Boys', the Amazon Prime series that anticipates what will happen to the AI industry in Spain and the US",
+      "title": "Santander receives 620 million from AXA for its lawsuit in the United Kingdom",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/11/03/santander-recibe-620-millones-axa-pleito-reino-unido.html",
+      "published_date": "2026-11-03T00:18:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "ING seeks to attract large international fortunes to Spain",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/banca/2026/11/03/ing-busca-atraer-grandes-fortunas-internacionales-espana.html",
+      "published_date": "2026-11-03T00:13:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Cosmen and Asterion join 2.7 billion for Mobico",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/transporte/2026/11/03/cosmen-asterion-unen-2-700-millones-mobico.html",
+      "published_date": "2026-11-03T00:13:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The PP will impose technical criteria to elect Adif managers and depoliticize its leadership",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/pp-impondra-criterios-tecnicos-elegir-gestores-adif-20261102011035-nt.html",
+      "published_date": "2026-11-03T00:11:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "South African mandarins put the Spanish countryside on alert, which asks to stop imports",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/mandarinas-sudafrica-ponen-alerta-campo-espanol-pide-20261103010919-nt.html",
+      "published_date": "2026-11-03T00:09:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "New auction of six- and twelve-month Treasury Bills: investors monitor whether profitability peaks or rises again",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/nueva-subasta-letras-tesoro-rentabilidad-seis-doce-20261030010609-nt.html",
+      "published_date": "2026-11-03T00:06:09+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The hidden document that decides your pension for permanent disability and that almost no one reviews",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/documento-oculto-decide-pension-incapacidad-permanente-revisa-20261030104302-nt.html",
+      "published_date": "2026-11-03T00:00:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "What you lose (and what you don't) by requesting voluntary leave from your job: think twice before signing",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/pierdes-pedir-baja-voluntaria-piensalo-dos-veces-20261029094639-nt.html",
+      "published_date": "2026-11-03T00:00:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Renfe continues with the purchase of 30 AVE of 350 km/hour",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/transporte/2026/11/03/renfe-sigue-adelante-compra-30-ave-350-km-hora.html",
+      "published_date": "2026-11-02T23:24:10+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "European industry faces the crisis but suffers from inflationary pressure",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/economia/2026/11/03/industria-europea-planta-cara-crisis-acusa-presion-inflacionaria.html",
+      "published_date": "2026-11-02T23:18:41+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Apple earns 18% more at the end of its fiscal year with a record revenue figure thanks to the iPhone",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/11/02/6ae8527ce9cf4abb578b458b.html",
-      "published_date": "2026-11-02T09:12:52+00:00",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/02/6ae90ce7fdddffe86b8b459f.html",
+      "published_date": "2026-11-02T22:23:20+00:00",
       "category": "Economy"
     },
     {
-      "title": "Eleven dead on the roads during the Todos los Santos bridge, according to the provisional balance of the DGT",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/once-muertos-las-carreteras-durante-puente-todos-los-santos-segun-balance-provisional-dgt_7056332_0.html",
-      "published_date": "2026-11-02T20:19:51+00:00",
-      "category": "Local Events"
+      "title": "Apple earns 12% more in the first quarter of Ternus",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/tecnologia/2026/11/02/apple-gana-12-primer-tirmestre-ternus.html",
+      "published_date": "2026-11-02T22:10:55+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Eduard Rivas, Salvador Illa's chief of staff investigated in a court case, resigns",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/dimite-eduard-rivas-jefe-gabinete-salvador-illa-investigado-causa-judicial_1_13632524.html",
-      "published_date": "2026-11-02T20:17:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Illa's chief of staff resigns, investigated for alleged irregularities during his time as mayor",
+      "title": "The UAB and the APIEC launch the second micro-credential in Economic Journalism",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/dimite-jefe-gabinete-illa-investigado-presuntas-irregularidades-20261102205307-nt.html",
-      "published_date": "2026-11-02T19:53:08+00:00",
-      "category": "Local Events"
+      "url": "https://www.abc.es/espana/cataluna/uab-apiec-ponen-marcha-segunda-microcredencial-periodismo-20261102211944-nt.html",
+      "published_date": "2026-11-02T20:19:45+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The Police confirm the arrest of two minors aged 14 and 17 linked to Blocus for promoting violent acts and looting in Barcelona",
+      "title": "Arpine Abgaryan and Miguel Sánchez launch the Scala financial boutique",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/juridico/2026/11/02/arpine-abgaryan-miguel-sanchez-ponen-marcha-boutique-financiera-scala.html",
+      "published_date": "2026-11-02T19:53:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Four injured in a multiple collision on the N-320 in Guadalajara",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/policia-confirma-detencion-dos-menores-edad-vinculadas-20261102192515-nt.html",
-      "published_date": "2026-11-02T19:49:06+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/cuatro-heridos-colision-multiple-n320-guadalajara-20261103015637-nt.html",
+      "published_date": "2026-11-03T00:56:38+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Identified after kicking a minor unconscious in Vilagarcía",
+      "title": "The train had already lost 37 million passengers this year before the Urda tragedy",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/identificado-tras-dejar-inconsciente-patada-menor-vilagarcia-20261102203736-nt.html",
-      "published_date": "2026-11-02T19:38:36+00:00",
+      "url": "https://www.abc.es/economia/alta-velocidad-perdido-ano-millones-viajeros-tras-20261028010949-nt.html",
+      "published_date": "2026-11-03T00:41:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Democracy in the era of unrest: “Nonviolent social protest is a sign of vitality of the system”",
-      "source": "El País",
-      "url": "https://elpais.com/internacional/2026-11-02/la-democracia-en-la-era-del-malestar-la-protesta-social-no-violenta-es-un-signo-de-vitalidad-del-sistema.html",
-      "published_date": "2026-11-02T19:35:39+00:00",
+      "title": "ICG hires Ramón Arocena to lead its mid-market strategy in Spain",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/2026/11/03/icg-ficha-ramon-arocena-liderar-estrategia-mid-market-espana.html",
+      "published_date": "2026-11-03T00:40:22+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Xavier Amor replaces Eduard Rivas as chief of staff of President Salvador Illa",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261102/11674466/xavier-amor-sustituye-eduard-rivas-jefe-gabinete-president-salvador-illa.html",
-      "published_date": "2026-11-02T19:28:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A shooting in a pub in a town in Jaén results in one seriously injured",
+      "title": "The 69 victims of the Urda railway tragedy identified",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/jaen/tiroteo-pub-pueblo-jaen-salda-herido-gravedad-20261102201358-nts.html",
-      "published_date": "2026-11-02T19:26:04+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/identificadas-victimas-tragedia-ferroviaria-urda-20261103013744-nt.html",
+      "published_date": "2026-11-03T00:37:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Prosecutor's Office requests 40 years in prison for a man accused of killing his partner and setting fire to his house in Albacete",
+      "title": "The control center \"apologized\" to the Iryo driver who almost collided with the accident trains after giving him the wrong order",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/11/03/6ae873c6e9cf4a43058b4588.html",
+      "published_date": "2026-11-03T00:34:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The farewell to Marie, Daniela, Carlos, Yassine, Fernando or Marta, newly identified in the Urda tragedy: \"Your departure leaves a huge void\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/03/6ae8bb7ee9cf4aa8168b459c.html",
+      "published_date": "2026-11-03T00:34:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Permanent Deputation turns against the Government: an absolute majority calls for Puente's resignation",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/03/6ae8cec2e4d4d892638b457d.html",
+      "published_date": "2026-11-03T00:33:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The judge of the Urda accident learns from Adamuz so that Adif does not contaminate the stage",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/fiscalia-pide-anos-carcel-acusado-matar-pareja-20261102201413-nt.html",
-      "published_date": "2026-11-02T19:14:38+00:00",
+      "url": "https://www.abc.es/espana/juez-accidente-urda-aprende-adamuz-adif-contamine-20261103012906-nt.html",
+      "published_date": "2026-11-03T00:29:29+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Detentions complicate traffic on several roads in Castilla y León on the return of the Todos los Santos bridge",
+      "title": "The left agitates the strike in public universities eight months after a \"historic\" agreement",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/retenciones-complican-trafico-varias-carreteras-castilla-leon-20261102195857-nt.html",
-      "published_date": "2026-11-02T18:58:57+00:00",
+      "url": "https://www.abc.es/espana/madrid/izquierda-agita-huelga-universidades-publicas-ocho-meses-20261102011223-nt.html",
+      "published_date": "2026-11-03T00:12:23+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The losers on a train track",
+      "title": "The Interior now tells the judge that it received alerts of massive entries in Ceuta, but in August",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/fernando-novalbos-perdedores-via-tren-20261102195356-nt.html",
-      "published_date": "2026-11-02T18:56:11+00:00",
+      "url": "https://www.abc.es/espana/interior-dice-juez-recibio-alertas-entradas-masivas-20261103011023-nt.html",
+      "published_date": "2026-11-03T00:11:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The audacity of 'The Book of Mormon' attracts the public of Valencia",
+      "title": "Puente will now propose tightening the communication protocols between the train drivers and the control center",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/descaro-the-book-mormon-atrae-publico-valencia-20261102194851-nt.html",
-      "published_date": "2026-11-02T18:48:51+00:00",
+      "url": "https://www.abc.es/espana/puente-planteara-endurecer-protocolos-comunicacion-maquinistas-centro-20261102011013-nt.html",
+      "published_date": "2026-11-03T00:10:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Vox perseveres in its message of toughness against the Government: “Getting on the train is Russian roulette”",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261102/11674435/vox-persevera-mensaje-dureza-gobierno-subirse-tren-ruleta-rusa.html",
-      "published_date": "2026-11-02T18:32:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The 'Bukaneros' of Rayo, stretcher bearers in the Urda tragedy",
+      "title": "Yanes' report on Zapatero's jewelry leaves him on the brink of indictment",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/bukaneros-rayo-camilleros-tragedia-urda-20261102192836-nt.html",
-      "published_date": "2026-11-02T18:30:05+00:00",
+      "url": "https://www.abc.es/espana/informe-yanes-sobre-joyas-zapatero-deja-borde-20261103011004-nt.html",
+      "published_date": "2026-11-03T00:10:41+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Civil Guard concludes the withdrawal of the last wagons and sets up a point to leave flowers for the victims",
+      "title": "The train in Spain hits the underground with the Urda accident after three years of chaos due to lack of maintenance",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/guardia-civil-concluye-retirada-ultimos-vagones-habilita-20261102185935-nt.html",
-      "published_date": "2026-11-02T18:26:27+00:00",
+      "url": "https://www.abc.es/economia/tren-espana-toca-subsuelo-accidente-urda-tras-20261001010938-nt.html",
+      "published_date": "2026-11-03T00:09:39+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two minors aged 14 and 17 arrested in Barcelona for \"planning and spreading\" the Blocus looting",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/detenidas-menores-14-17-anos-barcelona-planificar-difundir-saqueos-blocus_1_13632377.html",
-      "published_date": "2026-11-02T18:22:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Podemos demands the resignation of Óscar Puente and advocates renationalizing the railway system",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/podemos-reclama-dimision-oscar-puente-aboga-por-renacionalizar-sistema-ferroviario_7056294_0.html",
-      "published_date": "2026-11-02T18:03:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Montecastelo school in Vigo mourns the death of a former teacher in the accident in Toledo",
+      "title": "In July, Adif recognized critical problems in its high-speed telecommunications networks",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/colegio-montecastelo-vigo-llora-muerte-antiguo-profesor-20261102190218-nt.html",
-      "published_date": "2026-11-02T18:02:18+00:00",
+      "url": "https://www.abc.es/economia/adif-reconoce-problemas-criticos-red-telecomunicaciones-alta-20261103010911-nt.html",
+      "published_date": "2026-11-03T00:09:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Feijóo: «In Spain we need 300,000 million euros of infrastructure»",
+      "title": "What hides the fall in honey purchases from China: a fraud brewing in Europe",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-pide-barones-servir-defender-espana-frente-20261102125709-nt.html",
-      "published_date": "2026-11-02T17:47:16+00:00",
+      "url": "https://www.abc.es/economia/esconde-caida-compras-miel-china-fraude-cocina-20261103010852-nt.html",
+      "published_date": "2026-11-03T00:08:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Abel Caballero attacks the PP again: the Provincial Council “scams” Vigo",
+      "title": "The family that cleans up the traces of crime: \"Sometimes we help find the murderer\"",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/abel-caballero-arremete-vez-pp-diputacion-estafa-20261102184501-nt.html",
-      "published_date": "2026-11-02T17:45:02+00:00",
+      "url": "https://www.abc.es/espana/madrid/familia-limpia-huellas-crimen-veces-ayudamos-dar-20261023014712-nt.html",
+      "published_date": "2026-11-03T00:02:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fifty homeless people form an association and take over the Sol camp",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/medio-centenar-sintecho-constituyen-asociacion-toman-relevo-20261101014702-nt.html",
+      "published_date": "2026-11-03T00:02:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Railway modeling makes a stop at the Casa de Campo",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/modelismo-ferroviario-parada-casa-campo-20261102010149-nt.html",
+      "published_date": "2026-11-03T00:01:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How is security between trains controlled and what happened in Urda?",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/controla-seguridad-trenes-paso-urda-20261031203454-nt.html",
+      "published_date": "2026-11-02T23:34:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toyota aims for record sales amid wave of Chinese brands",
+      "source": "Expansión",
+      "url": "https://www.expansion.com/empresas/motor/2026/11/03/toyota-apunta-record-ventas-plena-oleada-marcas-chinas.html",
+      "published_date": "2026-11-02T23:33:15+00:00",
       "category": "Local Events"
     }
   ]
