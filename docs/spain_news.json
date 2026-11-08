@@ -1,8 +1,15 @@
 {
   "country": "Spain",
-  "last_updated": "2026-11-08T01:57:03.433837+00:00",
+  "last_updated": "2026-11-08T16:56:27.685418+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "La llegada de pateras a las costas del Campo de Gibraltar sigue siendo una constante desde que comenzó la crisis en Ceuta",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/andalucia/2026/11/08/6af059b121efa017118b457f.html",
+      "published_date": "2026-11-08T11:28:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Putin's business with EU sanctions: he resells gas quadruple and leaves Europe with the lowest reserves since 2013",
       "source": "El Mundo",
@@ -137,13 +144,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sánchez avoids confronting Milei: \"Insults are not part of my way of doing politics\"",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-sanchez-evita-confrontar-milei-insulto-no-forma-parte-manera-hacer-politica-20261105183308.html",
-      "published_date": "2026-11-05T17:33:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Spain accelerates its military space race: an investment of 2.6 billion and four satellites over the next year",
       "source": "ABC",
       "url": "https://www.abc.es/espana/espana-acelera-carrera-espacial-militar-inversion-2600-20261101011449-nt.html",
@@ -190,6 +190,13 @@
       "source": "ABC",
       "url": "https://www.abc.es/espana/espana-destina-medio-millon-euros-armada-senegal-20261106183531-nt.html",
       "published_date": "2026-11-06T17:35:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Drones ucranianos atacan una refinería en el sur de Rusia",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/drones-ucranianos-atacan-una-refineria-en-el-sur-de-rusia/",
+      "published_date": "2026-11-06T09:37:00+00:00",
       "category": "Military"
     },
     {
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Navantia Seanergies brings together the innovative ecosystem of the Bay of Cádiz around marine energies",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/navantia-seanergies-reune-al-ecosistema-innovador-de-la-bahia-de-cadiz-en-torno-a-energias-marinas/",
-      "published_date": "2026-11-04T13:51:00+00:00",
-      "category": "Military"
+      "title": "Sánchez pide un \"voto en masa contra la involución\" de PP y Vox: \"Feijóo no es más triste porque no quiere\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/euskadi/sanchez-pide-voto-masa-involucion-pp-vox-feijoo-no-triste-no-quiere_1_13647215.html",
+      "published_date": "2026-11-08T12:59:45+00:00",
+      "category": "Energy"
     },
     {
       "title": "Spain remains anchored to reinforced electrical mode for months to avoid another blackout at the cost of record prices",
@@ -417,11 +424,53 @@
       "category": "Energy"
     },
     {
-      "title": "Kazakhstan's hybrid wind plants could cover up to 90% of electricity demand at a lower cost than new coal plants",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/las-plantas-hibridas-eolicas-de-kazajistan-podrian-cubrir-hasta-el-90-de-la-demanda-electrica-a-un-coste-inferior-al-de-las-nuevas-centrales-de-carbon/",
-      "published_date": "2026-11-06T06:23:00+00:00",
-      "category": "Energy"
+      "title": "María Jesús Montero confía en «la fuerza de la gente» para las elecciones del 29N",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/maria-jesus-montero-confia-fuerza-gente-elecciones-20261108160419-nts.html",
+      "published_date": "2026-11-08T15:04:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Rufián apuesta por el catalanismo en su primer mitin en solitario: \"Quiero un PSOE sometido a fuerzas soberanistas\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/catalunya/rufian-apuesta-catalanismo-primer-mitin-solitario-quiero-psoe-sometido-fuerzas-sobreranistas_1_13647784.html",
+      "published_date": "2026-11-08T13:17:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El Eurogrupo examina este lunes las candidaturas de Hernández de Cos y Knot para presidir el BCE",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/noticia-eurogrupo-examina-lunes-candidaturas-hernandez-cos-knot-presidir-bce-20261108133321.html",
+      "published_date": "2026-11-08T12:33:21+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Irene Montero acusa al Gobierno de un aumento \"premeditado\" de la \"violencia policial\" contra las movilizaciones",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-irene-montero-acusa-gobierno-aumento-premeditado-violencia-policial-contra-movilizaciones-20261108125106.html",
+      "published_date": "2026-11-08T11:51:06+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Solaria y Enagás, las empresas del Ibex 35 que más sufren el 'ataque' de los bajistas",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-solaria-enagas-empresas-ibex-35-mas-sufren-ataque-bajistas-20261108114507.html",
+      "published_date": "2026-11-08T10:45:07+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Comienza a desmantelarse el campamento de migrantes del Puerto de Ceuta",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-comienza-desmantelarse-campamento-migrantes-puerto-ceuta-20261108092122.html",
+      "published_date": "2026-11-08T08:21:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "España necesita presupuestos",
+      "source": "El País",
+      "url": "https://elpais.com/economia/negocios/2026-11-08/espana-necesita-presupuestos.html",
+      "published_date": "2026-11-08T04:30:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "Domestic workers are activated with the massive regularization process",
@@ -456,6 +505,13 @@
       "source": "La Vanguardia",
       "url": "https://www.lavanguardia.com/dinero/20261108/11678218/arma-secreta-shein-tasas-ue.html",
       "published_date": "2026-11-07T23:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Montero y Rufián hacen campaña antiSánchez: huelga \"contra el Gobierno\" y la corrupción de Ábalos, por ser \"cercano\" al presidente",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/07/6aef020de85ecea1368b456e.html",
+      "published_date": "2026-11-07T17:50:25+00:00",
       "category": "Economy"
     },
     {
@@ -508,199 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Montero accuses the PP of \"political violence\" for the alleged payments to Koldo and demands a debate \"without hoaxes\"",
+      "title": "Sánchez critica que Feijóo no acepte entrevistas en TVE y Abascal \"vaya con Broncano con un público que él decide\"",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/montero-acusa-pp-violencia-politica-por-los-supuestos-pagos-koldo-exige-un-debate-sin-bulos_7058505_0.html",
-      "published_date": "2026-11-07T14:01:26+00:00",
-      "category": "Economy"
+      "url": "https://www.20minutos.es/nacional/sanchez-critica-que-feijoo-no-acepte-entrevistas-tve-abascal-vaya-con-broncano-con-un-publico-que-decide_7058704_0.html",
+      "published_date": "2026-11-08T16:32:14+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ayuso, in València: “Sánchez wants to preside over a dream republic of trileros and cheekiness”",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/local/valencia/20261107/11678753/ayuso-valencia-sanchez-quiere-presidir-republica-ensonada-trileros-caraduras.html",
-      "published_date": "2026-11-07T13:31:26+00:00",
-      "category": "Economy"
+      "title": "Albert Rivera alerta a España sobre las elecciones del 29N: «Es momento de que el voto sea seguro y no podemos jugar. Hay millones de votos que se van a la basura»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/albert-rivera-alerta-espana-sobre-elecciones-29n-20261108110000-nt.html",
+      "published_date": "2026-11-08T16:22:56+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The rejection of data centers collapses Zaragoza: \"They do not generate employment, they do not pay taxes and they keep the resources\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/aragon/economia/rechazo-centros-datos-colapsa-zaragoza-no-generan-empleo-no-pagan-impuestos-quedan-recursos_1_13646599.html",
-      "published_date": "2026-11-07T13:28:44+00:00",
-      "category": "Economy"
+      "title": "Mónica García: «Mucho se habla del perro, pero somos las perras las que conseguimos que se hagan las cosas»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/monica-garcia-habla-perro-perras-conseguimos-hagan-20261108172028-nt.html",
+      "published_date": "2026-11-08T16:20:28+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Frente Amplio promises to \"expropriate the vulture funds\" and raise taxes on the rich: \"We have not come to serve you\"",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/colau-dirige-cayetana-alvarez-toledo-marquesa-amigos-ricos-les-freir-impuestos_1_13646254.html",
-      "published_date": "2026-11-07T13:25:27+00:00",
-      "category": "Economy"
+      "title": "Cataluña recauda en impuestos relacionados con la vivienda siete veces lo que dedica a esta partida",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/cataluna-recauda-impuestos-relacionados-vivienda-siete-veces-20261107170315-nt.html",
+      "published_date": "2026-11-08T16:09:00+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Colau: “Lady Marchioness Cayetana. “We are going to fry you and your posh friends with taxes.”",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261107/11678754/colau-senora-marquesa-cayetana-amigos-pijos-les-freir-impuestos.html",
-      "published_date": "2026-11-07T13:15:51+00:00",
-      "category": "Economy"
+      "title": "El PSOE se enroca de nuevo en la defensa de «lo público» tras su oleada de privatizaciones en Andalucía",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/psoe-enroca-nuevo-defensa-publico-tras-oleada-20261108070354-nts.html",
+      "published_date": "2026-11-08T15:58:20+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Irene Montero and Rufián encourage voting with \"memory\" and ignoring the useful vote: \"The PSOE, if it can, will eat you\"",
+      "title": "Feijóo pone a Andalucía como ejemplo contra la corrupción socialista",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/malaga/feijoo-pone-andalucia-ejemplo-corrupcion-socialista-20261108161653-nts.html",
+      "published_date": "2026-11-08T15:56:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moreno pone deberes a Feijóo: «Hay que bajar los impuestos a los españoles»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/malaga/moreno-pone-deberes-feijoo-bajar-impuestos-espanoles-20261108165322-nts.html",
+      "published_date": "2026-11-08T15:54:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Martínez considera que votar a Vox o al PP «es lo mismo»: «Quien quiera engañarse, que se engañe»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/martinez-considera-votar-vox-pp-quiera-enganarse-20261108161315-nt.html",
+      "published_date": "2026-11-08T15:28:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feijóo exige que los directivos de Adif devuelvan las gratificaciones cobradas tras el accidente de Urda: «Es vomitivo»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/malaga/feijoo-exige-directivos-adif-devuelvan-gratificaciones-cobradas-20261108133455-nts.html",
+      "published_date": "2026-11-08T15:21:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Velázquez reivindica la fuerza municipal del PP para afrontar las elecciones del 29N",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-reivindica-fuerza-municipal-pp-afrontar-elecciones-20261108160635-nt.html",
+      "published_date": "2026-11-08T15:06:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez moviliza al Ejército del Aire para trasladar a inmigrantes de El Hierro a Madrid",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/canarias/sanchez-moviliza-ejercito-aire-trasladar-inmigrantes-hierro-20261108160225-nt.html",
+      "published_date": "2026-11-08T15:02:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ada Colau, sobre sus trabajos antes de la política: «He estado en una consultora de comunicación, en producción de televisión y de traductora. Todos los trabajos eran precarios»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/ada-colau-sobre-trabajos-politica-trabajado-consultora-20261108160000-nt.html",
+      "published_date": "2026-11-08T15:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez deja de lado el accidente de Urda y dice que blindará las pensiones y el aborto en la Constitución",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/irene-montero-rufian-animan-votar-con-memoria-obviando-voto-util-psoe-si-puede-te-come_7058511_0.html",
-      "published_date": "2026-11-07T13:08:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Rufián and Montero call to support the strike \"to paralyze the country\" and defend a left not subject to the PSOE",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/rufian-montero-llaman-secundar-huelga-paralizar-pais-defienden-izquierda-no-sometida-psoe_1_13646217.html",
-      "published_date": "2026-11-07T12:41:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Young people facing housing, employment or social networks: votes for the future and personal concerns",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-jovenes-vivienda-empleo-redes-sociales-votos-futuro-preocupaciones-personales-20261107125950.html",
-      "published_date": "2026-11-07T11:59:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Genoa descends into the mud of the algorithm and focuses on social networks",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/genova-baja-barro-algoritmo-centra-redes-sociales-20261027011946-nt.html",
-      "published_date": "2026-11-08T00:58:44+00:00",
+      "url": "https://www.20minutos.es/nacional/sanchez-deja-lado-accidente-urda-dice-que-blindara-las-pensiones-aborto-constitucion_7058690_0.html",
+      "published_date": "2026-11-08T14:51:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "63% of Spaniards see the train as little or not at all safe after the Urda accident",
+      "title": "El PSOE acusa a Núñez de hacer una oposición basada en el «ruido y los bulos»",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/espanoles-poco-seguro-tren-tras-accidente-urda-20261107013158-nt.html",
-      "published_date": "2026-11-08T00:46:28+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-oposicion-basada-ruido-bulos-20261108154452-nt.html",
+      "published_date": "2026-11-08T14:44:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sánchez recruits the brain of Lula's comeback online to repeat the feat in Spain",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-confia-colaborador-lula-creacion-ejercito-activistas-20261105011940-nt.html",
-      "published_date": "2026-11-08T00:38:51+00:00",
+      "title": "Frente Amplio aspira al 10% de los votos y Colau dice que se presenta \"para hacer efectivo el derecho a la vivienda\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/frente-amplio-aspira-10-los-votos-colau-dice-que-se-presenta-para-hacer-efectivo-derecho-vivienda_7058683_0.html",
+      "published_date": "2026-11-08T14:33:53+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The former mayor of Aranjuez takes over from Zarzalejo to decide another possible sanction against Más Madrid",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/exalcaldesa-aranjuez-toma-relevo-zarzalejo-decidir-posible-20261107010341-nt.html",
-      "published_date": "2026-11-08T00:36:47+00:00",
+      "title": "Nogueras acusa a ERC de hacer seguidismo del PSOE",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261108/11679269/nogueras-acusa-erc-seguidismo-psoe-rufian-le-reprocha-pactos-pp-vox.html",
+      "published_date": "2026-11-08T14:01:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The French Bridge of a Madrid that cannot be crossed",
+      "title": "Vox pide una tarjeta sanitaria única y poder recibir los mismos tratamientos en toda España",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/puente-franceses-madrid-deja-atravesar-20261107011051-nt.html",
-      "published_date": "2026-11-08T00:34:54+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vox-pide-tarjeta-sanitaria-unica-poder-recibir-20261108145010-nt.html",
+      "published_date": "2026-11-08T14:01:45+00:00",
       "category": "Local Events"
     },
     {
-      "title": "85% believe that penalties for riots and acts of vandalism should be toughened",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cree-endurecer-penas-disturbios-actos-vandalicos-20261108012400-nt.html",
-      "published_date": "2026-11-08T00:24:18+00:00",
+      "title": "Rufián aboga por \"intervenir de una vez por todas\" el mercado de la vivienda y \"freír a impuestos a los acumuladores\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/rufian-aboga-por-intervenir-una-vez-por-todas-mercado-vivienda-freir-impuestos-los-acumuladores_7058680_0.html",
+      "published_date": "2026-11-08T13:58:33+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Two out of three citizens demand more resignations in the Government apart from Puente's",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/seis-diez-ciudadanos-exigen-dimisiones-gobierno-aparte-20261107012315-nt.html",
-      "published_date": "2026-11-08T00:23:43+00:00",
+      "title": "Feijóo pide a Sánchez \"menos mirar a Trump y más a los trenes\" y a los directivos de Adif devolver las gratificaciones que han cobrado",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/feijoo-pide-sanchez-menos-mirar-trump-mas-trenes-directivos-adif-devolver-gratificaciones-han-cobrado_7058678_0.html",
+      "published_date": "2026-11-08T13:43:31+00:00",
       "category": "Local Events"
     },
     {
-      "title": "ADIF has not provided documents for an audit on the failures in the railway network for ten months",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/adif-lleva-nueve-meses-aportar-documentacion-auditoria-20261026012301-nt.html",
-      "published_date": "2026-11-08T00:23:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The man who bypassed the president",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/ketty-garat-hombre-puenteo-presidente-20261108012244-nt.html",
-      "published_date": "2026-11-08T00:23:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo prioritizes infrastructure and will appoint a minister with a managerial profile",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/feijoo-prioriza-infraestructuras-nombrara-ministro-perfil-gestor-20261108011952-nt.html",
-      "published_date": "2026-11-08T00:21:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The profile of the new Vox voter: former abstentionists and young people who make their debut on 29N",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/perfil-nuevo-votante-vox-exabstencionista-jovenes-estrenan-20261023011935-nt.html",
-      "published_date": "2026-11-08T00:19:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carlos Body and the story of the Railway State Pact",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/maria-jesus-perez-carlos-cuerpo-cuento-pacto-estado-ferroviario-20261108011718-nt.html",
-      "published_date": "2026-11-08T00:17:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fabric softener bands 'clean' money from self-service laundries: \"We are the easiest target\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/bandas-suavizante-limpian-dinero-lavanderias-autoservicio-blanco-20261027011434-nt.html",
-      "published_date": "2026-11-08T00:14:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rethinking the Ibero-American Summits",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/esteban-villarejo-repensar-cumbres-iberoamericanas-20261107011419-nt.html",
-      "published_date": "2026-11-08T00:14:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Vote by land, sea and air\": dates, procedures and guarantees of voting by mail for 29N",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/votar-por-correo-fechas-tramites-garantias-20261105011536-nt.html",
-      "published_date": "2026-11-08T00:13:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ester Muñoz: «The right is the hope of this country. There is a moral duty to remove Sánchez from the Government.\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/ester-munoz-derecha-esperanza-pais-deber-moral-20261108011852-nt.html",
-      "published_date": "2026-11-07T23:53:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The memory of the victims of the Urda accident marks the Cibra awards gala",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/la-20261107224726-nt.html",
-      "published_date": "2026-11-07T23:12:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The trap of nationalizing: the problem is management",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/trampa-nacionalizar-problema-gestion-20261108001100-nt.html",
-      "published_date": "2026-11-07T23:11:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Challenge in search of technologies to reduce risks on the roads",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/desafio-busca-tecnologias-reducir-riesgos-carreteras-20261108000900-nt.html",
-      "published_date": "2026-11-07T23:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Not a closed door",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/puerta-cerrada-20261106000717-nt.html",
-      "published_date": "2026-11-07T23:07:17+00:00",
+      "title": "La Sareb cede a la Generalitat un edificio okupado en Manresa y suspende el desalojo iniciado por los Mossos",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/cataluna/2026/11/08/6af07889e85ecef1368b4579.html",
+      "published_date": "2026-11-08T13:34:55+00:00",
       "category": "Local Events"
     }
   ]
