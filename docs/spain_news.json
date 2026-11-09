@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-11-08T16:56:27.685418+00:00",
+  "last_updated": "2026-11-09T02:16:06.514579+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Los ministros Bolaños, Robles, Marlaska y López se unen para tratar de captar a los votantes que no son del PSOE en su primer acto de campaña sin Sánchez",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6af05068fc6c83f83b8b4571.html",
+      "published_date": "2026-11-08T11:16:11+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Spain accelerates its military space race: an investment of 2.6 billion and four satellites over the next year",
       "source": "ABC",
       "url": "https://www.abc.es/espana/espana-acelera-carrera-espacial-militar-inversion-2600-20261101011449-nt.html",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "The Navy submarine 'Isaac Peral' launches a torpedo and sinks the former patrol boat 'Infanta Elena'",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/submarino-isaac-peral-armada-lanza-un-torpedo-hunde-antiguo-patrullero-infanta-elena_7057350_0.html",
-      "published_date": "2026-11-04T18:49:22+00:00",
-      "category": "Military"
+      "title": "Iberdrola renovará 1.300 kilómetros de líneas eléctricas de transporte en Nueva York",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/iberdrola-renovara-1-300-kilometros-de-lineas-electricas-de-transporte-en-nueva-york/",
+      "published_date": "2026-11-08T20:05:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Sánchez pide un \"voto en masa contra la involución\" de PP y Vox: \"Feijóo no es más triste porque no quiere\"",
@@ -417,11 +424,46 @@
       "category": "Energy"
     },
     {
-      "title": "The electric car, much more than mobility",
+      "title": "Los españoles son los europeos que menos mueven su ahorro para rentabilizarlo",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/espanoles-europeos-mueven-ahorro-rentabilizarlo-20261109012704-nt.html",
+      "published_date": "2026-11-09T00:27:04+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "¿Sabías que puedes restar 5.550 euros a tus impuestos? El beneficio fiscal que cambiará tus finanzas",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/sabias-puedes-restar-5550-euros-tus-impuestos-20261106010053-nt.html",
+      "published_date": "2026-11-09T00:00:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Los tres choques entre juez y fiscal en la investigación al ex presidente Zapatero",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/09/6af068d2fdddfff5018b4592.html",
+      "published_date": "2026-11-08T23:50:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Autohuelga contra las encuestas",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/09/6af0a687e4d4d835568b4591.html",
+      "published_date": "2026-11-08T23:27:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La factura millonaria del último año de Puente: 100 millones menos en billetes, pérdidas históricas en Adif y un plan de seguridad sin presupuesto",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/11/08/6aeda249fdddffd7708b4585.html",
+      "published_date": "2026-11-08T21:43:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Solaria y Enagás, las empresas del Ibex 35 que más sufren el 'ataque' de los bajistas",
       "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-coche-electrico-mucho-mas-que-movilidad/",
-      "published_date": "2026-11-06T07:36:00+00:00",
-      "category": "Energy"
+      "url": "https://elperiodicodelaenergia.com/solaria-y-enagas-las-empresas-del-ibex-35-que-mas-sufren-el-ataque-de-los-bajistas/",
+      "published_date": "2026-11-08T20:13:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "María Jesús Montero confía en «la fuerza de la gente» para las elecciones del 29N",
@@ -438,24 +480,17 @@
       "category": "Economy"
     },
     {
+      "title": "Irene Montero acusa al Gobierno de un aumento \"premeditado\" de la \"violencia policial\" contra las movilizaciones",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/irene-montero-acusa-gobierno-un-aumento-premeditado-violencia-policial-contra-las-movilizaciones_7058674_0.html",
+      "published_date": "2026-11-08T12:53:40+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "El Eurogrupo examina este lunes las candidaturas de Hernández de Cos y Knot para presidir el BCE",
       "source": "Europa Press",
       "url": "https://www.europapress.es/economia/noticia-eurogrupo-examina-lunes-candidaturas-hernandez-cos-knot-presidir-bce-20261108133321.html",
       "published_date": "2026-11-08T12:33:21+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Irene Montero acusa al Gobierno de un aumento \"premeditado\" de la \"violencia policial\" contra las movilizaciones",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-irene-montero-acusa-gobierno-aumento-premeditado-violencia-policial-contra-movilizaciones-20261108125106.html",
-      "published_date": "2026-11-08T11:51:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Solaria y Enagás, las empresas del Ibex 35 que más sufren el 'ataque' de los bajistas",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/finanzas-00340/noticia-solaria-enagas-empresas-ibex-35-mas-sufren-ataque-bajistas-20261108114507.html",
-      "published_date": "2026-11-08T10:45:07+00:00",
       "category": "Economy"
     },
     {
@@ -494,6 +529,13 @@
       "category": "Economy"
     },
     {
+      "title": "Carlos Cuerpo y el cuento del Pacto de Estado ferroviario",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/maria-jesus-perez-carlos-cuerpo-cuento-pacto-estado-ferroviario-20261108011718-nt.html",
+      "published_date": "2026-11-08T00:17:27+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Democratic pushback on data centers threatens AI growth",
       "source": "La Vanguardia",
       "url": "https://www.lavanguardia.com/economia/20261108/11678811/rechazo-democrata-centros-datos-amenaza-crecimiento-ia.html",
@@ -522,185 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Frente Amplio promises to \"expropriate the vulture funds\" of housing and advances a fiscal \"chainsaw\" \"for those at the top\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-promete-expropiar-los-fondos-buitre-vivienda-avanza-una-motosierra-fiscal-para-los-arriba_7058554_0.html",
-      "published_date": "2026-11-07T16:51:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The viral AI experiment that shows in an image how much ChatGPT knows about you: \"My blood runs cold when I see it\"",
+      "title": "Feijóo sigue siendo el líder más valorado y mejora cuatro décimas entre sus votantes",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/experimento-viral-ia-muestra-imagen-sabe-chatgpt-20261107171906-nts.html",
-      "published_date": "2026-11-07T16:27:36+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/espana/feijoo-sigue-lider-valorado-mejora-cuatro-decimas-20261108023017-nt.html",
+      "published_date": "2026-11-09T01:30:34+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Ada Colau: \"Marquise Cayetana, we are going to fry you and your posh friends with taxes\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/ada-colau-marquesa-cayetana-usted-sus-amigos-pijos-los-vamos-freir-impuestos_7058538_0.html",
-      "published_date": "2026-11-07T15:51:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "José Elías, Catalan businessman: «I don't quite understand why, if I have never been unemployed, I have to pay for it all my life. \"I want to be able to decide if I want that service or not.\"",
+      "title": "La vivienda, mayor problema nacional entre los votantes de todos los partidos",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/jose-elias-empresario-catalan-acabo-entender-cogido-20261107160000-nt.html",
-      "published_date": "2026-11-07T15:00:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Núñez calls the distribution of bonuses in Adif after the Urda tragedy “indecent”",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-tacha-indecente-reparto-primas-adif-tras-20261107155652-nt.html",
-      "published_date": "2026-11-07T14:58:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Frente Amplio proposes decentralizing institutions such as the Bank of Spain and the Ombudsman",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-propone-descentralizar-instituciones-como-banco-espana-defensor-pueblo_7058526_0.html",
-      "published_date": "2026-11-07T14:10:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sánchez critica que Feijóo no acepte entrevistas en TVE y Abascal \"vaya con Broncano con un público que él decide\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-critica-que-feijoo-no-acepte-entrevistas-tve-abascal-vaya-con-broncano-con-un-publico-que-decide_7058704_0.html",
-      "published_date": "2026-11-08T16:32:14+00:00",
+      "url": "https://www.abc.es/espana/vivienda-mayor-problema-nacional-votantes-partidos-20261108023011-nt.html",
+      "published_date": "2026-11-09T01:30:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Albert Rivera alerta a España sobre las elecciones del 29N: «Es momento de que el voto sea seguro y no podemos jugar. Hay millones de votos que se van a la basura»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/albert-rivera-alerta-espana-sobre-elecciones-29n-20261108110000-nt.html",
-      "published_date": "2026-11-08T16:22:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mónica García: «Mucho se habla del perro, pero somos las perras las que conseguimos que se hagan las cosas»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/monica-garcia-habla-perro-perras-conseguimos-hagan-20261108172028-nt.html",
-      "published_date": "2026-11-08T16:20:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cataluña recauda en impuestos relacionados con la vivienda siete veces lo que dedica a esta partida",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/cataluna-recauda-impuestos-relacionados-vivienda-siete-veces-20261107170315-nt.html",
-      "published_date": "2026-11-08T16:09:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El PSOE se enroca de nuevo en la defensa de «lo público» tras su oleada de privatizaciones en Andalucía",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/psoe-enroca-nuevo-defensa-publico-tras-oleada-20261108070354-nts.html",
-      "published_date": "2026-11-08T15:58:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo pone a Andalucía como ejemplo contra la corrupción socialista",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/malaga/feijoo-pone-andalucia-ejemplo-corrupcion-socialista-20261108161653-nts.html",
-      "published_date": "2026-11-08T15:56:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moreno pone deberes a Feijóo: «Hay que bajar los impuestos a los españoles»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/malaga/moreno-pone-deberes-feijoo-bajar-impuestos-espanoles-20261108165322-nts.html",
-      "published_date": "2026-11-08T15:54:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Martínez considera que votar a Vox o al PP «es lo mismo»: «Quien quiera engañarse, que se engañe»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/martinez-considera-votar-vox-pp-quiera-enganarse-20261108161315-nt.html",
-      "published_date": "2026-11-08T15:28:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo exige que los directivos de Adif devuelvan las gratificaciones cobradas tras el accidente de Urda: «Es vomitivo»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/malaga/feijoo-exige-directivos-adif-devuelvan-gratificaciones-cobradas-20261108133455-nts.html",
-      "published_date": "2026-11-08T15:21:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Velázquez reivindica la fuerza municipal del PP para afrontar las elecciones del 29N",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/velazquez-reivindica-fuerza-municipal-pp-afrontar-elecciones-20261108160635-nt.html",
-      "published_date": "2026-11-08T15:06:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez moviliza al Ejército del Aire para trasladar a inmigrantes de El Hierro a Madrid",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/canarias/sanchez-moviliza-ejercito-aire-trasladar-inmigrantes-hierro-20261108160225-nt.html",
-      "published_date": "2026-11-08T15:02:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ada Colau, sobre sus trabajos antes de la política: «He estado en una consultora de comunicación, en producción de televisión y de traductora. Todos los trabajos eran precarios»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/ada-colau-sobre-trabajos-politica-trabajado-consultora-20261108160000-nt.html",
-      "published_date": "2026-11-08T15:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez deja de lado el accidente de Urda y dice que blindará las pensiones y el aborto en la Constitución",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sanchez-deja-lado-accidente-urda-dice-que-blindara-las-pensiones-aborto-constitucion_7058690_0.html",
-      "published_date": "2026-11-08T14:51:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El PSOE acusa a Núñez de hacer una oposición basada en el «ruido y los bulos»",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/psoe-acusa-nunez-oposicion-basada-ruido-bulos-20261108154452-nt.html",
-      "published_date": "2026-11-08T14:44:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Frente Amplio aspira al 10% de los votos y Colau dice que se presenta \"para hacer efectivo el derecho a la vivienda\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-aspira-10-los-votos-colau-dice-que-se-presenta-para-hacer-efectivo-derecho-vivienda_7058683_0.html",
-      "published_date": "2026-11-08T14:33:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nogueras acusa a ERC de hacer seguidismo del PSOE",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261108/11679269/nogueras-acusa-erc-seguidismo-psoe-rufian-le-reprocha-pactos-pp-vox.html",
-      "published_date": "2026-11-08T14:01:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vox pide una tarjeta sanitaria única y poder recibir los mismos tratamientos en toda España",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/vox-pide-tarjeta-sanitaria-unica-poder-recibir-20261108145010-nt.html",
-      "published_date": "2026-11-08T14:01:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rufián aboga por \"intervenir de una vez por todas\" el mercado de la vivienda y \"freír a impuestos a los acumuladores\"",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/rufian-aboga-por-intervenir-una-vez-por-todas-mercado-vivienda-freir-impuestos-los-acumuladores_7058680_0.html",
-      "published_date": "2026-11-08T13:58:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo pide a Sánchez \"menos mirar a Trump y más a los trenes\" y a los directivos de Adif devolver las gratificaciones que han cobrado",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-pide-sanchez-menos-mirar-trump-mas-trenes-directivos-adif-devolver-gratificaciones-han-cobrado_7058678_0.html",
-      "published_date": "2026-11-08T13:43:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Sareb cede a la Generalitat un edificio okupado en Manresa y suspende el desalojo iniciado por los Mossos",
+      "title": "El jefe antinarco de Segovia que se 'vendió' a una red",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/cataluna/2026/11/08/6af07889e85ecef1368b4579.html",
-      "published_date": "2026-11-08T13:34:55+00:00",
+      "url": "https://www.elmundo.es/espana/2026/11/09/6af0684f21efa04e6a8b4575.html",
+      "published_date": "2026-11-09T01:19:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tensión en el PSOE porque la corrupción entra en campaña: «Justo cuando levantábamos cabeza»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/tension-psoe-corrupcion-entra-campana-justo-levantabamos-20261108012034-nt.html",
+      "published_date": "2026-11-09T01:16:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La unión posible",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/union-posible-20261108012815-nt.html",
+      "published_date": "2026-11-09T00:28:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Misa en la catedral y dulces para celebrar la Almudena con amenaza de lluvia en Madrid",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/misa-catedral-dulces-celebrar-almudena-amenaza-lluvia-20261108172650-nt.html",
+      "published_date": "2026-11-09T00:22:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El PP se compromete a aumentar la presencia militar en Ceuta y Melilla",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/pp-compromete-aumentar-presencia-militar-ceuta-melilla-20261110012024-nt.html",
+      "published_date": "2026-11-09T00:21:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dimisiones y ceses: de los errores de gestión a las crisis políticas que sacuden al Govern de Illa a mitad de mandato",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/dimisiones-ceses-errores-gestion-crisis-politicas-sacuden-20261109011130-nt.html",
+      "published_date": "2026-11-09T00:11:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La huelga 'examina' a la delegada del Gobierno en Madrid y pone a prueba la distensión con la Comunidad",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/huelga-examina-delegada-gobierno-madrid-pone-prueba-20261107010040-nt.html",
+      "published_date": "2026-11-09T00:00:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Sindicato de Inquilinas exhibe músculo ante los sindicatos tradicionales y abre una nueva etapa: ¿Qué quiere ser de mayor?",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/vivienda/2026/11/09/6aeeb5edfdddfffd198b45bf.html",
+      "published_date": "2026-11-08T23:50:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Girona: PSC vs. Vox",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261109/11679424/girona-psc-vs-vox.html",
+      "published_date": "2026-11-08T23:35:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trenes, vivienda e inmigración centran un debate electoral en Cataluña que orilla el modelo territorial",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/trenes-vivienda-inmigracion-centran-debate-electoral-cataluna-20261108001116-nt.html",
+      "published_date": "2026-11-08T23:12:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "DFactory amplía su apuesta por la industria urbana con una certificación LEED Platinum",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/dfactory-amplia-apuesta-industria-urbana-certificacion-leed-20261108133313-nt.html",
+      "published_date": "2026-11-08T23:10:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vox se recoloca más allá de 'La Revuelta': aterriza sus ideas y suaviza las promesas ante un horizonte en La Moncloa",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af0b398e9cf4a42688b4575.html",
+      "published_date": "2026-11-08T23:06:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feijóo promete una 'ley anti Armengol' para evitar el bloque del Congreso con Pedro Sánchez",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af06693e85ece24508b458c.html",
+      "published_date": "2026-11-08T23:06:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rufián augura que PP-Vox \"tocarán el modelo de pensiones\" si suman 210 diputados y Albiol le acusa de jugar a confundir",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/rufian-augura-que-pp-vox-tocaran-modelo-pensiones-si-suman-210-diputados-albiol-le-acusa-jugar-confundir_7058764_0.html",
+      "published_date": "2026-11-08T22:58:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PP y Vox suman 199 diputados con un 50,4% votos y Sánchez no remonta la tragedia de los trenes",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/08/6af066bee85eceae5a8b4598.html",
+      "published_date": "2026-11-08T21:43:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vox dice que acoger a los migrantes llegados a El Hierro multiplicará el \"efecto llamada\"",
+      "source": "20minutos",
+      "url": "https://www.20minutos.es/nacional/vox-dice-acoger-migrantes-llegados-hierro-multiplicara-efecto-llamada_7058757_0.html",
+      "published_date": "2026-11-08T21:29:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El listado interminable de asuntos pendientes que Puente deja en su tierra",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/listado-interminable-asuntos-pendientes-puente-deja-tierra-20261105214812-nt.html",
+      "published_date": "2026-11-08T20:48:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La central nuclear de Zaporiyia se queda sin conexión eléctrica externa tras un nuevo ataque",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-central-nuclear-de-zaporiyia-se-queda-sin-conexion-electrica-externa-tras-un-nuevo-ataque/",
+      "published_date": "2026-11-08T20:41:00+00:00",
       "category": "Local Events"
     }
   ]
