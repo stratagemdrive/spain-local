@@ -1,8 +1,15 @@
 {
   "country": "Spain",
-  "last_updated": "2026-11-09T21:13:08.439772+00:00",
+  "last_updated": "2026-11-10T04:25:19.164014+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Feijóo will submit to Congress foreign policy decisions that affect sovereignty and borders",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-sometera-congreso-decisiones-politica-exterior-afecten-20261109011947-nt.html",
+      "published_date": "2026-11-10T00:20:10+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Brussels recognizes that gas reserves are historically low, but sees no risk",
       "source": "El Periódico de la Energía",
@@ -134,13 +141,6 @@
       "source": "El País",
       "url": "https://elpais.com/internacional/2026-11-06/roberto-velasco-canciller-de-mexico-las-relaciones-con-espana-son-excelentes-y-atraviesan-un-momento-muy-positivo.html",
       "published_date": "2026-11-06T04:30:01+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "First lawsuit against the European Commission for not setting a deadline for the reform of the CGPJ",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/primera-demanda-comision-europa-poner-plazo-reforma-20261105020745-nt.html",
-      "published_date": "2026-11-06T01:07:59+00:00",
       "category": "Diplomacy"
     },
     {
@@ -424,6 +424,69 @@
       "category": "Energy"
     },
     {
+      "title": "Millicom shoots up its debt by 49% after the purchases of Telefónica subsidiaries in Latin America",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/companias/2026-11-10/millicom-dispara-su-deuda-un-49-tras-las-compras-de-las-filiales-de-telefonica-en-latinoamerica.html",
+      "published_date": "2026-11-10T04:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tomás Pascual: “We are open to strategic alliances while maintaining our business unity”",
+      "source": "El País",
+      "url": "https://cincodias.elpais.com/companias/2026-11-10/tomas-pascual-estamos-abiertos-a-alianzas-estrategicas-manteniendo-nuestra-unidad-empresarial.html",
+      "published_date": "2026-11-10T04:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How to download (step by step) your employment contract without asking your company",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/descargar-paso-paso-contrato-laboral-pedirselo-empresa-20261106010232-nt.html",
+      "published_date": "2026-11-10T00:28:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Elections: reasons to get rid of the polling station, labor rights and sanctions",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/elecciones-motivos-librarse-mesa-electoral-derechos-laborales-20261106010224-nt.html",
+      "published_date": "2026-11-10T00:27:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Madrid has been at the top of the economic freedom index for eighteen years and Andalusia consolidates its improvement",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/madrid-encadena-dieciocho-anos-frente-indice-libertad-20261109011908-nt.html",
+      "published_date": "2026-11-10T00:19:08+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The tax bill of the Sánchez era: each citizen today pays 4,000 euros more in taxes than in 2018",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/factura-fiscal-era-sanchez-ciudadano-paga-hoy-20261110011853-nt.html",
+      "published_date": "2026-11-10T00:18:53+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The Government maneuvers to protect Tragsa's business after a judicial setback in the Supreme Court",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/gobierno-maniobra-blindar-negocio-tragsa-tras-varapalo-20261110011813-nt.html",
+      "published_date": "2026-11-10T00:18:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Banks warn of a new form of scam that stalks their clients",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/bancos-avisan-nueva-forma-estafa-acecha-clientes-20261110010219-nt.html",
+      "published_date": "2026-11-10T00:02:19+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "European mentality and commitment to innovation: Pladur's survival tactics in the housing sector",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/10/6aeae567fdddff6f188b4574.html",
+      "published_date": "2026-11-09T23:01:52+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Resilience cannot be measured only in GDP points",
       "source": "ABC",
       "url": "https://www.abc.es/espana/cataluna/resiliencia-puede-medirse-solo-puntos-pib-20261109201809-nt.html",
@@ -501,206 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "The Spanish economy will grow 2% in 2027 despite inflation and rate increases",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261109/11679971/economia-espanola-crecera-2-2027-pese-inflacion-subida-tipos.html",
-      "published_date": "2026-11-09T12:10:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Elon Musk contemplates purchasing a mobile operator to accelerate his wireless deployment in the US",
-      "source": "El País",
-      "url": "https://cincodias.elpais.com/companias/2026-11-09/elon-musk-contempla-la-compra-de-un-operador-movil-para-acelerar-su-despliegue-inalambrico-en-ee-uu.html",
-      "published_date": "2026-11-09T12:10:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "CaixaBank predicts that Spanish GDP will grow by 2% in 2027, above the euro zone",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-11-09/caixabank-preve-que-el-pib-espanol-crezca-un-2-en-2027-por-encima-de-la-zona-euro.html",
-      "published_date": "2026-11-09T12:01:04+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Feijóo's first promises: to extend to 50 years the public guarantee for the entry of a flat and investment \"with the private sector\" in infrastructure",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/primeras-promesas-feijoo-ampliar-50-anos-aval-publico-entrada-piso-e-inversion-sector-privado-infraestrucutras_1_13649013.html",
-      "published_date": "2026-11-09T11:54:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Corps, “optimistic” about the options of the Spanish De Cos to preside over the ECB",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261109/11679740/cuerpo-optimista-sobre-opciones-espanol-cos-presidir-bce.html",
-      "published_date": "2026-11-09T11:02:58+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "'Cleantech' investment in Spain and Portugal now exceeds 800 million in a record year",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-inversion-cleantech-en-espana-y-portugal-supera-ya-los-800-millones-en-un-ano-record/",
-      "published_date": "2026-11-09T11:02:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sánchez vindicates the labor and social achievements and warns that \"they can be lost in an instant\"",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/laboral-00346/noticia-sanchez-reivindica-conquistas-laborales-sociales-advierte-pueden-perder-instante-20261109104349.html",
-      "published_date": "2026-11-09T09:43:49+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "November 2026 Deposit Ranking: SME Bank opens with 3.44% 2-year APR",
+      "title": "Bildu would double the PNV's seats on 29N, which would lose its group in Congress",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/guia-financiera/mejores-depositos-a-plazo-fijo-rentabilidad-neta-20261105060700-nt.html",
-      "published_date": "2026-11-09T05:07:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Pensions with a progressive vision",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-11-09/pensiones-con-vision-progresista.html",
-      "published_date": "2026-11-09T04:45:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Sánchez asks the Justice to investigate the payments to Koldo García so that he lied against the Government",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/sanchez-pide-justicia-investigue-pagos-koldo-garcia-mintiera-gobierno_1_13650855.html",
-      "published_date": "2026-11-09T20:48:35+00:00",
+      "url": "https://www.abc.es/espana/pais-vasco/bildu-doblaria-escanos-pnv-29n-perderia-grupo-20261110023010-nt.html",
+      "published_date": "2026-11-10T02:19:29+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Juanma Moreno, at the funeral for the victims of Urda in the Cathedral of Seville: \"Let it not happen again\"",
+      "title": "Rufián would place ERC in 12 seats on 29N and Vox would be only one behind the PP in Catalonia",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/juanma-moreno-funeral-catedral-sevilla-victimas-urda-20261109213306-nts.html",
-      "published_date": "2026-11-09T20:37:12+00:00",
+      "url": "https://www.abc.es/espana/cataluna/rufian-situaria-erc-escanos-29n-vox-quedaria-20261110023040-nt.html",
+      "published_date": "2026-11-10T02:00:21+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Last minute of Abascal in 'La Revuelta', live today: the interview of the leader of Vox on RTVE with Broncano",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261109/11680253/entrevista-santiago-abascal-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
-      "published_date": "2026-11-09T20:31:41+00:00",
+      "title": "Choose between “ours” and the best",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/cataluna/sergi-doria-optar-nuartocestros-mejores-20261110023652-nt.html",
+      "published_date": "2026-11-10T01:36:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Funeral mass in Seville for the victims of the Urda accident: \"Families have the right to know the truth through a rigorous investigation\"",
+      "title": "Broncano crashes in the interview with Abascal in La Revuelta",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/broncano-estrella-abascal-20261109005520-nt.html",
+      "published_date": "2026-11-10T01:34:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The PP leads 31 constituencies and is tied in nine with the PSOE, which only leads two",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/pp-encabeza-circunscripciones-empata-nueve-psoe-solo-20261109023029-nt.html",
+      "published_date": "2026-11-10T01:30:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The damage does not take its toll on the PP in the province of Valencia before 29N",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/dana-pasa-factura-pp-provincia-valencia-20261110023023-nt.html",
+      "published_date": "2026-11-10T01:30:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Frente Amplio marks 15 provinces in red to turn around the polls on 29N",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/frente-amplio-marca-provincias-rojo-dar-vuelco-20261109022354-nt.html",
+      "published_date": "2026-11-10T01:24:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "They investigate a complaint of sexual assault against a 36-year-old woman in a park in Carabanchel",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/investigan-denuncia-agresion-sexual-mujer-anos-parque-20261109021820-nt.html",
+      "published_date": "2026-11-10T01:18:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A political commissioner from Adif relegated traffic safety against the EU",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comisaria-politica-adif-relego-seguridad-circulacion-ue-20261109011847-nt.html",
+      "published_date": "2026-11-10T00:33:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Supreme Court confirms electoral fraud: only 901 of the 163,000 'grandchildren' meet the requirements",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/supremo-confirma-fraude-electoral-solo-901-163000-20261109011924-nt.html",
+      "published_date": "2026-11-10T00:32:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The transformation of buildings into hotels or homes expels offices from the center of Madrid",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/transformacion-edificios-hoteles-viviendas-expulsa-oficinas-centro-20261104012710-nt.html",
+      "published_date": "2026-11-10T00:27:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scandal at Nvidia: geopolitical rivalry rages between the sheets",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/escandalo-nvidia-rivalidad-geopolitica-libra-sabanas-20261110011333-nt.html",
+      "published_date": "2026-11-10T00:26:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The PP proposes expanding the powers of the National Court against organized crime",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/pp-propone-ampliar-competencias-audiencia-nacional-frente-20261110012000-nt.html",
+      "published_date": "2026-11-10T00:20:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The PP will remove the nationality of foreigners who have a final conviction for very serious crimes",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/pp-regula-primera-vez-perdida-nacionalidad-extranjeros-20261110011930-nt.html",
+      "published_date": "2026-11-10T00:19:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pepe Álvarez (UGT): \"The CEOE has coerced many people with its accusations about calling an illegal strike\"",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/11/09/6af21caffdddff393f8b458f.html",
-      "published_date": "2026-11-09T20:26:12+00:00",
+      "url": "https://www.elmundo.es/economia/2026/11/10/6aedc36cfc6c8362578b45a5.html",
+      "published_date": "2026-11-10T00:12:12+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Santiago Abascal, in 'La Revuelta', live | Broncano's interview with the leader of Vox marked by changes in the expected audience",
+      "title": "Unai Sordo (CCOO): \"If the Popular Party and Vox feel appealed by the demands of the strike, it will be for a reason\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/11/10/6aedc352fc6c839e1c8b457f.html",
+      "published_date": "2026-11-10T00:12:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The connection of the A-5 with the M-30 has been cut off to traffic in both directions: dates, bus reinforcement and alternative routes",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/cortada-trafico-conexion-m30-sentidos-fechas-refuerzo-20261109164332-nt.html",
+      "published_date": "2026-11-10T00:04:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "General strike: these are the professions that are prohibited from doing it",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/huelga-general-profesiones-prohibido-hacerla-20261109010245-nt.html",
+      "published_date": "2026-11-10T00:02:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Government raises its \"optimism\" with Hernández de Cos to preside over the ECB and the former governor speeds up his meetings: \"I think Pablo is going to take it\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/11/10/6af1e473e4d4d805368b458b.html",
+      "published_date": "2026-11-09T23:53:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abascal and Broncano star in an intense debate on housing, climate and immigration in a 'Revolt' without the classic questions",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/santiago-abascal-revuelta-directo-broncano-entrevista-lider-vox-marcada-por-cambios-publico-previsto_7058937_6.html",
-      "published_date": "2026-11-09T20:15:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Classes are suspended in 32 municipalities in the south of Ávila, on red alert due to the storm",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/lluvias-vuelven-intensidad-castilla-leon-borrasca-bruna-20261109192031-nt.html",
-      "published_date": "2026-11-09T20:03:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PP accepts that the Television Academy organizes the electoral debates after the PSOE proposal",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/pp-acepta-academia-television-organice-debates-electorales-20261109195130-nt.html",
-      "published_date": "2026-11-09T20:03:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo promises to create a shock plan to protect the maritime border and combat mafias on the Algeria-Balearics route",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/baleares/2026/11/09/6af2070de4d4d804028b459a.html",
-      "published_date": "2026-11-09T20:01:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo raises the specter of \"insecurity\" and \"disorder\" and promises to shield the Balearic Islands from immigration",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/illes-balears/politica/feijoo-agita-fantasma-inseguridad-desorden-promete-blindar-balears-frente-inmigracion_1_13650684.html",
-      "published_date": "2026-11-09T19:59:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo: \"We are going to change a Government that serves Sánchez for another that serves Spain\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/baleares/feijoo-vamos-cambiar-gobierno-sirve-sanchez-sirva-20261109204124-nt.html",
-      "published_date": "2026-11-09T19:49:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Museum of Sciences of Valencia celebrates its 26th anniversary with special activities and new content",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/museu-ciencies-celebra-aniversario-actividades-especiales-nuevos-20261109132831-nt.html",
-      "published_date": "2026-11-09T19:49:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijoo: “Spain has the right to decide who enters, how they enter and why they enter”",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261109/11680283/feijoo-espana-derecho-decidir-entra-como-entra-que-entra.html",
-      "published_date": "2026-11-09T19:19:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "General election pre-campaign in Spain, live: last minute from Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) and the rest of the candidates today",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/precampana-elecciones-generales-espana-directo-ultima-hora-20261106115927-di.html",
-      "published_date": "2026-11-09T19:19:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dividing the dead is expensive for four Galician funeral homes: fined for agreeing to transfer bodies",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/galicia/repartirse-muerto-sale-caro-cuatro-funerarias-gallegas-20261109201541-nt.html",
-      "published_date": "2026-11-09T19:15:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cazorla beats Olvera and will represent Andalusia in the great Ferrero Rocher Christmas lighting",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/jaen/cazorla-impone-olvera-representara-andalucia-gran-alumbrado-20261109195842-nts.html",
-      "published_date": "2026-11-09T19:12:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Provincial Council of Córdoba prepares its Baroque Heritage Days: concerts, conferences and guided tours",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/diputacion-cordoba-prepara-jornadas-patrimonio-barroco-conciertos-20261109200150-nts.html",
-      "published_date": "2026-11-09T19:01:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ATME, after the death of a Córdoba soldier in Zaragoza: \"The morale of the BRI X comrades is very affected\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/atme-tras-muerte-soldado-cordoba-zaragoza-moral-20261109200144-nts.html",
-      "published_date": "2026-11-09T19:01:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Storm Bruna leaves less than eight liters per square meter in Córdoba in 24 hours",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/borrasca-bruna-deja-cordoba-ocho-litros-metro-20261109200131-nts.html",
-      "published_date": "2026-11-09T19:01:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Supreme Court rejects suspending the vote of the children of those nationalized by the 'grandchildren law': another 190,000 beneficiaries",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/tribunal-supremo-rechaza-suspender-voto-hijos-nacionalizados-20261109140336-nt.html",
-      "published_date": "2026-11-09T18:58:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PP accepts that the Television Academy organizes the debates and criticizes the PSOE's \"veto\" of private groups",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-pp-acepta-academia-television-organice-debates-critica-veto-psoe-grupos-privados-20261109194934.html",
-      "published_date": "2026-11-09T18:49:34+00:00",
+      "url": "https://www.20minutos.es/nacional/abascal-broncano-protagonizan-un-intenso-debate-sobre-vivienda-clima-inmigracion-una-revuelta-sin-las-preguntas-clasicas_7059062_0.html",
+      "published_date": "2026-11-09T23:46:20+00:00",
       "category": "Local Events"
     }
   ]
