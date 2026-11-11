@@ -1,6 +1,6 @@
 {
   "country": "Spain",
-  "last_updated": "2026-11-10T18:23:52.207909+00:00",
+  "last_updated": "2026-11-11T02:26:05.304743+00:00",
   "story_count": 100,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "El Gobierno autoriza más de 11.800 millones para la modernización de las Fuerzas Armadas",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261110/11681168/gobierno-autoriza-mas-11-800-millones-modernizacion-fuerzas-armadas.html",
+      "published_date": "2026-11-10T22:06:56+00:00",
+      "category": "Military"
+    },
+    {
       "title": "\"65 years old, bald and wearing a bathrobe\": the deployment to find the suspect of killing a police officer with a backpack bomb in Oviedo",
       "source": "ABC",
       "url": "https://www.abc.es/espana/asturias/anos-calvo-albornoz-despligue-hallar-sospechoso-matar-20261110180219-nt.html",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "A far-right murders nine people and leaves 15 injured in a terrorist attack in Krakow",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/internacional/cinco-muertos-docena-heridos-tiroteo-ciudad-polaca-cracovia_1_13646897.html",
-      "published_date": "2026-11-07T15:37:17+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Enagás promotes the energy future with three innovative solutions to reinforce infrastructures",
       "source": "El Periódico de la Energía",
       "url": "https://elperiodicodelaenergia.com/enagas-impulsa-el-futuro-energetico-con-tres-soluciones-innovadoras-para-reforzar-las-infraestructuras/",
@@ -291,10 +291,24 @@
       "category": "Energy"
     },
     {
+      "title": "El Gobierno iraní alerta de posibles cortes de gas por un déficit agravado por la guerra",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-gobierno-irani-alerta-de-posibles-cortes-de-gas-por-un-deficit-agravado-por-la-guerra/",
+      "published_date": "2026-11-10T15:20:00+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "The PP will eliminate the closure schedule of all nuclear power plants",
       "source": "ABC",
       "url": "https://www.abc.es/economia/pp-eliminara-calendario-cierre-centrales-nucleares-20261110144404-nt.html",
       "published_date": "2026-11-10T13:44:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Francia anuncia que ascienden a 303 los millones destinados para el sarcófago de Chernóbil",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/francia-anuncia-que-ascienden-a-303-los-millones-destinados-para-el-sarcofago-de-chernobil/",
+      "published_date": "2026-11-10T13:33:00+00:00",
       "category": "Energy"
     },
     {
@@ -410,18 +424,60 @@
       "category": "Energy"
     },
     {
-      "title": "Delcy Rodríguez sues for insults against Aldama and denies illegal financing of the PSOE",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/09/6af1a8eee85ece28168b4584.html",
-      "published_date": "2026-11-09T11:31:20+00:00",
-      "category": "Energy"
+      "title": "Vivo eleva su beneficio hasta los 1.200 millones de euros hasta septiembre",
+      "source": "El País",
+      "url": "https://elpais.com/economia/2026-11-10/vivo-eleva-su-beneficio-hasta-los-1200-millones-de-euros-hasta-septiembre.html",
+      "published_date": "2026-11-10T23:06:12+00:00",
+      "category": "Economy"
     },
     {
-      "title": "The renewable sector has lost 140 million euros in wasting energy since the blackout",
+      "title": "Los algoritmos de Ploot que permiten a una empresa saber dónde se esconde la oportunidad sin disparar a voleo",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/11/6af36a3de85eced7068b45a5.html",
+      "published_date": "2026-11-10T23:03:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La primera huelga general en la era del teletrabajo y en plena precampaña apunta a 'pinchazo' y limita el coste a 1.700 millones",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/11/10/6af3092efc6c8308488b4597.html",
+      "published_date": "2026-11-10T21:44:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Los primeros piquetes animan a unirse a la huelga general del 11N: \"Esto tiene que ser una riada de gente\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/primeros-piquetes-animan-unirse-huelga-general-11n-riada-gente_1_13653998.html",
+      "published_date": "2026-11-10T21:00:18+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Irene Montero propone un \"impuestazo\" del 15% a los beneficios de las grandes empresas contaminantes",
       "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-sector-renovable-ha-perdido-140-millones-de-euros-en-desperdiciar-energia-desde-el-apagon/",
-      "published_date": "2026-11-09T09:00:00+00:00",
-      "category": "Energy"
+      "url": "https://elperiodicodelaenergia.com/irene-montero-propone-un-impuestazo-del-15-a-los-beneficios-de-las-grandes-empresas-contaminantes/",
+      "published_date": "2026-11-10T20:22:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "La cultura pide \"movilización\" ante la huelga general y las elecciones: \"Que no vuelvan la censura y el miedo\"",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/cultura/cultura-pide-movilizacion-huelga-general-elecciones-no-vuelvan-censura-miedo_1_13653488.html",
+      "published_date": "2026-11-10T19:35:45+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Femcat denuncia el trato fiscal a Catalunya: “Es intolerable”",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261110/11681106/femcat-denuncia-trato-fiscal-catalunya-intolerable.html",
+      "published_date": "2026-11-10T18:16:13+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "El Ibex recupera el nivel de septiembre gracias al descenso del petróleo",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261110/11681100/ibex-recupera-nivel-septiembre-gracias-descenso-petroleo.html",
+      "published_date": "2026-11-10T18:06:09+00:00",
+      "category": "Economy"
     },
     {
       "title": "Hitachi and workers end almost two years of labor conflict at the Córdoba plant",
@@ -508,199 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Koldo García challenges Okdiario to spread the million euro contract that they supposedly signed with him",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/politica/koldo-garcia-reta-okdiario-difunda-contrato-millon-euros-supuestamente-firmaron_1_13652898.html",
-      "published_date": "2026-11-10T16:07:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The PP will give \"priority\" to the maintenance of the network and will postpone new AVE lines until \"the security\" of the existing ones is guaranteed",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-dara-prioridad-mantenimiento-red-postergara-nuevas-lineas-ave-hasta-garantizar-seguridad-las-existentes_7059312_0.html",
-      "published_date": "2026-11-10T16:03:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The hidden cost of business expenses: fraud, errors and up to 75 days of work lost per year",
+      "title": "Huelga general 11 de noviembre en España, en directo: situación en Cercanías, Metro, carreteras cortadas, Mercamadrid y última hora de la manifestación por la vivienda hoy",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/coste-oculto-gastos-empresa-fraude-errores-jornadas-20261110163225-nt.html",
-      "published_date": "2026-11-10T15:32:25+00:00",
-      "category": "Economy"
+      "url": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html",
+      "published_date": "2026-11-11T02:09:48+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Prices rise 0.4% in the US and put more pressure on the Fed to raise rates",
+      "title": "La gran auditoría que promete el PP pone en duda el tamaño adquirido por el Estado en España",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/gran-auditoria-promete-pp-pone-duda-tamano-20261111014443-nt.html",
+      "published_date": "2026-11-11T00:54:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feijóo anuncia acciones legales por la supresión de la dirección general de seguridad en Adif:«Vamos a llegar hasta el final»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-anuncia-acciones-legales-supresion-direccion-general-20261110233615-nt.html",
+      "published_date": "2026-11-11T00:53:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sánchez se hipoteca al éxito de la huelga para intentar remontar en la campaña",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-ata-exito-huelga-intentar-remontar-campana-20261111014458-nt.html",
+      "published_date": "2026-11-11T00:53:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La izquierda se lanza en tromba contra RTVE por dejar «salir a Abascal» en La Revuelta",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/izquierda-lanza-tromba-rtve-dejar-salir-abascal-20261110014021-nt.html",
+      "published_date": "2026-11-11T00:40:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Navidad de un año",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/navidad-ano-20261110012123-nt.html",
+      "published_date": "2026-11-11T00:21:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "La línea 6 de Metro de Madrid se prepara para el gran salto y estrenará sus trenes sin conductor a finales de marzo",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/linea-metro-prepara-gran-salto-estrenara-trenes-20261110012043-nt.html",
+      "published_date": "2026-11-11T00:20:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colau se abre paso en 'La Revuelta' entre las disculpas de Broncano",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261110/11680887/precios-suben-0-4-ee-uu-ponen-mas-presion-fed-subir-tipos.html",
-      "published_date": "2026-11-10T14:01:30+00:00",
-      "category": "Economy"
+      "url": "https://www.lavanguardia.com/politica/20261111/11681338/colau-abre-paso-revuelta-disculpas-broncano.html",
+      "published_date": "2026-11-10T23:14:32+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "Rental Insurance denounces the attack on almost 30 of its offices and points to the Tenants' Union in the run-up to the 11N strike",
+      "title": "Y llegó Anthropic: la primera compañía pura de IA testará a un mercado 'desquiciado' con la mayor colocación de la historia",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/vivienda/2026/11/10/6af31519e85ece151c8b45a3.html",
-      "published_date": "2026-11-10T13:22:49+00:00",
-      "category": "Economy"
+      "url": "https://www.elmundo.es/economia/dinero-inversion/2026/11/11/6af34b0bfc6c83681b8b458f.html",
+      "published_date": "2026-11-10T23:02:11+00:00",
+      "category": "Local Events"
     },
     {
-      "title": "The Consell d'Infraestructures urges the Generalitat to activate land to alleviate the deficit of 150,000 homes",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261110/11680858/consell-d-infraestructures-urge-generalitat-activar-suelo-paliar-deficit-150-000-viviendas.html",
-      "published_date": "2026-11-10T13:21:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Agreement salaries grow by 3.1%, almost two points less than inflation",
+      "title": "El Gobierno y sus socios relacionan la huelga del 11-N con avances sociales y la derecha ataca a los sindicatos",
       "source": "El País",
-      "url": "https://elpais.com/economia/2026-11-10/los-salarios-de-convenio-crecen-un-31-casi-dos-puntos-menos-que-la-inflacion.html",
-      "published_date": "2026-11-10T13:04:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The PP will lower fees for companies with less temporary employment and will reward those that best manage IT leave",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/laboral-00346/noticia-pp-bajara-cuotas-empresas-menos-temporalidad-premiara-mejor-gestionen-bajas-it-20261110140426.html",
-      "published_date": "2026-11-10T13:04:26+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The train drivers paralyze Cercanías and Rodalies in their first strike for railway safety and one day before the general strike",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/los-maquinistas-paralizan-cercanias-rodalies-su-primer-paro-por-seguridad-ferroviaria-un-dia-antes-huelga-general_7059413_0.html",
-      "published_date": "2026-11-10T18:07:19+00:00",
+      "url": "https://elpais.com/espana/2026-11-10/el-gobierno-y-sus-socios-relacionan-la-huelga-del-11-n-con-avances-sociales-y-la-derecha-ataca-a-los-sindicatos.html",
+      "published_date": "2026-11-10T22:29:43+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Funeral mass in the Cathedral of Toledo for the victims of the Urda train, live: attendance of the Kings and last minute today",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/misa-funeral-catedral-toledo-victimas-tren-urda-20261110175926-di.html",
-      "published_date": "2026-11-10T18:04:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two young people injured in a collision between an ambulance and a car in Valladolid",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/dos-jovenes-heridos-colision-ambulancia-turismo-valladolid-20261110190015-nt.html",
-      "published_date": "2026-11-10T18:00:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The train drivers postpone the protest from next Thursday to November 23 due to the progress made with Corpus Christi",
+      "title": "Traducir Feijóo al politizado",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/empresas/2026/11/10/6af3592fe4d4d8f8248b458c.html",
-      "published_date": "2026-11-10T17:57:59+00:00",
+      "url": "https://www.elmundo.es/espana/2026/11/10/6af39330e9cf4a67248b45a1.html",
+      "published_date": "2026-11-10T22:16:26+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The train drivers' strike sows chaos in Cercanías and Rodalies due to non-compliance with minimum services",
+      "title": "Mayor Oreja: «ETA es futuro, no es pasado; gobernará el País Vasco y Navarra porque forma parte del proceso»",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/huelga-maquinistas-siembra-caos-cercanias-rodalies-incumplimiento-20261110085944-nt.html",
-      "published_date": "2026-11-10T17:56:18+00:00",
+      "url": "https://www.abc.es/espana/andalucia/mayor-oreja-eta-futuro-pasado-gobernara-pais-20261110212259-nts.html",
+      "published_date": "2026-11-10T21:31:44+00:00",
       "category": "Local Events"
     },
     {
-      "title": "What do I do if I can't go to work? How much will they take from my payroll if I stop? Keys to the first general strike in 14 years",
+      "title": "El secretario autonómico del PSOE hará huelga este 11N porque se siente «trabajador»",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/hago-puedo-entrar-trabajo-quitan-nomina-claves-20261110161733-nt.html",
-      "published_date": "2026-11-10T17:56:00+00:00",
+      "url": "https://www.abc.es/espana/castilla-leon/secretario-autonomico-psoe-hara-huelga-11m-siente-20261110164110-nt.html",
+      "published_date": "2026-11-10T21:22:36+00:00",
       "category": "Local Events"
     },
     {
-      "title": "The Government declassifies the police papers of the Arturo Ruiz case, murdered by the extreme right in 1977",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/sociedad/gobierno-desclasifica-papeles-policiales-caso-arturo-ruiz-asesinado-extrema-derecha-1977_1_13653127.html",
-      "published_date": "2026-11-10T17:55:41+00:00",
+      "title": "Rueda presenta el Xacobeo 2027 en Río de Janeiro y anima a los brasileños a peregrinar a Santiago",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/galicia/rueda-presenta-xacobeo-2027-rio-janeiro-anima-20261110220100-nt.html",
+      "published_date": "2026-11-10T21:01:01+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Comuns will focus its campaign on the metropolitan area, Girona and Tarragona to retain its seven seats",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/elecciones/20261110/11681092/comuns-centrara-campana-area-metropolitana-girona-tarragona-retener-siete-escanos.html",
-      "published_date": "2026-11-10T17:54:23+00:00",
+      "title": "El Sindicato de Inquilinas monta un piquete dentro de la sede de Alquiler Seguro en Madrid",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/sindicato-inquilinas-monta-piquete-dentro-sede-alquiler-20261110204234-nt.html",
+      "published_date": "2026-11-10T20:59:27+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Feijóo meets with those responsible for 'Maldita.es' after uncovering more than a thousand videos of child sexual abuse on TikTok",
+      "title": "Feijóo convierte la política de inmigración en la gran novedad de su programa electoral",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/feijoo-convierte-politica-inmigracion-gran-novedad-programa-20261110201649-nt.html",
+      "published_date": "2026-11-10T20:54:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toledo despide a las víctimas de Urda entre el luto, los aplausos a los Reyes y la indignación: \"Sánchez no viene porque tiene mucho miedo al pueblo\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/10/6af339c3fdddff9e3e8b45ae.html",
+      "published_date": "2026-11-10T20:51:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Solemne despedida a las víctimas del accidente de Urda con la exigencia de que \"se esclarezcan las causas\"",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/espana/2026/11/10/6af34bbde9cf4aed4e8b4597.html",
+      "published_date": "2026-11-10T20:50:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PP y Vox castigan a PSOE y FA en el primer debate por la ausencia del Gobierno: «Han sido ocho años en blanco para Córdoba»",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/pp-vox-castigan-psoe-primer-debate-ausencia-20261110164106-nts.html",
+      "published_date": "2026-11-10T20:44:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Broncano reconoce que no se preparó \"todo con datos\" en la entrevista a Abascal pero justifica que el cambio de público le \"afectó\"",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-se-reune-con-los-responsables-maldita-es-tras-destaparse-mas-mil-videos-abuso-sexual-infantil-tiktok_7059491_0.html",
-      "published_date": "2026-11-10T17:54:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The government cut investment in High Speed ​​by 30% while traffic increased by 56%",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/andalucia/andalucia-denuncia-recorte-inversion-alta-velocidad-subia-20261110182408-nts.html",
-      "published_date": "2026-11-10T17:51:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PP undertakes to call elections if it extends the Budgets on two occasions",
-      "source": "El País",
-      "url": "https://elpais.com/economia/2026-11-10/el-pp-se-compromete-a-convocar-elecciones-si-prorroga-los-presupuestos-en-dos-ocasiones.html",
-      "published_date": "2026-11-10T17:48:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Núñez wants PP governments in Spain and Castilla-La Mancha to promote Talavera",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/nunez-quiere-gobiernos-pp-espana-castillala-mancha-20261110184441-nt.html",
-      "published_date": "2026-11-10T17:47:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Children asks to suspend TikTok in Spain after detecting more than a thousand videos of child sexual abuse",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/infancia-pide-agencia-proteccion-datos-paralizar-actividad-tiktok-espana_7059482_0.html",
-      "published_date": "2026-11-10T17:33:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madrid decrees minimum services of 80% in Metro and 40% in EMT for the general strike of 11N",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/servicios-minimos-madrid-huelga-general-miercoles-20261110182629-nt.html",
-      "published_date": "2026-11-10T17:26:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Jota', the Leonese police officer killed by the explosion of a backpack in Oviedo",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-leon/jota-agente-policia-leones-muerto-explosion-mochila-20261110175218-nt.html",
-      "published_date": "2026-11-10T17:23:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Community receives the green light to withdraw the concession of the Vallecas Stadium to Rayo",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/comunidad-recibe-luz-verde-retirar-concesion-estadio-20261110181822-nt.html",
-      "published_date": "2026-11-10T17:22:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five traffickers arrested who disrupted a screen on the AP-7 highway",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/comunidad-valenciana/cinco-traficantes-detenidos-trastocaron-pantalla-autopista-ap7-20261110172315-nt.html",
-      "published_date": "2026-11-10T17:19:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Follow live the funeral mass for the 69 victims of the Urda accident",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/sigue-directo-misa-funeral-por-las-69-victimas-accidente-urda_7059473_0.html",
-      "published_date": "2026-11-10T17:18:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madrid collapses in a \"hellish\" rush hour: \"Getting there from Leganés is almost a Burgos-Bilbao\"",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/madrid-colapsada-hora-punta-llegar-leganes-burgosbilbao-20261110131802-nt.html",
-      "published_date": "2026-11-10T17:18:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez hides behind his secularism to not go to the Urda mass, despite having attended at least six religious events",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-escuda-laicismo-misa-urda-pese-haber-20261110101502-nt.html",
-      "published_date": "2026-11-10T17:16:18+00:00",
+      "url": "https://www.20minutos.es/nacional/broncano-reacciona-entrevista-abascal-directo-presentador-revuelta-responde-las-criticas-por-visita-lider-vox_7059506_6.html",
+      "published_date": "2026-11-10T20:17:24+00:00",
       "category": "Local Events"
     }
   ]
