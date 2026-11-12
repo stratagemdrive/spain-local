@@ -1,8 +1,50 @@
 {
   "country": "Spain",
-  "last_updated": "2026-11-12T03:33:36.853550+00:00",
+  "last_updated": "2026-11-12T18:40:37.298350+00:00",
   "story_count": 100,
   "stories": [
+    {
+      "title": "Jaime de los Santos visits Urda to remember Fátima Báñez: \"If I am in politics it is because of her\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/jaime-santos-visita-urda-recordar-fatima-banez-20261112185759-nt.html",
+      "published_date": "2026-11-12T17:58:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The European Public Prosecutor's Office investigates alleged fraud with EU funds in anti-abuse bracelets in Spain",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/fiscalia-europea-investiga-presunto-fraude-fondos-ue-20261112114442-nt.html",
+      "published_date": "2026-11-12T17:28:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula will travel to Spain next week and will star in a campaign event with Pedro Sánchez",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/lula-viajara-espana-proxima-semana-protagonizara-acto-campana-pedro-sanchez_1_13659178.html",
+      "published_date": "2026-11-12T15:58:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The European Public Prosecutor's Office investigates alleged fraud with EU funds for anti-abuse bracelets in Spain",
+      "source": "Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-fiscalia-europea-investiga-presunto-fraude-fondos-ue-pulseras-antimaltrato-espana-20261112113802.html",
+      "published_date": "2026-11-12T10:38:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Junts asks Illa to postpone the Bilateral Commission scheduled for today until after 29-N",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/politica/20261112/11682294/junts-pide-illa-aplace-comision-bilateral-prevista-hoy-29-n.html",
+      "published_date": "2026-11-12T09:36:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Can payroll be paid in cash in 2026? Rules and sanctions",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/puede-pagar-nomina-efectivo-2026-normas-sanciones-20261111011522-nt.html",
+      "published_date": "2026-11-12T00:15:23+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "¿Dónde se esconde El Ruso? La búsqueda del asesino de la mochila bomba de Oviedo se traslada al campo",
       "source": "ABC",
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "2030: paper promises, real bills",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/2030-promesas-de-papel-facturas-de-verdad/",
-      "published_date": "2026-11-09T08:10:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spanish households invest 36% less than the EU average",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261109/11679338/hogares-espanoles-invierten-36-media-ue.html",
-      "published_date": "2026-11-09T05:00:00+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Albares: “The Ibero-American community is more polarized than ever”",
+      "title": "Clash in Dublin between the Portuguese Prime Minister and the Secretary General of NATO",
       "source": "El País",
-      "url": "https://elpais.com/espana/2026-11-09/albares-la-comunidad-iberoamericana-esta-mas-polarizada-que-nunca.html",
-      "published_date": "2026-11-09T04:30:01+00:00",
-      "category": "Diplomacy"
+      "url": "https://elpais.com/internacional/2026-11-12/choque-en-dublin-entre-el-primer-ministro-portugues-y-el-secretario-general-de-la-otan.html",
+      "published_date": "2026-11-12T17:35:24+00:00",
+      "category": "Military"
     },
     {
-      "title": "Spanish households invest 36% less in their savings than the European average",
+      "title": "The arsenal seized from the National Nucleus: firearms, ammunition, tasers and extendable defenses",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261109/11677092/hogares-espanoles-invierten-36-ahorros-media-europea.html",
-      "published_date": "2026-11-08T23:05:00+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.lavanguardia.com/politica/20261112/11682781/arsenal-incautado-nucleo-nacional-armas-fuego-municion-taseres-defensas-extensibles.html",
+      "published_date": "2026-11-12T17:22:06+00:00",
+      "category": "Military"
     },
     {
-      "title": "La llegada de pateras a las costas del Campo de Gibraltar sigue siendo una constante desde que comenzó la crisis en Ceuta",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/andalucia/2026/11/08/6af059b121efa017118b457f.html",
-      "published_date": "2026-11-08T11:28:05+00:00",
-      "category": "Diplomacy"
+      "title": "Koldo García's former lawyer declares to the judge that the 'Okdiario' website paid for the entire defense of Ábalos' former advisor",
+      "source": "El País",
+      "url": "https://elpais.com/espana/2026-11-12/la-exabogada-de-koldo-garcia-afirma-al-juez-que-la-web-okdiario-le-pago-toda-la-defensa-del-exasesor-de-abalos.html",
+      "published_date": "2026-11-12T15:31:31+00:00",
+      "category": "Military"
     },
     {
-      "title": "Putin's business with EU sanctions: he resells gas quadruple and leaves Europe with the lowest reserves since 2013",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/08/6aecd8d3e9cf4ad7168b45ba.html",
-      "published_date": "2026-11-08T00:08:40+00:00",
-      "category": "Diplomacy"
+      "title": "Leire Díez denounces in a book with dozens of recordings six years of \"dirty war\" of a police and media \"mafia\" at the service of the PP",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/politica/leire-diez-denuncia-libro-decenas-grabaciones-seis-anos-guerra-sucia-mafia-policial-mediatica-servicio-pp_1_13656904.html",
+      "published_date": "2026-11-12T14:51:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "When the goat goes to the mountain",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/blog/sin-filtro/cabra-tira-monte_132_13656067.html",
+      "published_date": "2026-11-12T07:01:16+00:00",
+      "category": "Military"
     },
     {
       "title": "Sánchez commits 'in extremis' 19,000 million in defense despite his anti-war speech",
@@ -249,39 +284,116 @@
       "category": "Military"
     },
     {
-      "title": "A minor hospitalized by Blocus asks to investigate the \"algorithmic systems\" of TikTok that made the call viral",
-      "source": "elDiario.es",
-      "url": "https://www.eldiario.es/catalunya/menor-internado-blocus-pide-investigar-sistemas-algoritmicos-tiktok-viralizaron-convocatoria_1_13650600.html",
-      "published_date": "2026-11-09T22:02:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Álvarez de Toledo: «Ignorance has never become a political weapon like it does now»",
+      "title": "Repsol will invest 400 million in Tarragona in its largest renewable hydrogen plant",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/alvarez-toledo-nunca-ignorancia-convertido-arma-politica-20261109203324-nt.html",
-      "published_date": "2026-11-09T19:33:24+00:00",
-      "category": "Military"
+      "url": "https://www.abc.es/espana/cataluna/repsol-invertira-400-millones-tarragona-mayor-planta-20261112183644-nt.html",
+      "published_date": "2026-11-12T17:36:45+00:00",
+      "category": "Energy"
     },
     {
-      "title": "The PP accepts the PSOE proposal that the Television Academy organize the face-to-face and the four-way debate",
+      "title": "The Energy Newspaper organizes the 29N Energy Debate next Monday the 16th with the four major parties",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-periodico-de-la-energia-organiza-el-debate-energetico-29n-el-proximo-lunes-16-con-los-cuatro-grandes-partidos/",
+      "published_date": "2026-11-12T17:19:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The CNMC defends that the new gas remuneration framework provides stability and promotes renewable gases",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-cnmc-defiende-que-el-nuevo-marco-retributivo-del-gas-aporta-estabilidad-e-impulsa-los-gases-renovables/",
+      "published_date": "2026-11-12T15:00:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "The UNE highlights the key role of standardization for the security and competitiveness of the electricity sector",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-une-destaca-el-papel-clave-de-la-normalizacion-para-la-seguridad-y-la-competitividad-del-sector-electrico/",
+      "published_date": "2026-11-12T14:54:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Aedive asks to activate 'e-Credits' to improve investment in electric charging infrastructure",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/aedive-pide-activar-los-e-credits-para-mejorar-la-inversion-en-infraestructuras-de-recarga-electrica/",
+      "published_date": "2026-11-12T14:43:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Aagesen defends in Congress that his new electrical grid planning will supply \"three million homes\"",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/psoe-propone-que-academia-television-organice-cara-cara-debate-cuatro-si-pp-mantiene-su-veto-rtve_7058940_0.html",
-      "published_date": "2026-11-09T15:42:22+00:00",
-      "category": "Military"
+      "url": "https://www.20minutos.es/nacional/aagesen-defiende-congreso-que-su-nueva-planificacion-red-electrica-dara-suministro-tres-millones-viviendas_7060242_0.html",
+      "published_date": "2026-11-12T14:04:19+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Feijóo and Abascal accuse Sánchez of using the army to transfer migrants from the Canary Islands to the Peninsula",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261109/11679617/abascal-feijoo-acusan-sanchez-ejercito-trasladar-migrantes-canarias-peninsula.html",
-      "published_date": "2026-11-09T07:57:53+00:00",
-      "category": "Military"
+      "title": "The Los Realejos power plant was able to avoid a total blackout in Tenerife",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-planta-electrica-de-los-realejos-pudo-evitar-un-apagon-total-en-tenerife/",
+      "published_date": "2026-11-12T12:06:00+00:00",
+      "category": "Energy"
     },
     {
-      "title": "Spain negotiates with Germany to produce the combat fighter of the future",
+      "title": "The CNMC initiates sanctioning proceedings against gas stations for not submitting data and monitors their gross margins",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/la-cnmc-incoa-expedientes-sancionadores-a-gasolineras-por-no-remitir-datos-y-vigila-sus-margenes-brutos/",
+      "published_date": "2026-11-12T11:49:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Guterres calls for \"political will\" to promote a future of clean energy independence at COP31",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/guterres-reclama-voluntad-politica-para-impulsar-un-futuro-de-independencia-energetica-limpia-en-la-cop31/",
+      "published_date": "2026-11-12T10:44:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Visalia receives a capital injection of 30 million from its majority partner GreenMont Energy",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/visalia-recibe-una-inyeccion-de-capital-de-30-millones-de-su-socio-mayoritario-greenmont-energy/",
+      "published_date": "2026-11-12T10:39:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Investment of 400 million euros by Repsol in Tarragona to produce hydrogen",
       "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261109/11679331/espana-negocia-alemania-producir-caza-combate-futuro.html",
-      "published_date": "2026-11-09T05:00:00+00:00",
-      "category": "Military"
+      "url": "https://www.lavanguardia.com/economia/20261112/11682283/inversion-400-millones-euros-repsol-tarragona-producir-hidrogeno.html",
+      "published_date": "2026-11-12T10:06:14+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fuel prices remain stable this week",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-precio-de-los-carburantes-se-mantiene-estable-esta-semana/",
+      "published_date": "2026-11-12T09:58:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Repsol will undertake its largest investment in renewable hydrogen in Tarragona with 400 million",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/repsol-acometera-su-mayor-inversion-en-hidrogeno-renovable-en-tarragona-con-400-millones/",
+      "published_date": "2026-11-12T09:42:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Blackout on November 17? The truth about a rumor that is going viral and that The Simpsons already predicted",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/11/12/6af575cf21efa0c1038b458b.html",
+      "published_date": "2026-11-12T08:56:12+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "95% of new climate goals set by cities in the last decade exceed the ambition of national commitments",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-95-de-los-nuevos-objetivos-climaticos-fijados-por-las-ciudades-en-la-ultima-decada-supera-la-ambicion-de-los-compromisos-nacionales/",
+      "published_date": "2026-11-12T07:42:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Siemens Energy boosts its shareholder remuneration and expands its share buyback plan to 9 billion",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/siemens-energy-dispara-su-retribucion-al-accionista-y-amplia-hasta-9-000-millones-su-plan-de-recompra-de-acciones/",
+      "published_date": "2026-11-12T06:29:00+00:00",
+      "category": "Energy"
     },
     {
       "title": "Más de 50 detenidos, 13 heridos por gas pimienta y un político andaluz con una costilla rota, primer balance del paro",
@@ -312,395 +424,283 @@
       "category": "Energy"
     },
     {
-      "title": "Alemania aprueba la creación de una reserva nacional de gas",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/alemania-aprueba-la-creacion-de-una-reserva-nacional-de-gas/",
-      "published_date": "2026-11-11T13:05:00+00:00",
-      "category": "Energy"
+      "title": "Sánchez has already consumed more than half of the PSOE's annual budget for trips on private jets",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/sanchez-consumido-mitad-presupuesto-anual-psoe-viajes-20261013185928-nt.html",
+      "published_date": "2026-11-12T18:01:02+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Guterres calls for urgent decisions at COP31 in the face of an uncontrolled climate crisis",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/guterres-reclama-decisiones-urgentes-en-la-cop31-ante-una-crisis-climatica-desbocada/",
-      "published_date": "2026-11-11T12:20:00+00:00",
-      "category": "Energy"
+      "title": "Telefónica overcomes losses with a profit of 464 million until September and reviews its objectives",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/telefonica-gana-464-millones-septiembre-reduce-deuda-20261112073921-nt.html",
+      "published_date": "2026-11-12T17:37:24+00:00",
+      "category": "Economy"
     },
     {
-      "title": "General strike of November 11: what real-time electricity consumption reveals about its monitoring",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/energia-00341/noticia-huelga-general-11-noviembre-revela-consumo-electrico-tiempo-real-seguimiento-20261111131526.html",
-      "published_date": "2026-11-11T12:15:26+00:00",
-      "category": "Energy"
+      "title": "Page's \"last\" budget passes the first parliamentary examination after the PP and Vox amendments were rejected",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/ultimo-presupuesto-page-pasa-primer-examen-parlamentario-20261112182854-nt.html",
+      "published_date": "2026-11-12T17:33:18+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Catalonia demands that the Government be exempt from intervention in the olive oil market",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261111/11681628/catalunya-reclama-gobierno-quedar-exenta-intervencion-mercado-aceite-oliva.html",
-      "published_date": "2026-11-11T12:08:25+00:00",
-      "category": "Energy"
+      "title": "The budget of the Provincial Council of Ávila reaches 104.5 million, the \"highest figure in history\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/presupuesto-diputacion-avila-alcanza-1045-millones-cifra-20261112175236-nt.html",
+      "published_date": "2026-11-12T17:26:40+00:00",
+      "category": "Economy"
     },
     {
-      "title": "Electricity consumption falls 2.7% at noon",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261111/11681511/consumo-electrico-cae-7-media-manana-huelga.html",
-      "published_date": "2026-11-11T10:08:18+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Brazilian oil company Petrobras earns 46% more until September",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-petrolera-brasilena-petrobras-gana-un-46-mas-hasta-septiembre/",
-      "published_date": "2026-11-11T09:55:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Sordo (CCOO) celebrates the impact of the strike, with electricity consumption more similar to that of a Sunday",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/sordo-ccoo-celebra-el-impacto-de-la-huelga-con-un-consumo-electrico-mas-parecido-al-de-un-domingo/",
-      "published_date": "2026-11-11T09:51:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Siemens Energy achieves a record result and Siemens Gamesa closes the year in balance",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/siemens-energy-logra-un-resultado-record-y-siemens-gamesa-cierra-el-ejercicio-en-equilibrio/",
-      "published_date": "2026-11-11T09:43:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Sigue las movilizaciones de la huelga general en España",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261111/11681456/sigue-movilizaciones-huelga-general-espana.html",
-      "published_date": "2026-11-11T09:18:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Los sindicatos dicen que la huelga “supera las expectativas” y la CEOE la califica de “fracaso”",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261111/11681447/sindicatos-reconocen-seguimiento-dispar-huelga.html",
-      "published_date": "2026-11-11T09:08:11+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The congestion of electricity networks in Europe threatens to skyrocket their costs to 100 billion annually in 2040",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-congestion-de-las-redes-electricas-amenaza-con-disparar-sus-costes-hasta-los-100-000-millones-anuales-en-2040/",
-      "published_date": "2026-11-11T07:28:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The PP will \"eliminate\" the nuclear shutdown plan in 100 days and will \"automatically\" compensate consumers in the event of a blackout",
+      "title": "Sánchez's former driver accused in the Koldo case revealed in 2023 a meeting \"alone\" with the president to talk about Ábalos",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/pp-eliminara-100-dias-plan-cierre-nuclear-compensara-forma-automatica-los-consumidores-caso-apagon_7059392_0.html",
-      "published_date": "2026-11-11T04:45:40+00:00",
-      "category": "Energy"
+      "url": "https://www.20minutos.es/nacional/exchofer-sanchez-imputado-caso-koldo-revelo-2023-una-reunion-solas-con-presidente-para-hablar-abalos_7060443_0.html",
+      "published_date": "2026-11-12T17:18:58+00:00",
+      "category": "Economy"
     },
     {
-      "title": "CATL's next frontier: lithium-air batteries with extraordinary energy density",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/catl-baterias-litio-aire-autonomia-2000-km/",
-      "published_date": "2026-11-11T04:30:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Enagás promotes the energy future with three innovative solutions to reinforce infrastructures",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/enagas-impulsa-el-futuro-energetico-con-tres-soluciones-innovadoras-para-reforzar-las-infraestructuras/",
-      "published_date": "2026-11-10T16:18:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "El Gobierno iraní alerta de posibles cortes de gas por un déficit agravado por la guerra",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/el-gobierno-irani-alerta-de-posibles-cortes-de-gas-por-un-deficit-agravado-por-la-guerra/",
-      "published_date": "2026-11-10T15:20:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The PP will eliminate the closure schedule of all nuclear power plants",
+      "title": "Large companies sign a manifesto to boost the competitiveness of the Spanish economy",
       "source": "ABC",
-      "url": "https://www.abc.es/economia/pp-eliminara-calendario-cierre-centrales-nucleares-20261110144404-nt.html",
-      "published_date": "2026-11-10T13:44:04+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Así fue la huelga en cada trabajo, minuto a minuto según el consumo de luz: del paro industrial a las reaperturas del comercio",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/huelga-11n-minuto-minuto-segun-consumo-luz-20261112020648-nt.html",
-      "published_date": "2026-11-12T01:06:48+00:00",
+      "url": "https://www.abc.es/economia/grandes-empresas-firman-manifiesto-impulsar-competitividad-economia-20261112180412-nt.html",
+      "published_date": "2026-11-12T17:04:50+00:00",
       "category": "Economy"
     },
     {
-      "title": "El Gobierno exprime su mandato y prepara una batería de rebajas fiscales de última hora",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/gobierno-prepara-ultima-bateria-medidas-alivio-fiscal-20261112013735-nt.html",
-      "published_date": "2026-11-12T00:37:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Frente Amplio y Podemos reclaman a Sánchez el cese de Marlaska por las cargas policiales durante la huelga",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-reclaman-sanchez-cese-marlaska-por-las-cargas-policiales-durante-huelga_7059953_0.html",
-      "published_date": "2026-11-11T19:28:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Chamber of Commerce informs the judge that the invasion of Ceuta represents an economic impact of more than 65 million euros",
-      "source": "ABC",
-      "url": "https://www.abc.es/espana/camara-comercio-traslada-juez-invasion-ceuta-supone-20261111182724-nt.html",
-      "published_date": "2026-11-11T17:40:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Bank of Spain fines Sabadell 16.5 million for linking the sale of mortgages to insurance",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261111/11681834/banco-espana-multa-sabadell-venta-vinculada-productos.html",
-      "published_date": "2026-11-11T17:26:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Real estate agencies, at the center of the target of the general strike",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/inmobiliarias-centro-diana-huelga-general-20261111105005-nt.html",
-      "published_date": "2026-11-11T17:07:31+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Ibex 35 closes with an increase of 0.46% and recovers 20,000 points, on a day of strike",
+      "title": "The Ibex 35 loses 20,000 points due to the Nvidia controversy and the carousel of results",
       "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-cierra-alza-046-recupera-20000-puntos-jornada-huelga-20261111175233.html",
-      "published_date": "2026-11-11T16:52:33+00:00",
+      "url": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-pierde-20000-puntos-polemica-nvidia-carrusel-resultados-20261112180406.html",
+      "published_date": "2026-11-12T17:04:06+00:00",
       "category": "Economy"
     },
     {
-      "title": "Aragonese meat in the Whopper",
+      "title": "Tourists spend 114.5 million euros in Santa Susanna, 10.5% more than in 2025",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/local/maresme/20261112/11682767/turistas-gastan-santa-susanna-114-5-millones-euros-10-5-mas-2025.html",
+      "published_date": "2026-11-12T16:56:01+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Adecco grows 15% in Spain and Portugal in the third quarter of the year",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/aragon/carne-aragonesa-whopper-20261110173506-nt.html",
-      "published_date": "2026-11-11T16:43:22+00:00",
+      "url": "https://www.abc.es/economia/adecco-crece-espana-portugal-tercer-trimestre-ano-20261112170229-nt.html",
+      "published_date": "2026-11-12T16:21:09+00:00",
       "category": "Economy"
     },
     {
-      "title": "Un policía pide identificarse a Ione Belarra en un piquete",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261111/11681737/policia-pide-identificarse-ione-belarra-piquete.html",
-      "published_date": "2026-11-11T14:40:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "“No podemos hacer nuestra labor”: el fuerte control policial y las cargas marcan el día de huelga en Madrid",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261111/11681728/nuestra-labor-fuerte-control-policial-cargas-marcan-dia-huelga-madrid.html",
-      "published_date": "2026-11-11T14:27:01+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Albastar, the first Spanish airline to suspend operations weighed down by debt and fuel prices",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/economia/20261111/11681669/albastar-primera-aerolinea-espanola-suspende-operaciones-lastrada-deuda-precio-combustible.html",
-      "published_date": "2026-11-11T12:53:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "E.ON earns 3,584 million euros until September, four times more",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/e-on-gana-hasta-septiembre-3-584-millones-de-euros-cuatro-veces-mas/",
-      "published_date": "2026-11-11T12:30:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Podemos exige la dimisión de Marlaska por la actuación policial en la huelga y que Sánchez le retire de las listas del PSOE al 29N",
-      "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/podemos-denuncia-violencia-policial-durante-huelga-carga-contra-pp-vox-por-defender-los-que-se-estan-forrando_7059769_0.html",
-      "published_date": "2026-11-11T12:18:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Irene Montero acusa al Gobierno de enviar a la Policía a dar \"palos\" y Belarra es identificada en un piquete",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-irene-montero-acusa-gobierno-enviar-policia-dar-palos-contra-piquetes-huelga-20261111131038.html",
-      "published_date": "2026-11-11T12:10:38+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Anthropic targets November 19 for Nasdaq debut",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/noticia-anthropic-apunta-19-noviembre-debut-nasdaq-20261111122450.html",
-      "published_date": "2026-11-11T11:24:50+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Vestas doubles profit until September, with 682 million, and adjusts forecasts",
-      "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/vestas-duplica-el-beneficio-hasta-septiembre-con-682-millones-y-ajusta-previsiones/",
-      "published_date": "2026-11-11T10:08:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Numerosos registros y falsas alarmas en la búsqueda de 'el Ruso', fugado tras la explosión que mató a un policía en Oviedo",
+      "title": "They sue Anthropic, Google, Meta, OpenAI and SpaceXSI, accusing them of failing to stop the damage caused by artificial intelligence",
       "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/11/6af42ebd21efa002098b45a0.html",
-      "published_date": "2026-11-11T09:36:01+00:00",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/12/6af5e38c21efa010368b45b4.html",
+      "published_date": "2026-11-12T16:13:24+00:00",
       "category": "Economy"
     },
     {
-      "title": "Digi remains in losses after skyrocketing its amortizations and the costs of going public",
+      "title": "Trade Republic raises its paid account to 4.07% APR, without payroll or permanence",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/guia-financiera/trade-republic-sube-407-tae-cuenta-remunerada-20261111160435-nt.html",
+      "published_date": "2026-11-12T16:06:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "The rejection of indefinite extensions threatens the economic stability of one million tenants in 2029",
+      "source": "elDiario.es",
+      "url": "https://www.eldiario.es/economia/rechazo-prorrogas-indefinidas-amenaza-estabilidad-economica-millon-inquilinas-2029_1_13658415.html",
+      "published_date": "2026-11-12T15:53:27+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Who is Colette Kress, the new CEO of Nvidia after the controversial resignation of Jensen Huang",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261112/11682658/colette-kress-consejera-delegada-nvidia-jensen-huang.html",
+      "published_date": "2026-11-12T15:03:48+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How to save on Black Friday 2026: bank cards that offer discounts and rewards",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/guia-financiera/como-ahorrar-black-friday-2026-tarjetas-cashback-20261111154117-nt.html",
+      "published_date": "2026-11-12T14:59:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Neither 10,000 nor 5,000 euros: the maximum amount you can pay in cash in Spain from 2027",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/11/12/6af57cd9e85ecef6208b457b.html",
+      "published_date": "2026-11-12T14:05:59+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Aagesen will bring to the Council of Ministers an investment in electrical networks of 17,142 million, 146% more",
+      "source": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/economia/20261112/11682607/aagesen-llevara-consejo-ministros-inversion-redes-electricas-17-142-millones-146-mas.html",
+      "published_date": "2026-11-12T13:52:30+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Large companies demand legal certainty and institutional agility to strengthen competitiveness in Spain",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/2026/11/12/6af5bcb8e4d4d8e4588b45a7.html",
+      "published_date": "2026-11-12T13:49:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Spain is already the second country in the EU with the most workers born abroad",
       "source": "El País",
-      "url": "https://cincodias.elpais.com/companias/2026-11-11/digi-sigue-en-perdidas-tras-disparar-sus-amortizaciones-y-por-los-costes-de-la-salida-a-bolsa.html",
-      "published_date": "2026-11-11T07:41:44+00:00",
+      "url": "https://elpais.com/economia/2026-11-12/espana-ya-es-el-segundo-pais-de-la-ue-con-mas-trabajadores-nacidos-en-el-extranjero.html",
+      "published_date": "2026-11-12T13:21:21+00:00",
       "category": "Economy"
     },
     {
-      "title": "The first cogeneration auction focuses on long-term industrial profitability",
+      "title": "The Spanish chemical sector will grow by 1.5% despite the deterioration of Basic Chemistry due to energy prices",
       "source": "El Periódico de la Energía",
-      "url": "https://elperiodicodelaenergia.com/la-primera-subasta-de-cogeneracion-pone-el-foco-en-la-rentabilidad-industrial-a-largo-plazo/",
-      "published_date": "2026-11-11T07:04:00+00:00",
+      "url": "https://elperiodicodelaenergia.com/el-sector-quimico-espanol-crecera-un-1-5-pese-al-deterioro-de-la-quimica-basica-por-los-precios-energeticos/",
+      "published_date": "2026-11-12T13:20:00+00:00",
       "category": "Economy"
     },
     {
-      "title": "These are the professions that can retire long before other workers",
-      "source": "ABC",
-      "url": "https://www.abc.es/economia/cuentas-corrientes/profesiones-pueden-jubilar-resto-trabajadores-20261111010600-nt.html",
-      "published_date": "2026-11-11T06:49:46+00:00",
+      "title": "The nuclear plants of Ascó and Vandellós (Tarragona) contribute about 4,500 million to the GDP and 30,000 jobs",
+      "source": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/las-nucleares-de-asco-y-vandellos-tarragona-aportan-unos-4-500-millones-al-pib-y-30-000-empleos/",
+      "published_date": "2026-11-12T13:06:00+00:00",
       "category": "Economy"
     },
     {
-      "title": "Pinchazo de la huelga política convocada para resucitar a Sánchez",
+      "title": "General election pre-campaign in Spain, live: last minute from Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) and the rest of the candidates today",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/pincha-huelga-general-convocada-resucitar-sanchez-20261111013653-nt.html",
-      "published_date": "2026-11-12T01:46:19+00:00",
+      "url": "https://www.abc.es/espana/decretos-vivienda-directo-resultado-votacion-medidas-ultima-20261112085110-di.html",
+      "published_date": "2026-11-12T18:24:11+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Feijóo abre su campaña en Cataluña centrado en la inmigración y la okupación",
+      "title": "The Police say goodbye to the deceased agent in Oviedo while the search for El Ruso continues",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/feijoo-abre-campana-cataluna-centrado-inmigracion-okupacion-20261111020522-nt.html",
-      "published_date": "2026-11-12T01:05:22+00:00",
+      "url": "https://www.abc.es/espana/asturias/policia-despide-agente-fallecido-oviedo-continua-busqueda-20261112190442-nt.html",
+      "published_date": "2026-11-12T18:20:46+00:00",
       "category": "Local Events"
     },
     {
-      "title": "La estrategia mediática de Feijóo: «Buscar votos en todas partes»",
+      "title": "The pre-election CIS of Tezanos in Castilla-La Mancha grants 8-9 seats to the PSOE, 6 or 7 to the PP and 5 or 6 to Vox",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/estrategia-mediatica-feijoo-buscar-votos-partes-20261112013535-nt.html",
-      "published_date": "2026-11-12T00:51:43+00:00",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/cis-prelectoral-tezanos-castillala-mancha-otorga-escanos-20261112192029-nt.html",
+      "published_date": "2026-11-12T18:20:30+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Sánchez abre campaña en Sevilla ante el peligro de perder el último bastión histórico del PSOE",
+      "title": "Vox proposes Minimum Vital Income only for Spaniards and that illegals cannot rent or access public health",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/sanchez-abre-campana-sevilla-ante-peligro-perder-20261112013554-nt.html",
-      "published_date": "2026-11-12T00:36:21+00:00",
+      "url": "https://www.abc.es/espana/vox-propone-ingreso-minimo-vital-solo-espanoles-20261112185446-nt.html",
+      "published_date": "2026-11-12T18:18:18+00:00",
       "category": "Local Events"
     },
     {
-      "title": "La huelga pincha en Madrid pese al intento de boicot de los piquetes al comercio del centro",
+      "title": "The judge decrees the total cessation of the activity of the National Nucleus and the closure of its headquarters",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/madrid/huelga-pincha-madrid-pese-intento-boicot-piquetes-20261111194607-nt.html",
-      "published_date": "2026-11-12T00:17:48+00:00",
+      "url": "https://www.abc.es/espana/juez-decreta-cese-total-actividad-nucleo-nacional-20261112181348-nt.html",
+      "published_date": "2026-11-12T18:17:52+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Decretos de vivienda, en directo | El Congreso aprueba este jueves el decreto de vivienda que el PP promete derogar si gobierna",
+      "title": "The great failure of the political strike: fewer workers supported it than members of the UGT and CC.OO.",
+      "source": "ABC",
+      "url": "https://www.abc.es/economia/gran-fracaso-huelga-politica-secundaron-trabajadores-afiliados-20261113185308-nt.html",
+      "published_date": "2026-11-12T18:15:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The historic building on Gran Vía 40 will once again house a hotel a century later",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/madrid/gran-via-volvera-albergar-hotel-siglo-despues-20261112145831-nt.html",
+      "published_date": "2026-11-12T18:03:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to get to Feria Valencia for 'Fiesta y Boda' by tram and EMT bus",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/llegar-feria-valencia-certamenes-fiesta-boda-servicio-20261112130803-nt.html",
+      "published_date": "2026-11-12T18:01:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CSIF denounces an \"excess of guards\" of the doctors at the Toledo Hospital that \"puts the health of patients at risk\"",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-la-mancha/csif-denuncia-exceso-guardias-facultativos-hospital-toledo-20261112185819-nt.html",
+      "published_date": "2026-11-12T17:58:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The CIS of Tezanos gives the PSOE the winner in Castilla y León with a range of 12 to 18 deputies",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/castilla-leon/cis-tezanos-ganador-psoe-castilla-leon-20261112175311-nt.html",
+      "published_date": "2026-11-12T17:57:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The UCO requires more information from the Court of Accounts about the secret piece of PSOE financing",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/uco-requiere-informacion-tribunal-cuentas-sobre-pieza-20261112115444-nt.html",
+      "published_date": "2026-11-12T17:55:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A man arrested for the murder of a woman in Gijón",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/asturias/detenido-hombre-asesinato-mujer-gijon-20261112180621-nt.html",
+      "published_date": "2026-11-12T17:53:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The ballots with the name of Óscar Puente crossed out will be declared invalid",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/junta-electoral-decreta-papeletas-nombre-oscar-puente-20261112175151-nt.html",
+      "published_date": "2026-11-12T17:52:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four detainees and a large amount of money and precious metals seized in the Civil Guard's macro-operation against money laundering in Córdoba",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/andalucia/cordoba/macrooperacion-guardia-civil-parque-joyero-cordoba-20261112103759-nts.html",
+      "published_date": "2026-11-12T17:50:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ábalos managed a request from Aldama with Reyes Maroto when he was already a former minister",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/abalos-gestiono-reyes-maroto-peticion-aldama-era-20261112181147-nt.html",
+      "published_date": "2026-11-12T17:41:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sentenced to 13 and a half years for abusing his partner's youngest daughter when he went to visit them",
+      "source": "ABC",
+      "url": "https://www.abc.es/espana/galicia/condenado-anos-medio-abusar-hija-menor-pareja-20261112183935-nt.html",
+      "published_date": "2026-11-12T17:39:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Supermarkets plummet their sales by 30% in a day of strike marked by rain and the closure of businesses for their safety",
+      "source": "El Mundo",
+      "url": "https://www.elmundo.es/economia/empresas/2026/11/11/6af46861e4d4d8ee7c8b45b3.html",
+      "published_date": "2026-11-12T17:38:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The judge orders the total cessation of activity of Núcleo Nacional and the closure of its headquarters",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/decretos-vivienda-directo-congreso-aprueba-este-jueves-decreto-vivienda-que-pp-promete-derogar-si-gobierna_7059901_6.html",
-      "published_date": "2026-11-12T00:08:12+00:00",
+      "url": "https://www.20minutos.es/nacional/jueza-ordena-cese-total-actividad-nucleo-nacional-cierre-sus-sedes_7060456_0.html",
+      "published_date": "2026-11-12T17:37:29+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Otra oleada de disturbios sacude el centro de Barcelona tras la manifestación por la huelga general",
+      "title": "PP and Vox pave the way for the 2027 accounts amid opposition criticism of fiscal policy",
       "source": "ABC",
-      "url": "https://www.abc.es/espana/cataluna/disturbios-barcelona-tras-manifestacion-huelga-general-mossos-20261111200654-nt.html",
-      "published_date": "2026-11-11T23:26:05+00:00",
+      "url": "https://www.abc.es/espana/aragon/pp-vox-allanan-camino-cuentas-2027-criticas-20261112165608-nt.html",
+      "published_date": "2026-11-12T17:31:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Luis María Pardo, presidente de Iustitia Europa: \"La investigación de Ceuta puede llegar hasta Sánchez\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/12/6af4c104e4d4d851288b45a5.html",
-      "published_date": "2026-11-11T23:01:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La desesperada lucha de Frente Amplio contra el voto útil al PSOE: \"Sólo nos queda votar 'al Perro' y cruzar los dedos\"",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/11/6af352d121efa0855e8b45aa.html",
-      "published_date": "2026-11-11T22:52:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arcosur: el proyecto de 22.185 viviendas para hacer de Zaragoza la excepción a la crisis",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/economia/vivienda/2026/11/11/6af4991be85ececa6f8b45b8.html",
-      "published_date": "2026-11-11T22:52:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo ve un \"fracaso\" la huelga general y pide que se condene la agresión a dos militantes del PP en Barakaldo",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-ve-fracaso-huelga-general-pide-condene-agresion-dos-militantes-pp-barakaldo-20261111235102.html",
-      "published_date": "2026-11-11T22:51:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo se examina en “El Hormiguero”",
-      "source": "La Vanguardia",
-      "url": "https://www.lavanguardia.com/politica/20261111/11681968/feijoo-examina-hormiguero.html",
-      "published_date": "2026-11-11T22:44:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo promete derogar decretos de vivienda si gobierna y subir pensiones conforme IPC: \"No jugaré con los pensionistas\"",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/nacional/noticia-feijoo-promete-derogar-decretos-vivienda-si-gobierna-subir-pensiones-conforme-ipc-no-jugare-pensionistas-20261111232434.html",
-      "published_date": "2026-11-11T22:24:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Todo le viene bien a Feijóo",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/11/6af4e6e021efa0af778b456e.html",
-      "published_date": "2026-11-11T22:13:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo acusa a Sánchez de gastar \"un billón de euros\" sin PGE y estudiará la responsabilidad penal si hay falsedad en las cuentas",
+      "title": "The Central Electoral Board warns that it will not accept the PSOE ballots for Valladolid with the name of Puente crossed out",
       "source": "20minutos",
-      "url": "https://www.20minutos.es/nacional/feijoo-acusa-sanchez-gastar-un-billon-euros-sin-pge-estudiara-responsabilidad-penal-si-hay-falsedad-las-cuentas_7059993_0.html",
-      "published_date": "2026-11-11T22:11:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez blinda en silencio la Defensa antes del final de su mandato: millones comprometidos y misión de paz para Ucrania",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/11/6af48f33e85ece74488b45b2.html",
-      "published_date": "2026-11-11T21:55:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feijóo espera de partidos y sindicatos una condena de la agresión a dos afiliados del PP en Barakaldo",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/11/6af4e0aae4d4d84a5d8b45b5.html",
-      "published_date": "2026-11-11T21:44:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "La manifestación de Madrid por la vivienda y los salarios concluye con cargas policiales",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/laboral-00346/noticia-manifestacion-madrid-vivienda-salarios-concluye-cargas-policiales-20261111223501.html",
-      "published_date": "2026-11-11T21:35:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saqueos y barricadas en Barcelona y cargas en Madrid en el final de la huelga con al menos un centenar detenidos en toda España",
-      "source": "El Mundo",
-      "url": "https://www.elmundo.es/espana/2026/11/11/6af4d97dfc6c83e1258b459e.html",
-      "published_date": "2026-11-11T21:27:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Sindicato de Inquilinas denuncia una \"escalada de violencia\" policial y exigirá responsabilidades",
-      "source": "Europa Press",
-      "url": "https://www.europapress.es/economia/laboral-00346/noticia-sindicato-inquilinas-denuncia-escalada-violencia-policial-exigira-responsabilidades-20261111221035.html",
-      "published_date": "2026-11-11T21:10:35+00:00",
+      "url": "https://www.20minutos.es/nacional/junta-electoral-central-avisa-que-no-aceptara-las-papeletas-psoe-por-valladolid-con-nombre-puente-tachado_7060441_0.html",
+      "published_date": "2026-11-12T17:30:34+00:00",
       "category": "Local Events"
     }
   ]
